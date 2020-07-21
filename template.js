@@ -1,5 +1,5 @@
 module.exports = `
-# Hi there 👋
+# Hi there 👋🏼
 
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team at SAP .
 
