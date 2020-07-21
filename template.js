@@ -1,7 +1,7 @@
 module.exports = `
 # Hi there 👋
 
-I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team at @SAP .
+I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team at SAP .
 
 <table><tr><td valign="top" width="50%">
  
