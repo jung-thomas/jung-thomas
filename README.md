@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <table><tr><td valign="top" width="50%">
+  
 ### On my blog
 <!-- blog starts -->
 <!-- blog ends -->
@@ -8,6 +9,7 @@ More on [https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
+  
 ### Videos and Live Streams
 <!-- vids starts -->
 <!-- vids ends -->
