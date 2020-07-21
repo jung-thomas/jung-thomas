@@ -21,4 +21,6 @@ More on [My YouTube Channel](https://www.youtube.com/channel/UCVLSTvSR7UAd87o_0q
 
 Follow me on [Twitter](https://twitter.com/thomas_jung) or [LinkedIn](https://www.linkedin.com/in/thomasjungsap/).
 
+![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
+
 `
