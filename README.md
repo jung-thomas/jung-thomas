@@ -5,7 +5,7 @@
 ### On my blog
 <!-- blog starts -->
 <!-- blog ends -->
-More on [https://people.sap.com/thomas.jung#content:blogposts)
+More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
