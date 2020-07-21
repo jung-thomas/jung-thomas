@@ -12,7 +12,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 - [My Journey From VMWare to Hyper-V As An SAP Developer](https://blogs.sap.com/?p=1068209) (Mon Mar 23 2020)
 - [SAP Community Coding Challenge Series](https://blogs.sap.com/?p=1055043) (Fri Feb 28 2020)
 - [SAP HANA, express edition Revision 45 Now Available](https://blogs.sap.com/?p=1048803) (Fri Feb 14 2020)
-More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
+- More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
@@ -24,7 +24,7 @@ More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogp
 - [ABAP Freak Show Ep. 14 - Special Guest Anna Jung](https://www.youtube.com/watch?v=-of_EZYuENw) (Tue Jul 07 2020)
 - [ABAP Freak Show Ep. 13 - Help Shape A New SAP HANA/CAP Sample](https://www.youtube.com/watch?v=XLPNWOTCKdM) (Tue Jun 30 2020)
 - [ABAP Freak Show Ep. 12 - News Segment: SAP Fiori Tools](https://www.youtube.com/watch?v=itxsQO86iDA) (Tue Jun 23 2020)
-More on [My YouTube Channel](https://www.youtube.com/channel/UCVLSTvSR7UAd87o_0qoIR4Q)
+- More on [My YouTube Channel](https://www.youtube.com/channel/UCVLSTvSR7UAd87o_0qoIR4Q)
 </td></tr></table>
 
 Follow me on [Twitter](https://twitter.com/thomas_jung) or [LinkedIn](https://www.linkedin.com/in/thomasjungsap/).
