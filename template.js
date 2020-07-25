@@ -14,9 +14,11 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+{{#itemsNew}}- [{{{title}}}]({{{link}}}) ({{date}})
+{{/itemsNew}}
 {{#items}}- [{{{title}}}]({{{link}}}) ({{date}})
 {{/items}}
-- More on [My YouTube Channel](https://www.youtube.com/channel/UCVLSTvSR7UAd87o_0qoIR4Q)
+- More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 Follow me on [Twitter](https://twitter.com/thomas_jung) or [LinkedIn](https://www.linkedin.com/in/thomasjungsap/).
