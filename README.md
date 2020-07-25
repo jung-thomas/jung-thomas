@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
 - [ABAP Freak Show Ep. 15 - Typescript and Cloud Application Programming Model](https://www.youtube.com/watch?v=z6QDhCr7IA8) (Tue Jul 14 2020)
 - [ABAP Freak Show Ep. 14 - Special Guest Anna Jung](https://www.youtube.com/watch?v=-of_EZYuENw) (Tue Jul 07 2020)
 - [ABAP Freak Show Ep. 13 - Help Shape A New SAP HANA/CAP Sample](https://www.youtube.com/watch?v=XLPNWOTCKdM) (Tue Jun 30 2020)
-- [ABAP Freak Show Ep. 12 - News Segment: SAP Fiori Tools](https://www.youtube.com/watch?v=itxsQO86iDA) (Tue Jun 23 2020)
 - More on [My YouTube Channel](https://www.youtube.com/channel/UCVLSTvSR7UAd87o_0qoIR4Q)
 </td></tr></table>
 
