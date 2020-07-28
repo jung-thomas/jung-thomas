@@ -6,7 +6,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-- [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/?p=1150001) (Fri Jul 24 2020)
+- [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/2020/07/24/the-future-of-sap-developer-advocates-live-stream-content/) (Fri Jul 24 2020)
 - [ABAP_Freak->Show( ) Episode 2: Debating Hungarian Notation and Data References vs. Field Symbols](https://blogs.sap.com/?p=1081098) (Tue Apr 14 2020)
 - [Looking at the SAP Developer Experience from an Outside Perspective (Podcast)](https://blogs.sap.com/?p=1081026) (Tue Apr 14 2020)
 - [hana-cli Sample: How to Build a Node.js Command Line Interface](https://blogs.sap.com/?p=1068798) (Thu Mar 26 2020)
@@ -20,7 +20,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 ## Videos and Live Streams
 - [SAP Cloud Application Programming model resources with Iwona Hahn](https://www.youtube.com/watch?v=aAOUnJa23fI) (Fri Jul 24 2020)
 - [A recursive reduce() and other JS function explorations](https://www.youtube.com/watch?v=GISTzWHGaW0) (Fri Jul 24 2020)
-- [Reviewing ABAP Open Source Projects](https://www.youtube.com/watch?v=C6rTzKGpvVA) (Fri Jul 24 2020)
+- [Overview of SAP HANA Cloud](https://www.youtube.com/watch?v=QjF39s4_9vQ) (Wed Apr 29 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
