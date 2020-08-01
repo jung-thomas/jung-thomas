@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 2: Designing the Data Model](https://www.youtube.com/watch?v=EJrKRQyULsw) (Sat Aug 01 2020)
 - [A recursive reduce() and other JS function explorations](https://www.youtube.com/watch?v=GISTzWHGaW0) (Fri Jul 31 2020)
 - [Building hana-opensap-cloud-2020 Part 1: Project Setup and First DB Build](https://www.youtube.com/watch?v=t3nIXxibmso) (Fri Jul 31 2020)
-- [SAP Cloud Application Programming model resources with Iwona Hahn](https://www.youtube.com/watch?v=GDRacPZnJYk) (Thu Jul 30 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
