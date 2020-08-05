@@ -6,7 +6,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-- [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/2020/07/24/the-future-of-sap-developer-advocates-live-stream-content/) (Fri Jul 24 2020)
+- [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/?p=1150001) (Fri Jul 24 2020)
 - [ABAP_Freak->Show( ) Episode 2: Debating Hungarian Notation and Data References vs. Field Symbols](https://blogs.sap.com/2020/04/14/abap_freak-show-episode-2-debating-hungarian-notation-and-data-references-vs.-field-symbols/) (Tue Apr 14 2020)
 - [Looking at the SAP Developer Experience from an Outside Perspective (Podcast)](https://blogs.sap.com/2020/04/14/looking-at-the-sap-developer-experience-from-an-outside-perspective-podcast/) (Tue Apr 14 2020)
 - [hana-cli Sample: How to Build a Node.js Command Line Interface](https://blogs.sap.com/2020/03/26/hana-cli-sample-how-to-build-a-node.js-command-line-interface/) (Thu Mar 26 2020)
