@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 5: Cross Schema Access](https://www.youtube.com/watch?v=9MKZhHg-y7s) (Wed Aug 05 2020)
+- [Building hana-opensap-cloud-2020 Part 4: Transactional Tables](https://www.youtube.com/watch?v=0Em_Ul9Rt3U) (Tue Aug 04 2020)
 - [Building hana-opensap-cloud-2020 Part 3: Master Data](https://www.youtube.com/watch?v=c-lqHdnunkA) (Mon Aug 03 2020)
-- [Building hana-opensap-cloud-2020 Part 1: Project Setup and First DB Build](https://www.youtube.com/watch?v=t3nIXxibmso) (Tue Aug 04 2020)
-- [Diving into messaging on SAP Cloud Platform - Part 1](https://www.youtube.com/watch?v=qHjzefGn4W4) (Mon Aug 03 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
