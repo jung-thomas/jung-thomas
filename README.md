@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 6: Cross Container](https://www.youtube.com/watch?v=s224ZA2fegk) (Fri Aug 21 2020)
 - [Diving into messaging on SAP Cloud Platform - Part 3](https://www.youtube.com/watch?v=VDrRc8d_6cw) (Fri Aug 21 2020)
 - [SAP Cloud Platform Workflow - Introduction](https://www.youtube.com/watch?v=KlNLbSxsM6s) (Fri Aug 21 2020)
-- [SAP Cloud Platform Workflow - Ex.10 - Accessing contextual information in a Script Task](https://www.youtube.com/watch?v=UDF1xHUpL2Y) (Mon Aug 03 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
