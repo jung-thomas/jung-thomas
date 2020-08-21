@@ -6,12 +6,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Devtoberfest 2020](https://blogs.sap.com/?p=1168378) (Thu Aug 20 2020)
 - [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/?p=1150001) (Fri Jul 24 2020)
 - [ABAP_Freak->Show( ) Episode 2: Debating Hungarian Notation and Data References vs. Field Symbols](https://blogs.sap.com/2020/04/14/abap_freak-show-episode-2-debating-hungarian-notation-and-data-references-vs.-field-symbols/) (Tue Apr 14 2020)
 - [Looking at the SAP Developer Experience from an Outside Perspective (Podcast)](https://blogs.sap.com/2020/04/14/looking-at-the-sap-developer-experience-from-an-outside-perspective-podcast/) (Tue Apr 14 2020)
 - [hana-cli Sample: How to Build a Node.js Command Line Interface](https://blogs.sap.com/2020/03/26/hana-cli-sample-how-to-build-a-node.js-command-line-interface/) (Thu Mar 26 2020)
 - [My Journey From VMWare to Hyper-V As An SAP Developer](https://blogs.sap.com/2020/03/23/my-journey-from-vmware-to-hyper-v-as-an-sap-developer/) (Mon Mar 23 2020)
-- [SAP Community Coding Challenge Series](https://blogs.sap.com/2020/02/28/sap-community-coding-challenge-series/) (Fri Feb 28 2020)
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
