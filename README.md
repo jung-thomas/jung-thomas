@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Cloud Platform Workflow - Ex.08 - Adding a Service Task to the workflow definition](https://www.youtube.com/watch?v=ZNg60jB8jik) (Thu Aug 27 2020)
+- [SAP Cloud Platform Workflow - Ex.07 - Calling the Workflow API from Postman](https://www.youtube.com/watch?v=TVirKnU86cw) (Thu Aug 27 2020)
 - [SAP Cloud Platform Workflow - Ex.06 - Exploring the API Hub and the Workflow API](https://www.youtube.com/watch?v=SKfEfYOVQYA) (Wed Aug 26 2020)
-- [SAP Cloud Platform Workflow - Ex.05 - Creating, deploying & instantiating a simple workflow](https://www.youtube.com/watch?v=P4EVoc-lmAI) (Wed Aug 26 2020)
-- [SAP Cloud Platform ABAP Environment & ABAP RESTful Application Programming Model - Introduction](https://www.youtube.com/watch?v=9wM-EyQa-5Q) (Tue Aug 25 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
