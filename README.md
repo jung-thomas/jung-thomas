@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Cloud Application Programming Model - Ex. 03 - Associations & adding persistence](https://www.youtube.com/watch?v=0F2_gqDNcbI) (Wed Aug 19 2020)
-- [SAP Cloud Application Programming Model - Ex. 04 - Loading CSV files & Rest Client usage](https://www.youtube.com/watch?v=VGmeUtCnSKU) (Thu Aug 20 2020)
-- [SAP Cloud Application Programming Model - Ex. 02 - Creating a new project](https://www.youtube.com/watch?v=GOv8LqKQnmw) (Wed Aug 19 2020)
+- [SAP Cloud Platform ABAP Environment & ABAP RESTful Application Programming Model - Exercise 2](https://www.youtube.com/watch?v=2-4jBdEXeOM) (Tue Sep 01 2020)
+- [SAP Cloud Platform ABAP Environment & ABAP RESTful Application Programming Model - Exercise 1](https://www.youtube.com/watch?v=-ZxpAt8QgfM) (Tue Sep 01 2020)
+- [Building hana-opensap-cloud-2020 Part 7: Calculation Views](https://www.youtube.com/watch?v=hVKhtZwklG4) (Tue Sep 01 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
