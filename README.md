@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Cloud Application Programming Model - Ex. 08 - Custom Logic & Debugging](https://www.youtube.com/watch?v=1snsOK5Tq2Y) (Thu Sep 10 2020)
+- [SAP Cloud Application Programming Model - Ex.07 - Second Service & Namespaces](https://www.youtube.com/watch?v=g4YblJKUAVQ) (Thu Sep 10 2020)
 - [SAP Cloud Application Programming Model - Ex. 06 - Enhancing the service with annotations](https://www.youtube.com/watch?v=STJWlinoPYY) (Wed Sep 09 2020)
-- [SAP Cloud Application Programming Model - Ex. 05 - Common Types & Aspects](https://www.youtube.com/watch?v=fBo6ru4_s_0) (Wed Sep 09 2020)
-- [SAP Business Application Studio for SAP Fiori Development - Exercise 2](https://www.youtube.com/watch?v=p1f0Albi7eE) (Wed Sep 09 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
