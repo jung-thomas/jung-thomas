@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP HANA Graph - Core graph procedures and advanced use cases](https://www.youtube.com/watch?v=765Z980kR5U) (Wed Sep 16 2020)
 - [SAP HANA Spatial - Prediction of Housing Prices [demo]](https://www.youtube.com/watch?v=9nF8ergZf-o) (Wed Sep 16 2020)
 - [SAP HANA Spatial - Machine Learning with Geospatial Data](https://www.youtube.com/watch?v=Jv1BIMpxoR4) (Wed Sep 16 2020)
-- [SAP HANA Spatial - Dealing with Spatial Data in SQL [demo]](https://www.youtube.com/watch?v=6dh_Hj6d9xM) (Tue Sep 15 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
