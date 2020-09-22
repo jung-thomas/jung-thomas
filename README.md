@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Cloud APIs - Ex.01 - Get an overview of API resources](https://www.youtube.com/watch?v=efnYDfEwqDs) (Tue Sep 22 2020)
-- [SAP HANA - Do you know Advanced Analytics?](https://www.youtube.com/watch?v=OkPMdbn1vBs) (Mon Sep 21 2020)
-- [SAP Developer News Pilot](https://www.youtube.com/watch?v=sS2sFknfkHY) (Fri Sep 18 2020)
+- [Cloud APIs - Ex.03 - Setting up your dev space in App Studio](https://www.youtube.com/watch?v=FvYyQQiKzmQ) (Tue Sep 22 2020)
+- [SAP HANA Spatial - The Spatial Engine of SAP HANA Cloud](https://www.youtube.com/watch?v=uxNxFWmTTP4) (Tue Sep 22 2020)
+- [SAP HANA Spatial - Spatial at SAP](https://www.youtube.com/watch?v=W-3th2mhJA4) (Tue Sep 22 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
