@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Cloud APIs - Ex.06 - Calling the Workflow API from within the SAP API Business Hub](https://www.youtube.com/watch?v=C92_0AL0wLY) (Wed Sep 23 2020)
-- [Cloud APIs - Ex.05 - Workflow API calls, authorities, access token contents & more](https://www.youtube.com/watch?v=4BZimZlZvzw) (Wed Sep 23 2020)
-- [Cloud APIs - Ex.03 - Setting up your dev space in the SAP Business Application Studio](https://www.youtube.com/watch?v=yKkBoR1rqlk) (Wed Sep 23 2020)
+- [SAP HANA Spatial - Prediction of Housing Prices [demo]](https://www.youtube.com/watch?v=9nF8ergZf-o) (Wed Sep 23 2020)
+- [SAP HANA Spatial - Machine Learning with Geospatial Data](https://www.youtube.com/watch?v=Jv1BIMpxoR4) (Wed Sep 23 2020)
+- [Chrome Extensions - How to get started](https://www.youtube.com/watch?v=gWeLFsElh1s) (Wed Sep 16 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
