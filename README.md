@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Diving into messaging on SAP Cloud Platform - Part 7 - Consuming messages in CAP](https://www.youtube.com/watch?v=KubBBehzJk0) (Fri Sep 25 2020)
 - [Devtoberfest 2020 Week 5 recap and Week 6 preview](https://www.youtube.com/watch?v=Y__bnJosuo4) (Fri Sep 25 2020)
 - [SAP Developer News: Devtoberfest, ABAP open source tools, SAP NPM](https://www.youtube.com/watch?v=3an_ZP8ibr0) (Fri Sep 25 2020)
-- [Building hana-opensap-cloud-2020 Part 11: Customizing Express](https://www.youtube.com/watch?v=dmeRX9n6uQo) (Thu Sep 24 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
