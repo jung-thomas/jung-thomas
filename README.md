@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building VSCode Extensions - Hello World Example](https://www.youtube.com/watch?v=aoR7q_d4KuE) (Mon Sep 28 2020)
+- [Building VSCode Extensions - Introduction](https://www.youtube.com/watch?v=vE-5RZkYOXo) (Mon Sep 28 2020)
 - [Cloud APIs - Ex.02 - Understand OAuth 2.0 at a high level](https://www.youtube.com/watch?v=ie3V0HuJg8M) (Mon Sep 28 2020)
-- [Cloud APIs - Ex.01 - Get an overview of API resources](https://www.youtube.com/watch?v=efnYDfEwqDs) (Mon Sep 28 2020)
-- [Diving into messaging on SAP Cloud Platform - Part 6 - Sending a first message with CAP and AMQP](https://www.youtube.com/watch?v=4f6Qsjrq0NA) (Fri Sep 25 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
