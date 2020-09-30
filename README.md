@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest VSCode Extensions with Community Member Jhodel Cailan](https://www.youtube.com/watch?v=qf4gLesSFqI) (Wed Sep 30 2020)
 - [Building VSCode Extensions - Large Scale Example](https://www.youtube.com/watch?v=VVRyRy9hFDw) (Tue Sep 29 2020)
 - [project "Kyma" - Ex.05 - Create Extensions to get Additional Services](https://www.youtube.com/watch?v=0WnB3ZnSPjA) (Tue Sep 29 2020)
-- [Building hana-opensap-cloud-2020 Part 11: Customizing Express](https://www.youtube.com/watch?v=dmeRX9n6uQo) (Tue Sep 29 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
