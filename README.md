@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Chrome Extensions - How to get started](https://www.youtube.com/watch?v=gWeLFsElh1s) (Thu Oct 01 2020)
-- [Cloud APIs - Ex.06 - Calling the Workflow API from within the SAP API Business Hub](https://www.youtube.com/watch?v=C92_0AL0wLY) (Thu Oct 01 2020)
-- [Cloud APIs - Ex.05 - Workflow API calls, authorities, access token contents & more](https://www.youtube.com/watch?v=4BZimZlZvzw) (Thu Oct 01 2020)
+- [SAP Ariba Developer Portal - Introduction](https://www.youtube.com/watch?v=oXW3SBCadoI) (Thu Oct 01 2020)
+- [SAP Ariba Developer Portal - Consume the Ariba APIs](https://www.youtube.com/watch?v=BImKuv8yESk) (Thu Oct 01 2020)
+- [SAP Ariba Developer Portal - Create application and API approval process](https://www.youtube.com/watch?v=CQQlADnbM6w) (Thu Oct 01 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
