@@ -6,21 +6,21 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) (Fri Oct 02 2020)
 - [Installing  SAP HANA, express edition into WSL2 (Windows Subsystem for Linux)](https://blogs.sap.com/?p=1192930) (Wed Sep 30 2020)
 - [Devtoberfest 2020 - Week 1 Recap and Week 2 Preview](https://blogs.sap.com/?p=1173586) (Fri Aug 28 2020)
 - [Devtoberfest 2020](https://blogs.sap.com/?p=1168378) (Thu Aug 20 2020)
 - [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/?p=1150001) (Fri Jul 24 2020)
 - [ABAP_Freak->Show( ) Episode 2: Debating Hungarian Notation and Data References vs. Field Symbols](https://blogs.sap.com/2020/04/14/abap_freak-show-episode-2-debating-hungarian-notation-and-data-references-vs.-field-symbols/) (Tue Apr 14 2020)
-- [Looking at the SAP Developer Experience from an Outside Perspective (Podcast)](https://blogs.sap.com/2020/04/14/looking-at-the-sap-developer-experience-from-an-outside-perspective-podcast/) (Tue Apr 14 2020)
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News: SAP Analytics Cloud, ABAP in VS Code, Kyma, Devtoberfest](https://www.youtube.com/watch?v=1mun2OPQX50) (Thu Oct 01 2020)
-- [SAP Ariba Developer Portal - Introduction](https://www.youtube.com/watch?v=oXW3SBCadoI) (Thu Oct 01 2020)
-- [SAP Ariba Developer Portal - Consume the Ariba APIs](https://www.youtube.com/watch?v=BImKuv8yESk) (Thu Oct 01 2020)
+- [Devtoberfest 2020 Week 6 recap and Week 7 preview](https://www.youtube.com/watch?v=1wgCY45oUEY) (Fri Oct 02 2020)
+- [Deploy SAP Cloud Application Programming Model to SAP Cloud Platform, Kyma runtime](https://www.youtube.com/watch?v=kwKr4JbscvY) (Thu Oct 01 2020)
+- [Diving into messaging on SAP Cloud Platform - Part 8 - Wrapping up](https://www.youtube.com/watch?v=SwWzhKPYPkk) (Fri Oct 02 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
