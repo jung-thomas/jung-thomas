@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: SAP Analytics Cloud, ABAP in VS Code, Kyma, Devtoberfest](https://www.youtube.com/watch?v=1mun2OPQX50) (Thu Oct 01 2020)
 - [SAP Ariba Developer Portal - Introduction](https://www.youtube.com/watch?v=oXW3SBCadoI) (Thu Oct 01 2020)
 - [SAP Ariba Developer Portal - Consume the Ariba APIs](https://www.youtube.com/watch?v=BImKuv8yESk) (Thu Oct 01 2020)
-- [SAP Ariba Developer Portal - Create application and API approval process](https://www.youtube.com/watch?v=CQQlADnbM6w) (Thu Oct 01 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
