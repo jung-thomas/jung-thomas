@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Deploy SAP Cloud Application Programming Model to SAP Cloud Platform, Kyma runtime](https://www.youtube.com/watch?v=kwKr4JbscvY) (Tue Oct 06 2020)
 - [project "Kyma" - Ex.04 - Expose your Service through an OAuth secured API](https://www.youtube.com/watch?v=CUYam3HicNU) (Tue Oct 06 2020)
 - [project "Kyma" - Jamie Cawley SAP Cloud Platform, Kyma Runtime Introduction](https://www.youtube.com/watch?v=6r8PwihJxsA) (Tue Oct 06 2020)
-- [project "Kyma" - Ex.03 - Deploy to the project "Kyma" Runtime](https://www.youtube.com/watch?v=GnXg9pkj8CU) (Tue Oct 06 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
