@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Cloud APIs - Ex.08 - Data pagination with SAP Ariba APIs](https://www.youtube.com/watch?v=D3kTePE3eNI) (Thu Oct 15 2020)
+- [Cloud APIs - Ex.07 - Authentication & refresh tokens with SAP Ariba APIs](https://www.youtube.com/watch?v=9rybFizwJ4o) (Thu Oct 15 2020)
 - [Devtoberfest Community Week Jhodel Cailan](https://www.youtube.com/watch?v=lI7Fdy_XHUk) (Wed Oct 14 2020)
-- [Devtoberfest Community Week Volker Buzek & Gregor Wolf](https://www.youtube.com/watch?v=b9sPczwYN5Q) (Tue Oct 13 2020)
-- [Building hana-opensap-cloud-2020 Part 12: Swagger UI](https://www.youtube.com/watch?v=nSGTS3SJSOI) (Tue Oct 13 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
