@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 13: Complex Response Bodies and Web Sockets](https://www.youtube.com/watch?v=kQeZI6YMdcg) (Fri Oct 16 2020)
 - [Devtoberfest Week 8 Recap and Look Ahead to Week 9](https://www.youtube.com/watch?v=B4C6xxLimt8) (Fri Oct 16 2020)
 - [Devtoberfest Community Week SAPlink Founders - Ed Herrmann and Dan McWeeney](https://www.youtube.com/watch?v=vaEQc52tBCQ) (Fri Oct 16 2020)
-- [SAP Developer News: CAP release, SAP Business Application Studio, Project Odense, UI5ers live](https://www.youtube.com/watch?v=SVot7OJDHNk) (Fri Oct 16 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
 - [ABAP Freak Show Ep. 17 - SAP HANA Deployment Infrastructure (HDI) Administration](https://www.youtube.com/watch?v=zyHhxZWW40M) (Tue Jul 21 2020)
 - [ABAP Freak Show Ep. 16 - Getting Started with SAP HANA Cloud Trial](https://www.youtube.com/watch?v=Wyi5EweH29I) (Wed Jul 15 2020)
