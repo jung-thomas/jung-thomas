@@ -16,8 +16,6 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 ## Videos and Live Streams
 {{#itemsNew}}- [{{{title}}}]({{{link}}}) ({{date}})
 {{/itemsNew}}
-{{#items}}- [{{{title}}}]({{{link}}}) ({{date}})
-{{/items}}
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
