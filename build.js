@@ -13,13 +13,13 @@ const main = async _ => {
   try {
     const res = await request('GET', URLSCN)
     const scnItems = JSON.parse(res.getBody())
-    const feed = await parser.parseURL(URLYouTube)
+    /* const feed = await parser.parseURL(URLYouTube)
     const items = feed.items.slice(0, 3).map(item => {
       item.date = new Date(item.pubDate).toDateString()
       return item
-    })
+    }) */
     const feedNew = await parser.parseURL(URLSAPDevs)
-    const itemsNew = feedNew.items.slice(0, 3).map(item => {
+    const itemsNew = feedNew.items.slice(0, 6).map(item => {
       item.date = new Date(item.pubDate).toDateString()
       return item
     })
