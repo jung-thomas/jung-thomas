@@ -18,8 +18,8 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 13: Complex Response Bodies and Web Sockets](https://www.youtube.com/watch?v=kQeZI6YMdcg) (Tue Oct 20 2020)
 - [Customizing the SAP Business Application Studio with dotfiles](https://www.youtube.com/watch?v=YrrxWdIjqEE) (Mon Oct 19 2020)
-- [Building hana-opensap-cloud-2020 Part 13: Complex Response Bodies and Web Sockets](https://www.youtube.com/watch?v=kQeZI6YMdcg) (Fri Oct 16 2020)
 - [Devtoberfest Week 8 Recap and Look Ahead to Week 9](https://www.youtube.com/watch?v=B4C6xxLimt8) (Fri Oct 16 2020)
 - [Devtoberfest Halloween Build Week Promo](https://www.youtube.com/watch?v=gb7SN7y1_rE) (Mon Oct 19 2020)
 - [ABAP Freak Show is Moving!](https://www.youtube.com/watch?v=5PB9MkWqteA) (Fri Jul 24 2020)
