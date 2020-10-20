@@ -29,7 +29,7 @@ const main = async _ => {
         cont.date = new Date(cont.published).toDateString()
         cont.url = encodeURI(cont.url)
       } 
-    console.log(template({items, itemsNew, scnCont}))
+    console.log(template({itemsNew, scnCont}))
   } catch (error) {
     console.log(`${error}`)
     process.exit(1)
