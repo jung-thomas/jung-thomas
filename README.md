@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Building hana-opensap-cloud-2020 Part 14: UI Annotations](https://www.youtube.com/watch?v=vCZ8zc9Y834) (Thu Oct 22 2020)
+- [Devtoberfest Week 9 Recap and Look Ahead](https://www.youtube.com/watch?v=1FuxXfpNhtY) (Fri Oct 23 2020)
 - [Building hana-opensap-cloud-2020 Part 13: Complex Response Bodies and Web Sockets](https://www.youtube.com/watch?v=kQeZI6YMdcg) (Tue Oct 20 2020)
 - [Devtoberfest Week 8 Recap and Look Ahead to Week 9](https://www.youtube.com/watch?v=B4C6xxLimt8) (Fri Oct 16 2020)
 - [Devtoberfest Community Week SAPlink Founders - Ed Herrmann and Dan McWeeney](https://www.youtube.com/watch?v=vaEQc52tBCQ) (Fri Oct 16 2020)
 - [SAP Developer News: CAP release, SAP Business Application Studio, Project Odense, UI5ers live](https://www.youtube.com/watch?v=SVot7OJDHNk) (Fri Oct 16 2020)
-- [Devtoberfest Community Week Luigi Dell'Aquila of OrientDB](https://www.youtube.com/watch?v=wwWzq-cRgds) (Thu Oct 15 2020)
-- [Devtoberfest Community Week Graham Robinson](https://www.youtube.com/watch?v=j9HaNYHmgt0) (Thu Oct 15 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
