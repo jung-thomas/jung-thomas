@@ -19,7 +19,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
   
 ## Videos and Live Streams
 - [Building hana-opensap-cloud-2020 Part 14: UI Annotations](https://www.youtube.com/watch?v=vCZ8zc9Y834) (Tue Oct 27 2020)
-- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz](https://www.youtube.com/watch?v=E9Ha0tnXGS4) (Mon Oct 26 2020)
+- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 1](https://www.youtube.com/watch?v=E9Ha0tnXGS4) (Mon Oct 26 2020)
 - [Customizing the SAP Business Application Studio with dotfiles](https://www.youtube.com/watch?v=YrrxWdIjqEE) (Fri Oct 23 2020)
 - [SAP Developer News: Building apps with RAP, SAP HANA-ML 2.6, Hyperscaler backing services](https://www.youtube.com/watch?v=B8jsIUMUCzU) (Fri Oct 23 2020)
 - [Devtoberfest Week 9 Recap and Look Ahead](https://www.youtube.com/watch?v=1FuxXfpNhtY) (Fri Oct 23 2020)
