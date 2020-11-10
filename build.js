@@ -31,7 +31,7 @@ const main = async _ => {
 
     const feed = await parser.parseURL(URLSCN)
     const items = feed.items.slice(0, 6).map(item => {
-      item.date = new Date(item.published).toDateString()
+      item.date = new Date(item.pubDate).toDateString()
       return item
     })
     
