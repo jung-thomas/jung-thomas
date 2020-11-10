@@ -6,7 +6,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-{{#items}}- [{{{title}}}]({{{id}}}) ({{published}})
+{{#items}}- [{{{title}}}]({{{id}}}) ({{{published}}})
 {{/items}} 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
