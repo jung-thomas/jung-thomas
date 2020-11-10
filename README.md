@@ -6,24 +6,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-- [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) (Fri Oct 23 2020)
-- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) (Fri Oct 02 2020)
-- [Installing  SAP HANA, express edition into WSL2 (Windows Subsystem for Linux)](https://blogs.sap.com/?p=1192930) (Wed Sep 30 2020)
-- [Devtoberfest 2020 - Week 1 Recap and Week 2 Preview](https://blogs.sap.com/?p=1173586) (Fri Aug 28 2020)
-- [Devtoberfest 2020](https://blogs.sap.com/?p=1168378) (Thu Aug 20 2020)
-- [The Future of SAP Developer Advocates Live Stream Content](https://blogs.sap.com/?p=1150001) (Fri Jul 24 2020)
+- [VSCode Development for SAP Cloud Application Programming Model Using Remote - WSL](https://blogs.sap.com/?p=1215560) (Invalid Date)
+- [Devtoberfest Contest Voting](https://blogs.sap.com/?p=1216969) (Invalid Date)
+- [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) (Invalid Date)
+- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) (Invalid Date)
+- [Installing  SAP HANA, express edition into WSL2 (Windows Subsystem for Linux)](https://blogs.sap.com/?p=1192930) (Invalid Date)
+- [Devtoberfest 2020 - Week 1 Recap and Week 2 Preview](https://blogs.sap.com/?p=1173586) (Invalid Date)
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 1](https://www.youtube.com/watch?v=E9Ha0tnXGS4) (Fri Oct 30 2020)
-- [SAP Developer News: Devtoberfest Build Week, SAP Road Maps, SAP HANA Database Explorer](https://www.youtube.com/watch?v=_vM0auvdSVQ) (Fri Oct 30 2020)
-- [Building hana-opensap-cloud-2020 Part 15: Media Streaming and Fiori](https://www.youtube.com/watch?v=3Gpo36n8kqk) (Thu Oct 29 2020)
-- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 2](https://www.youtube.com/watch?v=eP2bSC94mk8) (Fri Oct 30 2020)
-- [Building hana-opensap-cloud-2020 Part 14: UI Annotations](https://www.youtube.com/watch?v=vCZ8zc9Y834) (Tue Oct 27 2020)
-- [Customizing the SAP Business Application Studio with dotfiles](https://www.youtube.com/watch?v=YrrxWdIjqEE) (Fri Oct 23 2020)
+- [Devtoberfest Finalist Judging Webinar](https://www.youtube.com/watch?v=SxHD2P6kbLk) (Tue Nov 10 2020)
+- [VSCode Development Using Remote - WSL](https://www.youtube.com/watch?v=tzrHsa2ketc) (Tue Nov 10 2020)
+- [Using Postman for API Testing with XSUAA](https://www.youtube.com/watch?v=FqVekMHviTc) (Mon Nov 09 2020)
+- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 2](https://www.youtube.com/watch?v=eP2bSC94mk8) (Fri Nov 06 2020)
+- [HANA Cloud Trial Setup](https://www.youtube.com/watch?v=GSNQpfxPuLU) (Fri Nov 06 2020)
+- [SAP Developer News: SAP Cloud Platform trial news, Graphing SAP Enterprise Messaging Artifacts](https://www.youtube.com/watch?v=myJjOSmEIKQ) (Thu Nov 05 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
