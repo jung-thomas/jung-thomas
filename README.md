@@ -6,12 +6,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-- [VSCode Development for SAP Cloud Application Programming Model Using Remote - WSL](https://blogs.sap.com/?p=1215560) (Invalid Date)
-- [Devtoberfest Contest Voting](https://blogs.sap.com/?p=1216969) (Invalid Date)
-- [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) (Invalid Date)
-- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) (Invalid Date)
-- [Installing  SAP HANA, express edition into WSL2 (Windows Subsystem for Linux)](https://blogs.sap.com/?p=1192930) (Invalid Date)
-- [Devtoberfest 2020 - Week 1 Recap and Week 2 Preview](https://blogs.sap.com/?p=1173586) (Invalid Date)
+- [VSCode Development for SAP Cloud Application Programming Model Using Remote - WSL](https://blogs.sap.com/?p=1215560) ()
+- [Devtoberfest Contest Voting](https://blogs.sap.com/?p=1216969) ()
+- [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) ()
+- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) ()
+- [Installing  SAP HANA, express edition into WSL2 (Windows Subsystem for Linux)](https://blogs.sap.com/?p=1192930) ()
+- [Devtoberfest 2020 - Week 1 Recap and Week 2 Preview](https://blogs.sap.com/?p=1173586) ()
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
