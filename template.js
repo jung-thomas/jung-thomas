@@ -6,8 +6,8 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-{{#scnCont}}- [{{{displayName}}}]({{{url}}}) ({{date}})
-{{/scnCont}} 
+{{#items}}- [{{{title}}}]({{{id}}}) ({{date}})
+{{/items}} 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
