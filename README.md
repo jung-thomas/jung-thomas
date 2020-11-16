@@ -21,7 +21,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 4](https://www.youtube.com/watch?v=TZvH_84vieE) (Mon Nov 16 2020)
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 3](https://www.youtube.com/watch?v=S6PcnXYF3wI) (Fri Nov 13 2020)
 - [SAP Developer News: SAP Teched 2020, CAP updates, Devtoberfest contest voting](https://www.youtube.com/watch?v=Ckq_hrq24jU) (Thu Nov 12 2020)
-- [HTML5 Apps integration with SAP Cloud Platform Portal](https://www.youtube.com/watch?v=UbrwbFtaZak) (Thu Nov 12 2020)
+- [HTML5 Apps integration with SAP Cloud Platform Launchpad](https://www.youtube.com/watch?v=UbrwbFtaZak) (Thu Nov 12 2020)
 - [Devtoberfest Finalist Judging Webinar](https://www.youtube.com/watch?v=SxHD2P6kbLk) (Tue Nov 10 2020)
 - [VSCode Development Using Remote - WSL](https://www.youtube.com/watch?v=tzrHsa2ketc) (Tue Nov 10 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
