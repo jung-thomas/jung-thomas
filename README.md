@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Open Source and SAP](https://www.youtube.com/watch?v=L3jBQroHl0A) (Fri Dec 04 2020)
-- [Devtoberfest: Finalist Open Source Project Presentation](https://www.youtube.com/watch?v=xzvpOpXSRAc) (Fri Dec 04 2020)
-- [Presenting the Devtoberfest Finalists](https://www.youtube.com/watch?v=i8qLjp8nv_Y) (Fri Dec 04 2020)
-- [Developer Keynote: All Developers Welcome](https://www.youtube.com/watch?v=btEk_jdQo6A) (Fri Dec 04 2020)
-- [What's new for SAP developers?](https://www.youtube.com/watch?v=ldyb-MZdMUw) (Fri Dec 04 2020)
-- [An overview of the SAP Cloud Platform core data services extension for VS Code](https://www.youtube.com/watch?v=eY7BTzch8w0) (Fri Dec 04 2020)
+- [SAP TechEd 2020 DAT160: Exercise 2.1 Cleanup and Preparations for New Data Model](https://www.youtube.com/watch?v=JmMXyyUk_80) (Mon Dec 07 2020)
+- [SAP TechEd 2020 DAT160: Lecture](https://www.youtube.com/watch?v=Ugt_my8BK_4) (Mon Dec 07 2020)
+- [SAP TechEd 2020 DAT160: Exercise 3.3 Custom Handlers](https://www.youtube.com/watch?v=sOi2haTiNVA) (Mon Dec 07 2020)
+- [SAP TechEd 2020 DAT160: Exercise 2.2 Create Data Model](https://www.youtube.com/watch?v=o--PqmKYJvQ) (Mon Dec 07 2020)
+- [SAP TechEd 2020 DAT160: Exercise 0 - Getting Started](https://www.youtube.com/watch?v=8rT-PEUg8Uw) (Mon Dec 07 2020)
+- [SAP TechEd 2020 DAT160: Exercise 4.3 Generate a Fiori Application](https://www.youtube.com/watch?v=PJ9ADjPqMWg) (Mon Dec 07 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
