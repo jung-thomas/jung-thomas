@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Open Source and SAP](https://www.youtube.com/watch?v=L3jBQroHl0A) (Thu Dec 10 2020)
 - [Devtoberfest: Finalist Open Source Project Presentation](https://www.youtube.com/watch?v=xzvpOpXSRAc) (Thu Dec 10 2020)
 - [Presenting the Devtoberfest Finalists](https://www.youtube.com/watch?v=i8qLjp8nv_Y) (Thu Dec 10 2020)
 - [Developer Keynote: All Developers Welcome](https://www.youtube.com/watch?v=btEk_jdQo6A) (Wed Dec 09 2020)
 - [What's new for SAP developers?](https://www.youtube.com/watch?v=ldyb-MZdMUw) (Wed Dec 09 2020)
 - [SAP TechEd 2020 DAT160: Exercise 2.1 Cleanup and Preparations for New Data Model](https://www.youtube.com/watch?v=JmMXyyUk_80) (Mon Dec 07 2020)
-- [SAP TechEd 2020 DAT160: Lecture](https://www.youtube.com/watch?v=Ugt_my8BK_4) (Mon Dec 07 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
