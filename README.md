@@ -6,12 +6,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/?p=1244336) 
 - [My SAP TechEd 2020 - An Agenda From the Viewpoint of a Developer Manager](https://blogs.sap.com/?p=1221410) 
 - [Building hana-opensap-cloud-2020 Part 1: Introduction](https://blogs.sap.com/?p=1219900) 
 - [VSCode Development for SAP Cloud Application Programming Model Using Remote - WSL](https://blogs.sap.com/?p=1215560) 
 - [Devtoberfest Contest Voting](https://blogs.sap.com/?p=1216969) 
 - [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) 
-- [SAP Developer News Show](https://blogs.sap.com/?p=1194205) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
