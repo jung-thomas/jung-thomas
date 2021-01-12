@@ -18,9 +18,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP HANA Tooling in SAP Business Application Studio](https://www.youtube.com/watch?v=IKIeQ8Sv7Tw) (Tue Jan 12 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=o4CU8DxBcSs) (Fri Jan 08 2021)
 - [Developer Keynote - Getting set up!](https://www.youtube.com/watch?v=9Q-84fxe0Jg) (Tue Jan 05 2021)
-- [SAP HANA Tooling in SAP Business Application Studio](https://www.youtube.com/watch?v=IKIeQ8Sv7Tw) (Mon Jan 04 2021)
 - [SAP Developer News: 2020 Highlights for Developers](https://www.youtube.com/watch?v=_gqcNrISg5Y) (Tue Dec 29 2020)
 - [Widget development with SAP Cloud Platform SDK for iOS](https://www.youtube.com/watch?v=lSrIwLjBDQ0) (Fri Dec 18 2020)
 - [SAP Developer News: SAP TechEd highlights, AppRouter 9.0.0, SAP Cloud Platform CLI, CAP Nov release](https://www.youtube.com/watch?v=kI9yIlnZVnU) (Thu Dec 17 2020)
