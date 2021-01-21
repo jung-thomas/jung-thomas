@@ -6,12 +6,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
-- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/?p=1244336) 
-- [My SAP TechEd 2020 - An Agenda From the Viewpoint of a Developer Manager](https://blogs.sap.com/?p=1221410) 
-- [Building hana-opensap-cloud-2020 Part 1: Introduction](https://blogs.sap.com/?p=1219900) 
-- [VSCode Development for SAP Cloud Application Programming Model Using Remote - WSL](https://blogs.sap.com/?p=1215560) 
-- [Devtoberfest Contest Voting](https://blogs.sap.com/?p=1216969) 
-- [Devtoberfest - On Your Mark, Get Set, Code!](https://blogs.sap.com/?p=1208007) 
+- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/2020/12/21/new-sap-cloud-application-programming-model-sample-for-many-to-many-relationships-and-fiori-annotations/) 
+- [My SAP TechEd 2020 – An Agenda From the Viewpoint of a Developer Manager](https://blogs.sap.com/2020/11/13/my-sap-teched-2020-an-agenda-from-the-viewpoint-of-a-developer-manager/) 
+- [Building hana-opensap-cloud-2020 Part 1: Introduction](https://blogs.sap.com/2020/11/13/building-hana-opensap-cloud-2020-part-1-introduction/) 
+- [VSCode Development for SAP Cloud Application Programming Model Using Remote – WSL](https://blogs.sap.com/2020/11/10/vscode-development-for-sap-cloud-application-programming-model-using-remote-wsl/) 
+- [Devtoberfest Contest Voting](https://blogs.sap.com/2020/11/09/devtoberfest-contest-voting/) 
+- [Devtoberfest – On Your Mark, Get Set, Code!](https://blogs.sap.com/2020/10/23/devtoberfest-on-your-mark-get-set-code/) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
