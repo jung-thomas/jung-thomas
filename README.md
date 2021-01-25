@@ -7,7 +7,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
  
 ## On my blog
 - [Building hana-opensap-cloud-2020 Part 2: Project Setup and First DB Build](https://blogs.sap.com/?p=1258763) 
-- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/2020/12/21/new-sap-cloud-application-programming-model-sample-for-many-to-many-relationships-and-fiori-annotations/) 
+- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/?p=1244336) 
 - [My SAP TechEd 2020 – An Agenda From the Viewpoint of a Developer Manager](https://blogs.sap.com/2020/11/13/my-sap-teched-2020-an-agenda-from-the-viewpoint-of-a-developer-manager/) 
 - [Building hana-opensap-cloud-2020 Part 1: Introduction](https://blogs.sap.com/?p=1219900) 
 - [VSCode Development for SAP Cloud Application Programming Model Using Remote – WSL](https://blogs.sap.com/2020/11/10/vscode-development-for-sap-cloud-application-programming-model-using-remote-wsl/) 
