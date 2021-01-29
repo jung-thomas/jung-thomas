@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: UI updates, SAP Business Technology Platform latest news, NPM recent releases](https://www.youtube.com/watch?v=PgCaIHp1JFY) (Fri Jan 29 2021)
 - [Developer Keynote - Getting set up!](https://www.youtube.com/watch?v=9Q-84fxe0Jg) (Fri Jan 15 2021)
 - [SAP Business Application Studio: SAP HANA Tools with SAP Cloud Application Programming Model Project](https://www.youtube.com/watch?v=nPES1Sf9afM) (Fri Jan 15 2021)
 - [SAP Developer News: SAPUI5 news, State of JS dev survey highlights, SAP HANA Cloud demo & tutorial](https://www.youtube.com/watch?v=hiaKmUoo9Wk) (Thu Jan 14 2021)
 - [SAP HANA Tooling in SAP Business Application Studio](https://www.youtube.com/watch?v=IKIeQ8Sv7Tw) (Tue Jan 12 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=o4CU8DxBcSs) (Fri Jan 08 2021)
-- [SAP Developer News: 2020 Highlights for Developers](https://www.youtube.com/watch?v=_gqcNrISg5Y) (Tue Dec 29 2020)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
