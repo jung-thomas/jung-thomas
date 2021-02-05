@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 - [SAP Tech Bytes: Tutorial - Create a Calculation View with Differential Privacy in SAP HANA Cloud](https://www.youtube.com/watch?v=kZhATB7yJ-M) (Tue Feb 02 2021)
 - [SAP Tech Bytes: Tutorial - Access a Classic Schema from SAP Business Application Studio](https://www.youtube.com/watch?v=ItEvMHWGak0) (Tue Feb 02 2021)
 - [SAP Tech Bytes: Tutorial - Create SAP HANA Database Project](https://www.youtube.com/watch?v=O0x7Jt6yre0) (Mon Feb 01 2021)
-- [Developer Keynote - SANDBOX component](https://www.youtube.com/watch?v=lxtWeKR2kaM) (Mon Feb 01 2021)
+- [Developer Keynote - Message Bus component](https://www.youtube.com/watch?v=0-b-V5vd14Y) (Fri Jan 29 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
