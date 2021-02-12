@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: SAP Fiori Tools Wizard, CAP Extension in VSCode Marketplace, SAP HANA Cloud](https://www.youtube.com/watch?v=HIcQbRXCB9E) (Fri Feb 12 2021)
 - [Developer Keynote - EMITTER component - Messaging APIs and SAP S/4HANA Cloud events](https://www.youtube.com/watch?v=dq-PSlUun6g) (Thu Feb 11 2021)
 - [Developer Keynote - SANDBOX component part 2 - CF & K8S](https://www.youtube.com/watch?v=yYeiTs4AC_U) (Mon Feb 08 2021)
 - [Developer Keynote - SANDBOX component](https://www.youtube.com/watch?v=lxtWeKR2kaM) (Fri Feb 05 2021)
 - [SAP Developer News: SAP Developer Survey, SAP Business Application Studio new features, SAP BTP Kyma](https://www.youtube.com/watch?v=RocCy1k3sZQ) (Thu Feb 04 2021)
 - [SAP Tech Bytes: Tutorial - Create a Calculation View of Type Cube in the SAP HANA Cloud](https://www.youtube.com/watch?v=fwwPcYZb-jQ) (Tue Feb 02 2021)
-- [SAP Tech Bytes: Tutorial - Create a Calculation View with Differential Privacy in SAP HANA Cloud](https://www.youtube.com/watch?v=kZhATB7yJ-M) (Tue Feb 02 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
