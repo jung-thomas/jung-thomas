@@ -24,3 +24,4 @@ Follow me on [Twitter](https://twitter.com/thomas_jung) or [LinkedIn](https://ww
 ![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
 
 `
+[![Thomas Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-thomas)](https://github.com/anuraghazra/github-readme-stats)
