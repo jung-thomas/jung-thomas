@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Developer Keynote - EMITTER component](https://www.youtube.com/watch?v=dq-PSlUun6g) (Fri Feb 19 2021)
 - [Developer Keynote - GitHub Actions](https://www.youtube.com/watch?v=THdTT5UdDnY) (Fri Feb 19 2021)
 - [SAP Developer News: SAP ABAP Platform 1909 release, Storyboard in Business Application Studio, more](https://www.youtube.com/watch?v=3aqL8_9SaYk) (Fri Feb 19 2021)
 - [SAP Tech Bytes: Tutorial - Creating a Multi-module SAP Fiori Project](https://www.youtube.com/watch?v=yvUUBbw85-M) (Wed Feb 17 2021)
 - [Developer Keynote - SANDBOX component part 2 - CF & K8S](https://www.youtube.com/watch?v=yYeiTs4AC_U) (Fri Feb 12 2021)
 - [SAP Developer News: SAP Fiori Tools Wizard, CAP Extension in VSCode Marketplace, SAP HANA Cloud](https://www.youtube.com/watch?v=HIcQbRXCB9E) (Fri Feb 12 2021)
-- [Developer Keynote - SANDBOX component](https://www.youtube.com/watch?v=lxtWeKR2kaM) (Fri Feb 05 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
