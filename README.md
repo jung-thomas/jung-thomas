@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: SAP Mobile Development Kit](https://www.youtube.com/watch?v=iRuVJ0GMCoI) (Wed Mar 03 2021)
 - [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v=wdn0F-VDNCc) (Mon Mar 01 2021)
 - [Developer Keynote - GitHub Actions](https://www.youtube.com/watch?v=THdTT5UdDnY) (Fri Feb 26 2021)
 - [SAP Developer News: CAP Documentation, SAP Tech Bytes, SAP HANA CLI, SAP Event Mesh, more](https://www.youtube.com/watch?v=tMqmAQSivYM) (Thu Feb 25 2021)
 - [SAP Tech Bytes: SAP Mobile Cards](https://www.youtube.com/watch?v=yCgZZD1HsgE) (Wed Feb 24 2021)
 - [Developer Keynote - EMITTER component](https://www.youtube.com/watch?v=dq-PSlUun6g) (Fri Feb 19 2021)
-- [SAP Developer News: SAP ABAP Platform 1909 release, Storyboard in Business Application Studio, more](https://www.youtube.com/watch?v=3aqL8_9SaYk) (Fri Feb 19 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
