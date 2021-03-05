@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: Latest trial releases for ABAP and SAP Data Intelligence, UI5con ON AIR, more](https://www.youtube.com/watch?v=htZptLsGseU) (Thu Mar 04 2021)
 - [How to Upgrade SAP HANA Cloud trial](https://www.youtube.com/watch?v=huMWMaCAlYc) (Thu Mar 04 2021)
 - [Add SAP Cloud Connector to SAP HANA Cloud trial](https://www.youtube.com/watch?v=Tq_PCWbWzJA) (Wed Mar 03 2021)
 - [SAP Tech Bytes: SAP Mobile Development Kit](https://www.youtube.com/watch?v=iRuVJ0GMCoI) (Wed Mar 03 2021)
 - [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v=wdn0F-VDNCc) (Mon Mar 01 2021)
 - [Developer Keynote - GitHub Actions](https://www.youtube.com/watch?v=THdTT5UdDnY) (Fri Feb 26 2021)
-- [SAP Developer News: CAP Documentation, SAP Tech Bytes, SAP HANA CLI, SAP Event Mesh, more](https://www.youtube.com/watch?v=tMqmAQSivYM) (Thu Feb 25 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
