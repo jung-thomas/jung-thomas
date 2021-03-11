@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Samples Spotlight: ariba-extensibility-samples](https://www.youtube.com/watch?v=XHOkaxirP_0) (Thu Mar 11 2021)
 - [SAP TechBytes: SAP BTP SDK for iOS](https://www.youtube.com/watch?v=CA7hA2G7VCo) (Wed Mar 10 2021)
 - [SAP Tech Bytes: Tutorial - Testing SAP BTP Destinations](https://www.youtube.com/watch?v=0zzFCfuUIbs) (Tue Mar 09 2021)
 - [Developer Keynote - BRAIN component - part 2](https://www.youtube.com/watch?v=SpBnnCJHAwM) (Mon Mar 08 2021)
 - [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v=wdn0F-VDNCc) (Fri Mar 05 2021)
 - [SAP Developer News: Latest trial releases for ABAP and SAP Data Intelligence, UI5con ON AIR, more](https://www.youtube.com/watch?v=htZptLsGseU) (Thu Mar 04 2021)
-- [How to Upgrade SAP HANA Cloud trial](https://www.youtube.com/watch?v=huMWMaCAlYc) (Thu Mar 04 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
