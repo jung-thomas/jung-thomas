@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News:  SAP CAP Tours, SAP BTP Discover Center Missions, SAPUI5 v3.0 Specs and more.](https://www.youtube.com/watch?v=1PAO5EJVxGU) (Fri Mar 12 2021)
 - [SAP Tech Bytes: Tutorial - Create Database Artifacts Using Core Data Services for SAP HANA Cloud](https://www.youtube.com/watch?v=hlHY7eBriRA) (Thu Mar 11 2021)
 - [SAP Tech Bytes: Getting Started with SQLScript in SAP HANA Cloud - Part 1](https://www.youtube.com/watch?v=YIUe7rXAoTY) (Thu Mar 11 2021)
 - [SAP Tech Bytes: Tutorial - Create SAP Cloud Application Programming Model Project for SAP HANA Cloud](https://www.youtube.com/watch?v=ydDOGz7P--8) (Thu Mar 11 2021)
 - [SAP Samples Spotlight: ariba-extensibility-samples](https://www.youtube.com/watch?v=XHOkaxirP_0) (Thu Mar 11 2021)
 - [SAP TechBytes: SAP BTP SDK for iOS](https://www.youtube.com/watch?v=CA7hA2G7VCo) (Wed Mar 10 2021)
-- [SAP Tech Bytes: Tutorial - Testing SAP BTP Destinations](https://www.youtube.com/watch?v=0zzFCfuUIbs) (Tue Mar 09 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
