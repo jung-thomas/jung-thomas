@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: Tutorial - SAP HANA Cloud, Add User Authentication to Your Application](https://www.youtube.com/watch?v=AvROFBCEcEc) (Mon Mar 15 2021)
 - [SAP Tech Bytes: Tutorial - SAP HANA Cloud, Create a UI with SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=WMDpKa1QkFE) (Mon Mar 15 2021)
 - [Developer Keynote - BRAIN component - part 2](https://www.youtube.com/watch?v=SpBnnCJHAwM) (Fri Mar 12 2021)
 - [SAP Developer News:  SAP CAP Tours, SAP Discovery Center Missions, SAP Samples, UI5 Tooling,  more.](https://www.youtube.com/watch?v=1PAO5EJVxGU) (Fri Mar 12 2021)
 - [SAP Tech Bytes: Tutorial - Create Database Artifacts Using Core Data Services for SAP HANA Cloud](https://www.youtube.com/watch?v=hlHY7eBriRA) (Thu Mar 11 2021)
 - [SAP Tech Bytes: Getting Started with SQLScript in SAP HANA Cloud - Part 1](https://www.youtube.com/watch?v=YIUe7rXAoTY) (Thu Mar 11 2021)
-- [SAP Tech Bytes: Tutorial - Create SAP Cloud Application Programming Model Project for SAP HANA Cloud](https://www.youtube.com/watch?v=ydDOGz7P--8) (Thu Mar 11 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
