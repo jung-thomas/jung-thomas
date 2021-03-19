@@ -19,7 +19,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
   
 ## Videos and Live Streams
 - [SAP Tech Bytes: Understanding a Multi-module SAP Fiori Project](https://www.youtube.com/watch?v=2Czqs6zQV5c) (Thu Mar 18 2021)
-- [SAP TechBytes: SAP BTP SDK for Android](https://www.youtube.com/watch?v=CArLYfJU4dc) (Wed Mar 17 2021)
+- [SAP Tech Bytes: SAP BTP SDK for Android](https://www.youtube.com/watch?v=CArLYfJU4dc) (Wed Mar 17 2021)
 - [SAP Tech Bytes: Getting Started with SQLScript in SAP HANA Cloud - Part 2](https://www.youtube.com/watch?v=hbj7F-Cr0yY) (Wed Mar 17 2021)
 - [Developer Keynote - CONVERTER component](https://www.youtube.com/watch?v=ksKrttRqoik) (Wed Mar 17 2021)
 - [SAP Tech Bytes: Tutorial - SAP HANA Cloud, Create Store Procedure and Expose as CAP Service Function](https://www.youtube.com/watch?v=wr9KpbqsNpM) (Tue Mar 16 2021)
