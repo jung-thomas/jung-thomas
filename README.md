@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Lively Debate: Hungarian Notation, Data References vs. Field Symbols](https://www.youtube.com/watch?v=JSMwmiknH5Q) (Mon Mar 22 2021)
+- [SAP Tech Bytes: SAP HANA & Cloud Application Programming Model Development Using Only VSCode and CLI](https://www.youtube.com/watch?v=slaqdw341T4) (Mon Mar 22 2021)
 - [What's New in ABAP 2005](https://www.youtube.com/watch?v=wfytHaGiXe0) (Sat Mar 20 2021)
 - [ABAP Uploader Example](https://www.youtube.com/watch?v=PpXNP3ciGOc) (Sat Mar 20 2021)
 - [ABAP OO Part 7 - ABAP Object Serialization](https://www.youtube.com/watch?v=m1JymIUsRkE) (Sat Mar 20 2021)
 - [ABAP OO Part 6 -  Revisit ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=nxaC4KYkKtQ) (Sat Mar 20 2021)
-- [ABAP OO Part 5 - Inheritance](https://www.youtube.com/watch?v=zlp0CHaeSfw) (Sat Mar 20 2021)
-- [ABAP OO Part 4 - Exceptions](https://www.youtube.com/watch?v=2p4SJpYv7uQ) (Sat Mar 20 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
