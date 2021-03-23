@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Getting Started with SQLScript in SAP HANA Cloud - Part 2](https://www.youtube.com/watch?v=TQBfTvOIC-s) (Tue Mar 23 2021)
+- [SAP TechBytes: SAP BTP SDK for iOS & SwiftUI](https://www.youtube.com/watch?v=eu9ElMcUtCI) (Tue Mar 23 2021)
 - [Help Shape A New SAP HANA CAP Sample](https://www.youtube.com/watch?v=QvZfPcvZSUc) (Mon Mar 22 2021)
 - [HANA; Local Development, VCAP_SERVICES, and HDI Deployer Tips and Tricks](https://www.youtube.com/watch?v=NtuxQam_9BY) (Mon Mar 22 2021)
 - [Kyma Part 2 Let's Build and Consume Some Services](https://www.youtube.com/watch?v=rRXa6r1v28w) (Mon Mar 22 2021)
 - [Setup a Local Development Minikube and Kyma Environment](https://www.youtube.com/watch?v=GWzRopio2Kg) (Mon Mar 22 2021)
-- [Continuous Integration and Delivery](https://www.youtube.com/watch?v=gvWSHSZFPok) (Mon Mar 22 2021)
-- [hana-developer-cli-tool-example - Running in Cloud Shells](https://www.youtube.com/watch?v=L7QyVLvAIIQ) (Mon Mar 22 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
