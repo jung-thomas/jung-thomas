@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Getting Started with SQLScript in SAP HANA Cloud - Part 2](https://www.youtube.com/watch?v=TQBfTvOIC-s) (Tue Mar 23 2021)
-- [SAP Tech Bytes: SAP BTP SDK for iOS & SwiftUI](https://www.youtube.com/watch?v=eu9ElMcUtCI) (Tue Mar 23 2021)
-- [Help Shape A New SAP HANA CAP Sample](https://www.youtube.com/watch?v=QvZfPcvZSUc) (Mon Mar 22 2021)
-- [HANA; Local Development, VCAP_SERVICES, and HDI Deployer Tips and Tricks](https://www.youtube.com/watch?v=NtuxQam_9BY) (Mon Mar 22 2021)
-- [Kyma Part 2 Let's Build and Consume Some Services](https://www.youtube.com/watch?v=rRXa6r1v28w) (Mon Mar 22 2021)
-- [Setup a Local Development Minikube and Kyma Environment](https://www.youtube.com/watch?v=GWzRopio2Kg) (Mon Mar 22 2021)
+- [SAP Mobile Services Features](https://www.youtube.com/watch?v=U0YtI1HrFYU) (Thu Mar 25 2021)
+- [Push Notifications](https://www.youtube.com/watch?v=uj0ORqO_yEA) (Thu Mar 25 2021)
+- [SAP Developer News: Navigating our channel, SAP BTP Ask Us Anything event, UI5 updates, SwiftUI repo](https://www.youtube.com/watch?v=EpIo7kSDfYs) (Thu Mar 25 2021)
+- [Load and Display Data using the SAP BTP SDK for iOS](https://www.youtube.com/watch?v=b3loeKdmzxI) (Thu Mar 25 2021)
+- [Run your app with Mac Catalyst on MacOS](https://www.youtube.com/watch?v=tiqNiFMss5E) (Thu Mar 25 2021)
+- [SAP Tech Bytes: Getting Started With SQLScript in SAP HANA Cloud - Part 3](https://www.youtube.com/watch?v=QD8Uaus6fbg) (Thu Mar 25 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
