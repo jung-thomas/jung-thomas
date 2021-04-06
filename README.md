@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: Getting Started With SQLScript in SAP HANA Cloud - Part 5](https://www.youtube.com/watch?v=wPOpNo3PwGo) (Tue Apr 06 2021)
 - [SAP Tech Bytes: Getting Started With SQLScript in SAP HANA Cloud - Part 4](https://www.youtube.com/watch?v=S_fgdnuwan0) (Wed Mar 31 2021)
 - [On-Device Machine Learning with CreateML and the SAP BTP SDK for iOS](https://www.youtube.com/watch?v=8Or1siLDIHM) (Thu Mar 25 2021)
 - [SAP Mobile Services: Features](https://www.youtube.com/watch?v=U0YtI1HrFYU) (Thu Mar 25 2021)
 - [SAP Mobile Services: Push Notifications](https://www.youtube.com/watch?v=uj0ORqO_yEA) (Thu Mar 25 2021)
 - [SAP Developer News: Navigating our channel, SAP BTP Ask Us Anything event, UI5 updates, SwiftUI repo](https://www.youtube.com/watch?v=EpIo7kSDfYs) (Thu Mar 25 2021)
-- [Load and Display Data using the SAP BTP SDK for iOS](https://www.youtube.com/watch?v=b3loeKdmzxI) (Thu Mar 25 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
