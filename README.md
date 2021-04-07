@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Samples Spotlight: cloud-cap-samples](https://www.youtube.com/watch?v=ia3qFuasDnw) (Wed Apr 07 2021)
+- [Developer Keynote - CHARITY component - preview](https://www.youtube.com/watch?v=TJxnQ6l4_AQ) (Wed Apr 07 2021)
 - [SAP HANA Basics For Developers: Part 1 Introduction](https://www.youtube.com/watch?v=ljdvqRtSHd4) (Tue Apr 06 2021)
 - [Developer Keynote - CHARITY component](https://www.youtube.com/watch?v=Q98BvpH0cKc) (Tue Apr 06 2021)
 - [SAP Tech Bytes: Getting Started With SQLScript in SAP HANA Cloud - Part 5](https://www.youtube.com/watch?v=wPOpNo3PwGo) (Tue Apr 06 2021)
 - [SAP Tech Bytes: Getting Started With SQLScript in SAP HANA Cloud - Part 4](https://www.youtube.com/watch?v=S_fgdnuwan0) (Wed Mar 31 2021)
-- [On-Device Machine Learning with CreateML and the SAP BTP SDK for iOS](https://www.youtube.com/watch?v=8Or1siLDIHM) (Thu Mar 25 2021)
-- [SAP Mobile Services: Features](https://www.youtube.com/watch?v=U0YtI1HrFYU) (Thu Mar 25 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
