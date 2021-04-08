@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP HANA Basics For Developers: Part 5.4 Tables and Views Via SQL DDL](https://www.youtube.com/watch?v=V8E3pfPggpg) (Thu Apr 08 2021)
-- [SAP HANA Basics For Developers: Part 5.3 Table Data Configuration](https://www.youtube.com/watch?v=K1mHlVvP7Io) (Wed Apr 07 2021)
-- [SAP HANA Basics For Developers: Part 5.2 Tables and Views Via CAP CDS](https://www.youtube.com/watch?v=UuXURLt1IQE) (Wed Apr 07 2021)
-- [SAP HANA Basics For Developers: Part 5.1 Database Content](https://www.youtube.com/watch?v=N-fwm9F45NA) (Wed Apr 07 2021)
-- [SAP HANA Basics For Developers: Part 4 Hello World](https://www.youtube.com/watch?v=Ll4WI9wtzcQ) (Wed Apr 07 2021)
-- [SAP HANA Basics For Developers: Part 3 Application Server Layer](https://www.youtube.com/watch?v=DtlOto-goUw) (Wed Apr 07 2021)
+- [SAP HANA Basics For Developers: Part 6.4 Importing Calculation Views in CAP](https://www.youtube.com/watch?v=lfoIjuQOEJs) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 6.3 Calculation View Table Function](https://www.youtube.com/watch?v=VhLyBeC3ILs) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 6.2 Calculation View Cube Type](https://www.youtube.com/watch?v=YiJcMI23JXo) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 6.1 Calculation View Dimension Type](https://www.youtube.com/watch?v=9MsviYMw5yA) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 5.8 Cross Container From Outside Our Project](https://www.youtube.com/watch?v=ViDcNj3i8Gg) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 5.7 Cross Container Local](https://www.youtube.com/watch?v=PrSSXbRnuCE) (Thu Apr 08 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
