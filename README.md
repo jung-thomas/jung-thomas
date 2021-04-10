@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Developer Keynote - CHARITY component](https://www.youtube.com/watch?v=Q98BvpH0cKc) (Fri Apr 09 2021)
-- [SAP Developer News: CAP Spring release, UI5 Generator, ABAP Code Review Guidelines, SAP HANA Cloud](https://www.youtube.com/watch?v=xiLCye0YTt8) (Thu Apr 08 2021)
-- [SAP HANA Basics For Developers: Part 6.4 Importing Calculation Views in CAP](https://www.youtube.com/watch?v=lfoIjuQOEJs) (Thu Apr 08 2021)
-- [SAP HANA Basics For Developers: Part 6.3 Calculation View Table Function](https://www.youtube.com/watch?v=VhLyBeC3ILs) (Thu Apr 08 2021)
-- [SAP HANA Basics For Developers: Part 6.2 Calculation View Cube Type](https://www.youtube.com/watch?v=YiJcMI23JXo) (Thu Apr 08 2021)
-- [SAP HANA Basics For Developers: Part 6.1 Calculation View Dimension Type](https://www.youtube.com/watch?v=9MsviYMw5yA) (Thu Apr 08 2021)
+- [SAP HANA Basics For Developers: Part 7.11 SQLScript Performance Analysis](https://www.youtube.com/watch?v=JLZcUEQIYD4) (Fri Apr 09 2021)
+- [SAP HANA Basics For Developers: Part 7.10 SQLScript Debugging](https://www.youtube.com/watch?v=iCZWk4lGusk) (Fri Apr 09 2021)
+- [SAP HANA Basics For Developers: Part 7.9 SQLScript Map Reduce](https://www.youtube.com/watch?v=r7EvRcUyfAc) (Fri Apr 09 2021)
+- [SAP HANA Basics For Developers: Part 7.8 SQLScript Map Merge](https://www.youtube.com/watch?v=5cgzwDBHh4U) (Fri Apr 09 2021)
+- [SAP HANA Basics For Developers: Part 7.7 SQLScript Table Manipulation](https://www.youtube.com/watch?v=RPxuUn-f3OU) (Fri Apr 09 2021)
+- [SAP HANA Basics For Developers: Part 7.6 SQLScript Anonymous Blocks](https://www.youtube.com/watch?v=jFYM2PR-3CE) (Fri Apr 09 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
