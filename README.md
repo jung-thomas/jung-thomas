@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP HANA Basics For Developers: Part 8.2 Debugging XSJS and Node.js](https://www.youtube.com/watch?v=3xjQObWgXfI) (Mon Apr 12 2021)
 - [SAP HANA Basics For Developers: Part 8.1 XSJS and XSODATA](https://www.youtube.com/watch?v=0md3wyOQ59g) (Sat Apr 10 2021)
 - [SAP HANA Basics For Developers: Part 7.11 SQLScript Performance Analysis](https://www.youtube.com/watch?v=JLZcUEQIYD4) (Fri Apr 09 2021)
 - [SAP HANA Basics For Developers: Part 7.10 SQLScript Debugging](https://www.youtube.com/watch?v=iCZWk4lGusk) (Fri Apr 09 2021)
 - [SAP HANA Basics For Developers: Part 7.9 SQLScript Map Reduce](https://www.youtube.com/watch?v=r7EvRcUyfAc) (Fri Apr 09 2021)
 - [SAP HANA Basics For Developers: Part 7.8 SQLScript Map Merge](https://www.youtube.com/watch?v=5cgzwDBHh4U) (Fri Apr 09 2021)
-- [SAP HANA Basics For Developers: Part 7.7 SQLScript Table Manipulation](https://www.youtube.com/watch?v=RPxuUn-f3OU) (Fri Apr 09 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
