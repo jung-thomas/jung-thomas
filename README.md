@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP HANA Basics For Developers: Part 8.3 Exploring JavaScript Language Features](https://www.youtube.com/watch?v=U8kD0IAEXzc) (Tue Apr 13 2021)
-- [SAP Ariba Analytical reporting Structure Part 3](https://www.youtube.com/watch?v=wrxykKSxk5E) (Tue Apr 13 2021)
-- [SAP Ariba Analytical reporting Structure Part 2](https://www.youtube.com/watch?v=HtGWp0kgPE0) (Tue Apr 13 2021)
-- [SAP Ariba Analytical reporting Structure Part 1](https://www.youtube.com/watch?v=0rv0z2UIqMM) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 8.2 Debugging XSJS and Node.js](https://www.youtube.com/watch?v=3xjQObWgXfI) (Mon Apr 12 2021)
-- [SAP HANA Basics For Developers: Part 8.1 XSJS and XSODATA](https://www.youtube.com/watch?v=0md3wyOQ59g) (Sat Apr 10 2021)
+- [SAP HANA Basics For Developers: Part 9.14 Node.js:  CAP OData V4 with Exits](https://www.youtube.com/watch?v=zNE2jGSem2M) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 9.13 Node.js: Web Sockets](https://www.youtube.com/watch?v=C3JeVGi6wiw) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 9.12 Node.js: Object Oriented JavaScript](https://www.youtube.com/watch?v=fgNmT26h3QQ) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 9.11 Node.js: Open Source Modules](https://www.youtube.com/watch?v=_jQO3AmfVck) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 9.10 Node.js: Text Bundles](https://www.youtube.com/watch?v=0aQANa8uLZo) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 9.9 Node.js: JavaScript Basics](https://www.youtube.com/watch?v=BnJBTjSg8Y0) (Tue Apr 13 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
