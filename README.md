@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP HANA Basics For Developers: Part 9.14 Node.js:  CAP OData V4 with Exits](https://www.youtube.com/watch?v=zNE2jGSem2M) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 9.13 Node.js: Web Sockets](https://www.youtube.com/watch?v=C3JeVGi6wiw) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 9.12 Node.js: Object Oriented JavaScript](https://www.youtube.com/watch?v=fgNmT26h3QQ) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 9.11 Node.js: Open Source Modules](https://www.youtube.com/watch?v=_jQO3AmfVck) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 9.10 Node.js: Text Bundles](https://www.youtube.com/watch?v=0aQANa8uLZo) (Tue Apr 13 2021)
-- [SAP HANA Basics For Developers: Part 9.9 Node.js: JavaScript Basics](https://www.youtube.com/watch?v=BnJBTjSg8Y0) (Tue Apr 13 2021)
+- [SAP HANA Basics For Developers: Part 10.6 SAPUI5 OData V2 with Dynamic Columns From Metadata](https://www.youtube.com/watch?v=xnyOgaA0cko) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.5 SAPUI5 Consume OData V2](https://www.youtube.com/watch?v=WaJPa5OdHmM) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.4 SAPUI5 Consume REST Service via AJAX](https://www.youtube.com/watch?v=LLV-Aio-AIc) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.3 SAPUI5 Basics](https://www.youtube.com/watch?v=1FBTZFTzlQM) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.2 SAPUI5 and Text Bundles](https://www.youtube.com/watch?v=KpsDgvU_26k) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.1 SAPUI5 as an XSA Service](https://www.youtube.com/watch?v=WuaPXEb2quI) (Wed Apr 14 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
