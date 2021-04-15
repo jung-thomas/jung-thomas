@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP HANA Basics For Developers: Part 10.6 SAPUI5 OData V2 with Dynamic Columns From Metadata](https://www.youtube.com/watch?v=xnyOgaA0cko) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.5 SAPUI5 Consume OData V2](https://www.youtube.com/watch?v=WaJPa5OdHmM) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.4 SAPUI5 Consume REST Service via AJAX](https://www.youtube.com/watch?v=LLV-Aio-AIc) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.3 SAPUI5 Basics](https://www.youtube.com/watch?v=1FBTZFTzlQM) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.2 SAPUI5 and Text Bundles](https://www.youtube.com/watch?v=KpsDgvU_26k) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.1 SAPUI5 as an XSA Service](https://www.youtube.com/watch?v=WuaPXEb2quI) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 14 UI5 Evolution](https://www.youtube.com/watch?v=jO7gj6rw-Bk) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 13 Audit Logging](https://www.youtube.com/watch?v=qxKlBzpw_3g) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 12 Unit Tests](https://www.youtube.com/watch?v=q20ePqQE350) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 11 Packaging for Transport](https://www.youtube.com/watch?v=heA-TWZ0vug) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.11 SAPUI5 OData V4 With Create Option](https://www.youtube.com/watch?v=Za7H7zed5CY) (Wed Apr 14 2021)
+- [SAP HANA Basics For Developers: Part 10.10 SAPUI5 OData V4 with Fiori Annotations](https://www.youtube.com/watch?v=So_pGLxVKbE) (Wed Apr 14 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
