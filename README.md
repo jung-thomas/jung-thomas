@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Developer Keynote - FRONTEND component](https://www.youtube.com/watch?v=dmazQE90qLs) (Tue Apr 20 2021)
 - [SAP Developer News: SAP Business Application Studio new features, SAP HANA SQL Analyzer, CAP & Tasks](https://www.youtube.com/watch?v=f10XuZ6a5_I) (Thu Apr 15 2021)
 - [SAP HANA Basics For Developers: Part 14 UI5 Evolution](https://www.youtube.com/watch?v=jO7gj6rw-Bk) (Wed Apr 14 2021)
 - [SAP HANA Basics For Developers: Part 13 Audit Logging](https://www.youtube.com/watch?v=qxKlBzpw_3g) (Wed Apr 14 2021)
 - [SAP HANA Basics For Developers: Part 12 Unit Tests](https://www.youtube.com/watch?v=q20ePqQE350) (Wed Apr 14 2021)
 - [SAP HANA Basics For Developers: Part 11 Packaging for Transport](https://www.youtube.com/watch?v=heA-TWZ0vug) (Wed Apr 14 2021)
-- [SAP HANA Basics For Developers: Part 10.11 SAPUI5 OData V4 With Create Option](https://www.youtube.com/watch?v=Za7H7zed5CY) (Wed Apr 14 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
