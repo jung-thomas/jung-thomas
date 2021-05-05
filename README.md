@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: Converting Existing SAP HANA Project to Cloud Application Programming Model](https://www.youtube.com/watch?v=CrhIfKvI1bs) (Wed May 05 2021)
 - [SAP Samples Spotlight: ui5-service-worker-sample](https://www.youtube.com/watch?v=DMlGmIoXL2g) (Wed May 05 2021)
 - [SAP Tech Bytes: Deploy Serverless SAP Fiori Apps from the Kyma Runtime](https://www.youtube.com/watch?v=48vOeu7XqkM) (Tue May 04 2021)
 - [SAP Developer News: ABAP Platform Developer Edition, Kyma on AWS, SAP HANA-CLI, MTAs and Approuter](https://www.youtube.com/watch?v=C30mPmMrcTE) (Thu Apr 29 2021)
 - [SAP Tech Bytes: SAP Mobile Cards Push](https://www.youtube.com/watch?v=Msd0AFZ9Hd8) (Wed Apr 28 2021)
 - [SAP Developer News: SAP Cloud Connectors, SAP Fiori Elements, AI openSAP, SAP Launchpad, reCAP](https://www.youtube.com/watch?v=QGvPnTkTLjs) (Fri Apr 23 2021)
-- [Developer Keynote - FRONTEND component](https://www.youtube.com/watch?v=dmazQE90qLs) (Fri Apr 23 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
