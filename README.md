@@ -19,11 +19,11 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
   
 ## Videos and Live Streams
 - [SAP Developer News: SAP Fiori Design Guidelines and SAP Analytics Cloud Trial](https://www.youtube.com/watch?v=2bbFY_AumWc) (Fri May 07 2021)
-- [SAP Tech Bytes: Advocates Service – CAP Service, OData V2/4 & REST in One single Project](https://www.youtube.com/watch?v=LocKpyv2m8Y) (Thu May 06 2021)
-- [SAP Tech Bytes: Adding Node.js Module to Existing SAP HANA Project](https://www.youtube.com/watch?v=5GTTtq8405Y) (Wed May 05 2021)
-- [SAP Tech Bytes: Converting Existing SAP HANA Project to Cloud Application Programming Model](https://www.youtube.com/watch?v=CrhIfKvI1bs) (Wed May 05 2021)
+- [Advocates Service – CAP Service, OData V2/4 & REST in One single Project](https://www.youtube.com/watch?v=LocKpyv2m8Y) (Thu May 06 2021)
+- [Adding Node.js Module to Existing SAP HANA Project](https://www.youtube.com/watch?v=5GTTtq8405Y) (Wed May 05 2021)
+- [Converting Existing SAP HANA Project to Cloud Application Programming Model](https://www.youtube.com/watch?v=CrhIfKvI1bs) (Wed May 05 2021)
 - [SAP Samples Spotlight: ui5-service-worker-sample](https://www.youtube.com/watch?v=DMlGmIoXL2g) (Wed May 05 2021)
-- [SAP Tech Bytes: Deploy Serverless SAP Fiori Apps from the Kyma Runtime](https://www.youtube.com/watch?v=48vOeu7XqkM) (Tue May 04 2021)
+- [Deploy Serverless SAP Fiori Apps from the Kyma Runtime](https://www.youtube.com/watch?v=48vOeu7XqkM) (Tue May 04 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
