@@ -18,7 +18,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=YfxYgVePYgk) (Fri May 14 2021)
+- [SAP Developer News: Executive Community Call, SAP HANA Maintenance, SAP Fiori and more](https://www.youtube.com/watch?v=YfxYgVePYgk) (Fri May 14 2021)
 - [Advocates Service –  AppGyver App](https://www.youtube.com/watch?v=-4cyo3Ajtcw) (Wed May 12 2021)
 - [SAP Developer News: SAP Fiori Design Guidelines and SAP Analytics Cloud Trial](https://www.youtube.com/watch?v=2bbFY_AumWc) (Fri May 07 2021)
 - [Advocates Service – CAP Service, OData V2/4 & REST in One single Project](https://www.youtube.com/watch?v=LocKpyv2m8Y) (Thu May 06 2021)
