@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Multi-tenant Development with SAP BTP, Kyma Runtime](https://www.youtube.com/watch?v=hnD7Lr_2464) (Mon May 31 2021)
 - [Introducing the Open Documentation Initiative](https://www.youtube.com/watch?v=x7dbOpsquSg) (Fri May 28 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=cr246fXW25I) (Fri May 28 2021)
 - [SAP Developer News: Introducing the Open Documentation Initiative, SAPUI5 1.90 and more](https://www.youtube.com/watch?v=hQVum_-uvjM) (Thu May 20 2021)
 - [SAP Developer News: Executive Community Call, SAP HANA Maintenance, SAP Fiori and more](https://www.youtube.com/watch?v=YfxYgVePYgk) (Fri May 14 2021)
 - [Advocates Service –  AppGyver App](https://www.youtube.com/watch?v=-4cyo3Ajtcw) (Wed May 12 2021)
-- [SAP Developer News: SAP Fiori Design Guidelines and SAP Analytics Cloud Trial](https://www.youtube.com/watch?v=2bbFY_AumWc) (Fri May 07 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
