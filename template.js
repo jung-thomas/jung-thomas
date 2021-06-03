@@ -1,21 +1,4 @@
 module.exports = `
----
-layout: tutorial
-schemadotorg:
- "@context": http://schema.org/
- "@type": CreativeWork
- about: "This is a training material about schema.org"
- audience:
-   - "@type": Audience
-     name: WebMaster
- genre: "Tutorial"
- name: "Adding schema.org to your website"
- description: "In order to establish higher search results for online resources"
- keywords: ["schemaorg", "TeSS"]
- license: CC-BY 4.0
- version: 1.0
----
-
 # Hi there 👋🏼
 
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team at SAP .
