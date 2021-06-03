@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="gdNL7h4tiFRdmu4xIijaF8pRHTHKCgndfFS80y6N_i4" />
 # Hi there 👋🏼
 
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/) team at SAP .
