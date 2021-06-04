@@ -18,8 +18,8 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=eCNHwl6xoe8) (Thu Jun 03 2021)
 - [GitHub mechanics for the Open Documentation Initiative](https://www.youtube.com/watch?v=2INqXNYLA0w) (Tue Jun 01 2021)
+- [SAP Developer News](https://www.youtube.com/watch?v=eCNHwl6xoe8) (Thu Jun 03 2021)
 - [Multi-tenant Development with SAP BTP, Kyma Runtime](https://www.youtube.com/watch?v=hnD7Lr_2464) (Mon May 31 2021)
 - [Introducing the Open Documentation Initiative](https://www.youtube.com/watch?v=x7dbOpsquSg) (Fri May 28 2021)
 - [SAP Developer News: BTP ABAP 2105, openSAP Courses, Data Intelligence 2103, and Conversational AI](https://www.youtube.com/watch?v=cr246fXW25I) (Fri May 28 2021)
