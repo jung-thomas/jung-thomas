@@ -18,12 +18,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Open Working](https://www.youtube.com/watch?v=0XlzLq9_om0) (Fri Jun 11 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=lXmtDI9M5o0) (Thu Jun 10 2021)
 - [SAP Business Application Studio Productivity Tools](https://www.youtube.com/watch?v=KE6DKU1P9ic) (Wed Jun 09 2021)
 - [GitHub mechanics for the Open Documentation Initiative](https://www.youtube.com/watch?v=2INqXNYLA0w) (Fri Jun 04 2021)
 - [SAP Samples Spotlight: btp-showcase-actuals-cap](https://www.youtube.com/watch?v=9KmbAvXAj4M) (Fri Jun 04 2021)
 - [SAP Developer News: New SAP Learning Site,  Fiori Tools, & the new SAP Dev Advocates homepage](https://www.youtube.com/watch?v=eCNHwl6xoe8) (Thu Jun 03 2021)
-- [Multi-tenant Development with SAP BTP, Kyma Runtime](https://www.youtube.com/watch?v=hnD7Lr_2464) (Mon May 31 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
