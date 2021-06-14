@@ -28,7 +28,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [SAP Business Application Studio Productivity Tools](https://www.youtube.com/watch?v=KE6DKU1P9ic) (Wed Jun 09 2021)
 - [GitHub mechanics for the Open Documentation Initiative](https://www.youtube.com/watch?v=2INqXNYLA0w) (Fri Jun 04 2021)
 - [SAP Samples Spotlight: btp-showcase-actuals-cap](https://www.youtube.com/watch?v=9KmbAvXAj4M) (Fri Jun 04 2021)
-- More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
+- More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> or <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
