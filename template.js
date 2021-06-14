@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
-Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> or <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>.
+Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> or <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
 
@@ -32,8 +32,9 @@ Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="h
 <a href="https://people.sap.com/thomas.jung#overview">
   <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/thomas.jung" />
 </a>
+</br>
 <a href="https://people.sap.com/thomas.jung#reputation">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/thomas.jung" />
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/thomas.jung?png=true" />
 </a>
 </p>
 
