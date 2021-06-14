@@ -4,7 +4,7 @@ module.exports = `
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/developer-advocates.html) team at SAP .
 
 [![Visits Badge](https://badges.pufler.dev/visits/jung-thomas/jung-thomas)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/jung-thomas/jung-thomas)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jung-thomas)](https://badges.pufler.dev)
 
 <table><tr><td valign="top" width="50%">
