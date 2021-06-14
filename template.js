@@ -34,7 +34,7 @@ Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="h
 </a>
 </br>
 <a href="https://people.sap.com/thomas.jung#reputation">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/thomas.jung" />
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/thomas.jung?test=2" />
 </a>
 </p>
 
