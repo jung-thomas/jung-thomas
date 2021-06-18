@@ -22,12 +22,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=Oot6c2XjpHY) (Thu Jun 17 2021)
 - [Open Working](https://www.youtube.com/watch?v=TG4mWXPrzh0) (Mon Jun 14 2021)
 - [Open Working](https://www.youtube.com/watch?v=0XlzLq9_om0) (Fri Jun 11 2021)
 - [SAP Developer News: UI5Con ON AIR, Developer Insights Survey, Industry Cloud, SAPPHIRE NOW, & reCAP](https://www.youtube.com/watch?v=lXmtDI9M5o0) (Thu Jun 10 2021)
 - [SAP Business Application Studio Productivity Tools](https://www.youtube.com/watch?v=KE6DKU1P9ic) (Wed Jun 09 2021)
 - [GitHub mechanics for the Open Documentation Initiative](https://www.youtube.com/watch?v=2INqXNYLA0w) (Fri Jun 04 2021)
-- [SAP Samples Spotlight: btp-showcase-actuals-cap](https://www.youtube.com/watch?v=9KmbAvXAj4M) (Fri Jun 04 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
