@@ -22,12 +22,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=8NHGxa85jk4) (Thu Jun 24 2021)
 - [SAP HANA Cloud User Management](https://www.youtube.com/watch?v=aK4Pd8KKBQE) (Wed Jun 23 2021)
 - [Open Working](https://www.youtube.com/watch?v=TG4mWXPrzh0) (Fri Jun 18 2021)
 - [SAP Developer News: SAP Graph, SAP Learning Hub Edition for SAP Next-Gen, & openSAP Data Science](https://www.youtube.com/watch?v=Oot6c2XjpHY) (Thu Jun 17 2021)
 - [Open Working](https://www.youtube.com/watch?v=0XlzLq9_om0) (Fri Jun 11 2021)
 - [SAP Developer News: UI5Con ON AIR, Developer Insights Survey, Industry Cloud, SAPPHIRE NOW, & reCAP](https://www.youtube.com/watch?v=lXmtDI9M5o0) (Thu Jun 10 2021)
-- [SAP Business Application Studio Productivity Tools](https://www.youtube.com/watch?v=KE6DKU1P9ic) (Wed Jun 09 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
