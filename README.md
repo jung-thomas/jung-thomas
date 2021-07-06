@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [Exploring SAP Graph together - Part 2](https://www.youtube.com/watch?v=1Ba4YAFl-Z8) (Mon Jul 05 2021)
-- [Exploring SAP Graph together](https://www.youtube.com/watch?v=0zgsY7QXoyQ) (Fri Jul 02 2021)
+- [Exploring SAP Graph together - Part 1](https://www.youtube.com/watch?v=0zgsY7QXoyQ) (Fri Jul 02 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=KByUJ8dDOQo) (Thu Jul 01 2021)
 - [How to Use the RAP Generator](https://www.youtube.com/watch?v=c8IFkjmLhI8) (Mon Jun 28 2021)
 - [SAP Developer News: Fundamental Library conference, CAP Tutorial, and SAP HANA Cloud Community Call](https://www.youtube.com/watch?v=8NHGxa85jk4) (Thu Jun 24 2021)
