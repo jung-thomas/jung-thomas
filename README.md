@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [ABAP - Past, Present & Future](https://www.youtube.com/watch?v=5lRjbSga38g) (Tue Jul 06 2021)
 - [Exploring SAP Graph together - Part 2](https://www.youtube.com/watch?v=1Ba4YAFl-Z8) (Mon Jul 05 2021)
 - [Exploring SAP Graph together - Part 1](https://www.youtube.com/watch?v=0zgsY7QXoyQ) (Fri Jul 02 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=KByUJ8dDOQo) (Thu Jul 01 2021)
+- [SAP Developer News: ABAP RAP Generator, SAP HANA Express 2.0 SPS05, SAP Graph, & Private Link (BETA)](https://www.youtube.com/watch?v=KByUJ8dDOQo) (Thu Jul 01 2021)
 - [How to Use the RAP Generator](https://www.youtube.com/watch?v=c8IFkjmLhI8) (Mon Jun 28 2021)
 - [SAP Developer News: Fundamental Library conference, CAP Tutorial, and SAP HANA Cloud Community Call](https://www.youtube.com/watch?v=8NHGxa85jk4) (Thu Jun 24 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
