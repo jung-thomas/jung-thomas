@@ -6,6 +6,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 [![Visits Badge](https://badges.pufler.dev/visits/jung-thomas/jung-thomas)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/jung-thomas/jung-thomas)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jung-thomas)](https://badges.pufler.dev)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/jung-thomas/jung-thomas)
 
 <table><tr><td valign="top" width="50%">
  
