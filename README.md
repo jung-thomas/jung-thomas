@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP - Past, Present & Future](https://www.youtube.com/watch?v=5lRjbSga38g) (Thu Jul 15 2021)
 - [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v=oGuFmha-KNE) (Mon Jul 12 2021)
 - [Exploring SAP Graph together - Part 2](https://www.youtube.com/watch?v=1Ba4YAFl-Z8) (Fri Jul 09 2021)
 - [#SAPBTP Development with GitHub Copilot](https://www.youtube.com/watch?v=oimXXKfJWOk) (Fri Jul 09 2021)
 - [Advocates Service – Building the Advocates App with SAP BTP SDK for iOS Part 1](https://www.youtube.com/watch?v=B2rPzwWHrJs) (Fri Jul 09 2021)
 - [Advocates Service – Building the Advocates App with SAP BTP SDK for iOS Part 2](https://www.youtube.com/watch?v=amKqv2wSybQ) (Fri Jul 09 2021)
-- [SAP Samples Spotlight: cloud-workflow-samples](https://www.youtube.com/watch?v=xS3a3TZrKNo) (Fri Jul 09 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
