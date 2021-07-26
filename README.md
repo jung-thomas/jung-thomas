@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v=j3VAP1vIq4s) (Mon Jul 26 2021)
 - [Exploring SAP Graph together - Part 4](https://www.youtube.com/watch?v=4Dhg5WCQUNo) (Fri Jul 23 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=B_QTgXzHt18) (Fri Jul 23 2021)
+- [SAP Continuous Integration and Delivery, SAP HANA CLI, & Community spotlight | SAP Developer News](https://www.youtube.com/watch?v=B_QTgXzHt18) (Fri Jul 23 2021)
 - [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v=oGuFmha-KNE) (Fri Jul 16 2021)
 - [ABAP Programming Models, CAP July 2021, SAP HANA Cloud QRC2/2021, and More | SAP Developer News](https://www.youtube.com/watch?v=P5TVj6YDC1c) (Thu Jul 15 2021)
 - [ABAP - Past, Present & Future](https://www.youtube.com/watch?v=5lRjbSga38g) (Thu Jul 15 2021)
