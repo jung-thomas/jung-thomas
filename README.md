@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=g1VkLZtgtMs) (Thu Aug 05 2021)
 - [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v=j3VAP1vIq4s) (Fri Jul 30 2021)
 - [SAP BTP Kyma + SAP Event Mesh, SAP Graph, AppGyver, Open Source Way Podcast | SAP Developer News](https://www.youtube.com/watch?v=wtVY7csQMqw) (Thu Jul 29 2021)
 - [SAP Fiori for iOS ARKit](https://www.youtube.com/watch?v=aVpojvjDEco) (Tue Jul 27 2021)
 - [Exploring SAP Graph together - Part 4](https://www.youtube.com/watch?v=4Dhg5WCQUNo) (Fri Jul 23 2021)
 - [SAP Continuous Integration and Delivery, SAP HANA CLI, & Community spotlight | SAP Developer News](https://www.youtube.com/watch?v=B_QTgXzHt18) (Fri Jul 23 2021)
-- [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v=oGuFmha-KNE) (Fri Jul 16 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
