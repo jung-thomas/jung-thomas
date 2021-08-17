@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Samples Spotlight: cloud-abap-rap](https://www.youtube.com/watch?v=Uctl63BV_zQ) (Tue Aug 17 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=6szUYEFBM14) (Thu Aug 12 2021)
 - [Your first Predictive Scenario in SAP Analytics Cloud](https://www.youtube.com/watch?v=Ie9Z498N4bM) (Thu Aug 12 2021)
 - [Sending Notifications from SAP BTP Applications to the SAP Fiori Launchpad](https://www.youtube.com/watch?v=PZPp1gyLLQo) (Wed Aug 11 2021)
 - [CAP August 2021, cds-pg, Front-end dev news, Community Spotlight on HANA | SAP Developer News](https://www.youtube.com/watch?v=g1VkLZtgtMs) (Thu Aug 05 2021)
 - [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v=j3VAP1vIq4s) (Fri Jul 30 2021)
-- [SAP BTP Kyma + SAP Event Mesh, SAP Graph, AppGyver, Open Source Way Podcast | SAP Developer News](https://www.youtube.com/watch?v=wtVY7csQMqw) (Thu Jul 29 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
