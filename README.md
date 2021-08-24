@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=zo8Niawoc8M) (Thu Aug 19 2021)
+- [SAP AppGyver, ABAP, and RISE with SAP | SAP Developer News](https://www.youtube.com/watch?v=zo8Niawoc8M) (Thu Aug 19 2021)
 - [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Tue Aug 17 2021)
 - [SAP Samples Spotlight: cloud-abap-rap](https://www.youtube.com/watch?v=Uctl63BV_zQ) (Tue Aug 17 2021)
 - [OData Extension for Temporal Data, SAP Event Mesh, and SAP Integration Suite | SAP Developer News](https://www.youtube.com/watch?v=6szUYEFBM14) (Thu Aug 12 2021)
