@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Intelligent RPA and SAP Analytics Cloud Download Excel from SAP Analytics Cloud to desktop](https://www.youtube.com/watch?v=AgkrZGBY6s8) (Wed Sep 01 2021)
 - [SAP TechEd, ABAP 2108, Fiori, UI5 Inspector, SAC Dev Handbook, Industry Cloud | SAP Developer News](https://www.youtube.com/watch?v=BBirG_gEp5s) (Fri Aug 27 2021)
 - [SAP AppGyver, ABAP, and RISE with SAP | SAP Developer News](https://www.youtube.com/watch?v=zo8Niawoc8M) (Thu Aug 19 2021)
 - [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Tue Aug 17 2021)
 - [SAP Samples Spotlight: cloud-abap-rap](https://www.youtube.com/watch?v=Uctl63BV_zQ) (Tue Aug 17 2021)
 - [OData Extension for Temporal Data, SAP Event Mesh, and SAP Integration Suite | SAP Developer News](https://www.youtube.com/watch?v=6szUYEFBM14) (Thu Aug 12 2021)
-- [Your first Predictive Scenario in SAP Analytics Cloud](https://www.youtube.com/watch?v=Ie9Z498N4bM) (Thu Aug 12 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
