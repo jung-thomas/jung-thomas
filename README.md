@@ -24,7 +24,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=mhk6Kot-Ays) (Mon Sep 06 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=NxtuYRkcHzg) (Fri Sep 03 2021)
+- [Fiori Design Guidelines, Devtoberfest, Artifact of the Month, Hackathons, Etc | SAP Developer News](https://www.youtube.com/watch?v=NxtuYRkcHzg) (Fri Sep 03 2021)
 - [SAP Intelligent RPA and SAP Analytics Cloud Download Excel from SAP Analytics Cloud to desktop](https://www.youtube.com/watch?v=AgkrZGBY6s8) (Wed Sep 01 2021)
 - [SAP TechEd, ABAP 2108, Fiori, UI5 Inspector, SAC Dev Handbook, Industry Cloud | SAP Developer News](https://www.youtube.com/watch?v=BBirG_gEp5s) (Fri Aug 27 2021)
 - [SAP AppGyver, ABAP, and RISE with SAP | SAP Developer News](https://www.youtube.com/watch?v=zo8Niawoc8M) (Thu Aug 19 2021)
