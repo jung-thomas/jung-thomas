@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=rsrF6xvyjZ8) (Thu Sep 09 2021)
 - [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=mhk6Kot-Ays) (Mon Sep 06 2021)
 - [Fiori Design Guidelines, Devtoberfest, Artifact of the Month, Hackathons, Etc | SAP Developer News](https://www.youtube.com/watch?v=NxtuYRkcHzg) (Fri Sep 03 2021)
 - [SAP Intelligent RPA and SAP Analytics Cloud Download Excel from SAP Analytics Cloud to desktop](https://www.youtube.com/watch?v=AgkrZGBY6s8) (Wed Sep 01 2021)
 - [SAP TechEd, ABAP 2108, Fiori, UI5 Inspector, SAC Dev Handbook, Industry Cloud | SAP Developer News](https://www.youtube.com/watch?v=BBirG_gEp5s) (Fri Aug 27 2021)
 - [SAP AppGyver, ABAP, and RISE with SAP | SAP Developer News](https://www.youtube.com/watch?v=zo8Niawoc8M) (Thu Aug 19 2021)
-- [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Tue Aug 17 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
