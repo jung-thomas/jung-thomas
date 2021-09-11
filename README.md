@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=mhk6Kot-Ays) (Fri Sep 10 2021)
 - [Security Aspects of SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=jQYMeN3jeOU) (Fri Sep 10 2021)
 - [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec) (Fri Sep 10 2021)
 - [Microservices are Probably Not What You Think They Are](https://www.youtube.com/watch?v=hS84pGcv2Gk) (Fri Sep 10 2021)
 - [Best Practices in the Cloud Native Era](https://www.youtube.com/watch?v=3Av2ve0nxCM) (Fri Sep 10 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=rsrF6xvyjZ8) (Thu Sep 09 2021)
-- [Fiori Design Guidelines, Devtoberfest, Artifact of the Month, Hackathons, Etc | SAP Developer News](https://www.youtube.com/watch?v=NxtuYRkcHzg) (Fri Sep 03 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
