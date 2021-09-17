@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Best Practices for CAP Node.js Apps](https://www.youtube.com/watch?v=WTOOse-Flj8) (Fri Sep 17 2021)
 - [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Fri Sep 17 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=0GHDt5GSut0) (Fri Sep 17 2021)
 - [Devtoberfest Launch Party](https://www.youtube.com/watch?v=QECsPXQBP3E) (Tue Sep 14 2021)
 - [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=mhk6Kot-Ays) (Fri Sep 10 2021)
 - [Security Aspects of SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=jQYMeN3jeOU) (Fri Sep 10 2021)
-- [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec) (Fri Sep 10 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
