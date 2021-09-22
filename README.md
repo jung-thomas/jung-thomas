@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Demystifying Data Science in the Enterprise](https://www.youtube.com/watch?v=G4vtt_U1wjs) (Wed Sep 22 2021)
 - [The Modern Enterprise Data Landscape](https://www.youtube.com/watch?v=fCVFb_xk1Gg) (Tue Sep 21 2021)
 - [Continuous Integration and Delivery with SAP](https://www.youtube.com/watch?v=BEZEdN9IMks) (Mon Sep 20 2021)
 - [Guidance for developing RAP applications in ABAP](https://www.youtube.com/watch?v=AHEkbCDkn-E) (Mon Sep 20 2021)
 - [Best Practices for CAP Node.js Apps](https://www.youtube.com/watch?v=WTOOse-Flj8) (Fri Sep 17 2021)
 - [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Fri Sep 17 2021)
-- [Devtoberfest Launch Party, Grace Hopper Celebration, AppGyver on BTP and more | SAP Developer News](https://www.youtube.com/watch?v=0GHDt5GSut0) (Fri Sep 17 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
