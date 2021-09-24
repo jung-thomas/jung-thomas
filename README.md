@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Devtoberfest 2021: One Week to Go!](https://blogs.sap.com/?p=1409499) 
 - [Devtoberfest 2021: The Developer Strikes Back](https://blogs.sap.com/?p=1395900) 
 - [SAP Tech Bytes: Adding Service Implementation to an SAP HANA Project](https://blogs.sap.com/?p=1332159) 
 - [SAP Tech Bytes: SAP HANA Mass Input with Duplicates](https://blogs.sap.com/?p=1300544) 
 - [SAP ABAP Platform 1909, Developer Edition: Day 1 Experience and Tips and Tricks](https://blogs.sap.com/?p=1278655) 
 - [Building hana-opensap-cloud-2020 Part 2: Project Setup and First DB Build](https://blogs.sap.com/?p=1258763) 
-- [New SAP Cloud Application Programming Model Sample for Many-to-Many Relationships and Fiori Annotations](https://blogs.sap.com/?p=1244336) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=89eL7LBsuRw) (Thu Sep 23 2021)
+- [A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum](https://www.youtube.com/watch?v=M6SXIeXbnik) (Thu Sep 23 2021)
 - [Demystifying Data Science in the Enterprise](https://www.youtube.com/watch?v=G4vtt_U1wjs) (Wed Sep 22 2021)
 - [The Modern Enterprise Data Landscape](https://www.youtube.com/watch?v=fCVFb_xk1Gg) (Tue Sep 21 2021)
 - [Continuous Integration and Delivery with SAP](https://www.youtube.com/watch?v=BEZEdN9IMks) (Mon Sep 20 2021)
 - [Guidance for developing RAP applications in ABAP](https://www.youtube.com/watch?v=AHEkbCDkn-E) (Mon Sep 20 2021)
-- [Best Practices for CAP Node.js Apps](https://www.youtube.com/watch?v=WTOOse-Flj8) (Fri Sep 17 2021)
-- [RAP - What's in it for you?](https://www.youtube.com/watch?v=VWLv3lTR3nY) (Fri Sep 17 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
