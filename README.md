@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Logging in and configuration with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=jN_4J8tmmTo) (Fri Sep 24 2021)
-- [Ask-the-Expert: Data Science in practice](https://www.youtube.com/watch?v=MU_W2J-uQbI) (Fri Sep 24 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=89eL7LBsuRw) (Thu Sep 23 2021)
-- [A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum](https://www.youtube.com/watch?v=M6SXIeXbnik) (Thu Sep 23 2021)
-- [Demystifying Data Science in the Enterprise](https://www.youtube.com/watch?v=G4vtt_U1wjs) (Wed Sep 22 2021)
-- [The Modern Enterprise Data Landscape](https://www.youtube.com/watch?v=fCVFb_xk1Gg) (Tue Sep 21 2021)
+- [SAP Samples Spotlight: btp-extensions-unified-order-management](https://www.youtube.com/watch?v=mY1zAfLBDLQ) (Mon Sep 27 2021)
+- [Create an Application with SAP AppGyver](https://www.youtube.com/watch?v=0xWz2XN0h2w) (Mon Sep 27 2021)
+- [Configure your AppGyver Application to Open your Device Camera](https://www.youtube.com/watch?v=DZyU1OPmlh4) (Mon Sep 27 2021)
+- [Connect your AppGyver Application to a Public API](https://www.youtube.com/watch?v=cH9mG77UubA) (Mon Sep 27 2021)
+- [Fetch Data from Public API to your AppGyver Application](https://www.youtube.com/watch?v=42R4JDCCFMo) (Mon Sep 27 2021)
+- [Display Fetched Data in your AppGyver Application](https://www.youtube.com/watch?v=n2U_PARo23E) (Mon Sep 27 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
