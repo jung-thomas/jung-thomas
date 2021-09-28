@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Attitude of Iteration](https://www.youtube.com/watch?v=3aSSKIMnLOo) (Tue Sep 28 2021)
+- [Pour Some Serverless on Me](https://www.youtube.com/watch?v=n8jLSZ82bpg) (Tue Sep 28 2021)
 - [Container Security: It's All About the Supply Chain](https://www.youtube.com/watch?v=acEwqW-4R18) (Mon Sep 27 2021)
 - [SAP Samples Spotlight: btp-extensions-unified-order-management](https://www.youtube.com/watch?v=mY1zAfLBDLQ) (Mon Sep 27 2021)
 - [Create an Application with SAP AppGyver](https://www.youtube.com/watch?v=0xWz2XN0h2w) (Mon Sep 27 2021)
 - [Configure your AppGyver Application to Open your Device Camera](https://www.youtube.com/watch?v=DZyU1OPmlh4) (Mon Sep 27 2021)
-- [Connect your AppGyver Application to a Public API](https://www.youtube.com/watch?v=cH9mG77UubA) (Mon Sep 27 2021)
-- [Fetch Data from Public API to your AppGyver Application](https://www.youtube.com/watch?v=42R4JDCCFMo) (Mon Sep 27 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
