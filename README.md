@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Getting Started with ABAP Developement - Part 1](https://www.youtube.com/watch?v=gRCg9mj0NaQ) (Fri Oct 01 2021)
+- [Data Visualization:  Then and Now](https://www.youtube.com/watch?v=HB9-lbnsHaA) (Fri Oct 01 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=5S942YktAQo) (Thu Sep 30 2021)
 - [Embedded Steampunk](https://www.youtube.com/watch?v=3jO-sUCO0Qw) (Thu Sep 30 2021)
 - [Meet-the-Author: Data & Analytics – Panel #2](https://www.youtube.com/watch?v=l5eSm6c3lmk) (Wed Sep 29 2021)
