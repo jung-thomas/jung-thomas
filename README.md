@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Scripting and JSON output with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=xRmHZGk4QCU) (Fri Oct 01 2021)
 - [Data Visualization:  Then and Now](https://www.youtube.com/watch?v=HB9-lbnsHaA) (Fri Oct 01 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=5S942YktAQo) (Thu Sep 30 2021)
 - [Embedded Steampunk](https://www.youtube.com/watch?v=3jO-sUCO0Qw) (Thu Sep 30 2021)
 - [Meet-the-Author: Data & Analytics – Panel #2](https://www.youtube.com/watch?v=l5eSm6c3lmk) (Wed Sep 29 2021)
 - [Meet-the-Author: Data & Analytics – Panel #1](https://www.youtube.com/watch?v=n_TPj9OYP5M) (Wed Sep 29 2021)
-- [Attitude of Iteration](https://www.youtube.com/watch?v=3aSSKIMnLOo) (Tue Sep 28 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
