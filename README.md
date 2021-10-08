@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=wvY9sJ2PLFE) (Thu Oct 07 2021)
 - [Understand "The Game" Devtoberfest Contest](https://www.youtube.com/watch?v=2WfhQmZARcM) (Thu Oct 07 2021)
 - [Devtoberfest Launch Party](https://www.youtube.com/watch?v=QECsPXQBP3E) (Thu Oct 07 2021)
 - [Let's write a script together with bash, jq, and the btp CLI](https://www.youtube.com/watch?v=mPngw5yZyf8) (Mon Oct 04 2021)
 - [Scripting and JSON output with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v=xRmHZGk4QCU) (Fri Oct 01 2021)
 - [Data Visualization:  Then and Now](https://www.youtube.com/watch?v=HB9-lbnsHaA) (Fri Oct 01 2021)
-- [Getting Started with ABAP Development - Part 1](https://www.youtube.com/watch?v=gRCg9mj0NaQ) (Fri Oct 01 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
