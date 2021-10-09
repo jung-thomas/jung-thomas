@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum](https://www.youtube.com/watch?v=M6SXIeXbnik) (Sat Oct 09 2021)
 - [Let's write a script together with bash, jq, and the btp CLI](https://www.youtube.com/watch?v=mPngw5yZyf8) (Fri Oct 08 2021)
 - [Introduction to Devtoberfest Fun Fridays](https://www.youtube.com/watch?v=MK_S1yrh31k) (Fri Oct 08 2021)
 - [Embedded Steampunk](https://www.youtube.com/watch?v=3jO-sUCO0Qw) (Fri Oct 08 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=wvY9sJ2PLFE) (Thu Oct 07 2021)
 - [Understand "The Game" Devtoberfest Contest](https://www.youtube.com/watch?v=2WfhQmZARcM) (Thu Oct 07 2021)
-- [Devtoberfest Launch Party](https://www.youtube.com/watch?v=QECsPXQBP3E) (Thu Oct 07 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
