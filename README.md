@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest Coding Challenges explained](https://www.youtube.com/watch?v=7LzXVb1gYT0) (Tue Oct 12 2021)
+- [Contribute to SAP Community during Devtoberfest](https://www.youtube.com/watch?v=6Fg3_zR7W50) (Tue Oct 12 2021)
+- [Guidance for developing RAP applications in ABAP](https://www.youtube.com/watch?v=AHEkbCDkn-E) (Tue Oct 12 2021)
 - [Best Practices for CAP Node.js Apps](https://www.youtube.com/watch?v=WTOOse-Flj8) (Mon Oct 11 2021)
 - [Getting Started with ABAP Development - Part 2](https://www.youtube.com/watch?v=4M1ieJgaRwA) (Mon Oct 11 2021)
 - [A Virtual Tour of the “Revolution” Exhibition at the Computer History Museum](https://www.youtube.com/watch?v=M6SXIeXbnik) (Sat Oct 09 2021)
-- [Let's write a script together with bash, jq, and the btp CLI](https://www.youtube.com/watch?v=mPngw5yZyf8) (Fri Oct 08 2021)
-- [Introduction to Devtoberfest Fun Fridays](https://www.youtube.com/watch?v=MK_S1yrh31k) (Fri Oct 08 2021)
-- [Embedded Steampunk](https://www.youtube.com/watch?v=3jO-sUCO0Qw) (Fri Oct 08 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
