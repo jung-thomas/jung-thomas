@@ -24,7 +24,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [Best Practices in the Cloud Native Era](https://www.youtube.com/watch?v=3Av2ve0nxCM) (Fri Oct 15 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=WWDtVGKdq1A) (Thu Oct 14 2021)
+- [SAP TechEd Registration, SAP AI Core & Launchpad, Community Group, Devtoberfest | SAP Developer News](https://www.youtube.com/watch?v=WWDtVGKdq1A) (Thu Oct 14 2021)
 - [Editor Extensions and Standards in the Modern World of Scripting and CLI Tools](https://www.youtube.com/watch?v=BEZEdN9IMks) (Wed Oct 13 2021)
 - [Devtoberfest Coding Challenges explained](https://www.youtube.com/watch?v=7LzXVb1gYT0) (Tue Oct 12 2021)
 - [Contribute to SAP Community during Devtoberfest](https://www.youtube.com/watch?v=6Fg3_zR7W50) (Tue Oct 12 2021)
