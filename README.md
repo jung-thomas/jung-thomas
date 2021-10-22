@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Devtoberfest 2021: Looking Back on Week 3 and Forward to Week 4](https://blogs.sap.com/?p=1421989) 
 - [Devtoberfest 2021: One Week to Go!](https://blogs.sap.com/?p=1409499) 
 - [Devtoberfest 2021: The Developer Strikes Back](https://blogs.sap.com/?p=1395900) 
 - [SAP Tech Bytes: Adding Service Implementation to an SAP HANA Project](https://blogs.sap.com/?p=1332159) 
 - [SAP Tech Bytes: SAP HANA Mass Input with Duplicates](https://blogs.sap.com/?p=1300544) 
 - [SAP ABAP Platform 1909, Developer Edition: Day 1 Experience and Tips and Tricks](https://blogs.sap.com/?p=1278655) 
-- [Building hana-opensap-cloud-2020 Part 2: Project Setup and First DB Build](https://blogs.sap.com/?p=1258763) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=eG_z6RzpS-0) (Fri Oct 22 2021)
 - [Snap! Programming Beauty and Joy](https://www.youtube.com/watch?v=ouJXcTTUAbg) (Thu Oct 21 2021)
 - [Snap! Designing a Programming Language for All Children](https://www.youtube.com/watch?v=UEDsNOubTg0) (Thu Oct 21 2021)
 - [Microservices are Probably Not What You Think They Are](https://www.youtube.com/watch?v=hS84pGcv2Gk) (Tue Oct 19 2021)
 - [Security Round Table](https://www.youtube.com/watch?v=XTKbRdaiKEg) (Mon Oct 18 2021)
 - [Best Practices in the Cloud Native Era](https://www.youtube.com/watch?v=3Av2ve0nxCM) (Fri Oct 15 2021)
-- [SAP TechEd Registration, SAP AI Core & Launchpad, Community Group, Devtoberfest | SAP Developer News](https://www.youtube.com/watch?v=WWDtVGKdq1A) (Thu Oct 14 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
