@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest - Pour Some Serverless on Me](https://www.youtube.com/watch?v=y1167Yme07o) (Fri Oct 22 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=eG_z6RzpS-0) (Fri Oct 22 2021)
 - [Snap! Programming Beauty and Joy](https://www.youtube.com/watch?v=ouJXcTTUAbg) (Thu Oct 21 2021)
 - [Snap! Designing a Programming Language for All Children](https://www.youtube.com/watch?v=UEDsNOubTg0) (Thu Oct 21 2021)
 - [Microservices are Probably Not What You Think They Are](https://www.youtube.com/watch?v=hS84pGcv2Gk) (Tue Oct 19 2021)
 - [Security Round Table](https://www.youtube.com/watch?v=XTKbRdaiKEg) (Mon Oct 18 2021)
-- [Best Practices in the Cloud Native Era](https://www.youtube.com/watch?v=3Av2ve0nxCM) (Fri Oct 15 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
