@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [Attitude of Iteration](https://www.youtube.com/watch?v=3aSSKIMnLOo) (Sat Oct 23 2021)
 - [Devtoberfest - Pour Some Serverless on Me](https://www.youtube.com/watch?v=y1167Yme07o) (Fri Oct 22 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=eG_z6RzpS-0) (Fri Oct 22 2021)
+- [Devtoberfest, CAP Transactions, SAP Fiori 3, Serverless, Workflow, SAP-samples | SAP Developer News](https://www.youtube.com/watch?v=eG_z6RzpS-0) (Fri Oct 22 2021)
 - [Snap! Programming Beauty and Joy](https://www.youtube.com/watch?v=ouJXcTTUAbg) (Thu Oct 21 2021)
 - [Snap! Designing a Programming Language for All Children](https://www.youtube.com/watch?v=UEDsNOubTg0) (Thu Oct 21 2021)
 - [Microservices are Probably Not What You Think They Are](https://www.youtube.com/watch?v=hS84pGcv2Gk) (Tue Oct 19 2021)
