@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Security Round Table](https://www.youtube.com/watch?v=XTKbRdaiKEg) (Wed Oct 27 2021)
 - [Hackers Want Passwords](https://www.youtube.com/watch?v=zatXHKgPnec) (Tue Oct 26 2021)
 - [Attitude of Iteration](https://www.youtube.com/watch?v=3aSSKIMnLOo) (Sat Oct 23 2021)
 - [Devtoberfest - Pour Some Serverless on Me](https://www.youtube.com/watch?v=y1167Yme07o) (Fri Oct 22 2021)
 - [Devtoberfest, CAP Transactions, SAP Fiori 3, Serverless, Workflow, SAP-samples | SAP Developer News](https://www.youtube.com/watch?v=eG_z6RzpS-0) (Fri Oct 22 2021)
 - [Snap! Programming Beauty and Joy](https://www.youtube.com/watch?v=ouJXcTTUAbg) (Thu Oct 21 2021)
-- [Snap! Designing a Programming Language for All Children](https://www.youtube.com/watch?v=UEDsNOubTg0) (Thu Oct 21 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
