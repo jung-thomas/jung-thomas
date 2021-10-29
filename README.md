@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=Eo5kYkiTvrQ) (Fri Oct 29 2021)
 - [Container Security: It's All About the Supply Chain](https://www.youtube.com/watch?v=acEwqW-4R18) (Fri Oct 29 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=3eY0lBxLKYw) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=oG-cPC5binc) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=zHkZ3cpW4OA) (Thu Oct 28 2021)
 - [Web Components: The Reusable Building Blocks of the Web](https://www.youtube.com/watch?v=b_Hqu4GtJvM) (Thu Oct 28 2021)
-- [Apollo GraphQL Usage in UI5 Apps (Apollo Reloaded)](https://www.youtube.com/watch?v=eeIt_EFpbeQ) (Thu Oct 28 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
