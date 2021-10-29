@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=3eY0lBxLKYw) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=oG-cPC5binc) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=zHkZ3cpW4OA) (Thu Oct 28 2021)
 - [Web Components: The Reusable Building Blocks of the Web](https://www.youtube.com/watch?v=b_Hqu4GtJvM) (Thu Oct 28 2021)
 - [Apollo GraphQL Usage in UI5 Apps (Apollo Reloaded)](https://www.youtube.com/watch?v=eeIt_EFpbeQ) (Thu Oct 28 2021)
 - [Free your Web Apps from Speed Bumps](https://www.youtube.com/watch?v=CBF_8eOjuc8) (Thu Oct 28 2021)
-- [Security Aspects of SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=jQYMeN3jeOU) (Thu Oct 28 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
