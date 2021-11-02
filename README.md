@@ -26,7 +26,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [Micro Frontends with Luigi – UI Development at Scale November](https://www.youtube.com/watch?v=EzQK0v7xBuE) (Tue Nov 02 2021)
 - [How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=Eo5kYkiTvrQ) (Fri Oct 29 2021)
 - [Container Security: It's All About the Supply Chain](https://www.youtube.com/watch?v=acEwqW-4R18) (Fri Oct 29 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=3eY0lBxLKYw) (Thu Oct 28 2021)
+- [Devtoberfest, CAP, SAP TechEd, ABAP Platform 2021 | SAP Developer News](https://www.youtube.com/watch?v=3eY0lBxLKYw) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=oG-cPC5binc) (Thu Oct 28 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=zHkZ3cpW4OA) (Thu Oct 28 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
