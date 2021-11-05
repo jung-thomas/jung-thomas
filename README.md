@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Ask-the-Expert: Data Science in practice](https://www.youtube.com/watch?v=MU_W2J-uQbI) (Fri Nov 05 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=vKQUnl9C6Nk) (Thu Nov 04 2021)
 - [Data Visualization:  Then and Now](https://www.youtube.com/watch?v=HB9-lbnsHaA) (Thu Nov 04 2021)
 - [Meet-the-Author: Data & Analytics – Panel #2](https://www.youtube.com/watch?v=l5eSm6c3lmk) (Thu Nov 04 2021)
 - [Meet-the-Author: Data & Analytics – Panel #1](https://www.youtube.com/watch?v=n_TPj9OYP5M) (Wed Nov 03 2021)
 - [The Modern Enterprise Data Landscape](https://www.youtube.com/watch?v=fCVFb_xk1Gg) (Wed Nov 03 2021)
-- [Demystifying Data Science in the Enterprise](https://www.youtube.com/watch?v=G4vtt_U1wjs) (Tue Nov 02 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
