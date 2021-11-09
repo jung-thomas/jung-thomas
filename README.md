@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Micro Frontends with Luigi – UI Development at Scale November](https://www.youtube.com/watch?v=EzQK0v7xBuE) (Tue Nov 09 2021)
 - [Free your Web Apps from Speed Bumps](https://www.youtube.com/watch?v=CBF_8eOjuc8) (Mon Nov 08 2021)
 - [Snap! Programming Beauty and Joy](https://www.youtube.com/watch?v=ouJXcTTUAbg) (Sat Nov 06 2021)
 - [Snap! Designing a Programming Language for All Children](https://www.youtube.com/watch?v=UEDsNOubTg0) (Fri Nov 05 2021)
 - [Ask-the-Expert: Data Science in practice](https://www.youtube.com/watch?v=MU_W2J-uQbI) (Fri Nov 05 2021)
 - [SAP Developer News](https://www.youtube.com/watch?v=vKQUnl9C6Nk) (Thu Nov 04 2021)
-- [Data Visualization:  Then and Now](https://www.youtube.com/watch?v=HB9-lbnsHaA) (Thu Nov 04 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
