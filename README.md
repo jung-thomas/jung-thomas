@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=oG-cPC5binc) (Sat Nov 13 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=zHkZ3cpW4OA) (Fri Nov 12 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=SZza3OBZHLM) (Fri Nov 12 2021)
+- [CAP Nov 2021, SAP TechEd 2021, UI News HANA 2.0 SPS 06 | SAP Developer News](https://www.youtube.com/watch?v=SZza3OBZHLM) (Fri Nov 12 2021)
 - [How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=Eo5kYkiTvrQ) (Thu Nov 11 2021)
 - [Web Components: The Reusable Building Blocks of the Web](https://www.youtube.com/watch?v=b_Hqu4GtJvM) (Thu Nov 11 2021)
 - [Accelerate App Development and Process Automation with Low Code and No Code](https://www.youtube.com/watch?v=4wvPmyCh7EQ) (Wed Nov 10 2021)
