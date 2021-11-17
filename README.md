@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP TechEd 2021 Developer Keynote](https://blogs.sap.com/?p=1439533) 
 - [Devtoberfest 2021: Looking Back on Week 3 and Forward to Week 4](https://blogs.sap.com/?p=1421989) 
 - [Devtoberfest 2021: One Week to Go!](https://blogs.sap.com/?p=1409499) 
 - [Devtoberfest 2021: The Developer Strikes Back](https://blogs.sap.com/?p=1395900) 
 - [SAP Tech Bytes: Adding Service Implementation to an SAP HANA Project](https://blogs.sap.com/?p=1332159) 
 - [SAP Tech Bytes: SAP HANA Mass Input with Duplicates](https://blogs.sap.com/?p=1300544) 
-- [SAP ABAP Platform 1909, Developer Edition: Day 1 Experience and Tips and Tricks](https://blogs.sap.com/?p=1278655) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Delve Into the Latest on ABAP](https://www.youtube.com/watch?v=MoIg170UF6I) (Wed Nov 17 2021)
 - [SAP BTP Free Tier: Create Your Individual Account](https://www.youtube.com/watch?v=0zGuMus4R10) (Tue Nov 16 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=oG-cPC5binc) (Sat Nov 13 2021)
 - [Devtoberfest Trivia Night](https://www.youtube.com/watch?v=zHkZ3cpW4OA) (Fri Nov 12 2021)
 - [CAP Nov 2021, SAP TechEd 2021, UI News HANA 2.0 SPS 06 | SAP Developer News](https://www.youtube.com/watch?v=SZza3OBZHLM) (Fri Nov 12 2021)
 - [How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=Eo5kYkiTvrQ) (Thu Nov 11 2021)
-- [Web Components: The Reusable Building Blocks of the Web](https://www.youtube.com/watch?v=b_Hqu4GtJvM) (Thu Nov 11 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
