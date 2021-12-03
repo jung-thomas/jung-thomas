@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=ZLTEdCmb7Dc) (Fri Dec 03 2021)
 - [Accelerate App Development and Process Automation with Low Code and No Code](https://www.youtube.com/watch?v=4wvPmyCh7EQ) (Fri Nov 19 2021)
 - [Review Devtoberfest: A Recap](https://www.youtube.com/watch?v=JReeb6SMZ1g) (Fri Nov 19 2021)
 - [SAP TechEd Recap, SAP CAP Nov 2021 Part 2 | SAP Developer News](https://www.youtube.com/watch?v=0OnPWJhKNcY) (Thu Nov 18 2021)
 - [Improve Developers' Lives: Developer Keynote and Open Discussion](https://www.youtube.com/watch?v=kOFuwDSXBZg) (Thu Nov 18 2021)
 - [Delve Into the Latest on ABAP](https://www.youtube.com/watch?v=MoIg170UF6I) (Wed Nov 17 2021)
-- [SAP BTP Free Tier: Create Your Individual Account](https://www.youtube.com/watch?v=0zGuMus4R10) (Tue Nov 16 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
