@@ -24,7 +24,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [Unpacking an *.mtar Archive](https://www.youtube.com/watch?v=Bo5qtTsmObY) (Mon Dec 06 2021)
-- [SAP Developer News](https://www.youtube.com/watch?v=ZLTEdCmb7Dc) (Fri Dec 03 2021)
+- [ABAP 2111, Horizon Theme, BTP Documentation, HTTP/2 support, and more | SAP Developer News](https://www.youtube.com/watch?v=ZLTEdCmb7Dc) (Fri Dec 03 2021)
 - [Accelerate App Development and Process Automation with Low Code and No Code](https://www.youtube.com/watch?v=4wvPmyCh7EQ) (Fri Nov 19 2021)
 - [Review Devtoberfest: A Recap](https://www.youtube.com/watch?v=JReeb6SMZ1g) (Fri Nov 19 2021)
 - [SAP TechEd Recap, SAP CAP Nov 2021 Part 2 | SAP Developer News](https://www.youtube.com/watch?v=0OnPWJhKNcY) (Thu Nov 18 2021)
