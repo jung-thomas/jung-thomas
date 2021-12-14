@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=ibZf72XEwVU) (Fri Dec 10 2021)
+- [SAP Business Application Studio low-code, Kyma 2.0, SAP HANA 2.0 SPS 06 | SAP Developer News](https://www.youtube.com/watch?v=ibZf72XEwVU) (Fri Dec 10 2021)
 - [Calling ABAP Services from an SAP Conversational AI Chatbot](https://www.youtube.com/watch?v=j-hNvzwsbw0) (Wed Dec 08 2021)
 - [Unpacking an *.mtar Archive](https://www.youtube.com/watch?v=Bo5qtTsmObY) (Mon Dec 06 2021)
 - [ABAP 2111, Horizon Theme, BTP Documentation, HTTP/2 support, and more | SAP Developer News](https://www.youtube.com/watch?v=ZLTEdCmb7Dc) (Fri Dec 03 2021)
