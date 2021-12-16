@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Getting Started with ABAP Development - Part 3](https://www.youtube.com/watch?v=elVfOGopjCM) (Thu Dec 16 2021)
 - [SAP Cloud Application Programming Model: Consume External Services](https://www.youtube.com/watch?v=rWQFbXFEr1M) (Tue Dec 14 2021)
 - [SAP Business Application Studio low-code, Kyma 2.0, SAP HANA 2.0 SPS 06 | SAP Developer News](https://www.youtube.com/watch?v=ibZf72XEwVU) (Fri Dec 10 2021)
 - [Calling ABAP Services from an SAP Conversational AI Chatbot](https://www.youtube.com/watch?v=j-hNvzwsbw0) (Wed Dec 08 2021)
 - [Unpacking an *.mtar Archive](https://www.youtube.com/watch?v=Bo5qtTsmObY) (Mon Dec 06 2021)
 - [ABAP 2111, Horizon Theme, BTP Documentation, HTTP/2 support, and more | SAP Developer News](https://www.youtube.com/watch?v=ZLTEdCmb7Dc) (Fri Dec 03 2021)
-- [Accelerate App Development and Process Automation with Low Code and No Code](https://www.youtube.com/watch?v=4wvPmyCh7EQ) (Fri Nov 19 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
