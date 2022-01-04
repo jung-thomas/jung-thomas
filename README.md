@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=qrxF5Kn5GtQ) (Thu Dec 30 2021)
+- [2021 Year in Review, Bloopers and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=qrxF5Kn5GtQ) (Thu Dec 30 2021)
 - [Log4j, CAP Dec 2021, TypeScript Sample, ABAP 2021 | SAP Developer News](https://www.youtube.com/watch?v=GdxcL9jhMR4) (Fri Dec 17 2021)
 - [Getting Started with ABAP Development - Part 3](https://www.youtube.com/watch?v=elVfOGopjCM) (Thu Dec 16 2021)
 - [SAP Cloud Application Programming Model: Consume External Services](https://www.youtube.com/watch?v=rWQFbXFEr1M) (Tue Dec 14 2021)
