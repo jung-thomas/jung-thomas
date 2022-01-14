@@ -23,9 +23,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Developer Keynote btp CLI scripting part 2 - obtaining and parsing JSON output in btpguid.](https://www.youtube.com/watch?v=_tQWo2bzFzE) (Fri Jan 14 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=_pWVt_BKfwY) (Thu Jan 13 2022)
 - [SAP Tech Bytes: iOS Multi-User Support](https://www.youtube.com/watch?v=tBWIslu5hZ4) (Thu Jan 13 2022)
-- [Booting our 2022 live stream series with a review of Developer Keynote btp CLI scripting](https://www.youtube.com/watch?v=1jekfZJ3fTk) (Mon Jan 10 2022)
 - [2021 Year in Review, Bloopers and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=qrxF5Kn5GtQ) (Thu Dec 30 2021)
 - [Log4j, CAP Dec 2021, TypeScript Sample, ABAP 2021 | SAP Developer News](https://www.youtube.com/watch?v=GdxcL9jhMR4) (Fri Dec 17 2021)
 - [Getting Started with ABAP Development - Part 3](https://www.youtube.com/watch?v=elVfOGopjCM) (Thu Dec 16 2021)
