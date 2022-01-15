@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP Tech Bytes: SAP HANA / CAP Access Tables from a Different Schema](https://blogs.sap.com/?p=1471463) 
 - [SAP TechEd 2021 Developer Keynote](https://blogs.sap.com/?p=1439533) 
 - [Devtoberfest 2021: Looking Back on Week 3 and Forward to Week 4](https://blogs.sap.com/?p=1421989) 
 - [Devtoberfest 2021: One Week to Go!](https://blogs.sap.com/?p=1409499) 
 - [Devtoberfest 2021: The Developer Strikes Back](https://blogs.sap.com/?p=1395900) 
 - [SAP Tech Bytes: Adding Service Implementation to an SAP HANA Project](https://blogs.sap.com/?p=1332159) 
-- [SAP Tech Bytes: SAP HANA Mass Input with Duplicates](https://blogs.sap.com/?p=1300544) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Booting our 2022 live stream series with a review of Developer Keynote btp CLI scripting](https://www.youtube.com/watch?v=1jekfZJ3fTk) (Fri Jan 14 2022)
 - [Developer Keynote btp CLI scripting part 2 - obtaining and parsing JSON output in btpguid.](https://www.youtube.com/watch?v=_tQWo2bzFzE) (Fri Jan 14 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=_pWVt_BKfwY) (Thu Jan 13 2022)
 - [SAP Tech Bytes: iOS Multi-User Support](https://www.youtube.com/watch?v=tBWIslu5hZ4) (Thu Jan 13 2022)
 - [2021 Year in Review, Bloopers and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=qrxF5Kn5GtQ) (Thu Dec 30 2021)
 - [Log4j, CAP Dec 2021, TypeScript Sample, ABAP 2021 | SAP Developer News](https://www.youtube.com/watch?v=GdxcL9jhMR4) (Fri Dec 17 2021)
-- [Getting Started with ABAP Development - Part 3](https://www.youtube.com/watch?v=elVfOGopjCM) (Thu Dec 16 2021)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
