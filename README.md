@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Extending SAP S4/HANA Cloud Applications with Custom ABAP using BAdIs](https://www.youtube.com/watch?v=YHISNMQbnMQ) (Tue Jan 18 2022)
+- [Extending SAP S/4HANA Cloud Applications with Custom ABAP using BAdIs](https://www.youtube.com/watch?v=YHISNMQbnMQ) (Tue Jan 18 2022)
 - [2 Minutes of SAPUI5 - #2](https://www.youtube.com/watch?v=zWPfAf7Hlek) (Mon Jan 17 2022)
 - [2 Minutes of SAPUI5 - #1](https://www.youtube.com/watch?v=J9NMwsipMkw) (Mon Jan 17 2022)
 - [Booting our 2022 live stream series with a review of Developer Keynote btp CLI scripting](https://www.youtube.com/watch?v=1jekfZJ3fTk) (Fri Jan 14 2022)
