@@ -28,7 +28,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [2 Minutes of SAPUI5 - #1](https://www.youtube.com/watch?v=J9NMwsipMkw) (Mon Jan 17 2022)
 - [Booting our 2022 live stream series with a review of Developer Keynote btp CLI scripting](https://www.youtube.com/watch?v=1jekfZJ3fTk) (Fri Jan 14 2022)
 - [Developer Keynote btp CLI scripting part 2 - obtaining and parsing JSON output in btpguid.](https://www.youtube.com/watch?v=_tQWo2bzFzE) (Fri Jan 14 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=_pWVt_BKfwY) (Thu Jan 13 2022)
+- [ASUG ABAP Webcasts, SAP Graph, UI5 Feedback, TechEd Podcast, BTP SDK for iOS | SAP Developer News](https://www.youtube.com/watch?v=_pWVt_BKfwY) (Thu Jan 13 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
