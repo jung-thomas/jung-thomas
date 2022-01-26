@@ -11,12 +11,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP HANA Database Explorer VSCode Extension Getting Started Tips](https://blogs.sap.com/?p=1479599) 
 - [SAP Tech Bytes: SAP HANA / CAP Access Tables from a Different Schema](https://blogs.sap.com/?p=1471463) 
 - [SAP TechEd 2021 Developer Keynote](https://blogs.sap.com/?p=1439533) 
 - [Devtoberfest 2021: Looking Back on Week 3 and Forward to Week 4](https://blogs.sap.com/?p=1421989) 
 - [Devtoberfest 2021: One Week to Go!](https://blogs.sap.com/?p=1409499) 
 - [Devtoberfest 2021: The Developer Strikes Back](https://blogs.sap.com/?p=1395900) 
-- [SAP Tech Bytes: Adding Service Implementation to an SAP HANA Project](https://blogs.sap.com/?p=1332159) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
@@ -26,7 +26,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [2 Minutes of SAPUI5 - #3 (JSON Models, Data Binding)](https://www.youtube.com/watch?v=q2BeNFJoQdo) (Wed Jan 26 2022)
 - [Fun with SAP BTP Cloud Management Service and Core Services APIs](https://www.youtube.com/watch?v=KiPJJHmEbgc) (Mon Jan 24 2022)
 - [Developer Keynote btp CLI scripting part 2 - obtaining and parsing JSON output with jq](https://www.youtube.com/watch?v=_tQWo2bzFzE) (Fri Jan 21 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=Cuoy-J0UvzU) (Thu Jan 20 2022)
+- [SAPUI5, SAP BTP Unified Runtime, Hands-On SAP Devs Live Streams | SAP Developer News](https://www.youtube.com/watch?v=Cuoy-J0UvzU) (Thu Jan 20 2022)
 - [2 Minutes of ABAP: 5 Mistakes to Avoid](https://www.youtube.com/watch?v=Ov3LuwZNIUY) (Thu Jan 20 2022)
 - [Extending SAP S/4HANA Cloud Applications with Custom ABAP using BAdIs](https://www.youtube.com/watch?v=YHISNMQbnMQ) (Tue Jan 18 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
