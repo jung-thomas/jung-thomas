@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [2 Minutes of Cloud Native - #2 (Why do I need Kubernetes?)](https://www.youtube.com/watch?v=NDEmS4gkS2g) (Fri Feb 11 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=e4vdhv9Fclw) (Thu Feb 10 2022)
 - [2 Minutes of ABAP - #3 (What Is ABAP?)](https://www.youtube.com/watch?v=3-edz2POPGQ) (Thu Feb 10 2022)
 - [2 Minutes of SAPUI5 - #5 (Approuter, Middleware)](https://www.youtube.com/watch?v=cy9oolXAJDE) (Wed Feb 09 2022)
 - [2 Minutes of SAPUI5 - #4 (Remote Data Source, Approuter)](https://www.youtube.com/watch?v=MHJzIz7iiHs) (Tue Feb 08 2022)
 - [2 Minutes of Cloud Native - #1 (What is Kubernetes?)](https://www.youtube.com/watch?v=5fCRiU12gOo) (Mon Feb 07 2022)
-- [Let's explore dev containers with VS Code and Tutorial Navigator content](https://www.youtube.com/watch?v=AQ-6qxtAbxk) (Fri Feb 04 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
