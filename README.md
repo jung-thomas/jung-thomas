@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v=CRUa3Ndp4aU) (Sun Feb 13 2022)
 - [2 Minutes of ABAP - #4 (Program Types)](https://www.youtube.com/watch?v=AyUlndXZ6ls) (Fri Feb 11 2022)
 - [2 Minutes of Cloud Native - #2 (Why do I need Kubernetes?)](https://www.youtube.com/watch?v=NDEmS4gkS2g) (Fri Feb 11 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=e4vdhv9Fclw) (Thu Feb 10 2022)
 - [2 Minutes of ABAP - #3 (What Is ABAP?)](https://www.youtube.com/watch?v=3-edz2POPGQ) (Thu Feb 10 2022)
 - [2 Minutes of SAPUI5 - #5 (Approuter, Middleware)](https://www.youtube.com/watch?v=cy9oolXAJDE) (Wed Feb 09 2022)
-- [2 Minutes of SAPUI5 - #4 (Remote Data Source, Approuter)](https://www.youtube.com/watch?v=MHJzIz7iiHs) (Tue Feb 08 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
