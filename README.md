@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v=CRUa3Ndp4aU) (Fri Feb 18 2022)
 - [2 Minutes of Cloud Native - #3 (What Kubernetes is not!)](https://www.youtube.com/watch?v=K1MfZAIC1xY) (Fri Feb 18 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=9nOhwq0t0gw) (Fri Feb 18 2022)
 - [2 Minutes of SAPUI5 - #6 (Build, Deployment)](https://www.youtube.com/watch?v=ReZOHY8S2h0) (Wed Feb 16 2022)
 - [2 Minutes of ABAP - #4 (Program Types)](https://www.youtube.com/watch?v=AyUlndXZ6ls) (Fri Feb 11 2022)
 - [2 Minutes of Cloud Native - #2 (Why do I need Kubernetes?)](https://www.youtube.com/watch?v=NDEmS4gkS2g) (Fri Feb 11 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=e4vdhv9Fclw) (Thu Feb 10 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
