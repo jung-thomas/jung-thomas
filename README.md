@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=sQ6ekMpG34s) (Thu Feb 24 2022)
+- [openSAP HANA, ABAP 2202, SAP Process Automation, SAPUI5 1.99 | SAP Developer News](https://www.youtube.com/watch?v=sQ6ekMpG34s) (Thu Feb 24 2022)
 - [2 Minutes of Cloud Native - #4 (What is Containerization?)](https://www.youtube.com/watch?v=CW_hRR84nQI) (Thu Feb 24 2022)
 - [2 Minutes of SAPUI5 - #7 (Authorization)](https://www.youtube.com/watch?v=2QLI_g54D6U) (Wed Feb 23 2022)
 - [Let's explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v=CRUa3Ndp4aU) (Fri Feb 18 2022)
