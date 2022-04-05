@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 2 Promises](https://blogs.sap.com/?p=1519693) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 1 hana-client vs hdb](https://blogs.sap.com/?p=1516535) 
 - [SAP CAP Recent Enhancements the HANA Dev Should Know About](https://blogs.sap.com/?p=1490583) 
 - [The 2022 SAP Developer Insights Survey - Still Time to Participate](https://blogs.sap.com/?p=1481715) 
 - [SAP HANA Database Explorer VSCode Extension Getting Started Tips](https://blogs.sap.com/?p=1479599) 
 - [SAP Tech Bytes: SAP HANA / CAP Access Tables from a Different Schema](https://blogs.sap.com/?p=1471463) 
-- [SAP TechEd 2021 Developer Keynote](https://blogs.sap.com/?p=1439533) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v=OPnQQS7AIRM) (Tue Apr 05 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=0XyJ3nAiLEI) (Thu Mar 31 2022)
 - [2 Minutes of SAPUI5 - #8 (i18n, Custom CSS)](https://www.youtube.com/watch?v=iWofdx18Xk4) (Wed Mar 30 2022)
 - [2 Minutes of Cloud Native - #5 (A High-Level View on Kubernetes Components)](https://www.youtube.com/watch?v=iiSKclYuLCs) (Wed Mar 23 2022)
 - [Kyma 2.0, ABAP Debugging Challenge, reCAP 2022, UI5Con On Air, Cloud SDK 4.0 | SAP Developer News](https://www.youtube.com/watch?v=_YtnxRKIK2M) (Fri Mar 18 2022)
 - [2 Minutes of ABAP - #5 (Function Groups)](https://www.youtube.com/watch?v=vYRkHQzRbQQ) (Wed Mar 02 2022)
-- [openSAP HANA, ABAP 2202, SAP Process Automation, SAPUI5 1.99 | SAP Developer News](https://www.youtube.com/watch?v=sQ6ekMpG34s) (Thu Feb 24 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
