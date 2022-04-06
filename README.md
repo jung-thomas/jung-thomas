@@ -11,12 +11,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 3 Wrappers and Express](https://blogs.sap.com/?p=1519778) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 2 Promises](https://blogs.sap.com/?p=1519693) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 1 hana-client vs hdb](https://blogs.sap.com/?p=1516535) 
 - [SAP CAP Recent Enhancements the HANA Dev Should Know About](https://blogs.sap.com/?p=1490583) 
 - [The 2022 SAP Developer Insights Survey - Still Time to Participate](https://blogs.sap.com/?p=1481715) 
 - [SAP HANA Database Explorer VSCode Extension Getting Started Tips](https://blogs.sap.com/?p=1479599) 
-- [SAP Tech Bytes: SAP HANA / CAP Access Tables from a Different Schema](https://blogs.sap.com/?p=1471463) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
