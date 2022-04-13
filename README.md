@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [2 Minutes of API Basics - HTTP](https://www.youtube.com/watch?v=Ic37FI351G4) (Wed Apr 13 2022)
 - [2 Minutes of SAPUI5 - #9 (Routing/Navigation)](https://www.youtube.com/watch?v=9qTnCc3A6BU) (Tue Apr 12 2022)
 - [Add Speech-To-Text to Your Chatbot](https://www.youtube.com/watch?v=cE3sfhOMSXU) (Mon Apr 11 2022)
 - [2 Minutes of Cloud Native - #6 (The Kubernetes Control Plane Explained)](https://www.youtube.com/watch?v=Qwa2pFNOc5s) (Fri Apr 08 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=jG7RuQrNAMM) (Thu Apr 07 2022)
 - [Developers Digest #101](https://www.youtube.com/watch?v=_NKDI8QI0Vo) (Wed Apr 06 2022)
-- [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v=OPnQQS7AIRM) (Tue Apr 05 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
