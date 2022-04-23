@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v=5_Ns0ihQPD4) (Fri Apr 22 2022)
 - [Cloud Native: Build a Deployable Container](https://www.youtube.com/watch?v=w-KiWaMVurc) (Fri Apr 22 2022)
 - [Digging deeper into service brokering and consumption on SAP Business Technology Platform](https://www.youtube.com/watch?v=9OAlu1wuf78) (Fri Apr 22 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=Ix9B7rFGdaY) (Thu Apr 21 2022)
 - [ABAP: On-Premises vs. Cloud](https://www.youtube.com/watch?v=XBlfqiEemRQ) (Wed Apr 20 2022)
 - [Cloud Native: Serverless, Microservices & Serverless Functions](https://www.youtube.com/watch?v=tusT20zjG3A) (Fri Apr 15 2022)
-- [CAP Roundtable, SPA on BTP Free Tier, 2 Minutes of for API Basics | SAP Developer News](https://www.youtube.com/watch?v=tvJp08QOtas) (Thu Apr 14 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
