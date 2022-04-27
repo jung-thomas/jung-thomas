@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [ABAP: Create New Dictionary Structure](https://www.youtube.com/watch?v=OpasXtKtjhA) (Wed Apr 27 2022)
 - [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v=5_Ns0ihQPD4) (Fri Apr 22 2022)
-- [Cloud Native: Build a Deployable Container](https://www.youtube.com/watch?v=w-KiWaMVurc) (Fri Apr 22 2022)
+- [Cloud Native for Beginners: Build a Deployable Container](https://www.youtube.com/watch?v=w-KiWaMVurc) (Fri Apr 22 2022)
 - [Digging deeper into service brokering and consumption on SAP Business Technology Platform](https://www.youtube.com/watch?v=9OAlu1wuf78) (Fri Apr 22 2022)
 - [UI5 Bootstrap, Learning ABAP, What's New in MDK & HANA DBX, CAP Extensibility | SAP Developer News](https://www.youtube.com/watch?v=Ix9B7rFGdaY) (Thu Apr 21 2022)
 - [ABAP: On-Premises vs. Cloud](https://www.youtube.com/watch?v=XBlfqiEemRQ) (Wed Apr 20 2022)
