@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Wrapping up our adventures with SAP Service Manager](https://www.youtube.com/watch?v=c0quSmzE8mc) (Fri Apr 29 2022)
+- [Cloud Native for Beginners: Container Image Registries](https://www.youtube.com/watch?v=AxsjBb9OND8) (Fri Apr 29 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=n_f5antRZG8) (Thu Apr 28 2022)
 - [ABAP: Create New Dictionary Structure](https://www.youtube.com/watch?v=OpasXtKtjhA) (Wed Apr 27 2022)
 - [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v=5_Ns0ihQPD4) (Fri Apr 22 2022)
 - [Cloud Native for Beginners: Build a Deployable Container](https://www.youtube.com/watch?v=w-KiWaMVurc) (Fri Apr 22 2022)
-- [UI5 Bootstrap, Learning ABAP, What's New in MDK & HANA DBX, CAP Extensibility | SAP Developer News](https://www.youtube.com/watch?v=Ix9B7rFGdaY) (Thu Apr 21 2022)
-- [ABAP: On-Premises vs. Cloud](https://www.youtube.com/watch?v=XBlfqiEemRQ) (Wed Apr 20 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
