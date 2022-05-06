@@ -26,9 +26,9 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [SAP Developer News](https://www.youtube.com/watch?v=MIJd26TNOQA) (Thu May 05 2022)
 - [SAPUI5 - Routing History, AJAX Requests (#10)](https://www.youtube.com/watch?v=op5E_wyX9pE) (Tue May 03 2022)
 - [Digging deeper into service brokering and consumption on SAP Business Technology Platform](https://www.youtube.com/watch?v=9OAlu1wuf78) (Fri Apr 29 2022)
-- [Wrapping up our adventures with SAP Service Manager](https://www.youtube.com/watch?v=c0quSmzE8mc) (Fri Apr 29 2022)
 - [Cloud Native for Beginners: Container Image Registries](https://www.youtube.com/watch?v=AxsjBb9OND8) (Fri Apr 29 2022)
 - [Node.js 18, Data and Analytics News, and Old UI5 Version Removal | SAP Developer News](https://www.youtube.com/watch?v=n_f5antRZG8) (Thu Apr 28 2022)
+- [ABAP: Create New Dictionary Structure](https://www.youtube.com/watch?v=OpasXtKtjhA) (Wed Apr 27 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
