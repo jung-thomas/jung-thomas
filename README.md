@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Developers Digest](https://www.youtube.com/watch?v=jMUbpO4iQ0c) (Wed May 11 2022)
 - [API Basics: REST](https://www.youtube.com/watch?v=bhn-Dl87SDE) (Tue May 10 2022)
 - [Back to basics: OData - the Open Data Protocol](https://www.youtube.com/watch?v=O3OU2rSUqs0) (Mon May 09 2022)
 - [Wrapping up our adventures with SAP Service Manager](https://www.youtube.com/watch?v=c0quSmzE8mc) (Fri May 06 2022)
 - [Cloud Native for Beginners: Which Kubernetes Installation do I need?](https://www.youtube.com/watch?v=n6a6Za0rdRU) (Fri May 06 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=MIJd26TNOQA) (Thu May 05 2022)
-- [SAPUI5 - Routing History, AJAX Requests (#10)](https://www.youtube.com/watch?v=op5E_wyX9pE) (Tue May 03 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
