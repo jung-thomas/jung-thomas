@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Cloud Native for Beginners: What are Kubernetes Deployments?](https://www.youtube.com/watch?v=CZmXl06nUVE) (Fri May 13 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 2 - Basic operations](https://www.youtube.com/watch?v=f9w61GxMztY) (Fri May 13 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=sMyXGqDDxu8) (Thu May 12 2022)
-- [Developers Digest #102](https://www.youtube.com/watch?v=jMUbpO4iQ0c) (Wed May 11 2022)
+- [SAP Developer News - Sapphire Special Edition](https://www.youtube.com/watch?v=sMyXGqDDxu8) (Thu May 12 2022)
+- [Developers Digest #2205](https://www.youtube.com/watch?v=jMUbpO4iQ0c) (Wed May 11 2022)
 - [API Basics: REST](https://www.youtube.com/watch?v=bhn-Dl87SDE) (Tue May 10 2022)
 - [Wrapping up our adventures with SAP Service Manager](https://www.youtube.com/watch?v=c0quSmzE8mc) (Fri May 06 2022)
-- [Cloud Native for Beginners: Which Kubernetes Installation do I need?](https://www.youtube.com/watch?v=n6a6Za0rdRU) (Fri May 06 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
