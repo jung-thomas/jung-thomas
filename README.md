@@ -28,7 +28,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [ABAP: ABAP Doc Comments](https://www.youtube.com/watch?v=qJkYLPEyyBo) (Mon May 16 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 1 - Introduction](https://www.youtube.com/watch?v=O3OU2rSUqs0) (Fri May 13 2022)
 - [Cloud Native for Beginners: What are Kubernetes Deployments?](https://www.youtube.com/watch?v=CZmXl06nUVE) (Fri May 13 2022)
-- [Back to basics: OData - the Open Data Protocol - Part 2 - Basic operations](https://www.youtube.com/watch?v=f9w61GxMztY) (Fri May 13 2022)
+- [SAP Developer News - Sapphire Special Edition](https://www.youtube.com/watch?v=sMyXGqDDxu8) (Thu May 12 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
