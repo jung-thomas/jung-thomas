@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Star Wars App - No-Code Challenge](https://blogs.sap.com/?p=1543686) 
 - [SAP CodeJam Events Return!](https://blogs.sap.com/?p=1539697) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 4 XSJS and CAP](https://blogs.sap.com/?p=1519898) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 3 Wrappers and Express](https://blogs.sap.com/?p=1519778) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 2 Promises](https://blogs.sap.com/?p=1519693) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 1 hana-client vs hdb](https://blogs.sap.com/?p=1516535) 
-- [SAP CAP Recent Enhancements the HANA Dev Should Know About](https://blogs.sap.com/?p=1490583) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics: OData - the Open Data Protocol - Part 3 - System query options](https://www.youtube.com/watch?v=Bln2A0_OauY) (Fri May 20 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=J9yka_OIIlU) (Fri May 20 2022)
 - [SAP AI: Introduction to SAP's AI Portfolio](https://www.youtube.com/watch?v=voAohI72LX4) (Tue May 17 2022)
 - [ABAP: ABAP Doc Comments](https://www.youtube.com/watch?v=qJkYLPEyyBo) (Mon May 16 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 1 - Introduction](https://www.youtube.com/watch?v=O3OU2rSUqs0) (Fri May 13 2022)
 - [Cloud Native for Beginners: What are Kubernetes Deployments?](https://www.youtube.com/watch?v=CZmXl06nUVE) (Fri May 13 2022)
-- [SAP Developer News - Sapphire Special Edition](https://www.youtube.com/watch?v=sMyXGqDDxu8) (Thu May 12 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
