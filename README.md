@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=jcRd9F4trbg) (Thu Jun 02 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 3 - System query options](https://www.youtube.com/watch?v=Bln2A0_OauY) (Fri May 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 4 - All things $filter](https://www.youtube.com/watch?v=R9JyaPYtWKs) (Fri May 27 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=kTZA-30t86Q) (Thu May 26 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 2 - Basic operations](https://www.youtube.com/watch?v=f9w61GxMztY) (Fri May 20 2022)
 - [Free ABAP Learning Journey, Back to Basics, CodeJams, Integration Assessment | SAP Developer News](https://www.youtube.com/watch?v=J9yka_OIIlU) (Fri May 20 2022)
-- [SAP AI: Introduction to SAP's AI Portfolio](https://www.youtube.com/watch?v=voAohI72LX4) (Tue May 17 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
