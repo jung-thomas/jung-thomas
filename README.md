@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP ABAP CodeJam 💻](https://www.youtube.com/watch?v=-doKn-NpRnc) (Tue Jun 14 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=BZPCnJXiu3w) (Thu Jun 09 2022)
 - [Developers Digest #2206](https://www.youtube.com/watch?v=68-dgm2xbZw) (Wed Jun 08 2022)
 - [Student Zone, BTP Service Operator, HXE SPS 06, UI5Con, Spotlight on UI | SAP Developer News](https://www.youtube.com/watch?v=jcRd9F4trbg) (Thu Jun 02 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 3 - System query options](https://www.youtube.com/watch?v=Bln2A0_OauY) (Fri May 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 4 - All things $filter](https://www.youtube.com/watch?v=R9JyaPYtWKs) (Fri May 27 2022)
-- [ABAP 2205, Horizon Theme, Developer Insights Survey, Integration Adapters | SAP Developer News](https://www.youtube.com/watch?v=kTZA-30t86Q) (Thu May 26 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
