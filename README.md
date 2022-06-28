@@ -25,7 +25,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [Exploring the SAP Audit Log service](https://www.youtube.com/watch?v=Td1KpvMIlzw) (Mon Jun 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 5 - Actions & functions](https://www.youtube.com/watch?v=tmwglig2mbw) (Fri Jun 24 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=fpMJlfbLhtM) (Fri Jun 24 2022)
+- [DWC & SAC, MacBook Setup, Landscape Automation, SAP HANA Cloud | SAP Developer News](https://www.youtube.com/watch?v=fpMJlfbLhtM) (Fri Jun 24 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 4 - All things $filter](https://www.youtube.com/watch?v=R9JyaPYtWKs) (Fri Jun 17 2022)
 - [SAP CodeJam UI5, SAP Mobile Start, SAP Community Events, SAP CAI June Updates | SAP Developer News](https://www.youtube.com/watch?v=3J68ETJ1Etw) (Thu Jun 16 2022)
 - [SAP ABAP CodeJam 💻](https://www.youtube.com/watch?v=-doKn-NpRnc) (Tue Jun 14 2022)
