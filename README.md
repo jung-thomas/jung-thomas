@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [ABAP: Create an SAP BTP ABAP Environment Trial](https://www.youtube.com/watch?v=nv0sIlMOb1o) (Wed Jun 29 2022)
+- [Access the Business Entity Recognition Service via the Python SDK](https://www.youtube.com/watch?v=ucZFrONCVZ4) (Wed Jun 29 2022)
 - [Exploring the SAP Audit Log service](https://www.youtube.com/watch?v=Td1KpvMIlzw) (Mon Jun 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 5 - Actions & functions](https://www.youtube.com/watch?v=tmwglig2mbw) (Fri Jun 24 2022)
 - [DWC & SAC, MacBook Setup, Landscape Automation, SAP HANA Cloud | SAP Developer News](https://www.youtube.com/watch?v=fpMJlfbLhtM) (Fri Jun 24 2022)
