@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Exploring the SAP Audit Log Service - Using SAP Cloud Integration](https://www.youtube.com/watch?v=gAzOeKIrepM) (Mon Jul 04 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=xVDm_AnmWrc) (Thu Jun 30 2022)
 - [Add chatbots to S/4HANA Fiori launchpad, Part I](https://www.youtube.com/watch?v=9mqU3uYFQbY) (Thu Jun 30 2022)
 - [Access the Business Entity Recognition Service via the Python SDK](https://www.youtube.com/watch?v=ucZFrONCVZ4) (Wed Jun 29 2022)
 - [Exploring the SAP Audit Log service](https://www.youtube.com/watch?v=Td1KpvMIlzw) (Mon Jun 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 5 - Actions & functions](https://www.youtube.com/watch?v=tmwglig2mbw) (Fri Jun 24 2022)
-- [DWC & SAC, MacBook Setup, Landscape Automation, SAP HANA Cloud | SAP Developer News](https://www.youtube.com/watch?v=fpMJlfbLhtM) (Fri Jun 24 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
