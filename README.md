@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Add Chatbots to SAP S/4HANA, Part II -- Access Backend Data With #SAPBTP Destinations](https://www.youtube.com/watch?v=K5u5sVajBqk) (Tue Jul 12 2022)
 - [Exploring the SAP Audit Log Service - Store audit log entries in the Object Store](https://www.youtube.com/watch?v=xoEop0RCB7k) (Mon Jul 11 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=aX8z1e7oRyY) (Thu Jul 07 2022)
 - [Create a Technical User to consume the SAP Cloud Integration OData APIs #Shorts](https://www.youtube.com/watch?v=YV_h5dgqeLw) (Tue Jul 05 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 6 - Wrapping up](https://www.youtube.com/watch?v=PhA_VS4-lUw) (Tue Jul 05 2022)
 - [Exploring the SAP Audit Log Service - Using SAP Cloud Integration](https://www.youtube.com/watch?v=gAzOeKIrepM) (Mon Jul 04 2022)
-- [Business Application Studio, UI5 Challenge, AI Business Services, SDK for iOS | SAP Developer News](https://www.youtube.com/watch?v=xVDm_AnmWrc) (Thu Jun 30 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
