@@ -28,7 +28,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [ABAP CodeJam, News as Podcast, Data Intelligence Trial 3.2, Easy URLs for UI5 | SAP Developer News](https://www.youtube.com/watch?v=qwdqwBVS1Pg) (Thu Jul 21 2022)
 - [Exploring the SAP Discovery Center](https://www.youtube.com/watch?v=DJ9jVuGQZNM) (Mon Jul 18 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 6 - Wrapping up](https://www.youtube.com/watch?v=PhA_VS4-lUw) (Fri Jul 15 2022)
-- [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v=k34-lD77Aj4) (Fri Jul 15 2022)
+- [Winners in AppGyver Challenge, CAP & Kyma, UI5 Web Components, Security in BTP | SAP Developer News](https://www.youtube.com/watch?v=SVPEXXsvQto) (Thu Jul 14 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
