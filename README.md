@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=k2qiaqq23BM) (Thu Aug 04 2022)
+- [Why I ❤ ABAP, BAS 2207, SAC 2022.16, What's New in iRPA | SAP Developer News](https://www.youtube.com/watch?v=k2qiaqq23BM) (Thu Aug 04 2022)
 - [Decoupling via the Data Store - SAP Cloud Integration #Shorts](https://www.youtube.com/watch?v=a7pr6LHjFHc) (Tue Aug 02 2022)
 - [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v=k34-lD77Aj4) (Fri Jul 29 2022)
 - [New in SAP BTP, SPA And LCNC News, What's New in AI, SAP BTP Innobytes | SAP Developer News](https://www.youtube.com/watch?v=2k6-AEPrXEw) (Thu Jul 28 2022)
