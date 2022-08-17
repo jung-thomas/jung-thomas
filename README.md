@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP AI: Document Information Extraction](https://www.youtube.com/watch?v=w66uwSWGvH0) (Wed Aug 17 2022)
 - [SAP TechEd, SAPBTP Documentation, Easy-UI5 and UI5con, SAP Cloud Integration | SAP Developer News](https://www.youtube.com/watch?v=8VOwN8UzfnM) (Thu Aug 11 2022)
 - [SAP HANA Cloud and CAP to Build Full-Stack Applications Using VSCode](https://www.youtube.com/watch?v=yceqr9vycrs) (Wed Aug 10 2022)
 - [Developers Digest #2208](https://www.youtube.com/watch?v=v8jsvSXgr4g) (Wed Aug 10 2022)
 - [Why I ❤ ABAP, BAS 2207, SAC 2022.16, What's New in iRPA | SAP Developer News](https://www.youtube.com/watch?v=k2qiaqq23BM) (Thu Aug 04 2022)
 - [Decoupling via the Data Store - SAP Cloud Integration #Shorts](https://www.youtube.com/watch?v=a7pr6LHjFHc) (Tue Aug 02 2022)
-- [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v=k34-lD77Aj4) (Fri Jul 29 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
