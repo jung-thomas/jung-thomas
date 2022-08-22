@@ -24,7 +24,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [SAP HANA Cloud and CAP to Build Full-Stack Applications Using VSCode](https://www.youtube.com/watch?v=yceqr9vycrs) (Fri Aug 19 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=bjcVIUhdmtM) (Thu Aug 18 2022)
+- [CAP Aug 2022, Data Intelligence, AI Core & Launchpad, Horizon in Theme Designer | SAP Developer News](https://www.youtube.com/watch?v=bjcVIUhdmtM) (Thu Aug 18 2022)
 - [SAP AI: Document Information Extraction](https://www.youtube.com/watch?v=w66uwSWGvH0) (Wed Aug 17 2022)
 - [SAP TechEd, SAPBTP Documentation, Easy-UI5 and UI5con, SAP Cloud Integration | SAP Developer News](https://www.youtube.com/watch?v=8VOwN8UzfnM) (Thu Aug 11 2022)
 - [Developers Digest #2208](https://www.youtube.com/watch?v=v8jsvSXgr4g) (Wed Aug 10 2022)
