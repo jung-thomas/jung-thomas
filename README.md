@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP HANA Cloud from the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=-Ryfl9NQ5AA) (Mon Sep 05 2022)
+- [Cloud Native Opening with Kevin & Josh](https://www.youtube.com/watch?v=T4GxCiKRVFo) (Mon Sep 05 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=UY6DvNjaSw4) (Thu Sep 01 2022)
 - [ABAP 2208, September CodeJams, BTP Security, SAP Private Link, Approuter Docker | SAP Developer News](https://www.youtube.com/watch?v=pZZOw-HRJ9k) (Thu Aug 25 2022)
 - [Join us for #Devtoberfest 2022](https://www.youtube.com/watch?v=PG0rgkgV4ik) (Tue Aug 23 2022)
 - [SAP HANA Cloud and CAP to Build Full-Stack Applications Using VSCode](https://www.youtube.com/watch?v=yceqr9vycrs) (Fri Aug 19 2022)
-- [CAP Aug 2022, Data Intelligence, AI Core & Launchpad, Horizon in Theme Designer | SAP Developer News](https://www.youtube.com/watch?v=bjcVIUhdmtM) (Thu Aug 18 2022)
-- [SAP AI: Document Information Extraction](https://www.youtube.com/watch?v=w66uwSWGvH0) (Wed Aug 17 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
