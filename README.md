@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Develop your first CAP application on the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=TOsSuCQvhDg) (Wed Sep 07 2022)
+- [Day-2 Operations with the SAP BTP, Kyma runtime - Part 2](https://www.youtube.com/watch?v=XYK-lXqCDRw) (Wed Sep 07 2022)
+- [Day-2 Operations with the SAP BTP, Kyma runtime - Part 1](https://www.youtube.com/watch?v=hDbpk-DNoao) (Wed Sep 07 2022)
+- [Easily Add Analytical Charts to Your SAP Fiori App](https://www.youtube.com/watch?v=OWZC9Oujpes) (Wed Sep 07 2022)
 - [The Best of Both Worlds: Visual Tools But Still Full Control of Your Code](https://www.youtube.com/watch?v=zTcJ9dcY7Io) (Wed Sep 07 2022)
 - [Using Visual Tools to Create a Mobile Application](https://www.youtube.com/watch?v=ybkTVWOlaC0) (Wed Sep 07 2022)
-- [Control the Entire App Development Lifecycle with SAP Business Application Studio](https://www.youtube.com/watch?v=RGvQoiWOHHQ) (Wed Sep 07 2022)
-- [Why Am I Hearing So Much About Low-Code and No-Code?](https://www.youtube.com/watch?v=ktLBmMXJq7s) (Wed Sep 07 2022)
-- [AppGyver for Pro-Code Developers](https://www.youtube.com/watch?v=Dt0dGuz0AiU) (Wed Sep 07 2022)
-- [Make Your Apps Beautiful](https://www.youtube.com/watch?v=kxUjtGPyLeE) (Wed Sep 07 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
