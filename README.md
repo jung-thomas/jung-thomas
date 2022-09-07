@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Get Started Building Apps Fast with SAP AppGyver](https://www.youtube.com/watch?v=KghYvidl2q0) (Tue Sep 06 2022)
-- [Get to Know SAP Process Automation with a Fun Example](https://www.youtube.com/watch?v=SlB0TN0y09U) (Tue Sep 06 2022)
-- [Let a Bot Do Your Work for You: Get Started with Automation](https://www.youtube.com/watch?v=JRy_wObOgQU) (Tue Sep 06 2022)
-- [Are Your Processes Performing Well? We’ll Show You How to Check](https://www.youtube.com/watch?v=VEecqgXXOx0) (Tue Sep 06 2022)
-- [Bring Your Process to Life with Forms and Decisions](https://www.youtube.com/watch?v=HU7Lir3AQbY) (Tue Sep 06 2022)
-- [Watch SAP Process Automation in Action](https://www.youtube.com/watch?v=s9bxCLPa-zI) (Tue Sep 06 2022)
+- [The Best of Both Worlds: Visual Tools But Still Full Control of Your Code](https://www.youtube.com/watch?v=zTcJ9dcY7Io) (Wed Sep 07 2022)
+- [Using Visual Tools to Create a Mobile Application](https://www.youtube.com/watch?v=ybkTVWOlaC0) (Wed Sep 07 2022)
+- [Control the Entire App Development Lifecycle with SAP Business Application Studio](https://www.youtube.com/watch?v=RGvQoiWOHHQ) (Wed Sep 07 2022)
+- [Why Am I Hearing So Much About Low-Code and No-Code?](https://www.youtube.com/watch?v=ktLBmMXJq7s) (Wed Sep 07 2022)
+- [AppGyver for Pro-Code Developers](https://www.youtube.com/watch?v=Dt0dGuz0AiU) (Wed Sep 07 2022)
+- [Make Your Apps Beautiful](https://www.youtube.com/watch?v=kxUjtGPyLeE) (Wed Sep 07 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
