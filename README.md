@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Innovate your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge](https://www.youtube.com/watch?v=Kb19xQvCMDg) (Fri Sep 09 2022)
+- [🟣 Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling](https://www.youtube.com/watch?v=8ePyQJsmWYA) (Fri Sep 09 2022)
 - [Introduction to ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=8qW2XxWgpfU) (Fri Sep 09 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=n4i3jxUbTUU) (Thu Sep 08 2022)
 - [Develop your first CAP application on the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=TOsSuCQvhDg) (Wed Sep 07 2022)
 - [Day-2 Operations with the SAP BTP, Kyma runtime - Part 2](https://www.youtube.com/watch?v=XYK-lXqCDRw) (Wed Sep 07 2022)
-- [Day-2 Operations with the SAP BTP, Kyma runtime - Part 1](https://www.youtube.com/watch?v=hDbpk-DNoao) (Wed Sep 07 2022)
-- [Easily Add Analytical Charts to Your SAP Fiori App](https://www.youtube.com/watch?v=OWZC9Oujpes) (Wed Sep 07 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
