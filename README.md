@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Developers Digest #2209](https://www.youtube.com/watch?v=17Wl2O4vx8Q) (Wed Sep 14 2022)
 - [Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k) (Tue Sep 13 2022)
 - [ABAP on Exercism? Demo and Presentation](https://www.youtube.com/watch?v=ibtCcww1m2k) (Tue Sep 13 2022)
 - [History of ABAP: R/2 and R/3](https://www.youtube.com/watch?v=CFNFDRIeVUo) (Mon Sep 12 2022)
 - [Why you should know more about SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=7beZXTEBXJA) (Mon Sep 12 2022)
 - [Innovate your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge](https://www.youtube.com/watch?v=Kb19xQvCMDg) (Fri Sep 09 2022)
-- [Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling](https://www.youtube.com/watch?v=8ePyQJsmWYA) (Fri Sep 09 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
