@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Troubleshoot RAP based Fiori Apps in the ABAP Development Tools](https://www.youtube.com/watch?v=4QyJIXt0ehY) (Wed Sep 14 2022)
 - [Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration](https://www.youtube.com/watch?v=f-0ztSnb2-c) (Wed Sep 14 2022)
 - [Outside the lines: SAP Fiori elements flexible programming model](https://www.youtube.com/watch?v=IwBgIhgK8ZQ) (Wed Sep 14 2022)
 - [Developers Digest #2209](https://www.youtube.com/watch?v=17Wl2O4vx8Q) (Wed Sep 14 2022)
 - [Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k) (Tue Sep 13 2022)
 - [ABAP on Exercism? Demo and Presentation](https://www.youtube.com/watch?v=ibtCcww1m2k) (Tue Sep 13 2022)
-- [History of ABAP: R/2 and R/3](https://www.youtube.com/watch?v=CFNFDRIeVUo) (Mon Sep 12 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
