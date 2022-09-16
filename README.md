@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (Fri Sep 16 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=ZST9z97Xdbc) (Thu Sep 15 2022)
 - [🟡 Trivia Quiz! (2 of 2)](https://www.youtube.com/watch?v=p2NtCXO_pds) (Thu Sep 15 2022)
 - [🟡 Trivia Quiz! (1 of 2)](https://www.youtube.com/watch?v=Hco5C5lOLME) (Thu Sep 15 2022)
 - [🟢 Troubleshoot RAP based Fiori Apps in the ABAP Development Tools](https://www.youtube.com/watch?v=4QyJIXt0ehY) (Wed Sep 14 2022)
 - [Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration](https://www.youtube.com/watch?v=f-0ztSnb2-c) (Wed Sep 14 2022)
-- [Outside the lines: SAP Fiori elements flexible programming model](https://www.youtube.com/watch?v=IwBgIhgK8ZQ) (Wed Sep 14 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
