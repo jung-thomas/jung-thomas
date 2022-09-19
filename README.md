@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Machine Learning engines embedded in SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=xJx37aX1qds) (Mon Sep 19 2022)
+- [🔴 Get to Know SAP Process Automation with a Fun Example](https://www.youtube.com/watch?v=GJcbWfrLdk4) (Mon Sep 19 2022)
 - [Build data pipelines with SAP Data Intelligence](https://www.youtube.com/watch?v=t8zbX0JvFRg) (Fri Sep 16 2022)
 - [Python Operators in SAP Data Intelligence: Leverage the new features](https://www.youtube.com/watch?v=hUAwsmfxDTY) (Fri Sep 16 2022)
 - [🔵 Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (Fri Sep 16 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=ZST9z97Xdbc) (Thu Sep 15 2022)
-- [🟡 Trivia Quiz! (2 of 2)](https://www.youtube.com/watch?v=p2NtCXO_pds) (Thu Sep 15 2022)
-- [🟡 Trivia Quiz! (1 of 2)](https://www.youtube.com/watch?v=Hco5C5lOLME) (Thu Sep 15 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
