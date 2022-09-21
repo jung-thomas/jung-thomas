@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Special Session with SAP CTO Juergen Mueller & Past Devtoberfest Winners](https://www.youtube.com/watch?v=xfcz5h_M_go) (Tue Sep 20 2022)
 - [What even is Cloud Native and the Basics of Kubernetes](https://www.youtube.com/watch?v=1S2dfZB74og) (Tue Sep 20 2022)
 - [🟢 Dealing with Legacy Code and Transactional Consistency in RAP](https://www.youtube.com/watch?v=ByGpsa7W7Yw) (Tue Sep 20 2022)
 - [🟢 Developer Extensibility and Business Events with RAP on SAP S/4HANA Cloud](https://www.youtube.com/watch?v=HqwwYsCHgFg) (Tue Sep 20 2022)
 - [🔵 Machine Learning engines embedded in SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=xJx37aX1qds) (Mon Sep 19 2022)
 - [🔴 Get to Know SAP Process Automation with a Fun Example](https://www.youtube.com/watch?v=GJcbWfrLdk4) (Mon Sep 19 2022)
-- [Build data pipelines with SAP Data Intelligence](https://www.youtube.com/watch?v=t8zbX0JvFRg) (Fri Sep 16 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
