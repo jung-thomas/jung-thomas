@@ -27,7 +27,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - [ABAP: SAP BTP ABAP Environment](https://www.youtube.com/watch?v=oWmaucAiVl0) (Wed Sep 21 2022)
 - [🔴 7 Tips from an SAP AppGyver Guru](https://www.youtube.com/watch?v=BPMQCEsLdJQ) (Wed Sep 21 2022)
 - [Special Session with SAP CTO Juergen Mueller & Past Devtoberfest Winners](https://www.youtube.com/watch?v=xfcz5h_M_go) (Tue Sep 20 2022)
-- [What even is Cloud Native and the Basics of Kubernetes](https://www.youtube.com/watch?v=1S2dfZB74og) (Tue Sep 20 2022)
+- [🟠 What even is Cloud Native and the Basics of Kubernetes](https://www.youtube.com/watch?v=1S2dfZB74og) (Tue Sep 20 2022)
 - [🟢 Dealing with Legacy Code and Transactional Consistency in RAP](https://www.youtube.com/watch?v=ByGpsa7W7Yw) (Tue Sep 20 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
