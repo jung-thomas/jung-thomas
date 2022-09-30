@@ -11,24 +11,24 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Devtoberfest 2022 Week 1](https://blogs.sap.com/?p=1618235) 
 - [Devtoberfest 2022: Return of the Developer](https://blogs.sap.com/?p=1598237) 
 - [Star Wars App - No-Code Challenge](https://blogs.sap.com/?p=1543686) 
 - [SAP CodeJam Events Return!](https://blogs.sap.com/?p=1539697) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 4 XSJS and CAP](https://blogs.sap.com/?p=1519898) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 3 Wrappers and Express](https://blogs.sap.com/?p=1519778) 
-- [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 2 Promises](https://blogs.sap.com/?p=1519693) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=wjGvL5ovHOE) (Thu Sep 29 2022)
 - [🔴 Sneak Peak on SAP AppGyver Integration Into SAP BTP](https://www.youtube.com/watch?v=ChkvUcDz14c) (Wed Sep 28 2022)
 - [Everything you need to register for Devtoberfest ... in 53 seconds!](https://www.youtube.com/watch?v=WUYyVUIEibg) (Tue Sep 27 2022)
 - [Bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning](https://www.youtube.com/watch?v=C0rH_T25F9I) (Tue Sep 27 2022)
 - [Enhancing Analytic Application functionality with simple scripting](https://www.youtube.com/watch?v=s8RyrotqgdQ) (Tue Sep 27 2022)
 - [How to simplify your data fetching life with RTK Query](https://www.youtube.com/watch?v=Wy8HWC2LSo0) (Mon Sep 26 2022)
-- [🟢 Starting with ABAP? Interview: Micheal Keller](https://www.youtube.com/watch?v=mhC3IGLkNTc) (Mon Sep 26 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
