@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=OspWBMQZqTw) (Tue Oct 04 2022)
 - [🟢 Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k) (Tue Oct 04 2022)
 - [🟢 Introduction to ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=8qW2XxWgpfU) (Mon Oct 03 2022)
 - [Devtoberfest, Project Sharing in AppGyver, TechEd, MDK 6.3 | SAP Developer News](https://www.youtube.com/watch?v=wjGvL5ovHOE) (Thu Sep 29 2022)
 - [🔴 Sneak Peak on SAP AppGyver Integration Into SAP BTP](https://www.youtube.com/watch?v=ChkvUcDz14c) (Wed Sep 28 2022)
 - [Everything you need to register for Devtoberfest ... in 53 seconds!](https://www.youtube.com/watch?v=WUYyVUIEibg) (Tue Sep 27 2022)
-- [Bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning](https://www.youtube.com/watch?v=C0rH_T25F9I) (Tue Sep 27 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
