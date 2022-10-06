@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Machine Learning engines embedded in SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=xJx37aX1qds) (Thu Oct 06 2022)
 - [🔵 Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (Wed Oct 05 2022)
 - [🟢 A Beginner's Guide to the ABAP RESTful Application Programming Model](https://www.youtube.com/watch?v=i0A9iZ_46fI) (Tue Oct 04 2022)
 - [🟣 How to simplify your data fetching life with RTK Query](https://www.youtube.com/watch?v=Wy8HWC2LSo0) (Tue Oct 04 2022)
 - [🟣 How to Make State Management Work for You with Redux and Redux Toolkit](https://www.youtube.com/watch?v=OspWBMQZqTw) (Tue Oct 04 2022)
 - [🟢 Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k) (Tue Oct 04 2022)
-- [🟢 Introduction to ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=8qW2XxWgpfU) (Mon Oct 03 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
