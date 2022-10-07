@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Easily Add Analytical Charts to Your SAP Fiori App](https://www.youtube.com/watch?v=OWZC9Oujpes) (Fri Oct 07 2022)
+- [🔴 The Best of Both Worlds: Visual Tools But Still Full Control of Your Code](https://www.youtube.com/watch?v=zTcJ9dcY7Io) (Fri Oct 07 2022)
 - [🔴 Using Visual Tools to Create a Mobile Application](https://www.youtube.com/watch?v=ybkTVWOlaC0) (Thu Oct 06 2022)
 - [🔴 Control the Entire App Development Lifecycle with SAP Business Application Studio](https://www.youtube.com/watch?v=RGvQoiWOHHQ) (Thu Oct 06 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=x-xPxjFn1NE) (Thu Oct 06 2022)
 - [🔴 Why Am I Hearing So Much About Low-Code and No-Code?](https://www.youtube.com/watch?v=ktLBmMXJq7s) (Thu Oct 06 2022)
-- [🔵 Machine Learning engines embedded in SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=xJx37aX1qds) (Thu Oct 06 2022)
-- [🔵 Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (Wed Oct 05 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
