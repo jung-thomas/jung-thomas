@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Developer Extensibility and Business Events with RAP on SAP S/4HANA Cloud](https://www.youtube.com/watch?v=HqwwYsCHgFg) (Mon Oct 10 2022)
 - [🟠 Cloud Native Opening with Kevin & Josh](https://www.youtube.com/watch?v=T4GxCiKRVFo) (Sat Oct 08 2022)
 - [Look back at Devtoberfest week 1 with us! #shorts](https://www.youtube.com/watch?v=Xsh0_UWnKN8) (Sat Oct 08 2022)
 - [Cloud Native Opening with Kevin & Josh](https://www.youtube.com/watch?v=QZ6kqzlTPfM) (Fri Oct 07 2022)
 - [🟠 What even is Cloud Native and the Basics of Kubernetes](https://www.youtube.com/watch?v=1S2dfZB74og) (Fri Oct 07 2022)
 - [🔴 Easily Add Analytical Charts to Your SAP Fiori App](https://www.youtube.com/watch?v=OWZC9Oujpes) (Fri Oct 07 2022)
-- [🔴 The Best of Both Worlds: Visual Tools But Still Full Control of Your Code](https://www.youtube.com/watch?v=zTcJ9dcY7Io) (Fri Oct 07 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
