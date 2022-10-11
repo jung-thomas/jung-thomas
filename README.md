@@ -23,7 +23,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟣 Clean SAPUI5: More readable, maintainable and testable code](https://www.youtube.com/watch?v=rb3_io0OdO0) (Tue Oct 11 2022)
+- [Clean SAPUI5: More readable, maintainable and testable code](https://www.youtube.com/watch?v=rb3_io0OdO0) (Tue Oct 11 2022)
 - [🟣 Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling](https://www.youtube.com/watch?v=8ePyQJsmWYA) (Tue Oct 11 2022)
 - [🟢 Dealing with Legacy Code and Transactional Consistency in RAP](https://www.youtube.com/watch?v=ByGpsa7W7Yw) (Tue Oct 11 2022)
 - [ABAP on Exercism? Demo and Presentation](https://www.youtube.com/watch?v=ibtCcww1m2k) (Mon Oct 10 2022)
