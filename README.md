@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning](https://www.youtube.com/watch?v=C0rH_T25F9I) (Wed Oct 12 2022)
 - [🟣 Outside the lines: SAP Fiori elements flexible programming model](https://www.youtube.com/watch?v=IwBgIhgK8ZQ) (Wed Oct 12 2022)
 - [🟣 Clean SAPUI5: More readable, maintainable and testable code](https://www.youtube.com/watch?v=rb3_io0OdO0) (Tue Oct 11 2022)
 - [🟣 Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling](https://www.youtube.com/watch?v=8ePyQJsmWYA) (Tue Oct 11 2022)
 - [🟢 Dealing with Legacy Code and Transactional Consistency in RAP](https://www.youtube.com/watch?v=ByGpsa7W7Yw) (Tue Oct 11 2022)
 - [ABAP on Exercism? Demo and Presentation](https://www.youtube.com/watch?v=ibtCcww1m2k) (Mon Oct 10 2022)
-- [🔵 Innovate your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge](https://www.youtube.com/watch?v=4TBVbub4uqs) (Mon Oct 10 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
