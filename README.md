@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Day-2 Operations with the SAP BTP, Kyma runtime - Part 1](https://www.youtube.com/watch?v=hDbpk-DNoao) (Fri Oct 14 2022)
 - [🔴 AppGyver for Pro-Code Developers](https://www.youtube.com/watch?v=Dt0dGuz0AiU) (Fri Oct 14 2022)
 - [🔴 Make Your Apps Beautiful](https://www.youtube.com/watch?v=kxUjtGPyLeE) (Fri Oct 14 2022)
 - [🔴 Creator Spotlight with Esmee Xavier](https://www.youtube.com/watch?v=WxTRHUleM50) (Thu Oct 13 2022)
 - [🔴 Sneak Peek on SAP AppGyver Integration Into SAP BTP](https://www.youtube.com/watch?v=ChkvUcDz14c) (Thu Oct 13 2022)
 - [🔴 Get Started Building Apps Fast with SAP AppGyver](https://www.youtube.com/watch?v=KghYvidl2q0) (Thu Oct 13 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=VDwAMS-xUAk) (Thu Oct 13 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
