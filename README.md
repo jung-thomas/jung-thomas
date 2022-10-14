@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Creator Spotlight with Esmee Xavier](https://www.youtube.com/watch?v=WxTRHUleM50) (Thu Oct 13 2022)
+- [🔴 Sneak Peek on SAP AppGyver Integration Into SAP BTP](https://www.youtube.com/watch?v=ChkvUcDz14c) (Thu Oct 13 2022)
+- [🔴 Get Started Building Apps Fast with SAP AppGyver](https://www.youtube.com/watch?v=KghYvidl2q0) (Thu Oct 13 2022)
+- [SAP Developer News](https://www.youtube.com/watch?v=VDwAMS-xUAk) (Thu Oct 13 2022)
 - [🔴 7 Tips from an SAP AppGyver Guru](https://www.youtube.com/watch?v=BPMQCEsLdJQ) (Thu Oct 13 2022)
 - [🟣 Build beautiful, native mobile applications with SAP Fiori for iOS](https://www.youtube.com/watch?v=tW6-T3hLR1c) (Thu Oct 13 2022)
-- [Special Session with SAP CTO Juergen Mueller & Past Devtoberfest Winners](https://www.youtube.com/watch?v=xfcz5h_M_go) (Thu Oct 13 2022)
-- [Enhancing Analytic Application functionality with simple scripting](https://www.youtube.com/watch?v=s8RyrotqgdQ) (Thu Oct 13 2022)
-- [Bi-directional integration between SAP Data Warehouse Cloud and SAP Analytics Cloud for planning](https://www.youtube.com/watch?v=C0rH_T25F9I) (Wed Oct 12 2022)
-- [🟣 Outside the lines: SAP Fiori elements flexible programming model](https://www.youtube.com/watch?v=IwBgIhgK8ZQ) (Wed Oct 12 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
