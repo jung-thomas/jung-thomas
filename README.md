@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Clean SAPUI5: More readable, maintainable and testable code](https://www.youtube.com/watch?v=rb3_io0OdO0) (Tue Oct 18 2022)
 - [Join us for week 3 of Devtoberfest!](https://www.youtube.com/watch?v=H27N-YUFpRM) (Mon Oct 17 2022)
 - [🟢 Troubleshoot RAP based Fiori Apps in the ABAP Development Tools](https://www.youtube.com/watch?v=4QyJIXt0ehY) (Mon Oct 17 2022)
 - [🟢 History of ABAP: R/2 and R/3](https://www.youtube.com/watch?v=CFNFDRIeVUo) (Mon Oct 17 2022)
 - [🟡 Trivia Quiz! (2 of 2)](https://www.youtube.com/watch?v=p2NtCXO_pds) (Sat Oct 15 2022)
 - [🟠 SAP HANA Cloud from the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=-Ryfl9NQ5AA) (Sat Oct 15 2022)
-- [🟡 Trivia Quiz! (1 of 2)](https://www.youtube.com/watch?v=Hco5C5lOLME) (Fri Oct 14 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
