@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=3emMfbpz3fk) (Thu Oct 20 2022)
+- [Flying Money Game Tournament (2 of 2)](https://www.youtube.com/watch?v=5A5L54ff32c) (Thu Oct 20 2022)
+- [Flying Money Game Tournament (1 of 2)](https://www.youtube.com/watch?v=RvdnHYO1qo0) (Thu Oct 20 2022)
 - [🔵 Why you should know more about SAP Data Warehouse Cloud](https://www.youtube.com/watch?v=7beZXTEBXJA) (Wed Oct 19 2022)
 - [🔵 Innovate your IT landscape with SAP Data Warehouse Cloud, SAP BW Bridge](https://www.youtube.com/watch?v=4TBVbub4uqs) (Wed Oct 19 2022)
 - [🟠 Basics Of Containerization](https://www.youtube.com/watch?v=GbgrNoKYhUU) (Wed Oct 19 2022)
-- [🟣 Testing UI5 Apps with wdi5 - Zero to Hero to Continuous Integration](https://www.youtube.com/watch?v=f-0ztSnb2-c) (Wed Oct 19 2022)
-- [🟣 Clean SAPUI5: More readable, maintainable and testable code](https://www.youtube.com/watch?v=rb3_io0OdO0) (Tue Oct 18 2022)
-- [Join us for week 3 of Devtoberfest!](https://www.youtube.com/watch?v=H27N-YUFpRM) (Mon Oct 17 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
