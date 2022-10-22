@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Flying Money Game Tournament (2 of 2)](https://www.youtube.com/watch?v=5A5L54ff32c) (Sat Oct 22 2022)
 - [Python Operators in SAP Data Intelligence: Leverage the new features](https://www.youtube.com/watch?v=zwY5_qupZ-g) (Fri Oct 21 2022)
 - [🔵 Build data pipelines with SAP Data Intelligence](https://www.youtube.com/watch?v=HSV2kOlwWjE) (Fri Oct 21 2022)
 - [Flying Money Game Tournament (1 of 2)](https://www.youtube.com/watch?v=RvdnHYO1qo0) (Fri Oct 21 2022)
 - [Improving the Performance of UI5 Applications](https://www.youtube.com/watch?v=jp2-9O4K094) (Fri Oct 21 2022)
 - [🟠 Basics Of Containerization](https://www.youtube.com/watch?v=GbgrNoKYhUU) (Fri Oct 21 2022)
-- [🟠 Day-2 Operations with the SAP BTP, Kyma runtime - Part 2](https://www.youtube.com/watch?v=XYK-lXqCDRw) (Fri Oct 21 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
