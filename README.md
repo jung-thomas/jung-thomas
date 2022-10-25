@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Build beautiful, native mobile applications with SAP Fiori for iOS](https://www.youtube.com/watch?v=tW6-T3hLR1c) (Tue Oct 25 2022)
 - [🟣 Improving the Performance of UI5 Applications](https://www.youtube.com/watch?v=jp2-9O4K094) (Tue Oct 25 2022)
 - [A Beginner's Guide to the ABAP RESTful Application Programming Model](https://www.youtube.com/watch?v=i0A9iZ_46fI) (Mon Oct 24 2022)
 - [🟢 Starting with ABAP? Interview: Michael Keller](https://www.youtube.com/watch?v=mhC3IGLkNTc) (Mon Oct 24 2022)
 - [Flying Money Game Tournament (2 of 2)](https://www.youtube.com/watch?v=5A5L54ff32c) (Sat Oct 22 2022)
 - [🔵 Python Operators in SAP Data Intelligence: Leverage the new features](https://www.youtube.com/watch?v=zwY5_qupZ-g) (Fri Oct 21 2022)
-- [🔵 Build data pipelines with SAP Data Intelligence](https://www.youtube.com/watch?v=HSV2kOlwWjE) (Fri Oct 21 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
