@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 How to Bring Business Data into SAP Work Zone](https://www.youtube.com/watch?v=wapRJge70Mk) (Thu Oct 27 2022)
+- [SAP Developer News](https://www.youtube.com/watch?v=p_xWi8Lawgk) (Thu Oct 27 2022)
+- [🔴 Get Started with SAP Work Zone](https://www.youtube.com/watch?v=9wJyo6-GeTk) (Thu Oct 27 2022)
 - [🟡 How Did I Not See That?](https://www.youtube.com/watch?v=CBqvrhHBPVM) (Wed Oct 26 2022)
 - [🔵 Build data pipelines with SAP Data Intelligence](https://www.youtube.com/watch?v=HSV2kOlwWjE) (Wed Oct 26 2022)
 - [🔵 Python Operators in SAP Data Intelligence: Leverage the new features](https://www.youtube.com/watch?v=zwY5_qupZ-g) (Wed Oct 26 2022)
-- [🟣 Build beautiful, native mobile applications with SAP Fiori for iOS](https://www.youtube.com/watch?v=tW6-T3hLR1c) (Tue Oct 25 2022)
-- [🟣 Improving the Performance of UI5 Applications](https://www.youtube.com/watch?v=jp2-9O4K094) (Tue Oct 25 2022)
-- [A Beginner's Guide to the ABAP RESTful Application Programming Model](https://www.youtube.com/watch?v=i0A9iZ_46fI) (Mon Oct 24 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
