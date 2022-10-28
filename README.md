@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 How Did I Not See That?](https://www.youtube.com/watch?v=CBqvrhHBPVM) (Fri Oct 28 2022)
+- [🟠 Developing Front-End Applications in Cloud Foundry - an End-to-End Journey](https://www.youtube.com/watch?v=Jbq6zaKEUyY) (Fri Oct 28 2022)
 - [🔴 Develop Extensions to SAP Work Zone](https://www.youtube.com/watch?v=yoajIrA_QeE) (Fri Oct 28 2022)
 - [🔴 Make Your UI Integration Cards Even Smarter](https://www.youtube.com/watch?v=UaYZmqOpNFQ) (Fri Oct 28 2022)
 - [🔴 How to Bring Business Data into SAP Work Zone](https://www.youtube.com/watch?v=wapRJge70Mk) (Thu Oct 27 2022)
 - [SAP Developer News](https://www.youtube.com/watch?v=p_xWi8Lawgk) (Thu Oct 27 2022)
-- [🔴 Get Started with SAP Work Zone](https://www.youtube.com/watch?v=9wJyo6-GeTk) (Thu Oct 27 2022)
-- [🟡 How Did I Not See That?](https://www.youtube.com/watch?v=CBqvrhHBPVM) (Wed Oct 26 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
