@@ -23,12 +23,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Tune into the Developer Advocates Download at SAP TechEd](https://www.youtube.com/watch?v=G0cdAdkmX8A) (Mon Nov 07 2022)
-- [SAP Developer News](https://www.youtube.com/watch?v=DP5OMeOkvCg) (Thu Nov 03 2022)
-- [🟠 Develop your first CAP application on the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=TOsSuCQvhDg) (Fri Oct 28 2022)
-- [🟡 How Did I Not See That?](https://www.youtube.com/watch?v=CBqvrhHBPVM) (Fri Oct 28 2022)
-- [🟠 Developing Front-End Applications in Cloud Foundry - an End-to-End Journey](https://www.youtube.com/watch?v=Jbq6zaKEUyY) (Fri Oct 28 2022)
-- [🔴 Develop Extensions to SAP Work Zone](https://www.youtube.com/watch?v=yoajIrA_QeE) (Fri Oct 28 2022)
+- [Accelerate Financial Planning and Analysis](https://www.youtube.com/watch?v=X-ezSpPa1pY) (Tue Nov 08 2022)
+- [Develop extensions for SAP S/4HANA with SAP BTP, ABAP Environment, runtime](https://www.youtube.com/watch?v=9PimcvEtfhc) (Tue Nov 08 2022)
+- [Enhance core ERP business processes with resilient applications on SAP BTP](https://www.youtube.com/watch?v=xocO9eqWDLM) (Tue Nov 08 2022)
+- [Route multi-region traffic to SAP BTP services intelligently](https://www.youtube.com/watch?v=Zf6fkbDthY8) (Tue Nov 08 2022)
+- [Enable supplier collaboration across SAP and Microsoft ecosystems using SAP BTP](https://www.youtube.com/watch?v=hjIHv9Y0LQ8) (Tue Nov 08 2022)
+- [Establish a Central Inbox with SAP Task Center](https://www.youtube.com/watch?v=i04wxffk0I4) (Tue Nov 08 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
