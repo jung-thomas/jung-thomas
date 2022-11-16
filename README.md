@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Process and approve your invoices with SAP Build Process Automation](https://www.youtube.com/watch?v=R-k_7FJ408k) (Wed Nov 16 2022)
 - [SAP Developer News: Live from SAP TechEd Tuesday](https://www.youtube.com/watch?v=EUGZQQklbqM) (Tue Nov 15 2022)
 - [SAP Developer News: Live from SAP TechEd Monday](https://www.youtube.com/watch?v=ektRzR5Gwlk) (Mon Nov 14 2022)
 - [TechEd Applications and Business Process, CAP Oct 2022, UI5 Recorder | SAP Developer News](https://www.youtube.com/watch?v=ZB_leaaCVTo) (Thu Nov 10 2022)
 - [Accelerate Financial Planning and Analysis](https://www.youtube.com/watch?v=X-ezSpPa1pY) (Tue Nov 08 2022)
 - [Develop extensions for SAP S/4HANA with SAP BTP, ABAP Environment, runtime](https://www.youtube.com/watch?v=9PimcvEtfhc) (Tue Nov 08 2022)
-- [Enhance core ERP business processes with resilient applications on SAP BTP](https://www.youtube.com/watch?v=xocO9eqWDLM) (Tue Nov 08 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
