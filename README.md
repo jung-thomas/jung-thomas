@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Exploring the BTP Service Metadata project - Part 1](https://www.youtube.com/watch?v=6gHzgUfV_SA) (Mon Nov 21 2022)
 - [SAP Developer News: Live from SAP TechEd Wednesday](https://www.youtube.com/watch?v=SHp8wz0L86k) (Wed Nov 16 2022)
 - [Tune into the Developer Advocates Download at SAP TechEd](https://www.youtube.com/watch?v=G0cdAdkmX8A) (Wed Nov 16 2022)
 - [Process and approve your invoices with SAP Build Process Automation](https://www.youtube.com/watch?v=R-k_7FJ408k) (Wed Nov 16 2022)
 - [SAP Developer News: Live from SAP TechEd Tuesday](https://www.youtube.com/watch?v=EUGZQQklbqM) (Tue Nov 15 2022)
 - [SAP Developer News: Live from SAP TechEd Monday](https://www.youtube.com/watch?v=ektRzR5Gwlk) (Mon Nov 14 2022)
-- [TechEd Applications and Business Process, CAP Oct 2022, UI5 Recorder | SAP Developer News](https://www.youtube.com/watch?v=ZB_leaaCVTo) (Thu Nov 10 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
