@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [What is integration in the context of SAP BTP?](https://www.youtube.com/watch?v=T-BJsCwj2jA) (Wed Nov 23 2022)
 - [Developer Discussion: ABAP Cloud](https://www.youtube.com/watch?v=zcQsG_ett7k) (Tue Nov 22 2022)
 - [Exploring the BTP Service Metadata project - Part 1](https://www.youtube.com/watch?v=6gHzgUfV_SA) (Mon Nov 21 2022)
 - [SAP Developer News: Live from SAP TechEd Wednesday](https://www.youtube.com/watch?v=SHp8wz0L86k) (Wed Nov 16 2022)
 - [Tune into the Developer Advocates Download at SAP TechEd](https://www.youtube.com/watch?v=G0cdAdkmX8A) (Wed Nov 16 2022)
 - [Process and approve your invoices with SAP Build Process Automation](https://www.youtube.com/watch?v=R-k_7FJ408k) (Wed Nov 16 2022)
-- [SAP Developer News: Live from SAP TechEd Tuesday](https://www.youtube.com/watch?v=EUGZQQklbqM) (Tue Nov 15 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
