@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Getting started with OAuth 2.0](https://www.youtube.com/watch?v=1F2nQFdY4cs) (Tue Jan 03 2023)
 - [SAP Developer News Year in Review 2022](https://www.youtube.com/watch?v=ME3UuRGiqFI) (Thu Dec 29 2022)
 - [SAP Developer News Bloopers](https://www.youtube.com/watch?v=DVn7gYVy61w) (Thu Dec 22 2022)
 - [An introduction to the lightweight and flexible command-line JSON processor jq](https://www.youtube.com/watch?v=AFr-27GnKbY) (Fri Dec 16 2022)
 - [BAS 2211, What's New in SAP BTP, SAP Mobile Start 1.5, BW/4HANA 2021 S04 | SAP Developer News](https://www.youtube.com/watch?v=0mK88WYXFqY) (Thu Dec 15 2022)
 - [Exploring the BTP Service Metadata project - Part 3](https://www.youtube.com/watch?v=Jq-QcqLRrC8) (Fri Dec 09 2022)
-- [ABAP RAP & Cheat Sheets, BTP & iOS, SAP Private Link Service for AWS | SAP Developer News](https://www.youtube.com/watch?v=xDVSd2EbvCI) (Thu Dec 08 2022)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
