@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAPUI5 - Custom Controls (#13)](https://www.youtube.com/watch?v=uUlF6d47DY8) (Wed Jan 18 2023)
 - [ABAP: ABAP HTTP Handler Class](https://www.youtube.com/watch?v=dnvYMhWOlQE) (Mon Jan 16 2023)
 - [More OAuth 2.0](https://www.youtube.com/watch?v=lkK9DLvmje0) (Fri Jan 13 2023)
 - [Wrapping up OAuth 2.0 with the Authorization Code grant type](https://www.youtube.com/watch?v=Hw2cKy39xQM) (Fri Jan 13 2023)
 - [SAP Developers News](https://www.youtube.com/watch?v=mPHGcSUBsyk) (Fri Jan 13 2023)
 - [SAPUI5 - Sorting/Grouping & Filtering (#12)](https://www.youtube.com/watch?v=GdLvRjt3O4w) (Thu Jan 12 2023)
-- [SAPUI5 - TypeScript (#11)](https://www.youtube.com/watch?v=J2aCacmAKDQ) (Wed Jan 11 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
