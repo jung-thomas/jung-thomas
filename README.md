@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Get To Know RAP - Create Table Persistence and Generate Data](https://www.youtube.com/watch?v=HFYBLFzWhHA) (Mon Jan 23 2023)
 - [Exploring API specifications on the SAP API Business Hub](https://www.youtube.com/watch?v=tW0-96gGQAs) (Mon Jan 23 2023)
 - [Wrapping up OAuth 2.0 with the Authorization Code grant type](https://www.youtube.com/watch?v=Hw2cKy39xQM) (Fri Jan 20 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=PIrcTZPVAYE) (Thu Jan 19 2023)
 - [SAPUI5 - Custom Controls (#13)](https://www.youtube.com/watch?v=uUlF6d47DY8) (Wed Jan 18 2023)
 - [ABAP: ABAP HTTP Handler Class](https://www.youtube.com/watch?v=dnvYMhWOlQE) (Mon Jan 16 2023)
-- [More OAuth 2.0](https://www.youtube.com/watch?v=lkK9DLvmje0) (Fri Jan 13 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
