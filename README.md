@@ -20,11 +20,11 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Integrating an external API into an SAP Cloud Application Programming Model service](https://www.youtube.com/watch?v=T_rjax3VY2E) (Fri Jan 27 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=6BDK55xYttM) (Thu Jan 26 2023)
 - [ABAP: Consume External API](https://www.youtube.com/watch?v=X4vJurLvCWU) (Thu Jan 26 2023)
 - [SAPUI5 - Factory Functions (#14)](https://www.youtube.com/watch?v=a6BUYbVIc3s) (Wed Jan 25 2023)
 - [Get To Know RAP - Create Table Persistence and Generate Data](https://www.youtube.com/watch?v=HFYBLFzWhHA) (Mon Jan 23 2023)
-- [Exploring API specifications on the SAP API Business Hub](https://www.youtube.com/watch?v=tW0-96gGQAs) (Mon Jan 23 2023)
 - [Wrapping up OAuth 2.0 with the Authorization Code grant type](https://www.youtube.com/watch?v=Hw2cKy39xQM) (Fri Jan 20 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
