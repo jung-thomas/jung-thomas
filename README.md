@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Making your Mobile's App Data Available Offline](https://www.youtube.com/watch?v=DyLQXl4TMwY) (Mon Feb 27 2023)
 - [Extending and relating entities in SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=xolmwO02y1M) (Mon Feb 27 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=-yxanP4zAkc) (Thu Feb 23 2023)
 - [The role of SAP Cloud SDK in SAP Cloud Application Programming Model service integration](https://www.youtube.com/watch?v=ulTfUkAJ8gA) (Fri Feb 17 2023)
 - [SAP Experience Center NY, ABAP Cloud FAQ, CodeJam Roadshow, UI5 Tooling 3.0 | SAP Developer News](https://www.youtube.com/watch?v=Z2E98LgIEd8) (Thu Feb 16 2023)
 - [SAP Build Apps: The Mobile Preview App](https://www.youtube.com/watch?v=UvdCV4-kGAY) (Mon Feb 13 2023)
-- [SAP Data Unleashed, CAP Jan 2023, SAP Analytics Cloud Q1 2023 | SAP Developer News](https://www.youtube.com/watch?v=CBVRyWUJUCI) (Thu Feb 09 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
