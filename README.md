@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=Czi-ryYRz9g) (Thu Mar 09 2023)
 - [Extending and relating entities in SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=xolmwO02y1M) (Fri Mar 03 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=3E62YLq8itw) (Thu Mar 02 2023)
+- [BTP Innobytes, SAPUI5 What's New, ABAP Rel 2302, Sid Effects in RAP | SAP Developer News](https://www.youtube.com/watch?v=3E62YLq8itw) (Thu Mar 02 2023)
 - [Making your Mobile's App Data Available Offline](https://www.youtube.com/watch?v=DyLQXl4TMwY) (Mon Feb 27 2023)
 - [Graph in SAP Integration Suite, BTP SDK for iOS 9.1, Inside Track Bengaluru | SAP Developer News](https://www.youtube.com/watch?v=-yxanP4zAkc) (Thu Feb 23 2023)
 - [The role of SAP Cloud SDK in SAP Cloud Application Programming Model service integration](https://www.youtube.com/watch?v=ulTfUkAJ8gA) (Fri Feb 17 2023)
-- [SAP Experience Center NY, ABAP Cloud FAQ, CodeJam Roadshow, UI5 Tooling 3.0 | SAP Developer News](https://www.youtube.com/watch?v=Z2E98LgIEd8) (Thu Feb 16 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
