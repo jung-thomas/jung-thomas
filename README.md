@@ -20,7 +20,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=Czi-ryYRz9g) (Thu Mar 09 2023)
+- [ASUG BTP Summit, March Developer Challenge, CAP Feb 2023 Rel, SAP Datasphere | SAP Developer News](https://www.youtube.com/watch?v=Czi-ryYRz9g) (Thu Mar 09 2023)
 - [Extending and relating entities in SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=xolmwO02y1M) (Fri Mar 03 2023)
 - [BTP Innobytes, SAPUI5 What's New, ABAP Rel 2302, Sid Effects in RAP | SAP Developer News](https://www.youtube.com/watch?v=3E62YLq8itw) (Thu Mar 02 2023)
 - [Making your Mobile's App Data Available Offline](https://www.youtube.com/watch?v=DyLQXl4TMwY) (Mon Feb 27 2023)
