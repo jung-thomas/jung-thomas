@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=FKJ4relNhLc) (Thu Mar 16 2023)
-- [SAP Build Apps: Getting Started](https://www.youtube.com/watch?v=2YX1aCxYrkg) (Wed Mar 15 2023)
-- [ASUG BTP Summit, March Developer Challenge, CAP Feb 2023 Rel, SAP Datasphere | SAP Developer News](https://www.youtube.com/watch?v=Czi-ryYRz9g) (Thu Mar 09 2023)
-- [Extending and relating entities in SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=xolmwO02y1M) (Fri Mar 03 2023)
-- [BTP Innobytes, SAPUI5 What's New, ABAP Rel 2302, Sid Effects in RAP | SAP Developer News](https://www.youtube.com/watch?v=3E62YLq8itw) (Thu Mar 02 2023)
-- [Making your Mobile's App Data Available Offline](https://www.youtube.com/watch?v=DyLQXl4TMwY) (Mon Feb 27 2023)
+- [What's New in SAP HANA 2.0 SPS 07: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=rvXjW8abD40) (Sat Mar 18 2023)
+- [What's New in SAP HANA 2.0 SPS 07: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=oO8P5M5pmiw) (Sat Mar 18 2023)
+- [What's New in SAP HANA 2.0 SPS 07: Smart Multi Model](https://www.youtube.com/watch?v=Bj_nSMUBpSc) (Sat Mar 18 2023)
+- [What's New in SAP HANA 2.0 SPS 07: Modeling / Development (BAS)](https://www.youtube.com/watch?v=YZUlSQtSWCc) (Sat Mar 18 2023)
+- [What’s New in SAP HANA 2.0 SPS 07:  Mission Critical Data Center Operations](https://www.youtube.com/watch?v=PD8MACFcTzE) (Sat Mar 18 2023)
+- [What's New in SAP HANA 2.0 SPS 07: Administration and Monitoring](https://www.youtube.com/watch?v=iP1JwmudUrA) (Sat Mar 18 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
