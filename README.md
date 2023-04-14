@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=5zIP7ZaS120) (Thu Apr 13 2023)
 - [What’s New in SAP HANA 2.0 SPS 07:  Mission Critical Data Center Operations](https://www.youtube.com/watch?v=PD8MACFcTzE) (Thu Apr 13 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Administration and Monitoring](https://www.youtube.com/watch?v=iP1JwmudUrA) (Wed Apr 12 2023)
 - [SAP Build Challenge #2](https://www.youtube.com/watch?v=uq2wJNqygkU) (Tue Apr 11 2023)
 - [SAP Build Challenge #1](https://www.youtube.com/watch?v=AcL7nAW0a2I) (Fri Apr 07 2023)
 - [SAP Build Challenge, ABAP Cloud in ADT, HANA 2.0 SPS07 and 2023-QRC1, CAP March | SAP Developer News](https://www.youtube.com/watch?v=5YCI0YLtwCM) (Thu Apr 06 2023)
-- [SAP Datasphere Analytic Model, Dev Challenge, Updating Kyma, CodeJam Roadshow | SAP Developer News](https://www.youtube.com/watch?v=W1RDIWVLhQA) (Thu Mar 30 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
