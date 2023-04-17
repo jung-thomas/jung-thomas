@@ -21,7 +21,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [What's New in SAP HANA 2.0 SPS 07: Modeling / Development (BAS)](https://www.youtube.com/watch?v=YZUlSQtSWCc) (Fri Apr 14 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=5zIP7ZaS120) (Thu Apr 13 2023)
+- [RAP Generator, ABAP Roundtable, SAPUI5, Learning SAP Datasphere | SAP Developer News](https://www.youtube.com/watch?v=5zIP7ZaS120) (Thu Apr 13 2023)
 - [What’s New in SAP HANA 2.0 SPS 07:  Mission Critical Data Center Operations](https://www.youtube.com/watch?v=PD8MACFcTzE) (Thu Apr 13 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Administration and Monitoring](https://www.youtube.com/watch?v=iP1JwmudUrA) (Wed Apr 12 2023)
 - [SAP Build Challenge #2](https://www.youtube.com/watch?v=uq2wJNqygkU) (Tue Apr 11 2023)
