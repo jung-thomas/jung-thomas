@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [What's New in SAP HANA 2.0 SPS 07: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=oO8P5M5pmiw) (Wed Apr 19 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Smart Multi Model](https://www.youtube.com/watch?v=Bj_nSMUBpSc) (Wed Apr 19 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Modeling / Development (BAS)](https://www.youtube.com/watch?v=YZUlSQtSWCc) (Fri Apr 14 2023)
 - [RAP Generator, ABAP Roundtable, SAPUI5, Learning SAP Datasphere | SAP Developer News](https://www.youtube.com/watch?v=5zIP7ZaS120) (Thu Apr 13 2023)
 - [What’s New in SAP HANA 2.0 SPS 07:  Mission Critical Data Center Operations](https://www.youtube.com/watch?v=PD8MACFcTzE) (Thu Apr 13 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Administration and Monitoring](https://www.youtube.com/watch?v=iP1JwmudUrA) (Wed Apr 12 2023)
-- [SAP Build Challenge #2](https://www.youtube.com/watch?v=uq2wJNqygkU) (Tue Apr 11 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
