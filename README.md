@@ -22,7 +22,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 ## Videos and Live Streams
 - [ABAP Cloud: RAP Side Effects](https://www.youtube.com/watch?v=yh_pje7ry0U) (Tue Apr 25 2023)
 - [Adding data for our SAP Cloud Application Programming Model service](https://www.youtube.com/watch?v=N8B5395qA0M) (Mon Apr 24 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=9TjbsLF1NwA) (Thu Apr 20 2023)
+- [Events, Cloud Identity Services on Trial, Fiori for Android & iOS, SAC Updates | SAP Developer News](https://www.youtube.com/watch?v=9TjbsLF1NwA) (Thu Apr 20 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=rvXjW8abD40) (Thu Apr 20 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=oO8P5M5pmiw) (Wed Apr 19 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Smart Multi Model](https://www.youtube.com/watch?v=Bj_nSMUBpSc) (Wed Apr 19 2023)
