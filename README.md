@@ -20,12 +20,12 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Understanding and exploring managed associations in the SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=rds3CcROf9g) (Fri Apr 28 2023)
 - [Devtoberfest Winners Retreat, A Hitchhiker's Guide to SAP Fiori, SAP CodeJams | SAP Developer News](https://www.youtube.com/watch?v=sUMcQ4pN3oE) (Thu Apr 27 2023)
 - [ABAP Cloud: RAP Side Effects](https://www.youtube.com/watch?v=yh_pje7ry0U) (Tue Apr 25 2023)
 - [Events, Cloud Identity Services on Trial, Fiori for Android & iOS, SAC Updates | SAP Developer News](https://www.youtube.com/watch?v=9TjbsLF1NwA) (Thu Apr 20 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=rvXjW8abD40) (Thu Apr 20 2023)
 - [What's New in SAP HANA 2.0 SPS 07: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=oO8P5M5pmiw) (Wed Apr 19 2023)
-- [What's New in SAP HANA 2.0 SPS 07: Smart Multi Model](https://www.youtube.com/watch?v=Bj_nSMUBpSc) (Wed Apr 19 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
