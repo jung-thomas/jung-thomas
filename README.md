@@ -21,7 +21,7 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
   
 ## Videos and Live Streams
 - [Adding data for our SAP Cloud Application Programming Model service](https://www.youtube.com/watch?v=N8B5395qA0M) (Fri Apr 28 2023)
-- [Understanding and exploring managed associations in the SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=rds3CcROf9g) (Fri Apr 28 2023)
+- [Exploring and understanding managed associations in the SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=rds3CcROf9g) (Fri Apr 28 2023)
 - [Devtoberfest Winners Retreat, A Hitchhiker's Guide to SAP Fiori, SAP CodeJams | SAP Developer News](https://www.youtube.com/watch?v=sUMcQ4pN3oE) (Thu Apr 27 2023)
 - [ABAP Cloud: RAP Side Effects](https://www.youtube.com/watch?v=yh_pje7ry0U) (Tue Apr 25 2023)
 - [Events, Cloud Identity Services on Trial, Fiori for Android & iOS, SAC Updates | SAP Developer News](https://www.youtube.com/watch?v=9TjbsLF1NwA) (Thu Apr 20 2023)
