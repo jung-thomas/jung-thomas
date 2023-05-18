@@ -10,19 +10,11 @@ const Handlebars = require('handlebars')
 const source = require('./template')
 const template = Handlebars.compile(source)
 
-const URLYouTube = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCVLSTvSR7UAd87o_0qoIR4Q'
 const URLSAPDevs = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCNfmelKDrvRmjYwSi9yvrMg'
 //const URLSCN = 'https://content.services.sap.com/cs/searches/userProfile?userName=thomas.jung&objectTypes=blogpost&sort=published,desc&size=6&page=0'
 const URLSCN = 'https://content.services.sap.com/feed?type=blogpost&author=thomas.jung'
 const main = async _ => {
   try {
-    //  const res = await request('GET', URLSCN)
-    //  const scnItems = JSON.parse(res.getBody())
-    /* const feed = await parser.parseURL(URLYouTube)
-    const items = feed.items.slice(0, 3).map(item => {
-      item.date = new Date(item.pubDate).toDateString()
-      return item
-    }) */
     const feedNew = await parser.parseURL(URLSAPDevs)
     const itemsNew = feedNew.items.slice(0, 6).map(item => {
       item.date = new Date(item.pubDate).toDateString()
@@ -31,21 +23,17 @@ const main = async _ => {
 
     const feed = await parser.parseURL(URLSCN)
     const items = feed.items.slice(0, 6).map(item => {
-      // item.date = new Date(item.pubDate).toDateString()
       return item
     })
 
-    // const scnCont = scnItems._embedded.contents
-    // for (const cont of scnCont) {
-    //     cont.date = new Date(cont.published).toDateString()
-    //     cont.url = encodeURI(cont.url)
-    //   } 
-
     const start = new Date()
-    const eventURL = `https://groups.community.sap.com/api/2.0/search?q=SELECT * FROM messages WHERE board.id='codejam-events' and occasion_data.start_time >= '${start.toISOString()}' order by occasion_data.start_time asc limit 5`
+    const eventURL = 
+    `https://groups.community.sap.com/api/2.0/search?q=` +
+    `SELECT id, subject, view_href, occasion_data.location, occasion_data.start_time, occasion_data.end_time, ` +
+    `occasion_data.timezone ` +
+    `FROM messages WHERE board.id='codejam-events' and occasion_data.start_time >= '${start.toISOString()}' order by occasion_data.start_time asc limit 5`
     let eventDetails = await request('GET', eventURL)
     const eventOutput = JSON.parse(eventDetails.getBody())
-    //const events = eventOutput.data.items.map(item => {
 
     const events = await Promise.all(eventOutput.data.items.map(async (item) => {
       let newItem = {}
