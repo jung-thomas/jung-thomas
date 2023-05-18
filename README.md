@@ -38,19 +38,19 @@ Follow me on:
 
 ## Upcoming SAP CodeJams
 - [🇮🇹 Service Integration with SAP Cloud Application Programming Model (Brescia, IT)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/224275)
-  - Start: 5/19/2023, 8:30:00 AM
+  - Start: Friday, May 19, 2023 at 8:30:00 AM British Summer Time
   - Location: Regesta S.p.A., Via Antonio Panigada, Brescia, Province of Brescia, Italy
 - [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg/ev-p/219384)
-  - Start: 5/26/2023, 9:00:00 AM
+  - Start: Friday, May 26, 2023 at 9:00:00 AM Central European Summer Time
   - Location: MHP, Königsallee 57, Ludwigsburg, Germany
 - [🇱🇻 SAP CodeJam SAP Cloud Application Programming Model with SAP HANA Cloud (Riga, Latvia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-sap-cloud-application-programming-model-with-sap/ev-p/227235)
-  - Start: 5/26/2023, 1:00:00 PM
+  - Start: Friday, May 26, 2023 at 1:00:00 PM Eastern European Summer Time
   - Location: Gustava Zemgala gatve 74, Vidzeme Suburb, Riga, Riga, Latvia
 - [🇧🇪 SAP CodeJam UI5 (Ghent, Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-ui5-ghent-belgium/ev-p/254700)
-  - Start: 5/31/2023, 9:00:00 AM
+  - Start: Wednesday, May 31, 2023 at 9:00:00 AM Central European Summer Time
   - Location: Sluisweg 1, 9000 Ghent, Belgium
 - [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/223935)
-  - Start: 6/16/2023, 8:30:00 AM
+  - Start: Friday, June 16, 2023 at 8:30:00 AM British Summer Time
   - Location: Reply, Bartholomäusweg 26, 33334 Gütersloh, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
