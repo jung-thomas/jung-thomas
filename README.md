@@ -4,6 +4,12 @@
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/developer-advocates.html) team at SAP .
 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.dev/jung-thomas/jung-thomas)
+Follow me on:
+- <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a rel="me" href="https://mastodon.cloud/@thomas_jung"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109262551990174478?domain=https%3A%2F%2Fmastodon.cloud%2F&style=social"/></a>
+![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
+
 
 <table><tr><td valign="top" width="50%">
  
@@ -29,10 +35,23 @@ I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/develo
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
-Follow me on <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> or <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> or <a rel="me" href="https://mastodon.cloud/@thomas_jung"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109262551990174478?domain=https%3A%2F%2Fmastodon.cloud%2F&style=social"/></a>
-
-
-![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
+## Upcoming SAP CodeJams
+- [🇮🇹 Service Integration with SAP Cloud Application Programming Model (Brescia, IT)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/224275)
+  - Start: 5/19/2023, 8:30:00 AM
+  - Location: Regesta S.p.A., Via Antonio Panigada, Brescia, Province of Brescia, Italy
+- [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg/ev-p/219384)
+  - Start: 5/26/2023, 9:00:00 AM
+  - Location: MHP, Königsallee 57, Ludwigsburg, Germany
+- [🇱🇻 SAP CodeJam SAP Cloud Application Programming Model with SAP HANA Cloud (Riga, Latvia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-sap-cloud-application-programming-model-with-sap/ev-p/227235)
+  - Start: 5/26/2023, 1:00:00 PM
+  - Location: Gustava Zemgala gatve 74, Vidzeme Suburb, Riga, Riga, Latvia
+- [🇧🇪 SAP CodeJam UI5 (Ghent, Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-ui5-ghent-belgium/ev-p/254700)
+  - Start: 5/31/2023, 9:00:00 AM
+  - Location: Sluisweg 1, 9000 Ghent, Belgium
+- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/223935)
+  - Start: 6/16/2023, 8:30:00 AM
+  - Location: Reply, Bartholomäusweg 26, 33334 Gütersloh, Germany
+- More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
 <p align = "center">
