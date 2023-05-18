@@ -15,8 +15,8 @@
   "license": "MIT",
   "homepage": "https://github.com/jung-thomas/jung-thomas#readme",
   "dependencies": {
-    "handlebars": "^4.7.6",
-    "rss-parser": "^3.8.0",
+    "handlebars": "^4.7.7",
+    "rss-parser": "^3.13.0",
     "then-request": "^6.0.2"
   }
 }
