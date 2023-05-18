@@ -55,7 +55,7 @@ const main = async _ => {
       newItem.timezone = item.occasion_data.timezone
       newItem.startTimeFormatted = new Date(
         (typeof date === "string" ? new Date(newItem.start_time) : newItem.start_time)
-      ).toLocaleString('en-US', { timeZone: newItem.timezone, dateStyle: 'full', timeStyle: 'long' })
+      ).toLocaleString('en-US', { timeZone: newItem.timezone, dateStyle: 'full', timeStyle: 'full' })
       newItem.endTimeFormatted = new Date(
         (typeof date === "string" ? new Date(newItem.end_time) : newItem.end_time)
       ).toLocaleString('en-US', { timeZone: newItem.timezone })
