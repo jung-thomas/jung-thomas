@@ -4,12 +4,13 @@ module.exports = `
 I'm currently Head of [SAP Developer Advocacy](https://developers.sap.com/developer-advocates.html) team at SAP .
 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://github.dev/jung-thomas/jung-thomas)
+
 Follow me on:
 - <a href="https://twitter.com/thomas_jung"><img alt="Twitter" src="https://img.shields.io/badge/thomas_jung-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/thomasjungsap/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a rel="me" href="https://mastodon.cloud/@thomas_jung"><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109262551990174478?domain=https%3A%2F%2Fmastodon.cloud%2F&style=social"/></a>
-![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
 
+![README builder](https://github.com/jung-thomas/jung-thomas/workflows/README%20builder/badge.svg)
 
 <table><tr><td valign="top" width="50%">
  
