@@ -30,6 +30,7 @@ Follow me on:
 
 ## Upcoming SAP CodeJams
 {{#events}}- [{{{title}}}]({{{href}}})
+  - <img src="{{{thumb}}}" />
   - Start: {{{startTimeFormatted}}}
   - Location: {{{location}}}
 {{/events}}

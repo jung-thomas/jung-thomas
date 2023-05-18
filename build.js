@@ -45,7 +45,9 @@ const main = async _ => {
     const eventURL = `https://groups.community.sap.com/api/2.0/search?q=SELECT * FROM messages WHERE board.id='codejam-events' and occasion_data.start_time >= '${start.toISOString()}' order by occasion_data.start_time asc limit 5`
     let eventDetails = await request('GET', eventURL)
     const eventOutput = JSON.parse(eventDetails.getBody())
-    const events = eventOutput.data.items.map(item => {
+    //const events = eventOutput.data.items.map(item => {
+
+    const events = await Promise.all(eventOutput.data.items.map(async (item) => {
       let newItem = {}
       newItem.title = item.subject
       newItem.href = item.view_href
@@ -59,9 +61,14 @@ const main = async _ => {
       newItem.endTimeFormatted = new Date(
         (typeof date === "string" ? new Date(newItem.end_time) : newItem.end_time)
       ).toLocaleString('en-US', { timeZone: newItem.timezone })
+
+      const thumbURL = `https://groups.community.sap.com/api/2.0/search?q=SELECT * FROM images WHERE messages.id = '${item.id}'`
+      let thumbDetails = await request('GET', thumbURL)
+      const thumbOutput = JSON.parse(thumbDetails.getBody())
+      newItem.thumb = thumbOutput.data.items[0].thumb_href
       return newItem
 
-    })
+    }))
 
     console.log(template({ itemsNew, items, events }))
   } catch (error) {
