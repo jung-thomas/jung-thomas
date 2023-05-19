@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=GwaLAkTfE1A) (Wed May 17 2023)
+- [SAP Sapphire 2023 Day 2 Recap | SAP Developer News](https://www.youtube.com/watch?v=GwaLAkTfE1A) (Wed May 17 2023)
 - [SAP Sapphire 2023 Day 1 Recap | SAP Developer News](https://www.youtube.com/watch?v=9vl1EpCo_GY) (Tue May 16 2023)
 - [Exploring and understanding managed associations in CAP - Part 2](https://www.youtube.com/watch?v=n72qmk58wSs) (Fri May 12 2023)
 - [Exploring and understanding managed associations in CAP - Part 3](https://www.youtube.com/watch?v=_Yc8NG5-1uY) (Fri May 12 2023)
