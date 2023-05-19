@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇹 Service Integration with SAP Cloud Application Programming Model (Brescia, IT)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/224275)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/29723i295FF8EA2E0B1ED7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, May 19, 2023 at 8:30:00 AM British Summer Time
-  - Location: Regesta S.p.A., Via Antonio Panigada, Brescia, Province of Brescia, Italy
 - [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg/ev-p/219384)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/28910i17535C4F97CB8A8A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, May 26, 2023 at 9:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/29610i56084A8ACB52A500/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 16, 2023 at 8:30:00 AM British Summer Time
   - Location: Reply, Bartholomäusweg 26, 33334 Gütersloh, Germany
+- [🇺🇸 SAP CodeJam RAP vs CAP (Dallas, TX, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-rap-vs-cap-dallas-tx-usa/ev-p/258251)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35246i4E7C5B6250642A83/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, June 16, 2023 at 9:00:00 AM Central Daylight Time
+  - Location: SAP America Inc. - Dallas, Windrose Avenue, Plano, TX, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
