@@ -37,11 +37,11 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg-de/ev-p/219384)
+- [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg/ev-p/219384)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/28910i17535C4F97CB8A8A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, May 26, 2023 at 9:00:00 AM Central European Summer Time
   - Location: MHP, Königsallee 57, Ludwigsburg, Germany
-- [🇱🇻 SAP CodeJam SAP Cloud Application Programming Model with SAP HANA Cloud (Riga, Latvia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/227235)
+- [🇱🇻 SAP CodeJam SAP Cloud Application Programming Model with SAP HANA Cloud (Riga, Latvia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-sap-cloud-application-programming-model-with-sap/ev-p/227235)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/31095i016E82E5E747D2EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, May 26, 2023 at 1:00:00 PM Eastern European Summer Time
   - Location: Gustava Zemgala gatve 74, Vidzeme Suburb, Riga, Riga, Latvia
@@ -49,10 +49,14 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/33994i430DDB6A13C3F802/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, May 31, 2023 at 9:00:00 AM Central European Summer Time
   - Location: Sluisweg 1, 9000 Ghent, Belgium
-- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-g%C3%BCtersloh/ev-p/223935)
+- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/223935)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/29610i56084A8ACB52A500/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 16, 2023 at 8:30:00 AM British Summer Time
   - Location: Reply, Bartholomäusweg 26, 33334 Gütersloh, Germany
+- [🇺🇸 SAP CodeJam RAP vs CAP (Dallas, TX, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-rap-vs-cap-dallas-tx-usa/ev-p/258251)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35246i4E7C5B6250642A83/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, June 16, 2023 at 9:00:00 AM Central Daylight Time
+  - Location: SAP America Inc. - Dallas, Windrose Avenue, Plano, TX, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
