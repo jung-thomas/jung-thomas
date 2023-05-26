@@ -27,24 +27,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v=EtNv5VX4yxk) (Fri May 26 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=o5i-4Xnlr8M) (Thu May 25 2023)
 - [ABAP Cloud: RAP Business Events](https://www.youtube.com/watch?v=J7DIlpmyiug) (Thu May 25 2023)
 - [SAP Sapphire 2023 Day 2 Recap | SAP Developer News](https://www.youtube.com/watch?v=GwaLAkTfE1A) (Wed May 17 2023)
 - [SAP Sapphire 2023 Day 1 Recap | SAP Developer News](https://www.youtube.com/watch?v=9vl1EpCo_GY) (Tue May 16 2023)
 - [Exploring and understanding managed associations in CAP - Part 2](https://www.youtube.com/watch?v=n72qmk58wSs) (Fri May 12 2023)
-- [Exploring and understanding managed associations in CAP - Part 3](https://www.youtube.com/watch?v=_Yc8NG5-1uY) (Fri May 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Ludwigsburg, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-ludwigsburg/ev-p/219384)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/28910i17535C4F97CB8A8A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, May 26, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: MHP, Königsallee 57, Ludwigsburg, Germany
-- [🇱🇻 SAP CodeJam SAP Cloud Application Programming Model with SAP HANA Cloud (Riga, Latvia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-sap-cloud-application-programming-model-with-sap/ev-p/227235)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/31095i016E82E5E747D2EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, May 26, 2023 at 1:00:00 PM Eastern European Summer Time
-  - Location: Gustava Zemgala gatve 74, Vidzeme Suburb, Riga, Riga, Latvia
 - [🇧🇪 SAP CodeJam UI5 (Ghent, Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-ui5-ghent-belgium/ev-p/254700)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/33994i430DDB6A13C3F802/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, May 31, 2023 at 9:00:00 AM Central European Summer Time
@@ -57,6 +49,14 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35246i4E7C5B6250642A83/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 16, 2023 at 9:00:00 AM Central Daylight Time
   - Location: SAP America Inc. - Dallas, Windrose Avenue, Plano, TX, USA
+- [🇦🇺 SAP CodeJam Cloud Application Programming Model with SAP HANA Cloud (Sydney, AU)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-cloud-application-programming-model-with-sap-hana/ev-p/259136)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35536iA231C208EAF16124/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, June 20, 2023 at 9:00:00 AM Australian Eastern Standard Time
+  - Location: level 13/1 Denison St, North Sydney NSW 2060, Australia
+- [🇪🇸 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap/ev-p/259449)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, June 21, 2023 at 9:30:00 AM Central European Summer Time
+  - Location: SAP España, Edificio Flex, Calle de Torrelaguna, 28043 Madrid, España
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
