@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Exploring and understanding managed associations in CAP - Part 3](https://www.youtube.com/watch?v=_Yc8NG5-1uY) (Fri May 26 2023)
 - [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v=EtNv5VX4yxk) (Fri May 26 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=o5i-4Xnlr8M) (Thu May 25 2023)
 - [ABAP Cloud: RAP Business Events](https://www.youtube.com/watch?v=J7DIlpmyiug) (Thu May 25 2023)
 - [SAP Sapphire 2023 Day 2 Recap | SAP Developer News](https://www.youtube.com/watch?v=GwaLAkTfE1A) (Wed May 17 2023)
 - [SAP Sapphire 2023 Day 1 Recap | SAP Developer News](https://www.youtube.com/watch?v=9vl1EpCo_GY) (Tue May 16 2023)
-- [Exploring and understanding managed associations in CAP - Part 2](https://www.youtube.com/watch?v=n72qmk58wSs) (Fri May 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
