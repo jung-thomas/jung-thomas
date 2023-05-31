@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇪 SAP CodeJam UI5 (Ghent, Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-ui5-ghent-belgium/ev-p/254700)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/33994i430DDB6A13C3F802/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Wednesday, May 31, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: Sluisweg 1, 9000 Ghent, Belgium
 - [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/223935)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/29610i56084A8ACB52A500/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 16, 2023 at 8:30:00 AM British Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, June 21, 2023 at 9:30:00 AM Central European Summer Time
   - Location: SAP España, Edificio Flex, Calle de Torrelaguna, 28043 Madrid, España
+- [🇦🇺 SAP CodeJam Cloud Application Programming Model with SAP HANA Cloud (Brisbane, AU)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-cloud-application-programming-model-with-sap-hana/ev-p/259139)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35537i707DC7E98AC6659E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, June 22, 2023 at 10:00:00 AM Australian Eastern Standard Time
+  - Location: level 20/140 Creek St, Brisbane City QLD 4000, Australia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
