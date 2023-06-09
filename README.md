@@ -29,7 +29,7 @@ Follow me on:
 ## Videos and Live Streams
 - [SAP Developer News](https://www.youtube.com/watch?v=Dxe4OmaFVy4) (Thu Jun 08 2023)
 - [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v=EtNv5VX4yxk) (Fri Jun 02 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=380EpSFwHq4) (Thu Jun 01 2023)
+- [ABAP Cloud Extensibility, May Developer Challenge, SAP Mobile Experience openSAP Course](https://www.youtube.com/watch?v=380EpSFwHq4) (Thu Jun 01 2023)
 - [Exploring and understanding managed associations in CAP - Part 3](https://www.youtube.com/watch?v=_Yc8NG5-1uY) (Fri May 26 2023)
 - [ABAP news, Sapphire highlights, SAP Fiori for watchOS and our May Developer Challenge](https://www.youtube.com/watch?v=o5i-4Xnlr8M) (Thu May 25 2023)
 - [ABAP Cloud: RAP Business Events](https://www.youtube.com/watch?v=J7DIlpmyiug) (Thu May 25 2023)
