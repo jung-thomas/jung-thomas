@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 SAP CodeJam RAP vs CAP (Dallas, TX, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-rap-vs-cap-dallas-tx-usa/ev-p/258251)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35246i4E7C5B6250642A83/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, June 16, 2023 at 9:00:00 AM Central Daylight Time
-  - Location: SAP America Inc. - Dallas, Windrose Avenue, Plano, TX, USA
 - [🇦🇺 SAP CodeJam Cloud Application Programming Model with SAP HANA Cloud (Sydney, AU)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-cloud-application-programming-model-with-sap-hana/ev-p/259136)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35536iA231C208EAF16124/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, June 20, 2023 at 9:00:00 AM Australian Eastern Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35660iDE834FA7D23E2121/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, June 22, 2023 at 9:30:00 AM Central European Summer Time
   - Location: SAP España, Edificio Flex, Calle de Torrelaguna, 28043 Madrid, España
+- [🇵🇱 SAP CodeJam ABAP Cloud (Wroclaw, PL)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-wroclaw-pl/ev-p/258217)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35223iE8A36A74A7808B0E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, June 23, 2023 at 9:00:00 AM Central European Summer Time
+  - Location: Software Center, Capgemini Polska, Legnicka, Wrocław, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
