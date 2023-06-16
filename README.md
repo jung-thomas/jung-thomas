@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Gütersloh, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/223935)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/29610i56084A8ACB52A500/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, June 16, 2023 at 8:30:00 AM British Summer Time
-  - Location: Reply, Bartholomäusweg 26, 33334 Gütersloh, Germany
 - [🇺🇸 SAP CodeJam RAP vs CAP (Dallas, TX, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-rap-vs-cap-dallas-tx-usa/ev-p/258251)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35246i4E7C5B6250642A83/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 16, 2023 at 9:00:00 AM Central Daylight Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35537i707DC7E98AC6659E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, June 22, 2023 at 10:00:00 AM Australian Eastern Standard Time
   - Location: level 20/140 Creek St, Brisbane City QLD 4000, Australia
+- [🇪🇸 SAP CodeJam BTP: Managing APIs in your landscape with SAP API Management (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-managing-apis-in-your-landscape-with-sap-api/ev-p/259451)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35660iDE834FA7D23E2121/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, June 22, 2023 at 9:30:00 AM Central European Summer Time
+  - Location: SAP España, Edificio Flex, Calle de Torrelaguna, 28043 Madrid, España
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
