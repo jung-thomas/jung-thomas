@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 SAP CodeJam Cloud Application Programming Model with SAP HANA Cloud (Sydney, AU)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-cloud-application-programming-model-with-sap-hana/ev-p/259136)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35536iA231C208EAF16124/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, June 20, 2023 at 9:00:00 AM Australian Eastern Standard Time
-  - Location: level 13/1 Denison St, North Sydney NSW 2060, Australia
 - [🇪🇸 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap/ev-p/259449)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, June 21, 2023 at 9:30:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35223iE8A36A74A7808B0E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 23, 2023 at 9:00:00 AM Central European Summer Time
   - Location: Software Center, Capgemini Polska, Legnicka, Wrocław, Poland
+- [🇳🇱 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261850)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36402iE7F1EB96D748A473/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, June 26, 2023 at 10:00:00 AM Central European Summer Time
+  - Location: Fred. Roeskestraat 115, 1076 EE Amsterdam, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
