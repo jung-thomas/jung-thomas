@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP CodeJam BTP: Managing APIs in your landscape with SAP API Management (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-managing-apis-in-your-landscape-with-sap-api/ev-p/259451)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35660iDE834FA7D23E2121/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Thursday, June 22, 2023 at 9:30:00 AM Central European Summer Time
-  - Location: SAP España, Edificio Flex, Calle de Torrelaguna, 28043 Madrid, España
 - [🇵🇱 SAP CodeJam ABAP Cloud (Wroclaw, PL)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-wroclaw-pl/ev-p/258217)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35223iE8A36A74A7808B0E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 23, 2023 at 9:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36431iBF7BEE73D33F6186/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 29, 2023 at 10:00:00 AM Central European Summer Time
   - Location: SAP ESPAÑA, S.A., Edificio Flex, Calle de Torrelaguna, Madrid, Spain
+- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/256584)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/34591i7FC46A9EBA527136/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Saturday, July 8, 2023 at 8:30:00 AM British Summer Time
+  - Location: SAP-Allee 15, 68789 Sankt Leon-Rot, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
