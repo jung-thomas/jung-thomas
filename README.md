@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP CodeJam ABAP Cloud (Wroclaw, PL)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-wroclaw-pl/ev-p/258217)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35223iE8A36A74A7808B0E/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, June 23, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: Software Center, Capgemini Polska, Legnicka, Wrocław, Poland
 - [🇳🇱 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261850)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36402iE7F1EB96D748A473/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 26, 2023 at 10:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/34591i7FC46A9EBA527136/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Saturday, July 8, 2023 at 8:30:00 AM British Summer Time
   - Location: SAP-Allee 15, 68789 Sankt Leon-Rot, Germany
+- [🇭🇺 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana/ev-p/260759)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36046iD326775B13CB98C7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, August 31, 2023 at 8:30:00 AM British Summer Time
+  - Location: Budapest, SAP Hungary Kft., I, Graphisoft Park Building S, Záhony u. 7, 1031 Hungary
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
