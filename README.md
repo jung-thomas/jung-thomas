@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261850)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36402iE7F1EB96D748A473/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, June 26, 2023 at 10:00:00 AM Central European Summer Time
-  - Location: Fred. Roeskestraat 115, 1076 EE Amsterdam, Netherlands
 - [🇳🇱 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261784)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36382i3BD74494D565C006/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, June 27, 2023 at 10:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36046iD326775B13CB98C7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, August 31, 2023 at 8:30:00 AM British Summer Time
   - Location: Budapest, SAP Hungary Kft., I, Graphisoft Park Building S, Záhony u. 7, 1031 Hungary
+- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Dortmund, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/260775)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36049i56C2F34791E157F9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, September 8, 2023 at 8:30:00 AM British Summer Time
+  - Location: Adessopl. 1, 44269 Dortmund, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
