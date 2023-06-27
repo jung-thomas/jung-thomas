@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261784)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36382i3BD74494D565C006/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, June 27, 2023 at 10:00:00 AM Central European Summer Time
-  - Location: Statenlaan 8, 5223 LA 's-Hertogenbosch, Netherlands
 - [🇪🇸 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261999)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36431iBF7BEE73D33F6186/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 29, 2023 at 10:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36049i56C2F34791E157F9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 8, 2023 at 8:30:00 AM British Summer Time
   - Location: Adessopl. 1, 44269 Dortmund, Germany
+- [🇧🇪 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/262808)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
+  - Location: Deloitte Belgium, Zaventem, Belgium
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
