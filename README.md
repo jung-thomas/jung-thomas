@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/261999)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36431iBF7BEE73D33F6186/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, June 29, 2023 at 10:00:00 AM Central European Summer Time
-  - Location: SAP ESPAÑA, S.A., Edificio Flex, Calle de Torrelaguna, Madrid, Spain
 - [🇩🇪 Service Integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/256584)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/34591i7FC46A9EBA527136/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Saturday, July 8, 2023 at 8:30:00 AM British Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
   - Location: Deloitte Belgium, Zaventem, Belgium
+- [🇵🇱 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Warszawa, Poland)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap/ev-p/263042)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
+  - Location: KMD Poland, Inflancka, Warsaw, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
