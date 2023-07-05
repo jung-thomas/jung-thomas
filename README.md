@@ -41,6 +41,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/34591i7FC46A9EBA527136/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Saturday, July 8, 2023 at 8:30:00 AM British Summer Time
   - Location: SAP-Allee 15, 68789 Sankt Leon-Rot, Germany
+- [SAP CodeJam on SAP BTP Tools, Runtimes and SAP Build Apps](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-on-sap-btp-tools-runtimes-and-sap-build-apps/ev-p/270180)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/39280iB6CDE0889DAC1283/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, July 17, 2023 at 11:30:00 AM India Standard Time
+  - Location: DLF IT PARK-1, Street Number 30, Action Area I, Newtown, New Town, West Bengal, India
 - [🇭🇺 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana/ev-p/260759)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36046iD326775B13CB98C7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, August 31, 2023 at 8:30:00 AM British Summer Time
@@ -53,10 +57,6 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
   - Location: Deloitte Belgium, Zaventem, Belgium
-- [🇵🇱 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Warszawa, Poland)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap/ev-p/263042)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
-  - Location: KMD Poland, Inflancka, Warsaw, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
