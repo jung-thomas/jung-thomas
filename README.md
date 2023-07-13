@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=44NvTosDuoM) (Thu Jul 06 2023)
+- [SAP Developer News](https://www.youtube.com/watch?v=A80d6h5jjUM) (Thu Jul 13 2023)
+- [SAP AI: Introduction to SAP's AI Portfolio](https://www.youtube.com/watch?v=3eAAT5WMhhw) (Thu Jul 13 2023)
+- [UI5con & reCAP, BTP SDK for iOS 9.2, Dev Challenge, Web Components, OCM |  SAP Developer News](https://www.youtube.com/watch?v=44NvTosDuoM) (Thu Jul 06 2023)
 - [Dev Advocates in India, June Dev Challenge, CAP 7.0, Q2 Updates for HANA & SAC | SAP Developer News](https://www.youtube.com/watch?v=MfHzrwrHUgo) (Thu Jun 29 2023)
 - [Our GPT prototype for the SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=5TxOGS49Anc) (Mon Jun 26 2023)
 - [BTP CLI Survey, HANA & Datasphere Learning, June Dev Challenge, Python for LLM | SAP Developer News](https://www.youtube.com/watch?v=hRTbv56uWgY) (Thu Jun 22 2023)
-- [Upcoming Events, SAP Mobile Matters Podcast, June Dev Challenge, Neo Sunset |  SAP Developer News](https://www.youtube.com/watch?v=ZnzO-0UftgI) (Thu Jun 15 2023)
-- [ABAP Cloud:  RAP Extensibility](https://www.youtube.com/watch?v=YNOa1c0BxR0) (Wed Jun 14 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
