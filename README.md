@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [SAP CodeJam on SAP BTP Tools, Runtimes and SAP Build Apps](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-on-sap-btp-tools-runtimes-and-sap-build-apps/ev-p/270180)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/39280iB6CDE0889DAC1283/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, July 17, 2023 at 11:30:00 AM India Standard Time
-  - Location: DLF IT PARK-1, Street Number 30, Action Area I, Newtown, New Town, West Bengal, India
 - [🇭🇺 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana/ev-p/260759)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36046iD326775B13CB98C7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, August 31, 2023 at 8:30:00 AM British Summer Time
