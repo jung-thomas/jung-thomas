@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=4XnP9t-nTO0) (Thu Jul 20 2023)
 - [UI5Con, Magical World in ABAP, What's New in HANA Cloud, SAP, & Build | SAP Developer News](https://www.youtube.com/watch?v=A80d6h5jjUM) (Thu Jul 13 2023)
 - [SAP AI: Introduction to SAP's AI Portfolio](https://www.youtube.com/watch?v=3eAAT5WMhhw) (Thu Jul 13 2023)
 - [UI5con & reCAP, BTP SDK for iOS 9.2, Dev Challenge, Web Components, OCM |  SAP Developer News](https://www.youtube.com/watch?v=44NvTosDuoM) (Thu Jul 06 2023)
 - [Dev Advocates in India, June Dev Challenge, CAP 7.0, Q2 Updates for HANA & SAC | SAP Developer News](https://www.youtube.com/watch?v=MfHzrwrHUgo) (Thu Jun 29 2023)
 - [Our GPT prototype for the SAP Cloud Application Programming Model](https://www.youtube.com/watch?v=5TxOGS49Anc) (Mon Jun 26 2023)
-- [BTP CLI Survey, HANA & Datasphere Learning, June Dev Challenge, Python for LLM | SAP Developer News](https://www.youtube.com/watch?v=hRTbv56uWgY) (Thu Jun 22 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -53,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
   - Location: KMD Poland, Inflancka, Warsaw, Poland
+- [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
+  - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
