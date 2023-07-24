@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=4XnP9t-nTO0) (Thu Jul 20 2023)
+- [reCAP recordings, ASUG ABAP Cloud series, Influence Channel for APIs, Graph | SAP Developer News](https://www.youtube.com/watch?v=4XnP9t-nTO0) (Thu Jul 20 2023)
 - [UI5Con, Magical World in ABAP, What's New in HANA Cloud, SAP, & Build | SAP Developer News](https://www.youtube.com/watch?v=A80d6h5jjUM) (Thu Jul 13 2023)
 - [SAP AI: Introduction to SAP's AI Portfolio](https://www.youtube.com/watch?v=3eAAT5WMhhw) (Thu Jul 13 2023)
 - [UI5con & reCAP, BTP SDK for iOS 9.2, Dev Challenge, Web Components, OCM |  SAP Developer News](https://www.youtube.com/watch?v=44NvTosDuoM) (Thu Jul 06 2023)
