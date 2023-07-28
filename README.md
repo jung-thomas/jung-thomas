@@ -45,6 +45,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36049i56C2F34791E157F9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 8, 2023 at 8:30:00 AM British Summer Time
   - Location: Adessopl. 1, 44269 Dortmund, Germany
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Hamburg, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python/ev-p/275433)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40981i94CFF34B83B54739/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 8, 2023 at 10:00:00 AM Central European Summer Time
+  - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße 8, 20148 Hamburg, Germany
 - [🇧🇪 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites/ev-p/262808)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
@@ -53,10 +57,6 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
   - Location: KMD Poland, Inflancka, Warsaw, Poland
-- [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
