@@ -28,7 +28,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [SAPUI5: Fragments (#15)](https://www.youtube.com/watch?v=N_WyuKusuX0) (Fri Aug 11 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=5n2Q2qdRK40) (Thu Aug 10 2023)
+- [Dev Challenge, ABAP CDS Enumerations, BTP with AI, SAC Q3 2023, DevOps Learning | SAP Developer News](https://www.youtube.com/watch?v=5n2Q2qdRK40) (Thu Aug 10 2023)
 - [ABAP Platform Trial, UX Best Practices, UI5 TypeScript, New CodeJam HANA ML | SAP Developer News](https://www.youtube.com/watch?v=NqaFrwDfdFA) (Thu Aug 03 2023)
 - [Dev Challenges, ABAP Cloud Service Plans, SAP Build Process Auto., New Learning | SAP Developer News](https://www.youtube.com/watch?v=aIGJCxtPpQg) (Thu Jul 27 2023)
 - [reCAP recordings, ASUG ABAP Cloud series, Influence Channel for APIs, Graph | SAP Developer News](https://www.youtube.com/watch?v=4XnP9t-nTO0) (Thu Jul 20 2023)
