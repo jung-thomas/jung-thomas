@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo) (Mon Aug 14 2023)
+- [🟢 Explore ABAP Profiling with the ABAP Development Tools](https://www.youtube.com/watch?v=CSv-0YGfDS8) (Mon Aug 14 2023)
+- [🟢 Hello, ABAP Cloud!](https://www.youtube.com/watch?v=QuMgQ9chPFA) (Mon Aug 14 2023)
+- [🟢 Business Events with ABAP Cloud based Applications](https://www.youtube.com/watch?v=001pjya6kig) (Mon Aug 14 2023)
+- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Mon Aug 14 2023)
 - [SAPUI5: Fragments (#15)](https://www.youtube.com/watch?v=N_WyuKusuX0) (Fri Aug 11 2023)
-- [Dev Challenge, ABAP CDS Enumerations, BTP with AI, SAC Q3 2023, DevOps Learning | SAP Developer News](https://www.youtube.com/watch?v=5n2Q2qdRK40) (Thu Aug 10 2023)
-- [ABAP Platform Trial, UX Best Practices, UI5 TypeScript, New CodeJam HANA ML | SAP Developer News](https://www.youtube.com/watch?v=NqaFrwDfdFA) (Thu Aug 03 2023)
-- [Dev Challenges, ABAP Cloud Service Plans, SAP Build Process Auto., New Learning | SAP Developer News](https://www.youtube.com/watch?v=aIGJCxtPpQg) (Thu Jul 27 2023)
-- [reCAP recordings, ASUG ABAP Cloud series, Influence Channel for APIs, Graph | SAP Developer News](https://www.youtube.com/watch?v=4XnP9t-nTO0) (Thu Jul 20 2023)
-- [UI5Con, Magical World in ABAP, What's New in HANA Cloud, SAP, & Build | SAP Developer News](https://www.youtube.com/watch?v=A80d6h5jjUM) (Thu Jul 13 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
