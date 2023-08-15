@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Cloud API Enablement on SAP S/4HANA and SAP S/4HANA Cloud, private editions](https://www.youtube.com/watch?v=MThRxtNEHS0) (Tue Aug 15 2023)
+- [Join us for Devtoberfest 2023](https://www.youtube.com/watch?v=FSiYriIvS00) (Tue Aug 15 2023)
 - [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo) (Mon Aug 14 2023)
 - [🟢 Explore ABAP Profiling with the ABAP Development Tools](https://www.youtube.com/watch?v=CSv-0YGfDS8) (Mon Aug 14 2023)
 - [🟢 Hello, ABAP Cloud!](https://www.youtube.com/watch?v=QuMgQ9chPFA) (Mon Aug 14 2023)
 - [🟢 Business Events with ABAP Cloud based Applications](https://www.youtube.com/watch?v=001pjya6kig) (Mon Aug 14 2023)
-- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Mon Aug 14 2023)
-- [SAPUI5: Fragments (#15)](https://www.youtube.com/watch?v=N_WyuKusuX0) (Fri Aug 11 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
