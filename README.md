@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
+- [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Wed Aug 16 2023)
+- [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig) (Wed Aug 16 2023)
 - [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Tue Aug 15 2023)
 - [🔴 Deliver SAP Integrations faster with Figaf](https://www.youtube.com/watch?v=c6Hn_NQg2Ak) (Tue Aug 15 2023)
 - [Next Level ABAP with Generative AI](https://www.youtube.com/watch?v=juPLIubS-ec) (Tue Aug 15 2023)
-- [🟢 Cloud API Enablement on SAP S/4HANA and SAP S/4HANA Cloud, private editions](https://www.youtube.com/watch?v=MThRxtNEHS0) (Tue Aug 15 2023)
-- [Join us for Devtoberfest 2023](https://www.youtube.com/watch?v=FSiYriIvS00) (Tue Aug 15 2023)
-- [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo) (Mon Aug 14 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
