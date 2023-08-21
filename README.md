@@ -15,19 +15,19 @@ Follow me on:
 <table><tr><td valign="top" width="50%">
  
 ## On my blog
+- [Devtoberfest 2023: Electric Boogaloo](https://blogs.sap.com/?p=1824721) 
 - [Devtoberfest 2022 Week 1](https://blogs.sap.com/?p=1618235) 
 - [Devtoberfest 2022: Return of the Developer](https://blogs.sap.com/?p=1598237) 
 - [Star Wars App - No-Code Challenge](https://blogs.sap.com/?p=1543686) 
 - [SAP CodeJam Events Return!](https://blogs.sap.com/?p=1539697) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 4 XSJS and CAP](https://blogs.sap.com/?p=1519898) 
-- [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 3 Wrappers and Express](https://blogs.sap.com/?p=1519778) 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
 </td>
   
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=uTeIJRqOZ78) (Thu Aug 17 2023)
+- [ABAP with Generative AI, ABAP Cloud Cheat Sheet, AI Core for VScode, Node.js 16 | SAP Developer News](https://www.youtube.com/watch?v=uTeIJRqOZ78) (Thu Aug 17 2023)
 - [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4) (Thu Aug 17 2023)
 - [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
 - [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Wed Aug 16 2023)
