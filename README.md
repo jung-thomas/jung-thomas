@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: CDS Scalar Functions](https://www.youtube.com/watch?v=B9LxQIbzc2A) (Tue Aug 22 2023)
 - [ABAP with Generative AI, ABAP Cloud Cheat Sheet, AI Core for VScode, Node.js 16 | SAP Developer News](https://www.youtube.com/watch?v=uTeIJRqOZ78) (Thu Aug 17 2023)
 - [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4) (Thu Aug 17 2023)
 - [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
 - [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Wed Aug 16 2023)
 - [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig) (Wed Aug 16 2023)
-- [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Tue Aug 15 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
