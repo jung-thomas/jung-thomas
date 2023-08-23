@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest 2022 Winner: Raymond dela Luna](https://www.youtube.com/watch?v=W_E4kZt_ID8) (Wed Aug 23 2023)
 - [🟢 Consume SAP S/4HANA or SAP S/4HANA Cloud Events Using SAP Business Application Studio](https://www.youtube.com/watch?v=vR78mU0flx8) (Wed Aug 23 2023)
 - [ABAP Cloud: CDS Scalar Functions](https://www.youtube.com/watch?v=B9LxQIbzc2A) (Tue Aug 22 2023)
 - [ABAP with Generative AI, ABAP Cloud Cheat Sheet, AI Core for VScode, Node.js 16 | SAP Developer News](https://www.youtube.com/watch?v=uTeIJRqOZ78) (Thu Aug 17 2023)
 - [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4) (Thu Aug 17 2023)
 - [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
-- [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Wed Aug 16 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
