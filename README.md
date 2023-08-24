@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Devtoberfest 2022 Winner: Raymond dela Luna](https://www.youtube.com/watch?v=W_E4kZt_ID8) (Wed Aug 23 2023)
-- [🟢 Consume SAP S/4HANA or SAP S/4HANA Cloud Events Using SAP Business Application Studio](https://www.youtube.com/watch?v=vR78mU0flx8) (Wed Aug 23 2023)
-- [ABAP Cloud: CDS Scalar Functions](https://www.youtube.com/watch?v=B9LxQIbzc2A) (Tue Aug 22 2023)
-- [ABAP with Generative AI, ABAP Cloud Cheat Sheet, AI Core for VScode, Node.js 16 | SAP Developer News](https://www.youtube.com/watch?v=uTeIJRqOZ78) (Thu Aug 17 2023)
-- [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4) (Thu Aug 17 2023)
-- [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
+- [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Thu Aug 24 2023)
+- [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y) (Thu Aug 24 2023)
+- [🟣 Custom mashups in SAP Sales & Service Cloud (C4C) using SAP Build Apps](https://www.youtube.com/watch?v=jIzzTxhVhwU) (Thu Aug 24 2023)
+- [🟣 • Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4) (Thu Aug 24 2023)
+- [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec) (Thu Aug 24 2023)
+- [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc) (Thu Aug 24 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
