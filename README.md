@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest: How to Register for the Contest](https://www.youtube.com/watch?v=aOubOAtjPhU) (Thu Aug 24 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=RGz8ntynPgQ) (Thu Aug 24 2023)
 - [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4) (Thu Aug 24 2023)
 - [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Thu Aug 24 2023)
 - [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y) (Thu Aug 24 2023)
 - [🟣 Custom mashups in SAP Sales & Service Cloud (C4C) using SAP Build Apps](https://www.youtube.com/watch?v=jIzzTxhVhwU) (Thu Aug 24 2023)
-- [🟣 Introducing Enterprise Automation: Process integration, Analysis, and Automation All together](https://www.youtube.com/watch?v=u5JPbf-hGcs) (Thu Aug 24 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
