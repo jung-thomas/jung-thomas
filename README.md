@@ -30,7 +30,7 @@ Follow me on:
 - [🟢 Capire: Introduction, Enhancements, and Facilitating the Development Process](https://www.youtube.com/watch?v=YoyYKbVkpVc) (Mon Aug 28 2023)
 - [🔴 Core XML standards for SAP Cloud Integration developers](https://www.youtube.com/watch?v=AL_TQi0B0Es) (Fri Aug 25 2023)
 - [Devtoberfest: How to Register for the Contest](https://www.youtube.com/watch?v=aOubOAtjPhU) (Thu Aug 24 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=RGz8ntynPgQ) (Thu Aug 24 2023)
+- [Devtoberfest, ABAP 2308, SAPUI5, Customer Partner Roundtable | SAP Developer News](https://www.youtube.com/watch?v=RGz8ntynPgQ) (Thu Aug 24 2023)
 - [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4) (Thu Aug 24 2023)
 - [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Thu Aug 24 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
