@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇭🇺 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/260759)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36046iD326775B13CB98C7/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Thursday, August 31, 2023 at 8:30:00 AM British Summer Time
-  - Location: Budapest, SAP Hungary Kft., I, Graphisoft Park Building S, Záhony u. 7, 1031 Hungary
 - [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Dortmund, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-dortmund/ev-p/260775)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36049i56C2F34791E157F9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 8, 2023 at 8:30:00 AM British Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
   - Location: KMD Poland, Inflancka, Warsaw, Poland
+- [🇺🇸 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Colorado, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/283114)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42939iBF9C90A0105B7D71/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, October 6, 2023 at 8:00:00 AM Mountain Daylight Time
+  - Location: 1025 Eldorado Blvd, Broomfield, CO 80021, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
