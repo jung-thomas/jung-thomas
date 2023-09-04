@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=INMZ6agi5E0) (Thu Aug 31 2023)
+- [Dev Challenges, SAP TechEd, ABAP Hibernation, ATC Checks, CDS Scalar Functions | SAP Developer News](https://www.youtube.com/watch?v=INMZ6agi5E0) (Thu Aug 31 2023)
 - [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Wed Aug 30 2023)
 - [Devtoberfest 2022 Winner Profile: Sandra Solís](https://www.youtube.com/watch?v=JIlxUWAhPtA) (Tue Aug 29 2023)
 - [🟢 Capire: Introduction, Enhancements, and Facilitating the Development Process](https://www.youtube.com/watch?v=YoyYKbVkpVc) (Mon Aug 28 2023)
