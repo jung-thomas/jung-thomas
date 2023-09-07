@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://www.youtube.com/watch?v=9ojljyI943M) (Thu Sep 07 2023)
 - [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Thu Sep 07 2023)
 - [Dev Challenges, SAP TechEd, ABAP Hibernation, ATC Checks, CDS Scalar Functions | SAP Developer News](https://www.youtube.com/watch?v=INMZ6agi5E0) (Thu Aug 31 2023)
 - [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Wed Aug 30 2023)
 - [Devtoberfest 2022 Winner Profile: Sandra Solís](https://www.youtube.com/watch?v=JIlxUWAhPtA) (Tue Aug 29 2023)
 - [🟢 Capire: Introduction, Enhancements, and Facilitating the Development Process](https://www.youtube.com/watch?v=YoyYKbVkpVc) (Mon Aug 28 2023)
-- [🔴 Core XML standards for SAP Cloud Integration developers](https://www.youtube.com/watch?v=AL_TQi0B0Es) (Fri Aug 25 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
