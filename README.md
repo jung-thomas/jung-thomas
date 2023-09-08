@@ -27,24 +27,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest 2022 Winner: Arwen Liu](https://www.youtube.com/watch?v=Jtd7XgCGgLE) (Fri Sep 08 2023)
+- [🔴 Integrate SAP API Management with 3rd party IDP for SAML/JWT/OAuth based Authentication](https://www.youtube.com/watch?v=792SHsUWFB0) (Fri Sep 08 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=PoPTDhI2o78) (Thu Sep 07 2023)
 - [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://www.youtube.com/watch?v=9ojljyI943M) (Thu Sep 07 2023)
 - [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Thu Sep 07 2023)
 - [Dev Challenges, SAP TechEd, ABAP Hibernation, ATC Checks, CDS Scalar Functions | SAP Developer News](https://www.youtube.com/watch?v=INMZ6agi5E0) (Thu Aug 31 2023)
-- [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Wed Aug 30 2023)
-- [Devtoberfest 2022 Winner Profile: Sandra Solís](https://www.youtube.com/watch?v=JIlxUWAhPtA) (Tue Aug 29 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Service Integration with SAP Cloud Application Programming Model (Dortmund, DE)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-dortmund/ev-p/260775)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36049i56C2F34791E157F9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, September 8, 2023 at 8:30:00 AM British Summer Time
-  - Location: Adessopl. 1, 44269 Dortmund, Germany
-- [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Hamburg, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-hamburg-de/ev-p/275433)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40981i94CFF34B83B54739/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 8, 2023 at 10:00:00 AM Central European Summer Time
-  - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße 8, 20148 Hamburg, Germany
 - [🇧🇪 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/262808)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
@@ -57,6 +49,14 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42939iBF9C90A0105B7D71/image-size/thumb?v=v2&px=150" />
   - Start: Friday, October 6, 2023 at 8:00:00 AM Mountain Daylight Time
   - Location: 1025 Eldorado Blvd, Broomfield, CO 80021, USA
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/278352)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42230iCBFB141DC8490A0C/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, October 18, 2023 at 10:00:00 AM India Standard Time
+  - Location: Cyber City, DLF Tower 8th Road, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana, India
+- [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
+  - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
