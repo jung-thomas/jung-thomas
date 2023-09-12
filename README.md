@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 wdi5 2.0: New Features and Migration from v1](https://www.youtube.com/watch?v=wpmc_QbTbHU) (Tue Sep 12 2023)
 - [Devtoberfest 2022 Winner: Arwen Liu](https://www.youtube.com/watch?v=Jtd7XgCGgLE) (Fri Sep 08 2023)
 - [🔴 Integrate SAP API Management with 3rd party IDP for SAML/JWT/OAuth based Authentication](https://www.youtube.com/watch?v=792SHsUWFB0) (Fri Sep 08 2023)
 - [Devtoberfest, Builders Beyond Code, SAP TechEd BTP Track, Dev Challenge Sept | SAP Developer News](https://www.youtube.com/watch?v=PoPTDhI2o78) (Thu Sep 07 2023)
 - [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://www.youtube.com/watch?v=9ojljyI943M) (Thu Sep 07 2023)
 - [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Thu Sep 07 2023)
-- [Dev Challenges, SAP TechEd, ABAP Hibernation, ATC Checks, CDS Scalar Functions | SAP Developer News](https://www.youtube.com/watch?v=INMZ6agi5E0) (Thu Aug 31 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
