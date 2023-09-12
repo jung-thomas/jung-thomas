@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡Devtoberfest Coffee Chat](https://www.youtube.com/watch?v=CMHXxMBPZ7M) (Tue Sep 12 2023)
 - [🟢 Introduction to Embedded Analytics with ABAP Cloud](https://www.youtube.com/watch?v=2dIqQNnYKjY) (Tue Sep 12 2023)
 - [🟣 Start Your Journey with Low-Code/No-Code Development](https://www.youtube.com/watch?v=0rmfJRaO1mw) (Tue Sep 12 2023)
 - [🟣 From Idea to Reality: Simplifying App Development for Everyone with SAP Build Apps](https://www.youtube.com/watch?v=E5AtAZpkkwE) (Tue Sep 12 2023)
 - [🔴 Event-Driven Architecture: Bringing SAP and Microsoft closer together in real time](https://www.youtube.com/watch?v=_kMVnPnmy2U) (Tue Sep 12 2023)
 - [🟠 ui5-test-runner v3](https://www.youtube.com/watch?v=kxmmdy1tho4) (Tue Sep 12 2023)
-- [🟠 Typescript Support in UI5 Web Components](https://www.youtube.com/watch?v=JxkFscoNdIE) (Tue Sep 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
