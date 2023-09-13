@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Hybrid development on SAP HANA Cloud and SAP HANA using SAP Business Application Studio](https://www.youtube.com/watch?v=ozHIKDL_9GY) (Wed Sep 13 2023)
+- [🔴 Generative Test Driven Development (gTDD) with ChatGPT for SAP Integration Suite](https://www.youtube.com/watch?v=oVNRs2bJtcA) (Wed Sep 13 2023)
 - [🟠 Branding for SAP Applications](https://www.youtube.com/watch?v=kPrvWv0ZN2Y) (Tue Sep 12 2023)
 - [🟠 Equip an SAPUI5 freestyle app with the Flexible Programming Model](https://www.youtube.com/watch?v=sx3dQOxXyHc) (Tue Sep 12 2023)
 - [🟠 SAP Fiori elements and SAP Fiori tools: It's time to use TypeScript!](https://www.youtube.com/watch?v=SMc1ZzKAWW4) (Tue Sep 12 2023)
 - [🟡Devtoberfest Coffee Chat](https://www.youtube.com/watch?v=CMHXxMBPZ7M) (Tue Sep 12 2023)
-- [🟢 Introduction to Embedded Analytics with ABAP Cloud](https://www.youtube.com/watch?v=2dIqQNnYKjY) (Tue Sep 12 2023)
-- [🟣 Start Your Journey with Low-Code/No-Code Development](https://www.youtube.com/watch?v=0rmfJRaO1mw) (Tue Sep 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
