@@ -27,10 +27,10 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡Devtoberfest Coffee Chat](https://www.youtube.com/watch?v=CMHXxMBPZ7M) (Fri Sep 15 2023)
 - [🔵 Conversion Deep Dive to SAP Datasphere](https://www.youtube.com/watch?v=ZXLf5ng3LJY) (Fri Sep 15 2023)
 - [🔵 Openness and flexibility with SAP Analytics Cloud’s APIs for data import and export](https://www.youtube.com/watch?v=SL0v3hk-rqk) (Fri Sep 15 2023)
 - [🔵 SAP Datasphere - the evolution towards a business data fabric](https://www.youtube.com/watch?v=BRsr_6vobNg) (Fri Sep 15 2023)
-- [🟡Devtoberfest Coffee Chat](https://www.youtube.com/watch?v=CMHXxMBPZ7M) (Tue Sep 12 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=YOa1UUiyq_0) (Thu Sep 14 2023)
 - [🟢 SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU) (Thu Sep 14 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
