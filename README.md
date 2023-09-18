@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Mon Aug 14 2023)
+- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Mon Sep 18 2023)
+- [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Mon Sep 18 2023)
+- [🟢 Overview of ABAP Cloud](https://www.youtube.com/watch?v=ApZSn_t_WSo) (Mon Sep 18 2023)
+- [🟢 Making SAP Extensibility Real with CAP in 60 minutes](https://www.youtube.com/watch?v=zoJ7umKZKB4) (Mon Sep 18 2023)
 - [🔴 Event Driven Architecture – SAP Event Broker for SAP cloud applications](https://www.youtube.com/watch?v=y2GK9Lng4b8) (Sun Sep 17 2023)
-- [🟢 How to Clean your ABAP code in Seconds with ABAP Cleaner](https://www.youtube.com/watch?v=0mp0FuJV5_k) (Sat Sep 16 2023)
-- [🟢 SAP Cloud Application Programming Model, Hybrid Testing, and Alternative DBs](https://www.youtube.com/watch?v=vqub4vJbZX8) (Sat Sep 16 2023)
-- [🟡Devtoberfest Coffee Chat](https://www.youtube.com/watch?v=CMHXxMBPZ7M) (Fri Sep 15 2023)
-- [🔵 Conversion Deep Dive to SAP Datasphere](https://www.youtube.com/watch?v=ZXLf5ng3LJY) (Fri Sep 15 2023)
-- [🔵 Openness and flexibility with SAP Analytics Cloud’s APIs for data import and export](https://www.youtube.com/watch?v=SL0v3hk-rqk) (Fri Sep 15 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
