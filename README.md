@@ -27,9 +27,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [EnterpriseAutomation](https://www.youtube.com/watch?v=B8orRs1Cikw) (Mon Sep 18 2023)
-- [🟢 SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU) (Thu Sep 14 2023)
-- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Mon Aug 14 2023)
+- [🟢 SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU) (Tue Sep 19 2023)
+- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Tue Sep 19 2023)
+- [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw) (Mon Sep 18 2023)
 - [🟢 Capire: Introduction, Enhancements, and Facilitating the Development Process](https://www.youtube.com/watch?v=YoyYKbVkpVc) (Mon Sep 18 2023)
 - [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Mon Sep 18 2023)
 - [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Mon Sep 18 2023)
