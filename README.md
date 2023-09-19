@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Thu Sep 07 2023)
+- [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=ovPan834WA8) (Tue Sep 19 2023)
+- [🔴 Building a Robust and Secure Connection between SAP S/4HANA and AWS with SAP BTP](https://www.youtube.com/watch?v=7dQC6vhXICA) (Tue Sep 19 2023)
+- [🔵 SAP HANA Cloud: processing semi-structured data using the JSON Document Store](https://www.youtube.com/watch?v=39xmUYBeWeQ) (Tue Sep 19 2023)
 - [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Wed Aug 30 2023)
 - [🟣 From Idea to Reality: Simplifying App Development for Everyone with SAP Build Apps](https://www.youtube.com/watch?v=E5AtAZpkkwE) (Tue Sep 19 2023)
-- [🟣 Start Your Journey with Low-Code/No-Code Development](https://www.youtube.com/watch?v=0rmfJRaO1mw) (Tue Sep 19 2023)
-- [🟢 SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU) (Tue Sep 19 2023)
-- [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Tue Sep 19 2023)
-- [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw) (Mon Sep 18 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
