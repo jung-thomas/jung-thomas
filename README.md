@@ -27,20 +27,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Wed Aug 30 2023)
+- [🟣 From Idea to Reality: Simplifying App Development for Everyone with SAP Build Apps](https://www.youtube.com/watch?v=E5AtAZpkkwE) (Tue Sep 19 2023)
+- [🟣 Start Your Journey with Low-Code/No-Code Development](https://www.youtube.com/watch?v=0rmfJRaO1mw) (Tue Sep 19 2023)
 - [🟢 SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU) (Tue Sep 19 2023)
 - [🟢 ABAP Cloud for Classic ABAP Developers](https://www.youtube.com/watch?v=jyLoSnHa0Vo) (Tue Sep 19 2023)
 - [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw) (Mon Sep 18 2023)
-- [🟢 Capire: Introduction, Enhancements, and Facilitating the Development Process](https://www.youtube.com/watch?v=YoyYKbVkpVc) (Mon Sep 18 2023)
-- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Mon Sep 18 2023)
-- [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Mon Sep 18 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 Introduction to the Core Principles of UI5 (Pennsylvania, USA)](https://groups.community.sap.com/t5/sap-codejam/introduction-to-the-core-principles-of-ui5-pennsylvania-usa/ev-p/285926)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/43748i2BF746ED732DC77C/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, September 19, 2023 at 8:00:00 AM Eastern Daylight Time
-  - Location: Duquesne University, Forbes Avenue, Pittsburgh, PA, USA
 - [🇧🇪 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/262808)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42230iCBFB141DC8490A0C/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 18, 2023 at 10:00:00 AM India Standard Time
   - Location: Cyber City, DLF Tower 8th Road, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana, India
+- [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
+  - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
