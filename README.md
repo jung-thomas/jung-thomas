@@ -27,9 +27,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Wed Sep 20 2023)
 - [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Tue Sep 19 2023)
 - [ABAP Cloud: CDS Simple Types](https://www.youtube.com/watch?v=sv-X4ARUVIE) (Tue Sep 19 2023)
-- [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Thu Sep 07 2023)
 - [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=ovPan834WA8) (Tue Sep 19 2023)
 - [🔴 Building a Robust and Secure Connection between SAP S/4HANA and AWS with SAP BTP](https://www.youtube.com/watch?v=7dQC6vhXICA) (Tue Sep 19 2023)
 - [🔵 SAP HANA Cloud: processing semi-structured data using the JSON Document Store](https://www.youtube.com/watch?v=39xmUYBeWeQ) (Tue Sep 19 2023)
