@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Boost your Developer Experience for CAP Java Development](https://www.youtube.com/watch?v=zvpd0T0pZfw) (Wed Sep 20 2023)
+- [🔴 Integrate SAP API Management with 3rd party IDP for SAML/JWT/OAuth based Authentication](https://www.youtube.com/watch?v=792SHsUWFB0) (Wed Sep 20 2023)
 - [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://www.youtube.com/watch?v=9ojljyI943M) (Wed Sep 20 2023)
 - [🔴 Event-Driven Architecture: Bringing SAP and Microsoft closer together in real time](https://www.youtube.com/watch?v=_kMVnPnmy2U) (Wed Sep 20 2023)
 - [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Wed Sep 20 2023)
 - [🟣 Custom UI & Theming Essentials in SAP Build Apps](https://www.youtube.com/watch?v=DWSw1AAmjMQ) (Tue Sep 19 2023)
-- [ABAP Cloud: CDS Simple Types](https://www.youtube.com/watch?v=sv-X4ARUVIE) (Tue Sep 19 2023)
-- [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=ovPan834WA8) (Tue Sep 19 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
