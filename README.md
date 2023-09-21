@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps](https://www.youtube.com/watch?v=lfWhp7Cyx0A) (Thu Sep 21 2023)
+- [🔵 SAP AI Core Toolkit](https://www.youtube.com/watch?v=h3Xs862M-RU) (Thu Sep 21 2023)
+- [🔵 Question Answering Leveraging Large Language Models](https://www.youtube.com/watch?v=KHFd7-OmNSs) (Thu Sep 21 2023)
+- [🔵 SAP Datasphere - the evolution towards a business data fabric](https://www.youtube.com/watch?v=BRsr_6vobNg) (Thu Sep 21 2023)
+- [🔵 Hybrid development on SAP HANA Cloud and SAP HANA using SAP Business Application Studio](https://www.youtube.com/watch?v=ozHIKDL_9GY) (Thu Sep 21 2023)
 - [🟣 Collaborate to Build S/4HANA Extensions Using SAP Build with CAP and RAP](https://www.youtube.com/watch?v=yXROwwzyYEI) (Thu Sep 21 2023)
-- [🟢 Boost your Developer Experience for CAP Java Development](https://www.youtube.com/watch?v=zvpd0T0pZfw) (Wed Sep 20 2023)
-- [🔴 Integrate SAP API Management with 3rd party IDP for SAML/JWT/OAuth based Authentication](https://www.youtube.com/watch?v=792SHsUWFB0) (Wed Sep 20 2023)
-- [🔴 Develop an LLM-Based Application with Graph in SAP Integration Suite](https://www.youtube.com/watch?v=9ojljyI943M) (Wed Sep 20 2023)
-- [🔴 Event-Driven Architecture: Bringing SAP and Microsoft closer together in real time](https://www.youtube.com/watch?v=_kMVnPnmy2U) (Wed Sep 20 2023)
-- [🟣 Build S/4HANA Extensions with SAP Build Apps and Key User Extensibility](https://www.youtube.com/watch?v=bhR2mbYwDOM) (Wed Sep 20 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
