@@ -27,24 +27,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Using UI5 Web Components with Svelte](https://www.youtube.com/watch?v=nhiketEaE30) (Fri Sep 22 2023)
+- [🟠 wdi5 2.0: New Features and Migration from v1](https://www.youtube.com/watch?v=wpmc_QbTbHU) (Tue Sep 12 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=K3iiZZduPVw) (Thu Sep 21 2023)
 - [🔵 Openness and flexibility with SAP Analytics Cloud’s APIs for data import and export](https://www.youtube.com/watch?v=SL0v3hk-rqk) (Thu Sep 21 2023)
 - [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps](https://www.youtube.com/watch?v=lfWhp7Cyx0A) (Thu Sep 21 2023)
 - [🔵 SAP AI Core Toolkit](https://www.youtube.com/watch?v=h3Xs862M-RU) (Thu Sep 21 2023)
-- [🔵 Question Answering Leveraging Large Language Models](https://www.youtube.com/watch?v=KHFd7-OmNSs) (Thu Sep 21 2023)
-- [🔵 SAP Datasphere - the evolution towards a business data fabric](https://www.youtube.com/watch?v=BRsr_6vobNg) (Thu Sep 21 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇪 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/262808)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/36748iA85DF8DB94921C49/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 22, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: Deloitte Belgium, Zaventem, Belgium
-- [🇵🇱 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Warszawa, Poland)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/263042)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/35642i7D7D6F3C35FA63DF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, September 22, 2023 at 2:00:00 PM Central European Summer Time
-  - Location: KMD Poland, Inflancka, Warsaw, Poland
 - [🇺🇸 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Colorado, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/283114)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42939iBF9C90A0105B7D71/image-size/thumb?v=v2&px=150" />
   - Start: Friday, October 6, 2023 at 8:00:00 AM Mountain Daylight Time
@@ -57,6 +49,14 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
   - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
+- [🇺🇸 SAP CodeJam ABAP Cloud and the RESTful Application Programming Model](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-and-the-restful-application-programming-model/ev-p/283470)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/43019i82729426A3F957E4/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, October 20, 2023 at 9:00:00 AM Eastern Daylight Time
+  - Location: 400 S Wilcox Dr, Kingsport, Tennessee 37660, USA
+- [🇪🇸 SAP CodeJam ABAP Cloud (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-madrid-spain/ev-p/273718)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40462i66FE236FF614FC01/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, October 24, 2023 at 9:00:00 AM Eastern European Summer Time
+  - Location: Cam. de la Fuente de la Mora, 1, 28050 Madrid, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
