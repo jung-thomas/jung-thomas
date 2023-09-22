@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=K3iiZZduPVw) (Thu Sep 21 2023)
 - [🔵 Openness and flexibility with SAP Analytics Cloud’s APIs for data import and export](https://www.youtube.com/watch?v=SL0v3hk-rqk) (Thu Sep 21 2023)
 - [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps](https://www.youtube.com/watch?v=lfWhp7Cyx0A) (Thu Sep 21 2023)
 - [🔵 SAP AI Core Toolkit](https://www.youtube.com/watch?v=h3Xs862M-RU) (Thu Sep 21 2023)
 - [🔵 Question Answering Leveraging Large Language Models](https://www.youtube.com/watch?v=KHFd7-OmNSs) (Thu Sep 21 2023)
 - [🔵 SAP Datasphere - the evolution towards a business data fabric](https://www.youtube.com/watch?v=BRsr_6vobNg) (Thu Sep 21 2023)
-- [🔵 Hybrid development on SAP HANA Cloud and SAP HANA using SAP Business Application Studio](https://www.youtube.com/watch?v=ozHIKDL_9GY) (Thu Sep 21 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
