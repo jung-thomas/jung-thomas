@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 SaaS Enablement for CAP Project on BAS Productivity Environment](https://www.youtube.com/watch?v=pEKHfs33Jxw) (Mon Sep 25 2023)
 - [🟢 What’s New in the ABAP RESTful Application Programming Model (RAP)?](https://www.youtube.com/watch?v=yGWn8EKVpN0) (Sun Sep 24 2023)
 - [🟠 Create Angular Applications like a Pro](https://www.youtube.com/watch?v=Zoy6Ag8gQfA) (Sat Sep 23 2023)
 - [🟢 ABAP Cloud for Classic ABAP Developers: 1080p](https://www.youtube.com/watch?v=yRaONobpJ2Q) (Fri Sep 22 2023)
 - [🟠 wdi5 2.0: New Features and Migration from v1](https://www.youtube.com/watch?v=wpmc_QbTbHU) (Fri Sep 22 2023)
 - [🟠 Using UI5 Web Components with Svelte](https://www.youtube.com/watch?v=nhiketEaE30) (Fri Sep 22 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=K3iiZZduPVw) (Thu Sep 21 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
