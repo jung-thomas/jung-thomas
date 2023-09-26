@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4) (Thu Aug 24 2023)
+- [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec) (Thu Aug 24 2023)
+- [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc) (Thu Aug 24 2023)
 - [🟢 What’s New in the ABAP RESTful Application Programming Model (RAP)?](https://www.youtube.com/watch?v=yGWn8EKVpN0) (Mon Sep 25 2023)
 - [🟢 How to Clean your ABAP code in Seconds with ABAP Cleaner](https://www.youtube.com/watch?v=0mp0FuJV5_k) (Mon Sep 25 2023)
 - [🟢 SAP CAP in Flight: BTP Cloud Foundry Automated Deployments with Azure DevOps](https://www.youtube.com/watch?v=lfWhp7Cyx0A) (Mon Sep 25 2023)
-- [🟢 SaaS Enablement for CAP Project on BAS Productivity Environment](https://www.youtube.com/watch?v=pEKHfs33Jxw) (Mon Sep 25 2023)
-- [🟠 Create Angular Applications like a Pro](https://www.youtube.com/watch?v=Zoy6Ag8gQfA) (Sat Sep 23 2023)
-- [🟢 ABAP Cloud for Classic ABAP Developers: 1080p](https://www.youtube.com/watch?v=yRaONobpJ2Q) (Fri Sep 22 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
