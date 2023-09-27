@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Wed Aug 16 2023)
+- [🔴 Generative Test Driven Development (gTDD) with ChatGPT for SAP Integration Suite](https://www.youtube.com/watch?v=oVNRs2bJtcA) (Wed Sep 27 2023)
 - [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig) (Wed Aug 16 2023)
 - [🔴 Deliver SAP Integrations faster with Figaf](https://www.youtube.com/watch?v=c6Hn_NQg2Ak) (Tue Aug 15 2023)
 - [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4) (Wed Sep 27 2023)
 - [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4) (Tue Sep 26 2023)
-- [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec) (Tue Sep 26 2023)
-- [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc) (Tue Sep 26 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
