@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4) (Tue Sep 26 2023)
+- [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec) (Tue Sep 26 2023)
+- [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc) (Tue Sep 26 2023)
+- [🟠 Build your own React application with UI5 Web Components for React](https://www.youtube.com/watch?v=zyOxgjoSnGw) (Tue Sep 26 2023)
 - [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4) (Thu Aug 24 2023)
 - [🟣 Introducing Enterprise Automation: Process Integration, Analysis, and Automation All Together](https://www.youtube.com/watch?v=B8orRs1Cikw) (Tue Sep 26 2023)
-- [🔴 Migrating to SAP Integration Suite with Int4 Shield](https://www.youtube.com/watch?v=XgpB9aN6_dA) (Tue Sep 26 2023)
-- [🟣 Add Event-Based Triggers To Your Processes](https://www.youtube.com/watch?v=VjLYmyI4lL4) (Thu Aug 24 2023)
-- [🟣 What’s New in SAP Build Process Automation](https://www.youtube.com/watch?v=Xlvuc0S5zec) (Thu Aug 24 2023)
-- [🟣 Start Automating Your Work with SAP Build Process Automation](https://www.youtube.com/watch?v=PGyFYzFTUrc) (Thu Aug 24 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
