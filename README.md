@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 SAP HANA Cloud: processing semi-structured data using the JSON Document Store](https://www.youtube.com/watch?v=39xmUYBeWeQ) (Thu Sep 28 2023)
 - [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Mon Sep 18 2023)
 - [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Thu Sep 28 2023)
 - [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig) (Wed Sep 27 2023)
 - [🔴 Deliver SAP Integrations faster with Figaf](https://www.youtube.com/watch?v=c6Hn_NQg2Ak) (Wed Sep 27 2023)
 - [🔴 Generative Test Driven Development (gTDD) with ChatGPT for SAP Integration Suite](https://www.youtube.com/watch?v=oVNRs2bJtcA) (Wed Sep 27 2023)
-- [🟣 The Build Store: Let Prebuilt Content Turbocharge Your Development](https://www.youtube.com/watch?v=IVr9JYUtvu4) (Wed Sep 27 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
