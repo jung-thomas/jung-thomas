@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 A New Home in the New Year for the SAP Community](https://www.youtube.com/watch?v=d08KFMXf_IU) (Thu Sep 28 2023)
+- [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Thu Sep 28 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=9RbuiLzBgVU) (Thu Sep 28 2023)
 - [🔵 SAP AI Core Toolkit](https://www.youtube.com/watch?v=h3Xs862M-RU) (Thu Sep 21 2023)
 - [🔵 SAP HANA Cloud: processing semi-structured data using the JSON Document Store](https://www.youtube.com/watch?v=39xmUYBeWeQ) (Thu Sep 28 2023)
-- [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Mon Sep 18 2023)
 - [🔴 Combine event driven programming and EDA with SAP S/4HANA and Advanced Event Mesh](https://www.youtube.com/watch?v=bELEDGLixvM) (Thu Sep 28 2023)
-- [🔴 Increase developer productivity and code quality of custom scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=WBo2zNYCuig) (Wed Sep 27 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
