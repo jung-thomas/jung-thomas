@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 ui5-test-runner v3](https://www.youtube.com/watch?v=kxmmdy1tho4) (Tue Sep 12 2023)
+- [🔵 BW MOVE: Explore Your Modernization options](https://www.youtube.com/watch?v=i4WXzy1zj0o) (Fri Sep 29 2023)
 - [🟠 Build your own React application with UI5 Web Components for React](https://www.youtube.com/watch?v=zyOxgjoSnGw) (Fri Sep 29 2023)
 - [🟠 Typescript Support in UI5 Web Components](https://www.youtube.com/watch?v=JxkFscoNdIE) (Tue Sep 12 2023)
 - [🔵 SAP AI Core Toolkit](https://www.youtube.com/watch?v=h3Xs862M-RU) (Fri Sep 29 2023)
 - [🟡 A New Home in the New Year for the SAP Community](https://www.youtube.com/watch?v=d08KFMXf_IU) (Thu Sep 28 2023)
-- [🔵 Amplify your customers’ user experience with SAP Personalized Recommendations](https://www.youtube.com/watch?v=45f_EuoGbxg) (Thu Sep 28 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=9RbuiLzBgVU) (Thu Sep 28 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
