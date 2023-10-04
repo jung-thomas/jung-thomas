@@ -27,10 +27,10 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Wed Oct 04 2023)
 - [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y) (Tue Oct 03 2023)
 - [🟣 Custom Mashups in SAP Sales & Service Cloud (C4C) Using SAP Build Apps](https://www.youtube.com/watch?v=jIzzTxhVhwU) (Tue Oct 03 2023)
 - [🟡 How Did I Miss That?](https://www.youtube.com/watch?v=UJ5cRozGK-Y) (Tue Oct 03 2023)
-- [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Thu Aug 24 2023)
 - [🟣 Collaborate to Build S/4HANA Extensions Using SAP Build with CAP and RAP](https://www.youtube.com/watch?v=yXROwwzyYEI) (Tue Oct 03 2023)
 - [🟢 Hello, ABAP Cloud!](https://www.youtube.com/watch?v=QuMgQ9chPFA) (Tue Oct 03 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
