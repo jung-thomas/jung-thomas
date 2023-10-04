@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=ovPan834WA8) (Wed Oct 04 2023)
+- [🔴 Building a Robust and Secure Connection between SAP S/4HANA and AWS with SAP BTP](https://www.youtube.com/watch?v=7dQC6vhXICA) (Wed Oct 04 2023)
 - [🟠 Metadata-driven Development with SAPUI5](https://www.youtube.com/watch?v=ugnYTi35G3w) (Wed Oct 04 2023)
 - [🔴 Core XML standards for SAP Cloud Integration developers](https://www.youtube.com/watch?v=AL_TQi0B0Es) (Fri Aug 25 2023)
 - [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Aug 16 2023)
 - [🟣 More Cool Integrations for SAP Build Process Automation](https://www.youtube.com/watch?v=pyFhHNxznuU) (Wed Oct 04 2023)
-- [🟣 Empowering SAP Build Apps with OpenAI: A New Paradigm in App Development](https://www.youtube.com/watch?v=TJceTJr1l0Y) (Tue Oct 03 2023)
-- [🟣 Custom Mashups in SAP Sales & Service Cloud (C4C) Using SAP Build Apps](https://www.youtube.com/watch?v=jIzzTxhVhwU) (Tue Oct 03 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
