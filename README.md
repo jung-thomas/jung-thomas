@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Mon Sep 18 2023)
+- [🟢 Business Events with ABAP Cloud based Applications: 1080p](https://www.youtube.com/watch?v=fxcWG-AIYlo) (Thu Oct 05 2023)
 - [🔵 Question Answering Leveraging Large Language Models using RAG](https://www.youtube.com/watch?v=PoZxanevWa4) (Thu Oct 05 2023)
 - [SAP Tech Bytes: Enable the consumption of SAP S/4HANA Cloud events in SAP BTP](https://www.youtube.com/watch?v=4LspIL3NxqQ) (Thu Oct 05 2023)
 - [🟡 Fun Friday Trivia - Session 1 of 2](https://www.youtube.com/watch?v=XsOL9ok5iQ8) (Thu Oct 05 2023)
 - [🔴 Core XML standards for SAP Cloud Integration developers](https://www.youtube.com/watch?v=AL_TQi0B0Es) (Wed Oct 04 2023)
-- [🔴 Keep your AI service integration off the grid with SAP Private Link for Azure](https://www.youtube.com/watch?v=Uo3rEE_tVEc) (Wed Oct 04 2023)
-- [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=ovPan834WA8) (Wed Oct 04 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
