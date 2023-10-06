@@ -27,20 +27,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=sK1Eq-l2Y3s) (Fri Oct 06 2023)
+- [🟠 Equip an SAPUI5 freestyle app with the Flexible Programming Model](https://www.youtube.com/watch?v=sx3dQOxXyHc) (Tue Sep 12 2023)
+- [🟠 Using the SAP Approuter at dev time - a full-stack journey with UI5 and SAP CAP](https://www.youtube.com/watch?v=bJIMIE7yjIE) (Fri Oct 06 2023)
 - [🟡 How Did I Miss That?](https://www.youtube.com/watch?v=UJ5cRozGK-Y) (Fri Oct 06 2023)
 - [🟡 A New Home in the New Year for the SAP Community](https://www.youtube.com/watch?v=d08KFMXf_IU) (Thu Sep 28 2023)
 - [🟠 SAP Fiori elements and SAP Fiori tools: It's time to use TypeScript!](https://www.youtube.com/watch?v=SMc1ZzKAWW4) (Tue Sep 12 2023)
-- [🟠 Metadata-driven Development with SAPUI5](https://www.youtube.com/watch?v=ugnYTi35G3w) (Fri Oct 06 2023)
-- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Fri Oct 06 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=E0u78AYu75A) (Thu Oct 05 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding (Colorado, USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/283114)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42939iBF9C90A0105B7D71/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, October 6, 2023 at 8:00:00 AM Mountain Daylight Time
-  - Location: 1025 Eldorado Blvd, Broomfield, CO 80021, USA
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/278352)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42230iCBFB141DC8490A0C/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 18, 2023 at 10:00:00 AM India Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40462i66FE236FF614FC01/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, October 24, 2023 at 9:00:00 AM Eastern European Summer Time
   - Location: Cam. de la Fuente de la Mora, 1, 28050 Madrid, Spain
+- [🇵🇭 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding(Manila, Philippines)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/292171)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46188iF1A673B5A8948246/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Monday, November 20, 2023 at 9:00:00 AM Singapore Standard Time
+  - Location: U.P. Ayala Land TechnoHub, University of the Philippines Diliman, Commonwealth Avenue, Diliman, Quezon City, Metro Manila, Philippines
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
