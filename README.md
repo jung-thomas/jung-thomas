@@ -27,8 +27,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Fri Oct 06 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=E0u78AYu75A) (Thu Oct 05 2023)
-- [🔵 AI Ethics: Implications and Challenges](https://www.youtube.com/watch?v=955qDDAFCqM) (Mon Sep 18 2023)
 - [🟢 Business Events with ABAP Cloud based Applications: 1080p](https://www.youtube.com/watch?v=fxcWG-AIYlo) (Thu Oct 05 2023)
 - [🔵 Question Answering Leveraging Large Language Models using RAG](https://www.youtube.com/watch?v=PoZxanevWa4) (Thu Oct 05 2023)
 - [SAP Tech Bytes: Enable the consumption of SAP S/4HANA Cloud events in SAP BTP](https://www.youtube.com/watch?v=4LspIL3NxqQ) (Thu Oct 05 2023)
