@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 A New Home in the New Year for the SAP Community](https://www.youtube.com/watch?v=d08KFMXf_IU) (Fri Oct 06 2023)
+- [🟠 SAP Fiori elements and SAP Fiori tools: It's time to use TypeScript!](https://www.youtube.com/watch?v=SMc1ZzKAWW4) (Fri Oct 06 2023)
 - [🔴 SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=sK1Eq-l2Y3s) (Fri Oct 06 2023)
 - [🟠 Equip an SAPUI5 freestyle app with the Flexible Programming Model](https://www.youtube.com/watch?v=sx3dQOxXyHc) (Tue Sep 12 2023)
 - [🟠 Using the SAP Approuter at dev time - a full-stack journey with UI5 and SAP CAP](https://www.youtube.com/watch?v=bJIMIE7yjIE) (Fri Oct 06 2023)
 - [🟡 How Did I Miss That?](https://www.youtube.com/watch?v=UJ5cRozGK-Y) (Fri Oct 06 2023)
-- [🟡 A New Home in the New Year for the SAP Community](https://www.youtube.com/watch?v=d08KFMXf_IU) (Thu Sep 28 2023)
-- [🟠 SAP Fiori elements and SAP Fiori tools: It's time to use TypeScript!](https://www.youtube.com/watch?v=SMc1ZzKAWW4) (Tue Sep 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
