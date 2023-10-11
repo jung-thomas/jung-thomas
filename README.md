@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Tue Aug 15 2023)
 - [🟣 Demystifying SAP Build Work Zone](https://www.youtube.com/watch?v=jxCYdhztBY8) (Wed Oct 11 2023)
 - [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU) (Tue Oct 10 2023)
 - [🟣 Real Governance for SAP Build](https://www.youtube.com/watch?v=XfNXjipDSHE) (Tue Oct 10 2023)
 - [🟢 Explore ABAP Profiling with the ABAP Development Tools](https://www.youtube.com/watch?v=CSv-0YGfDS8) (Tue Oct 10 2023)
 - [🟢 Boost your Developer Experience for CAP Java Development](https://www.youtube.com/watch?v=zvpd0T0pZfw) (Tue Oct 10 2023)
-- [🟢 Custom Code Adaptation to SAP S/4HANA and ABAP Cloud](https://www.youtube.com/watch?v=I09O-hZAXHw) (Mon Oct 09 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
