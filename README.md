@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=GrHTb-AB9PY) (Thu Oct 12 2023)
+- [🟠 Mastering the UI5 Ecosystem for Modern and Advanced OpenUI5/SAPUI5 Development](https://www.youtube.com/watch?v=T92AKz5MP2E) (Thu Oct 12 2023)
+- [🔵 Conversion Deep Dive to SAP Datasphere](https://www.youtube.com/watch?v=ZXLf5ng3LJY) (Thu Oct 12 2023)
 - [🔵 BW MOVE: Explore Your Modernization options](https://www.youtube.com/watch?v=i4WXzy1zj0o) (Thu Oct 12 2023)
 - [🔴 Event Driven Architecture – SAP Event Broker for SAP cloud applications](https://www.youtube.com/watch?v=y2GK9Lng4b8) (Thu Oct 12 2023)
 - [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Wed Oct 11 2023)
-- [🔴 Migrating to SAP Integration Suite with Int4 Shield](https://www.youtube.com/watch?v=XgpB9aN6_dA) (Wed Oct 11 2023)
-- [🟣 Demystifying SAP Build Work Zone](https://www.youtube.com/watch?v=jxCYdhztBY8) (Wed Oct 11 2023)
-- [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU) (Tue Oct 10 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
