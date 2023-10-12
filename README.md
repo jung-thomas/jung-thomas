@@ -27,9 +27,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Wed Oct 11 2023)
 - [🔴 Event Driven Architecture – SAP Event Broker for SAP cloud applications](https://www.youtube.com/watch?v=y2GK9Lng4b8) (Sun Sep 17 2023)
 - [🔴 Migrating to SAP Integration Suite with Int4 Shield](https://www.youtube.com/watch?v=XgpB9aN6_dA) (Wed Oct 11 2023)
-- [🔴 Successfully plan, prepare and execute your migration to SAP Integration Suite with Figaf](https://www.youtube.com/watch?v=XSdinj1pWO4) (Tue Aug 15 2023)
 - [🟣 Demystifying SAP Build Work Zone](https://www.youtube.com/watch?v=jxCYdhztBY8) (Wed Oct 11 2023)
 - [🟣 Will No-Code Work for My Use Case? Run the “Use Case Evaluator”](https://www.youtube.com/watch?v=cq2YAquXrPU) (Tue Oct 10 2023)
 - [🟣 Real Governance for SAP Build](https://www.youtube.com/watch?v=XfNXjipDSHE) (Tue Oct 10 2023)
