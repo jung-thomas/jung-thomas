@@ -39,7 +39,7 @@ Follow me on:
 ## Upcoming SAP CodeJams
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/278352)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/42230iCBFB141DC8490A0C/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, October 18, 2023 at 10:00:00 AM India Standard Time
+  - Start: Wednesday, October 18, 2023 at 9:00:00 AM India Standard Time
   - Location: Cyber City, DLF Tower 8th Road, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana, India
 - [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
