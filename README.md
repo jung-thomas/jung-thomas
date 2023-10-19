@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam ABAP Cloud (Cologne, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-cologne-de/ev-p/273710)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40458i0ADB445C15A9E3A1/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, October 19, 2023 at 9:00:00 AM Central European Summer Time
-  - Location: NEOMATIC AG, Aachener Str., 50674 Cologne, Germany
 - [🇺🇸 SAP CodeJam ABAP Cloud and the RESTful Application Programming Model](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-and-the-restful-application-programming-model/ev-p/283470)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/43019i82729426A3F957E4/image-size/thumb?v=v2&px=150" />
   - Start: Friday, October 20, 2023 at 9:00:00 AM Eastern Daylight Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46191iC3B486243D3777D9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, November 23, 2023 at 9:00:00 AM Singapore Standard Time
   - Location: U.P. Ayala Land TechnoHub, University of the Philippines Diliman, Commonwealth Avenue, Diliman, Quezon City, Metro Manila, Philippines
+- [🇪🇸 SAP CodeJam BTP: Managing APIs in your landscape with SAP API Management (Barcelona, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-managing-apis-in-your-landscape-with-sap-api-management/ev-p/292642)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46364iF94D9847CC482B68/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, November 23, 2023 at 2:00:00 PM Central European Standard Time
+  - Location: SAP, Torre Diagonal Mar, C/ de Josep Pla, 2 13, 08019 Barcelona, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
