@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=PcKCE-lAh70) (Thu Oct 19 2023)
 - [🟡 Fun Friday Trivia - Session 2 of 2](https://www.youtube.com/watch?v=ojlZI34T_lI) (Sat Oct 14 2023)
 - [🟠 Create Angular Applications like a Pro](https://www.youtube.com/watch?v=Zoy6Ag8gQfA) (Fri Oct 13 2023)
 - [🟡 Fun Friday Trivia - Session 1 of 2](https://www.youtube.com/watch?v=XsOL9ok5iQ8) (Fri Oct 13 2023)
 - [🟠 Branding for SAP Applications](https://www.youtube.com/watch?v=kPrvWv0ZN2Y) (Fri Oct 13 2023)
 - [🟠 Using the SAP Approuter at dev time - a full-stack journey with UI5 and SAP CAP](https://www.youtube.com/watch?v=bJIMIE7yjIE) (Fri Oct 13 2023)
-- [🟠 Mastering the UI5 Ecosystem for Modern and Advanced OpenUI5/SAPUI5 Development](https://www.youtube.com/watch?v=T92AKz5MP2E) (Fri Oct 13 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
