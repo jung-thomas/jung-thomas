@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 SAP CodeJam ABAP Cloud and the RESTful Application Programming Model](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-and-the-restful-application-programming-model/ev-p/283470)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/43019i82729426A3F957E4/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, October 20, 2023 at 9:00:00 AM Eastern Daylight Time
-  - Location: 400 S Wilcox Dr, Kingsport, Tennessee 37660, USA
 - [🇪🇸 SAP CodeJam ABAP Cloud (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-madrid-spain/ev-p/273718)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40462i66FE236FF614FC01/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, October 24, 2023 at 9:00:00 AM Eastern European Summer Time
@@ -56,6 +52,10 @@ Follow me on:
 - [🇪🇸 SAP CodeJam BTP: Managing APIs in your landscape with SAP API Management (Barcelona, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-managing-apis-in-your-landscape-with-sap-api-management/ev-p/292642)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46364iF94D9847CC482B68/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, November 23, 2023 at 2:00:00 PM Central European Standard Time
+  - Location: SAP, Torre Diagonal Mar, C/ de Josep Pla, 2 13, 08019 Barcelona, Spain
+- [🇪🇸 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Barcelona, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-barcelona-spain/ev-p/292644)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46365i1D7AD63DDCF3DA8D/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, November 24, 2023 at 9:00:00 AM Central European Standard Time
   - Location: SAP, Torre Diagonal Mar, C/ de Josep Pla, 2 13, 08019 Barcelona, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
