@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP CodeJam ABAP Cloud (Madrid, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-madrid-spain/ev-p/273718)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/40462i66FE236FF614FC01/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, October 24, 2023 at 9:00:00 AM Eastern European Summer Time
-  - Location: Cam. de la Fuente de la Mora, 1, 28050 Madrid, Spain
 - [🇵🇭 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding(Manila, Philippines)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/292171)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46188iF1A673B5A8948246/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Monday, November 20, 2023 at 9:00:00 AM Singapore Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46365i1D7AD63DDCF3DA8D/image-size/thumb?v=v2&px=150" />
   - Start: Friday, November 24, 2023 at 9:00:00 AM Central European Standard Time
   - Location: SAP, Torre Diagonal Mar, C/ de Josep Pla, 2 13, 08019 Barcelona, Spain
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/293959)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46895iBF3709C40E400C1E/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, December 1, 2023 at 9:00:00 AM India Standard Time
+  - Location: Cyber Park, Electronic City Phase I, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
