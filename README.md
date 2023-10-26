@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=Bq93p-nQIEU) (Thu Oct 26 2023)
 - [Set Up SAP Build Apps on an SAP BTP Trial Account](https://www.youtube.com/watch?v=ZpQM2B1v2GY) (Wed Oct 25 2023)
 - [Devtoberfest, ABAP Tools for Clean ABAP, TechEd, Learning in Data & Analytics | SAP Developer News](https://www.youtube.com/watch?v=PcKCE-lAh70) (Thu Oct 19 2023)
 - [🟡 Fun Friday Trivia - Session 2 of 2](https://www.youtube.com/watch?v=ojlZI34T_lI) (Sat Oct 14 2023)
 - [🟠 Create Angular Applications like a Pro](https://www.youtube.com/watch?v=Zoy6Ag8gQfA) (Fri Oct 13 2023)
 - [🟡 Fun Friday Trivia - Session 1 of 2](https://www.youtube.com/watch?v=XsOL9ok5iQ8) (Fri Oct 13 2023)
-- [🟠 Branding for SAP Applications](https://www.youtube.com/watch?v=kPrvWv0ZN2Y) (Fri Oct 13 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
