@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=Bq93p-nQIEU) (Thu Oct 26 2023)
+- [SAP TechEd Dev Keynote, ABAP Console Update & ABAP turns 40, Migrating BPM | SAP Developer News](https://www.youtube.com/watch?v=Bq93p-nQIEU) (Thu Oct 26 2023)
 - [Set Up SAP Build Apps on an SAP BTP Trial Account](https://www.youtube.com/watch?v=ZpQM2B1v2GY) (Wed Oct 25 2023)
 - [Devtoberfest, ABAP Tools for Clean ABAP, TechEd, Learning in Data & Analytics | SAP Developer News](https://www.youtube.com/watch?v=PcKCE-lAh70) (Thu Oct 19 2023)
 - [🟡 Fun Friday Trivia - Session 2 of 2](https://www.youtube.com/watch?v=ojlZI34T_lI) (Sat Oct 14 2023)
