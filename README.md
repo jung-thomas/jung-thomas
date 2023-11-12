@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Build: Basic App Building #1 - UI](https://www.youtube.com/watch?v=Nwxho_T0IN4) (Sun Nov 12 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=ewCrlMtpVps) (Thu Nov 09 2023)
 - [Using SQL to query your SAP BTP account details](https://www.youtube.com/watch?v=wG8Z2pEKc-c) (Fri Nov 03 2023)
 - [SAP TechEd Day 2 | SAP Developer News](https://www.youtube.com/watch?v=iE0oknQ8Oxk) (Fri Nov 03 2023)
 - [SAP TechEd Day 1 | SAP Developers News](https://www.youtube.com/watch?v=M_dXYbCgePY) (Thu Nov 02 2023)
 - [Set Up SAP Build Process Automation on an SAP BTP Trial Account](https://www.youtube.com/watch?v=2gB7ipo8TNY) (Wed Nov 01 2023)
-- [SAP TechEd Dev Keynote, ABAP Console Update & ABAP turns 40, Migrating BPM | SAP Developer News](https://www.youtube.com/watch?v=Bq93p-nQIEU) (Thu Oct 26 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
