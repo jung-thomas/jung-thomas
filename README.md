@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇭 SAP CodeJam with SAP Build: Create Apps, Processes & Sites Without Coding(Manila, Philippines)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-with-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/292171)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46188iF1A673B5A8948246/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Monday, November 20, 2023 at 9:00:00 AM Singapore Standard Time
-  - Location: U.P. Ayala Land TechnoHub, University of the Philippines Diliman, Commonwealth Avenue, Diliman, Quezon City, Metro Manila, Philippines
 - [🇵🇭 SAP CodeJam on SAP Build: Create Apps, Processes & Sites Without Coding (Manila, Philippines)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-on-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/292174)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46191iC3B486243D3777D9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, November 23, 2023 at 9:00:00 AM Singapore Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46895iBF3709C40E400C1E/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 1, 2023 at 9:00:00 AM India Standard Time
   - Location: Cyber Park, Electronic City Phase I, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka, India
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Düsseldorf, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-d%C3%BCsseldorf/ev-p/303061)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49741iAA48FA1297574B92/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, December 4, 2023 at 10:00:00 AM Central European Standard Time
+  - Location: Deloitte, Erna-Scheffler-Straße, Düsseldorf, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
