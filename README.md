@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇭 SAP CodeJam on SAP Build: Create Apps, Processes & Sites Without Coding (Manila, Philippines)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-on-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/292174)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46191iC3B486243D3777D9/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Thursday, November 23, 2023 at 9:00:00 AM Singapore Standard Time
-  - Location: U.P. Ayala Land TechnoHub, University of the Philippines Diliman, Commonwealth Avenue, Diliman, Quezon City, Metro Manila, Philippines
 - [🇪🇸 SAP CodeJam BTP: Managing APIs in your landscape with SAP API Management (Barcelona, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-managing-apis-in-your-landscape-with-sap-api-management/ev-p/292642)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46364iF94D9847CC482B68/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, November 23, 2023 at 2:00:00 PM Central European Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49741iAA48FA1297574B92/image-size/thumb?v=v2&px=150" />
   - Start: Monday, December 4, 2023 at 10:00:00 AM Central European Standard Time
   - Location: Deloitte, Erna-Scheffler-Straße, Düsseldorf, Germany
+- [🇫🇷 SAP CodeJam ABAP Cloud (Strasbourg, FR)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-strasbourg-fr/ev-p/302494)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49596i5B96273BABD90CE7/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, December 8, 2023 at 9:00:00 AM Central European Standard Time
+  - Location: 8a Rue Icare, 67960 Entzheim, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
