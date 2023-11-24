@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Barcelona, Spain)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-barcelona-spain/ev-p/292644)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46365i1D7AD63DDCF3DA8D/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, November 24, 2023 at 9:00:00 AM Central European Standard Time
-  - Location: SAP, Torre Diagonal Mar, C/ de Josep Pla, 2 13, 08019 Barcelona, Spain
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/293959)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46895iBF3709C40E400C1E/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 1, 2023 at 9:00:00 AM India Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46020iAF9CD942EB7D2D37/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 8, 2023 at 9:00:00 AM Central European Standard Time
   - Location: MAFINEX Technologiezentrum, Julius-Hatry-Straße 1, 68163 Mannheim, Germany
+- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/300475)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49002i3FE68AF7A7717186/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, December 8, 2023 at 8:30:00 AM Greenwich Mean Time
+  - Location: Bosch Digital, Bosch IT-Campus, Gebäude 701, Borsigstraße 4, 70469 Stuttgart, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
