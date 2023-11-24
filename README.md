@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=V2v0-CEDs6o) (Thu Nov 23 2023)
 - [SAP Build: Use the SAP Build Apps Preview App](https://www.youtube.com/watch?v=EfoyYcRCGic) (Tue Nov 21 2023)
 - [Using SQL to query your SAP BTP account details](https://www.youtube.com/watch?v=wG8Z2pEKc-c) (Thu Nov 16 2023)
 - [openSAP Generative AI, ABAP 2311, Deploy Docker to CF, SAC 2023/Q4 | SAP Developer News](https://www.youtube.com/watch?v=fYg6C5tDrvk) (Thu Nov 16 2023)
 - [SAP Build: Basic App Building #5 - Running the App](https://www.youtube.com/watch?v=p3siMoWzMKE) (Thu Nov 16 2023)
 - [SAP Build: Basic App Building #4 - Logic](https://www.youtube.com/watch?v=hCacZWm9riY) (Wed Nov 15 2023)
-- [SAP Build: Basic App Building #3 - Binding](https://www.youtube.com/watch?v=LHbm78pfTU8) (Tue Nov 14 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
