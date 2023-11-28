@@ -42,7 +42,7 @@ Follow me on:
   - Start: Friday, December 1, 2023 at 9:00:00 AM India Standard Time
   - Location: Cyber Park, Electronic City Phase I, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka, India
 - [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Düsseldorf, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-d%C3%BCsseldorf/ev-p/303061)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49741iAA48FA1297574B92/image-size/thumb?v=v2&px=150" />
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50389i5B3E6532B4CE09BA/image-size/thumb?v=v2&px=150" />
   - Start: Monday, December 4, 2023 at 10:00:00 AM Central European Standard Time
   - Location: Deloitte, Erna-Scheffler-Straße, Düsseldorf, Germany
 - [🇫🇷 SAP CodeJam ABAP Cloud (Strasbourg, FR)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-strasbourg-fr/ev-p/302494)
