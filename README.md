@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/293959)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46895iBF3709C40E400C1E/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 1, 2023 at 9:00:00 AM India Standard Time
-  - Location: Cyber Park, Electronic City Phase I, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka, India
 - [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Düsseldorf, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-d%C3%BCsseldorf/ev-p/303061)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50389i5B3E6532B4CE09BA/image-size/thumb?v=v2&px=150" />
   - Start: Monday, December 4, 2023 at 10:00:00 AM Central European Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49002i3FE68AF7A7717186/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 8, 2023 at 8:30:00 AM Greenwich Mean Time
   - Location: Bosch Digital, Bosch IT-Campus, Gebäude 701, Borsigstraße 4, 70469 Stuttgart, Germany
+- [🇮🇳 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/297097)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47889i635A005FD3DAFDC5/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, December 15, 2023 at 9:00:00 AM India Standard Time
+  - Location: Mind Space IT Park, Mindspace Madhapur Road, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
