@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Getting Started with Machine Learning using SAP HANA and Python (Düsseldorf, DE)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-d%C3%BCsseldorf/ev-p/303061)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50389i5B3E6532B4CE09BA/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, December 4, 2023 at 10:00:00 AM Central European Standard Time
-  - Location: Deloitte, Erna-Scheffler-Straße, Düsseldorf, Germany
 - [🇫🇷 SAP CodeJam ABAP Cloud (Strasbourg, FR)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-strasbourg-fr/ev-p/302494)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49596i5B96273BABD90CE7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 8, 2023 at 9:00:00 AM Central European Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47889i635A005FD3DAFDC5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 15, 2023 at 9:00:00 AM India Standard Time
   - Location: Mind Space IT Park, Mindspace Madhapur Road, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana, India
+- [🇹🇷 Getting Started with Machine Learning using SAP HANA and Python (Istanbul, TR)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-istanbul-tr/ev-p/301057)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50386i5E94540BC7D6BCB8/image-size/thumb?v=v2&px=150" />
+  - Start: Saturday, December 16, 2023 at 10:00:00 AM Eastern European Standard Time
+  - Location: Altayçeşme, Öz Sk. No:19, 34843 Maltepe/İstanbul, Türkiye
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
