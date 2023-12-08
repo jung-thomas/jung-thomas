@@ -37,18 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 SAP CodeJam ABAP Cloud (Strasbourg, FR)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-strasbourg-fr/ev-p/302494)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49596i5B96273BABD90CE7/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 8, 2023 at 9:00:00 AM Central European Standard Time
-  - Location: 8a Rue Icare, 67960 Entzheim, France
-- [🇩🇪 SAP CodeJam ABAP Cloud (Mannheim, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mannheim-de/ev-p/291688)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/46020iAF9CD942EB7D2D37/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 8, 2023 at 9:00:00 AM Central European Standard Time
-  - Location: MAFINEX Technologiezentrum, Julius-Hatry-Straße 1, 68163 Mannheim, Germany
-- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/300475)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/49002i3FE68AF7A7717186/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 8, 2023 at 8:30:00 AM Greenwich Mean Time
-  - Location: Bosch Digital, Bosch IT-Campus, Gebäude 701, Borsigstraße 4, 70469 Stuttgart, Germany
 - [🇮🇳 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/297097)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47889i635A005FD3DAFDC5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, December 15, 2023 at 9:00:00 AM India Standard Time
@@ -57,6 +45,18 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50386i5E94540BC7D6BCB8/image-size/thumb?v=v2&px=150" />
   - Start: Saturday, December 16, 2023 at 10:00:00 AM Eastern European Standard Time
   - Location: Altayçeşme, Öz Sk. No:19, 34843 Maltepe/İstanbul, Türkiye
+- [🇩🇪 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Bonn, Germany)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/290525)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, January 25, 2024 at 9:00:00 AM Central European Standard Time
+  - Location: CONET, Bundeskanzlerplatz 2, 53113 Bonn, Germany
+- [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
+  - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
+- [🇭🇷 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Zagreb, Croatia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-zagreb-croatia/ev-p/296105)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47624i88CD55E0C946B010/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, February 16, 2024 at 2:00:00 PM Central European Standard Time
+  - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
