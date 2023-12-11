@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=ODjQlQ1ldd8) (Thu Dec 07 2023)
+- [Builders Group, DKY Content Assist in ADT, AI Foundation, SAP HANA, State of JS | SAP Developer News](https://www.youtube.com/watch?v=ODjQlQ1ldd8) (Thu Dec 07 2023)
 - [Developer Tutorial: Help Thomas Get Started with SAP HANA Cloud](https://www.youtube.com/watch?v=ztDOYsNB204) (Wed Dec 06 2023)
 - [UI5ers Live, CAP November Release, DYK: data-urlencode, Build Best Practices | SAP Developer News](https://www.youtube.com/watch?v=Qk-9ip1P3xg) (Thu Nov 30 2023)
 - [Access Demo SAP APIs for SAP Build](https://www.youtube.com/watch?v=11TUQgQi-9k) (Wed Nov 29 2023)
