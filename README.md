@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to create full-stack apps](https://groups.community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/297097)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47889i635A005FD3DAFDC5/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 15, 2023 at 9:00:00 AM India Standard Time
-  - Location: Mind Space IT Park, Mindspace Madhapur Road, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana, India
 - [🇹🇷 Getting Started with Machine Learning using SAP HANA and Python (Istanbul, TR)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-istanbul-tr/ev-p/301057)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50386i5E94540BC7D6BCB8/image-size/thumb?v=v2&px=150" />
   - Start: Saturday, December 16, 2023 at 10:00:00 AM Eastern European Standard Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/47624i88CD55E0C946B010/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 16, 2024 at 2:00:00 PM Central European Standard Time
   - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
+- [🇺🇸 SAP CodeJam on SAP Build: Create Apps, Processes & Sites Without Coding (Minneapolis, MN USA)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-on-sap-build-create-apps-processes-amp-sites-without-coding/ev-p/304731)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50316i69B42D80C79CED88/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, February 23, 2024 at 10:00:00 AM Central Standard Time
+  - Location: 800 N Washington Ave unit 905, Minneapolis, MN 55401, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
