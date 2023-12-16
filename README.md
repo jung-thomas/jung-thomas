@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇹🇷 Getting Started with Machine Learning using SAP HANA and Python (Istanbul, TR)](https://groups.community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-istanbul-tr/ev-p/301057)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/50386i5E94540BC7D6BCB8/image-size/thumb?v=v2&px=150" />
-  - Start: Saturday, December 16, 2023 at 11:00:00 AM Eastern European Standard Time
-  - Location: Altayçeşme, Öz Sk. No:19, 34843 Maltepe/İstanbul, Türkiye
 - [🇩🇪 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Bonn, Germany)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/290525)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 25, 2024 at 9:00:00 AM Central European Standard Time
