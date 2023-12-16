@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: 2023 Bloopers](https://www.youtube.com/watch?v=dUu7ETm0u4A) (Fri Dec 15 2023)
 - [SAP Developer News](https://www.youtube.com/watch?v=CfH9L03WUCg) (Thu Dec 14 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 6 - Create HANA Stored Procedure](https://www.youtube.com/watch?v=ddDugMPtMDg) (Tue Dec 12 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 5 - Create Calculation View and Expose via CAP](https://www.youtube.com/watch?v=zKsx91qicwU) (Tue Dec 12 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 4 - Add User Authentication](https://www.youtube.com/watch?v=anvKQP8yOr4) (Tue Dec 12 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 3 - Create a User Interface](https://www.youtube.com/watch?v=6WY70LyLS1c) (Tue Dec 12 2023)
-- [SAP Tech Bytes: CAP/HANA Tutorial Part 2 - Create Database Artifacts Using Core Data Services (CDS)](https://www.youtube.com/watch?v=uS_vT-gHYMo) (Tue Dec 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
