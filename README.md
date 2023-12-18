@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News: 2023 Year in Review Part 1](https://www.youtube.com/watch?v=67E5OxyUvpo) (Mon Dec 18 2023)
 - [SAP Developer News: 2023 Bloopers](https://www.youtube.com/watch?v=dUu7ETm0u4A) (Fri Dec 15 2023)
-- [SAP Developer News](https://www.youtube.com/watch?v=CfH9L03WUCg) (Thu Dec 14 2023)
+- [Security Item, cds-launchpad-plugin, DYK: BAS from VSCode, HANA Cloud, ABAPConf | SAP Developer News](https://www.youtube.com/watch?v=CfH9L03WUCg) (Thu Dec 14 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 6 - Create HANA Stored Procedure](https://www.youtube.com/watch?v=ddDugMPtMDg) (Tue Dec 12 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 5 - Create Calculation View and Expose via CAP](https://www.youtube.com/watch?v=zKsx91qicwU) (Tue Dec 12 2023)
 - [SAP Tech Bytes: CAP/HANA Tutorial Part 4 - Add User Authentication](https://www.youtube.com/watch?v=anvKQP8yOr4) (Tue Dec 12 2023)
-- [SAP Tech Bytes: CAP/HANA Tutorial Part 3 - Create a User Interface](https://www.youtube.com/watch?v=6WY70LyLS1c) (Tue Dec 12 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -41,7 +41,7 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 25, 2024 at 9:00:00 AM Central European Standard Time
   - Location: CONET, Bundeskanzlerplatz 2, 53113 Bonn, Germany
-- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/308214)
+- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud (Bielefeld, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-bielefeld-de/ev-p/308214)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51509i79202E54F8856CFD/image-size/thumb?v=v2&px=150" />
   - Start: Friday, January 26, 2024 at 8:30:00 AM Greenwich Mean Time
   - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
