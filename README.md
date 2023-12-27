@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [S/4HANA CRUD APIs from SAP Build Apps](https://www.youtube.com/watch?v=hXw-b9oRNXg) (Tue Dec 26 2023)
+- [S/4HANA CRUD APIs from SAP Build Apps](https://www.youtube.com/watch?v=ISRYkrYrsqQ) (Wed Dec 27 2023)
 - [SAP Developer News: 2023 Bloopers](https://www.youtube.com/watch?v=dUu7ETm0u4A) (Thu Dec 21 2023)
 - [SAP Developer News Devtoberfest Winners' Retreat 2023](https://www.youtube.com/watch?v=VBGq8TyFpN8) (Tue Dec 19 2023)
 - [SAP Developer News: 2023 Year in Review Part 2](https://www.youtube.com/watch?v=b4sp02oMgt8) (Mon Dec 18 2023)
