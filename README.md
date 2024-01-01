@@ -27,7 +27,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Make your app more attractive](https://www.youtube.com/watch?v=aK8QPpO-HWE) (Fri Dec 29 2023)
+- [SAP Build Apps: Add a jazzy header to your page](https://www.youtube.com/watch?v=aK8QPpO-HWE) (Fri Dec 29 2023)
 - [SAP Developer News: 2023 Year in Review Part 1](https://www.youtube.com/watch?v=67E5OxyUvpo) (Thu Dec 28 2023)
 - [S/4HANA CRUD APIs from SAP Build Apps](https://www.youtube.com/watch?v=ISRYkrYrsqQ) (Wed Dec 27 2023)
 - [SAP Developer News: 2023 Bloopers](https://www.youtube.com/watch?v=dUu7ETm0u4A) (Thu Dec 21 2023)
