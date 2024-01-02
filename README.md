@@ -37,6 +37,10 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/309950)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/52188i825E3C2B81949376/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, January 23, 2024 at 9:00:00 AM India Standard Time
+  - Location: Colgate Global Business Services, Saki Vihar Road, New Mhada Colony, Savarkar Nagar, Chandivali, Powai, Mumbai, Maharashtra, India
 - [🇩🇪 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Bonn, Germany)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/290525)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 25, 2024 at 9:00:00 AM Central European Standard Time
@@ -53,10 +57,6 @@ Follow me on:
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51524i8560ADAE507701B9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, February 7, 2024 at 1:00:00 PM Greenwich Mean Time
   - Location: KMD, Inflancka 4a, Warsaw, Poland
-- [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
-  - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
