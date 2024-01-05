@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 1](https://www.youtube.com/watch?v=gu5r1EWSDSU) (Fri Jan 05 2024)
 - [SAP Developer News: 2023 Year in Review Part 2](https://www.youtube.com/watch?v=b4sp02oMgt8) (Thu Jan 04 2024)
 - [SAP Build Apps: Add a jazzy header to your page](https://www.youtube.com/watch?v=aK8QPpO-HWE) (Fri Dec 29 2023)
 - [SAP Developer News: 2023 Year in Review Part 1](https://www.youtube.com/watch?v=67E5OxyUvpo) (Thu Dec 28 2023)
 - [S/4HANA CRUD APIs from SAP Build Apps](https://www.youtube.com/watch?v=ISRYkrYrsqQ) (Wed Dec 27 2023)
 - [SAP Developer News: 2023 Bloopers](https://www.youtube.com/watch?v=dUu7ETm0u4A) (Thu Dec 21 2023)
-- [SAP Developer News Devtoberfest Winners' Retreat 2023](https://www.youtube.com/watch?v=VBGq8TyFpN8) (Tue Dec 19 2023)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
