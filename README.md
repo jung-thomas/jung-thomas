@@ -27,8 +27,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 1](https://www.youtube.com/watch?v=gu5r1EWSDSU) (Fri Jan 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 2](https://www.youtube.com/watch?v=8N2TxgZ9bjY) (Fri Jan 12 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 1](https://www.youtube.com/watch?v=gu5r1EWSDSU) (Fri Jan 05 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=kqO54zm0qiA) (Thu Jan 11 2024)
 - [SAP BTP plugin for Steampipe: Install and setup](https://www.youtube.com/watch?v=2NbTgpZIPKA) (Mon Jan 08 2024)
 - [SAP Developer News: 2023 Year in Review Part 2](https://www.youtube.com/watch?v=b4sp02oMgt8) (Thu Jan 04 2024)
