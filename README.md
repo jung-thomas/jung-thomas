@@ -37,6 +37,10 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
+- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud (Bielefeld, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-bielefeld-de/ev-p/308214)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51509i79202E54F8856CFD/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, January 26, 2024 at 8:30:00 AM Greenwich Mean Time
+  - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
 - [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
