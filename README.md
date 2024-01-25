@@ -37,22 +37,26 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
+- [🇩🇪 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Bonn, Germany)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/290525)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, January 25, 2024 at 9:00:00 AM Central European Standard Time
+  - Location: CONET, Bundeskanzlerplatz 2, 53113 Bonn, Germany
 - [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud (Bielefeld, DE)](https://groups.community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-bielefeld-de/ev-p/308214)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51509i79202E54F8856CFD/image-size/thumb?v=v2&px=150" />
   - Start: Friday, January 26, 2024 at 8:30:00 AM Greenwich Mean Time
   - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
+- [🇵🇱 Service integration with SAP Cloud Application Programming Model (Wrocław, PL)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-wroc%C5%82aw-pl/ev-p/308290)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51533i8132855E3332298E/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, February 5, 2024 at 8:30:00 AM Greenwich Mean Time
+  - Location: Capgemini Software Solutions Center, Legnicka, Wrocław, Poland
+- [🇵🇱 Service integration with SAP Cloud Application Programming Model (Warsaw, PL)](https://groups.community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-warsaw-pl/ev-p/308270)
+  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/51524i8560ADAE507701B9/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, February 7, 2024 at 1:00:00 PM Greenwich Mean Time
+  - Location: KMD, Inflancka 4a, Warsaw, Poland
 - [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://groups.community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
   - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
   - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
-- [🇧🇪 SAP Build: Create Apps and Processes Without Coding (Ghent, Belgium)](https://groups.community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-coding-ghent-belgium/ev-p/311762)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/52753i6E0634D12258F879/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, February 19, 2024 at 9:30:00 AM Central European Standard Time
-  - Location: delaware Ghent, Blue Tower 1, Sluisweg 1, 9000 Gent, Belgium
-- [🇩🇪 SAP Build: Create Apps and Processes Without Coding (Herne, Germany)](https://groups.community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-coding-herne-germany/ev-p/311765)
-  - <img src="https://groups.community.sap.com/t5/image/serverpage/image-id/52752i382E97CDAE54D3B7/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, February 21, 2024 at 9:30:00 AM Central European Standard Time
-  - Location: Berliner Platz 9, 44623 Herne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
