@@ -37,10 +37,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud (Bielefeld, DE)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-bielefeld-de/ev-p/308214)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/51509i79202E54F8856CFD/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, January 26, 2024 at 8:30:00 AM Greenwich Mean Time
-  - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
 - [🇵🇱 Service integration with SAP Cloud Application Programming Model (Wrocław, PL)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-wroc%C5%82aw-pl/ev-p/308290)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/51533i8132855E3332298E/image-size/thumb?v=v2&px=150" />
   - Start: Monday, February 5, 2024 at 8:30:00 AM Greenwich Mean Time
@@ -57,6 +53,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/52394i644044C0AF97D0B2/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 16, 2024 at 9:30:00 AM India Standard Time
   - Location: Walmart Global Tech - Pardhanani Wilshire II, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Karnataka 560103, India
+- [🇭🇷 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Zagreb, Croatia)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-zagreb-croatia/ev-p/296105)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/47624i88CD55E0C946B010/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, February 16, 2024 at 2:00:00 PM Central European Standard Time
+  - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
