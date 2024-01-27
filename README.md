@@ -21,7 +21,7 @@ Follow me on:
 - [Star Wars App - No-Code Challenge](https://blogs.sap.com/?p=1543686) 
 - [SAP CodeJam Events Return!](https://blogs.sap.com/?p=1539697) 
 - [SAP Tech Bytes: HANA Client Tools for JavaScript Developers - Part 4 XSJS and CAP](https://blogs.sap.com/?p=1519898) 
-- More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
+- More on [My SAP Community Blog](https://community.sap.com/t5/user/viewprofilepage/user-id/139)
 </td>
   
 <td valign="top" width="50%">
@@ -61,12 +61,12 @@ Follow me on:
 
 ## SAP Community Activity
 <p align = "center">
-<a href="https://people.sap.com/thomas.jung#overview">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/thomas.jung" />
+<a href="https://community.sap.com/t5/user/viewprofilepage/user-id/139">
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/139" />
 </a>
 </br>
-<a href="https://people.sap.com/thomas.jung#reputation">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/thomas.jung?test=2" />
+<a href="https://community.sap.com/t5/user/viewprofilepage/user-id/139">
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/139" />
 </a>
 </p>
 
