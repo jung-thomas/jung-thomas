@@ -45,6 +45,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/51524i8560ADAE507701B9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, February 7, 2024 at 1:00:00 PM Greenwich Mean Time
   - Location: KMD, Inflancka 4a, Warsaw, Poland
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13583433)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/53781i3C9D52A68D22C00A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, February 9, 2024 at 9:00:00 AM India Standard Time
+  - Location: Dlf pg, Street Number 43, AC Block(Newtown), Action Area 1, Newtown, New Town, West Bengal 700156, India
 - [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
@@ -53,10 +57,6 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/52394i644044C0AF97D0B2/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 16, 2024 at 9:30:00 AM India Standard Time
   - Location: Walmart Global Tech - Pardhanani Wilshire II, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Karnataka 560103, India
-- [🇭🇷 SAP CodeJam BTP: Hands-on with the btp CLI and APIs (Zagreb, Croatia)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-hands-on-with-the-btp-cli-and-apis-zagreb-croatia/ev-p/296105)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/47624i88CD55E0C946B010/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, February 16, 2024 at 2:00:00 PM Central European Standard Time
-  - Location: Business club 5, Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb, Croatia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
