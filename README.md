@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP and Steampipe: Kyma environment](https://www.youtube.com/watch?v=cUs1jhgzNHw) (Tue Jan 30 2024)
 - [SAP AI: Large Language Models | AI Buzzwords Part 1](https://www.youtube.com/watch?v=_gf4lk2xXdc) (Mon Jan 29 2024)
 - [SAP BTP plugin for Steampipe: Troubleshooting](https://www.youtube.com/watch?v=1SmJLbri7ns) (Fri Jan 26 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=WASm5vZOSg4) (Thu Jan 25 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 2](https://www.youtube.com/watch?v=8N2TxgZ9bjY) (Fri Jan 19 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 3](https://www.youtube.com/watch?v=mTvjAthGjBg) (Fri Jan 19 2024)
-- [Developer Insights Survey, DYK cds bind, openUI5 2.x, SAP Build environments | SAP Developer News](https://www.youtube.com/watch?v=aEbs_lVaVdk) (Thu Jan 18 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -48,7 +48,7 @@ Follow me on:
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13583433)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/53781i3C9D52A68D22C00A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, February 9, 2024 at 9:00:00 AM India Standard Time
-  - Location: Dlf pg, Street Number 43, AC Block(Newtown), Action Area 1, Newtown, New Town, West Bengal 700156, India
+  - Location: 
 - [🇭🇷 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Zagreb, Croatia)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/296103)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 15, 2024 at 2:00:00 PM Central European Standard Time
