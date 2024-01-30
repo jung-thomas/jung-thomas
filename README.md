@@ -30,7 +30,7 @@ Follow me on:
 - [SAP BTP and Steampipe: Kyma environment](https://www.youtube.com/watch?v=cUs1jhgzNHw) (Tue Jan 30 2024)
 - [SAP AI: Large Language Models | AI Buzzwords Part 1](https://www.youtube.com/watch?v=_gf4lk2xXdc) (Mon Jan 29 2024)
 - [SAP BTP plugin for Steampipe: Troubleshooting](https://www.youtube.com/watch?v=1SmJLbri7ns) (Fri Jan 26 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=WASm5vZOSg4) (Thu Jan 25 2024)
+- [TechEd 2024, DYK Fiori LaunchPad, SAPInsider Dev Challenge, New Build CodeJam |  SAP Developer News](https://www.youtube.com/watch?v=WASm5vZOSg4) (Thu Jan 25 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 2](https://www.youtube.com/watch?v=8N2TxgZ9bjY) (Fri Jan 19 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 3](https://www.youtube.com/watch?v=mTvjAthGjBg) (Fri Jan 19 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
