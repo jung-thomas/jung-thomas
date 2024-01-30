@@ -27,12 +27,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP AI: Large Language Models | AI Buzzwords Part 1](https://www.youtube.com/watch?v=_gf4lk2xXdc) (Mon Jan 29 2024)
 - [SAP BTP plugin for Steampipe: Troubleshooting](https://www.youtube.com/watch?v=1SmJLbri7ns) (Fri Jan 26 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=WASm5vZOSg4) (Thu Jan 25 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 2](https://www.youtube.com/watch?v=8N2TxgZ9bjY) (Fri Jan 19 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 3](https://www.youtube.com/watch?v=mTvjAthGjBg) (Fri Jan 19 2024)
 - [Developer Insights Survey, DYK cds bind, openUI5 2.x, SAP Build environments | SAP Developer News](https://www.youtube.com/watch?v=aEbs_lVaVdk) (Thu Jan 18 2024)
-- [SAP Tech Bytes: Prompting Large Language Models in the generative AI Hub on SAP AI Core](https://www.youtube.com/watch?v=MEJJnzNjGKE) (Thu Jan 18 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
