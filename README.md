@@ -27,8 +27,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP plugin for Steampipe: Troubleshooting](https://www.youtube.com/watch?v=1SmJLbri7ns) (Wed Jan 31 2024)
 - [SAP AI: Foundation Models & Limitations | AI Buzzwords Part 2](https://www.youtube.com/watch?v=zq9ZNfGroJk) (Wed Jan 31 2024)
-- [SAP BTP plugin for Steampipe: Troubleshooting](https://www.youtube.com/watch?v=1SmJLbri7ns) (Fri Jan 26 2024)
 - [SAP BTP and Steampipe: Kyma runtime](https://www.youtube.com/watch?v=cUs1jhgzNHw) (Tue Jan 30 2024)
 - [SAP AI: Large Language Models | AI Buzzwords Part 1](https://www.youtube.com/watch?v=_gf4lk2xXdc) (Mon Jan 29 2024)
 - [TechEd 2024, DYK Fiori LaunchPad, SAPInsider Dev Challenge, New Build CodeJam |  SAP Developer News](https://www.youtube.com/watch?v=WASm5vZOSg4) (Thu Jan 25 2024)
