@@ -12,7 +12,7 @@ const template = Handlebars.compile(source)
 
 const URLSAPDevs = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCNfmelKDrvRmjYwSi9yvrMg'
 //const URLSCN = 'https://content.services.sap.com/cs/searches/userProfile?userName=thomas.jung&objectTypes=blogpost&sort=published,desc&size=6&page=0'
-const URLSCN = 'https://content.services.sap.com/feed?type=blogpost&author=thomas.jung'
+//const URLSCN = 'https://content.services.sap.com/feed?type=blogpost&author=thomas.jung'
 const main = async _ => {
   try {
     const feedNew = await parser.parseURL(URLSAPDevs)
@@ -21,10 +21,10 @@ const main = async _ => {
       return item
     })
 
-    const feed = await parser.parseURL(URLSCN)
+   /*  const feed = await parser.parseURL(URLSCN)
     const items = feed.items.slice(0, 6).map(item => {
       return item
-    })
+    }) */
 
     const start = new Date()
     const eventURL = 
@@ -57,8 +57,9 @@ const main = async _ => {
       return newItem
 
     }))
+    let items = []
 
-    console.log(template({ itemsNew, items, events }))
+    console.log(template({ itemsNew, items,  events }))
   } catch (error) {
     console.log(`${error}`)
     process.exit(1)
