@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 8](https://www.youtube.com/watch?v=8BMASRcs0Hg) (Mon Mar 11 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 8](https://www.youtube.com/watch?v=8BMASRcs0Hg) (Fri Mar 15 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=yP27M5hckIY) (Thu Mar 14 2024)
 - [SAP CodeTalk with Antonio de Ancos](https://www.youtube.com/watch?v=C9xdIToRDJo) (Tue Mar 12 2024)
 - [March's Developer Challenge - Week 2: CloudEvents SDKs](https://www.youtube.com/watch?v=65o1zXcelXQ) (Tue Mar 12 2024)
