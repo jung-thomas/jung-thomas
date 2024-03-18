@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Build Apps, Backend: Roles and Restricting Access](https://www.youtube.com/watch?v=bMl2TFr4IEM) (Mon Mar 18 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 8](https://www.youtube.com/watch?v=8BMASRcs0Hg) (Fri Mar 15 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=yP27M5hckIY) (Thu Mar 14 2024)
 - [SAP CodeTalk with Antonio de Ancos](https://www.youtube.com/watch?v=C9xdIToRDJo) (Tue Mar 12 2024)
 - [March's Developer Challenge - Week 2: CloudEvents SDKs](https://www.youtube.com/watch?v=65o1zXcelXQ) (Tue Mar 12 2024)
 - [SAP CodeTalk with Katharina Schell](https://www.youtube.com/watch?v=-MSvDB2dy3A) (Tue Mar 12 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 7](https://www.youtube.com/watch?v=kgycosxv9aQ) (Fri Mar 08 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
