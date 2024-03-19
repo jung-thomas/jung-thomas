@@ -43,14 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/76100i0841D966B15DEBE2/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 26, 2024 at 8:30:00 AM India Standard Time
   - Location: JADE RESIDENCY, Sowripalayam - Masakalipalayam Road, Masakalipalayam, Coimbatore, Tamil Nadu, India
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13642504)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/82797i418D88CB8F0D24D3/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 5, 2024 at 9:00:00 AM India Standard Time
+  - Location: TCS Ecospace 1A, Action Area II, Newtown, Kolkata, West Bengal, India
 - [🇳🇱 SAP CodeJam ABAP Cloud (Amsterdam, Netherlands)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-amsterdam-netherlands/ev-p/13623951)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/73480i19DF32BAF066C04C/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 12, 2024 at 9:00:00 AM Central European Summer Time
   - Location: Danzigerkade 165, 1013 AP Amsterdam, Netherlands
-- [🇷🇴 SAP CodeJam ABAP Cloud (Bucharest, Romania)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bucharest-romania/ev-p/13622700)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/72847i50FD9269B8F30F4B/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, April 15, 2024 at 9:00:00 AM Eastern European Summer Time
-  - Location: The Bridge 3,  Sergent Constantin Gheorghe, Nr. 1 B, Bucharest, Romania
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
