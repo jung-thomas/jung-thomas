@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Hands-on with the btp CLI and APIs (Frankenthal, DE)](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis-frankenthal-de/ev-p/308295)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/52112i1B0B7BA7B3F7228B/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 20, 2024 at 11:00:00 AM Greenwich Mean Time
-  - Location: CongressForum Frankenthal GmbH, Stephan-Cosacchi-Platz, Frankenthal, Frankenthal (Pfalz), Germany
 - [🇩🇪 Service integration with SAP Cloud Application Programming Model (Frankenthal, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/308245)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/51535iD9C82A640B1F4E7E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 21, 2024 at 8:30:00 AM Greenwich Mean Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/73480i19DF32BAF066C04C/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 12, 2024 at 9:00:00 AM Central European Summer Time
   - Location: Danzigerkade 165, 1013 AP Amsterdam, Netherlands
+- [🇷🇴 SAP CodeJam ABAP Cloud (Bucharest, Romania)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bucharest-romania/ev-p/13622700)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/72847i50FD9269B8F30F4B/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, April 15, 2024 at 9:00:00 AM Eastern European Summer Time
+  - Location: The Bridge 3,  Sergent Constantin Gheorghe, Nr. 1 B, Bucharest, Romania
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
