@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Service integration with SAP Cloud Application Programming Model (Frankenthal, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model/ev-p/308245)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/51535iD9C82A640B1F4E7E/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 21, 2024 at 8:30:00 AM Greenwich Mean Time
-  - Location: CongressForum Frankenthal GmbH, Stephan-Cosacchi-Platz, Frankenthal (Pfalz), Germany
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13629247)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/76100i0841D966B15DEBE2/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 26, 2024 at 8:30:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/72847i50FD9269B8F30F4B/image-size/thumb?v=v2&px=150" />
   - Start: Monday, April 15, 2024 at 9:00:00 AM Eastern European Summer Time
   - Location: The Bridge 3,  Sergent Constantin Gheorghe, Nr. 1 B, Bucharest, Romania
+- [🇪🇸 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/13635827)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, April 16, 2024 at 3:00:00 PM Central European Summer Time
+  - Location: Seidor, Edificio Aqua, Carrer de Menorca, planta, 5º, València, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
