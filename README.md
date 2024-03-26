@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP CodeTalk with Adrianna Leung](https://www.youtube.com/watch?v=js0QtXMAC90) (Mon Mar 25 2024)
+- [SAP CodeTalk with Adrianna Leung](https://www.youtube.com/watch?v=js0QtXMAC90) (Tue Mar 26 2024)
 - [SAPinsider Las Vegas, SSO btp CLI, SAP Build Code AMA, Webdriver IO and WDI5 | SAP Developer News](https://www.youtube.com/watch?v=tLkKFTSK8tY) (Thu Mar 21 2024)
 - [SAP CodeTalk with Katharina Schell](https://www.youtube.com/watch?v=-MSvDB2dy3A) (Tue Mar 19 2024)
 - [March's Developer Challenge - Week 3: EDA and SAP Integration Suite, advanced event mesh](https://www.youtube.com/watch?v=fqBp8_5sy6s) (Tue Mar 19 2024)
