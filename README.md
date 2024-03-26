@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13629247)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/76100i0841D966B15DEBE2/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, March 26, 2024 at 8:30:00 AM India Standard Time
-  - Location: JADE RESIDENCY, Sowripalayam - Masakalipalayam Road, Masakalipalayam, Coimbatore, Tamil Nadu, India
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13642504)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/82797i418D88CB8F0D24D3/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 5, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, April 16, 2024 at 3:00:00 PM Central European Summer Time
   - Location: Seidor, Edificio Aqua, Carrer de Menorca, planta, 5º, València, Spain
+- [🇪🇸 SAP Build: Create Apps and Processes Without Coding (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-coding-valencia-spain/ev-p/13628251)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, April 17, 2024 at 8:30:00 AM Central European Summer Time
+  - Location: Universidad Politécnica de Valéncia, Camí de Vera, Valencia, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
