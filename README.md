@@ -22,11 +22,11 @@ Follow me on:
   
 ## Videos and Live Streams
 - [SAP CodeTalk with Adrianna Leung](https://www.youtube.com/watch?v=js0QtXMAC90) (Tue Mar 26 2024)
+- [Let's test drive Joule's generative AI features in SAP Build Code together!](https://www.youtube.com/watch?v=EpuVqWDT2hw) (Tue Mar 26 2024)
 - [SAPinsider Las Vegas, SSO btp CLI, SAP Build Code AMA, Webdriver IO and WDI5 | SAP Developer News](https://www.youtube.com/watch?v=tLkKFTSK8tY) (Thu Mar 21 2024)
 - [SAP CodeTalk with Katharina Schell](https://www.youtube.com/watch?v=-MSvDB2dy3A) (Tue Mar 19 2024)
 - [March's Developer Challenge - Week 3: EDA and SAP Integration Suite, advanced event mesh](https://www.youtube.com/watch?v=fqBp8_5sy6s) (Tue Mar 19 2024)
 - [SAP Build Apps, Backend: Roles and Restricting Access](https://www.youtube.com/watch?v=bMl2TFr4IEM) (Mon Mar 18 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 8](https://www.youtube.com/watch?v=8BMASRcs0Hg) (Fri Mar 15 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
