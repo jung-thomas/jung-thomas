@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Thu Mar 28 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=ucuHGmu8xqE) (Thu Mar 28 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Thu Mar 28 2024)
 - [SAP CodeTalk with Adrianna Leung](https://www.youtube.com/watch?v=js0QtXMAC90) (Tue Mar 26 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together!](https://www.youtube.com/watch?v=EpuVqWDT2hw) (Tue Mar 26 2024)
 - [SAPinsider Las Vegas, SSO btp CLI, SAP Build Code AMA, Webdriver IO and WDI5 | SAP Developer News](https://www.youtube.com/watch?v=tLkKFTSK8tY) (Thu Mar 21 2024)
