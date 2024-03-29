@@ -43,7 +43,7 @@ Follow me on:
 </a>
 </br>
 <a href="https://community.sap.com/t5/user/viewprofilepage/user-id/139">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/139/390/149/384/674/900" />
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/139/1570/674/384/900/390" />
 </a>
 </p>
 
