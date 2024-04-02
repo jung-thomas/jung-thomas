@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk on "CAP development with Neovim" with David Kunz](https://www.youtube.com/watch?v=rDuL6ctM93E) (Tue Apr 02 2024)
 - [SAP Build Apps, Backend: Server Functions](https://www.youtube.com/watch?v=DhOt37Edlpg) (Mon Apr 01 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=ucuHGmu8xqE) (Thu Mar 28 2024)
+- [Build Code is G/A, SAP HANA Cloud 2024-Q1, BAS updates, UI5 Linter, Build Auth | SAP Developer News](https://www.youtube.com/watch?v=ucuHGmu8xqE) (Thu Mar 28 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Thu Mar 28 2024)
 - [SAP CodeTalk with Adrianna Leung](https://www.youtube.com/watch?v=js0QtXMAC90) (Tue Mar 26 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together!](https://www.youtube.com/watch?v=EpuVqWDT2hw) (Tue Mar 26 2024)
-- [SAPinsider Las Vegas, SSO btp CLI, SAP Build Code AMA, Webdriver IO and WDI5 | SAP Developer News](https://www.youtube.com/watch?v=tLkKFTSK8tY) (Thu Mar 21 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
