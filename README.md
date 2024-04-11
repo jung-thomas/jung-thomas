@@ -48,7 +48,7 @@ Follow me on:
   - Start: Wednesday, April 17, 2024 at 8:30:00 AM Central European Summer Time
   - Location: Universidad Politécnica de Valéncia, Camí de Vera, Valencia, Spain
 - [🇷🇴 Getting Started with Machine Learning using SAP HANA (Timisoara, RO)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-timisoara-ro/ev-p/13651897)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/94805i436492532F16D1BE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/94805i436492532F16D1BE/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 17, 2024 at 10:00:00 AM Eastern European Summer Time
   - Location: Facultatea de Matematică și Informatică, Bulevardul Vasile Pârvan, Timișoara, România
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
