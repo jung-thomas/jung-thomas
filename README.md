@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=ot-MrPgiXSI) (Thu Apr 04 2024)
+- [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Fri Apr 05 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 05 2024)
+- [April Dev Challenge, BTP InnoBytes, Terraform Provider, CAP March, Build Code | SAP Developer News](https://www.youtube.com/watch?v=ot-MrPgiXSI) (Thu Apr 04 2024)
 - [March's Developer Challenge - Week 4: Queues, topics and topic endpoints](https://www.youtube.com/watch?v=7CnNmqWyg1g) (Wed Apr 03 2024)
 - [SAP CodeTalk on "CAP development with Neovim" with David Kunz](https://www.youtube.com/watch?v=rDuL6ctM93E) (Tue Apr 02 2024)
-- [SAP Build Apps, Backend: Server Functions](https://www.youtube.com/watch?v=DhOt37Edlpg) (Mon Apr 01 2024)
-- [Build Code is G/A, SAP HANA Cloud 2024-Q1, BAS updates, UI5 Linter, Build Auth | SAP Developer News](https://www.youtube.com/watch?v=ucuHGmu8xqE) (Thu Mar 28 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Thu Mar 28 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13642504)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/82797i418D88CB8F0D24D3/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, April 5, 2024 at 9:00:00 AM India Standard Time
-  - Location: TCS Ecospace 1A, Action Area II, Newtown, Kolkata, West Bengal, India
 - [🇳🇱 SAP CodeJam ABAP Cloud (Amsterdam, Netherlands)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-amsterdam-netherlands/ev-p/13623951)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/73480i19DF32BAF066C04C/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 12, 2024 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 17, 2024 at 8:30:00 AM Central European Summer Time
   - Location: Universidad Politécnica de Valéncia, Camí de Vera, Valencia, Spain
+- [🇷🇴 Getting Started with Machine Learning using SAP HANA (Timisoara, RO)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-timisoara-ro/ev-p/13651897)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/94805i436492532F16D1BE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, April 17, 2024 at 10:00:00 AM Eastern European Summer Time
+  - Location: Facultatea de Matematică și Informatică, Bulevardul Vasile Pârvan, Timișoara, România
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
