@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
 - [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Fri Apr 05 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 05 2024)
 - [April Dev Challenge, BTP InnoBytes, Terraform Provider, CAP March, Build Code | SAP Developer News](https://www.youtube.com/watch?v=ot-MrPgiXSI) (Thu Apr 04 2024)
-- [March's Developer Challenge - Week 4: Queues, topics and topic endpoints](https://www.youtube.com/watch?v=7CnNmqWyg1g) (Wed Apr 03 2024)
-- [SAP CodeTalk on "CAP development with Neovim" with David Kunz](https://www.youtube.com/watch?v=rDuL6ctM93E) (Tue Apr 02 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
