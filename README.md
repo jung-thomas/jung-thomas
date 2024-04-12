@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 05 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
 - [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Fri Apr 05 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 05 2024)
-- [April Dev Challenge, BTP InnoBytes, Terraform Provider, CAP March, Build Code | SAP Developer News](https://www.youtube.com/watch?v=ot-MrPgiXSI) (Thu Apr 04 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 SAP CodeJam ABAP Cloud (Amsterdam, Netherlands)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-amsterdam-netherlands/ev-p/13623951)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/73480i19DF32BAF066C04C/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, April 12, 2024 at 9:00:00 AM Central European Summer Time
-  - Location: Danzigerkade 165, 1013 AP Amsterdam, Netherlands
 - [🇷🇴 SAP CodeJam ABAP Cloud (Bucharest, Romania)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bucharest-romania/ev-p/13622700)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/72847i50FD9269B8F30F4B/image-size/thumb?v=v2&px=150" />
   - Start: Monday, April 15, 2024 at 9:00:00 AM Eastern European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/94805i436492532F16D1BE/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 17, 2024 at 10:00:00 AM Eastern European Summer Time
   - Location: Facultatea de Matematică și Informatică, Bulevardul Vasile Pârvan, Timișoara, România
+- [🇩🇪 SAP CodeJam ABAP Cloud (Leverkusen, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-leverkusen-germany/ev-p/13623983)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/73492i1AB15B03AAD3DF60/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, April 17, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: Friedrich-Ebert-Straße 350/building e54, 51373 Leverkusen, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
