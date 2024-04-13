@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 05 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
 - [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
