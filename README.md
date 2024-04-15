@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇷🇴 SAP CodeJam ABAP Cloud (Bucharest, Romania)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bucharest-romania/ev-p/13622700)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/72847i50FD9269B8F30F4B/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, April 15, 2024 at 9:00:00 AM Eastern European Summer Time
-  - Location: The Bridge 3,  Sergent Constantin Gheorghe, Nr. 1 B, Bucharest, Romania
 - [🇪🇸 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/13635827)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, April 16, 2024 at 3:00:00 PM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/73492i1AB15B03AAD3DF60/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 17, 2024 at 9:00:00 AM Central European Summer Time
   - Location: Friedrich-Ebert-Straße 350/building e54, 51373 Leverkusen, Germany
+- [🇷🇴 Getting Started with Machine Learning using SAP HANA (Bucharest, RO)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-bucharest-ro/ev-p/13650492)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/94710i4C6F7C3CB355E41F/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 19, 2024 at 10:00:00 AM Eastern European Summer Time
+  - Location: Ana Tower Offices, Bulevardul Poligrafiei, Bucharest, Romania
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
