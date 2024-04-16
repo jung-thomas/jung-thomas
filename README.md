@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk on "the CAP plugin concept" with Daniel Schlachter](https://www.youtube.com/watch?v=cG-cMqAhqyQ) (Tue Apr 16 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
 - [Back to Basics CAP, SAP Build Challenge, CodeJams, Data & Analytics events | SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
 - [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 9](https://www.youtube.com/watch?v=t5yt4LoO7to) (Fri Apr 05 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP CodeJam BTP: Connecting systems and services using SAP Integration Suite (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-codejam-btp-connecting-systems-and-services-using-sap-integration-suite/ev-p/13635827)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, April 16, 2024 at 3:00:00 PM Central European Summer Time
-  - Location: Seidor, Edificio Aqua, Carrer de Menorca, planta, 5º, València, Spain
 - [🇪🇸 SAP Build: Create Apps and Processes Without Coding (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-coding-valencia-spain/ev-p/13628251)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 17, 2024 at 8:30:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/94710i4C6F7C3CB355E41F/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 19, 2024 at 10:00:00 AM Eastern European Summer Time
   - Location: Ana Tower Offices, Bulevardul Poligrafiei, Bucharest, Romania
+- [🇫🇷 SAP CodeJam RAP & CAP (Paris, France)](https://community.sap.com/t5/sap-codejam/sap-codejam-rap-amp-cap-paris-france/ev-p/13623989)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/73495i304770A1B1FBA041/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 19, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: 1 Mail de la Petite Espagne 93200 Saint Denis France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
