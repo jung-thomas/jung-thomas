@@ -21,28 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: RAG with generative AI hub and HANA - Python SDK](https://www.youtube.com/watch?v=sBsejl8PbiI) (Wed Apr 17 2024)
 - [SAP CodeTalk on "the CAP plugin concept" with Daniel Schlachter](https://www.youtube.com/watch?v=cG-cMqAhqyQ) (Tue Apr 16 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
 - [Back to Basics CAP, SAP Build Challenge, CodeJams, Data & Analytics events | SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
-- [SAP CodeTalk with Chaitanya Priya](https://www.youtube.com/watch?v=HQaGZByEgaU) (Tue Apr 09 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 SAP Build: Create Apps and Processes Without Coding (Valencia, Spain)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-coding-valencia-spain/ev-p/13628251)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, April 17, 2024 at 8:30:00 AM Central European Summer Time
-  - Location: Universidad Politécnica de Valéncia, Camí de Vera, Valencia, Spain
-- [🇷🇴 Getting Started with Machine Learning using SAP HANA (Timisoara, RO)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-timisoara-ro/ev-p/13651897)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/94805i436492532F16D1BE/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, April 17, 2024 at 10:00:00 AM Eastern European Summer Time
-  - Location: Facultatea de Matematică și Informatică, Bulevardul Vasile Pârvan, Timișoara, România
-- [🇩🇪 SAP CodeJam ABAP Cloud (Leverkusen, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-leverkusen-germany/ev-p/13623983)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/73492i1AB15B03AAD3DF60/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, April 17, 2024 at 9:00:00 AM Central European Summer Time
-  - Location: Friedrich-Ebert-Straße 350/building e54, 51373 Leverkusen, Germany
 - [🇷🇴 Getting Started with Machine Learning using SAP HANA (Bucharest, RO)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-bucharest-ro/ev-p/13650492)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/94710i4C6F7C3CB355E41F/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 19, 2024 at 10:00:00 AM Eastern European Summer Time
@@ -51,6 +39,18 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/73495i304770A1B1FBA041/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 19, 2024 at 9:00:00 AM Central European Summer Time
   - Location: 1 Mail de la Petite Espagne 93200 Saint Denis France
+- [🇩🇪 SAP CodeJam ABAP Cloud (Freiburg, DE)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-freiburg-de/ev-p/13607073)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/66153i88F5D6294D4BCB1B/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 19, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: Nagarro, Fahnenbergplatz 1, 79098 Freiburg im Breisgau, Deutschland
+- [🇳🇱 SAP CodeJam UI5 & SAP Fiori elements flexible programming model (Utrecht, Netherlands)](https://community.sap.com/t5/sap-codejam/sap-codejam-ui5-amp-sap-fiori-elements-flexible-programming-model-utrecht/ev-p/13614294)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/68697iA8588B9B5BFB0CF8/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 19, 2024 at 1:00:00 PM Central European Summer Time
+  - Location: Boteyken 323, Utrecht, Netherlands
+- [🇪🇸 SAP CodeJam RAP & CAP (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/sap-codejam-rap-amp-cap-madrid-spain/ev-p/13624000)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/73497i2203964A0D9AFFE7/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, April 22, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: C. de Torrelaguna, 77, Bloque SAP, Cdad. Lineal, 28043 Madrid
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
