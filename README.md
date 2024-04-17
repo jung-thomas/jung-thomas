@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Tech Bytes: RAG with generative AI hub and HANA - Python SDK](https://www.youtube.com/watch?v=sBsejl8PbiI) (Wed Apr 17 2024)
+- [SAP Tech Bytes: RAG with generative AI hub and HANA - Python SDK](https://www.youtube.com/watch?v=QEnk-z_x2Nw) (Wed Apr 17 2024)
 - [SAP CodeTalk on "the CAP plugin concept" with Daniel Schlachter](https://www.youtube.com/watch?v=cG-cMqAhqyQ) (Tue Apr 16 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
