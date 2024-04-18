@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=FVAali4nfLQ) (Thu Apr 18 2024)
 - [SAP Tech Bytes: RAG with generative AI hub and HANA - Python SDK](https://www.youtube.com/watch?v=QEnk-z_x2Nw) (Wed Apr 17 2024)
 - [SAP CodeTalk on "the CAP plugin concept" with Daniel Schlachter](https://www.youtube.com/watch?v=cG-cMqAhqyQ) (Tue Apr 16 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 10](https://www.youtube.com/watch?v=BwL_2qAPYsc) (Fri Apr 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
 - [Back to Basics CAP, SAP Build Challenge, CodeJams, Data & Analytics events | SAP Developer News](https://www.youtube.com/watch?v=3gAvEGa5Mt0) (Thu Apr 11 2024)
-- [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Thu Apr 11 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
