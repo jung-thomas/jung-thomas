@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 19 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 12](https://www.youtube.com/watch?v=oybe9IRku3Q) (Fri Apr 19 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 11](https://www.youtube.com/watch?v=UvkwVGt8L2g) (Fri Apr 12 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=FVAali4nfLQ) (Thu Apr 18 2024)
 - [SAP Tech Bytes: RAG with generative AI hub and HANA - Python SDK](https://www.youtube.com/watch?v=QEnk-z_x2Nw) (Wed Apr 17 2024)
 - [SAP CodeTalk on "the CAP plugin concept" with Daniel Schlachter](https://www.youtube.com/watch?v=cG-cMqAhqyQ) (Tue Apr 16 2024)
