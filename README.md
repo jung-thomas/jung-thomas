@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk with DJ Adams](https://www.youtube.com/watch?v=sirIH29x06s) (Tue Apr 30 2024)
+- [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Tue Apr 30 2024)
 - [ABAP Cloud: Background Processing Framework](https://www.youtube.com/watch?v=6zfsD4bhR6A) (Mon Apr 29 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Sat Apr 27 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 1 of 2 (EMEA / APJ)](https://www.youtube.com/watch?v=EpuVqWDT2hw) (Fri Apr 26 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=RL2eLp84ilM) (Thu Apr 25 2024)
-- [Event-driven integrations with SAP Integration Suite, advanced event mesh (Madrid, Spain)](https://www.youtube.com/watch?v=xqqF7qPeISI) (Thu Apr 25 2024)
-- [SAP CodeTalk with Marc Bernard](https://www.youtube.com/watch?v=uOXz4DvBOww) (Tue Apr 23 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
