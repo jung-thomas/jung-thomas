@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP CodeTalk with DJ Adams](https://www.youtube.com/watch?v=sirIH29x06s) (Tue Apr 30 2024)
+- [SAP CodeTalk with DJ Adams on living on and working from a narrowboat](https://www.youtube.com/watch?v=sirIH29x06s) (Tue Apr 30 2024)
 - [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Tue Apr 30 2024)
 - [ABAP Cloud: Background Processing Framework](https://www.youtube.com/watch?v=6zfsD4bhR6A) (Mon Apr 29 2024)
 - [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Sat Apr 27 2024)
