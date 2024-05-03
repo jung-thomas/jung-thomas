@@ -21,18 +21,18 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 03 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 12](https://www.youtube.com/watch?v=oybe9IRku3Q) (Fri Apr 19 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=eAGHLT0M67U) (Thu May 02 2024)
 - [Auto-filling of primary keys with the UUID type in CAP Node.js #GoodToKnow  #SAPCAP](https://www.youtube.com/watch?v=iM88d3u6KAY) (Wed May 01 2024)
 - [SAP CodeTalk with DJ Adams on living on and working from a narrowboat](https://www.youtube.com/watch?v=sirIH29x06s) (Tue Apr 30 2024)
 - [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Tue Apr 30 2024)
-- [ABAP Cloud: Background Processing Framework](https://www.youtube.com/watch?v=6zfsD4bhR6A) (Mon Apr 29 2024)
-- [Let's test drive Joule's generative AI features in SAP Build Code together! 2 of 2 (AMERICAS)](https://www.youtube.com/watch?v=xqGldi8yBbI) (Sat Apr 27 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
 - [🇪🇸 Event-driven integrations with SAP Integration Suite, advanced event mesh (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13648705)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/92805i3F3DD2B523A2EC4E/image-size/thumb?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 6, 2024 at 10:00:00 AM Central European Summer Time
   - Location: SAP ESPAÑA, S.A., Calle de Torrelaguna, Madrid, Spain
 - [🇵🇱 Getting Started with Machine Learning using SAP HANA and Python (Poznań, PL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-pozna%C5%84-pl/ev-p/13660996)
