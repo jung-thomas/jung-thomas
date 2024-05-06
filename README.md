@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 Event-driven integrations with SAP Integration Suite, advanced event mesh (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13648705)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, May 6, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: SAP ESPAÑA, S.A., Calle de Torrelaguna, Madrid, Spain
 - [🇵🇱 Getting Started with Machine Learning using SAP HANA and Python (Poznań, PL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-pozna%C5%84-pl/ev-p/13660996)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/103137i437C21A8B420A0D2/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 8, 2024 at 10:00:00 AM Central European Summer Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇦🇺 Introducing the Core Principles of UI5 (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/introducing-the-core-principles-of-ui5-melbourne-australia/ev-p/13652789)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88172iF177B81F214F532B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 22, 2024 at 9:00:00 AM Australian Eastern Standard Time
+  - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
+- [🇦🇺 SAP Cloud Application Programming Model with SAP HANA Cloud (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-melbourne/ev-p/13652794)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/88173i363AB43C0F180E5E/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 23, 2024 at 9:00:00 AM Australian Eastern Standard Time
   - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
