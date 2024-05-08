@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Use the "tiny sample" feature on new CAP projects to get started quickly. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=yrzcoU6Ge3k) (Wed May 08 2024)
 - [SAP CodeTalk with Raja Gupta](https://www.youtube.com/watch?v=K4I3b6Pq1dY) (Tue May 07 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 12](https://www.youtube.com/watch?v=oybe9IRku3Q) (Fri May 03 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 03 2024)
 - [May Dev Challenge, RAG with genAI, CAP and AI, BTP InnoBytes, Build Actions | SAP Developer News](https://www.youtube.com/watch?v=eAGHLT0M67U) (Thu May 02 2024)
 - [Auto-filling of primary keys with the UUID type in CAP Node.js #GoodToKnow  #SAPCAP](https://www.youtube.com/watch?v=iM88d3u6KAY) (Wed May 01 2024)
-- [SAP CodeTalk with DJ Adams on living on and working from a narrowboat](https://www.youtube.com/watch?v=sirIH29x06s) (Tue Apr 30 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 Getting Started with Machine Learning using SAP HANA and Python (Poznań, PL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-and-python-pozna%C5%84-pl/ev-p/13660996)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/103137i437C21A8B420A0D2/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, May 8, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: Concordia Design | Centrum Konferencyjne | Wynajem Biur | Cowork | Usługi Consultingowe | Restauracja, Zwierzyniecka, Poznań, Poland
 - [🇷🇴 SAP Build: Create Apps and Processes Without Code (Cluj-Napoca, Romania)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-cluj-napoca-romania/ev-p/13651256)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 20, 2024 at 9:00:00 AM Eastern European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88173i363AB43C0F180E5E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 23, 2024 at 9:00:00 AM Australian Eastern Standard Time
   - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
+- [🇵🇱 SAP Build: Create Apps and Processes Without Code (Warszawa, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-warszawa-poland/ev-p/13651322)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
+  - Location: Inflancka 4A, 00-189 Warszawa, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
