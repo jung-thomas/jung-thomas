@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 10 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 03 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=lJWosUWMKI0) (Thu May 09 2024)
 - [SAP Developers is live!](https://www.youtube.com/watch?v=Znr9GrcPsp0) (Wed May 08 2024)
 - [Use the "tiny sample" feature on new CAP projects to get started quickly. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=yrzcoU6Ge3k) (Wed May 08 2024)
 - [SAP CodeTalk with Raja Gupta](https://www.youtube.com/watch?v=K4I3b6Pq1dY) (Tue May 07 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 12](https://www.youtube.com/watch?v=oybe9IRku3Q) (Fri May 03 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 03 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -43,14 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88172iF177B81F214F532B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 22, 2024 at 9:00:00 AM Australian Eastern Standard Time
   - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13697473)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/108535iAAA683F072537D7C/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, May 22, 2024 at 9:00:00 AM India Standard Time
+  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, India
 - [🇦🇺 SAP Cloud Application Programming Model with SAP HANA Cloud (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-melbourne/ev-p/13652794)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88173i363AB43C0F180E5E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 23, 2024 at 9:00:00 AM Australian Eastern Standard Time
   - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
-- [🇵🇱 SAP Build: Create Apps and Processes Without Code (Warszawa, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-warszawa-poland/ev-p/13651322)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
-  - Location: Inflancka 4A, 00-189 Warszawa, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
