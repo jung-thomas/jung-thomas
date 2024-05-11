@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 10 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 10 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 03 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=lJWosUWMKI0) (Thu May 09 2024)
 - [SAP Developers is live!](https://www.youtube.com/watch?v=Znr9GrcPsp0) (Wed May 08 2024)
 - [Use the "tiny sample" feature on new CAP projects to get started quickly. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=yrzcoU6Ge3k) (Wed May 08 2024)
