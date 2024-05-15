@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Generation of test data records with the data facet #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=_YVvCA2oSco) (Wed May 15 2024)
 - [SAP CodeTalk on "Terraform Provider for SAP BTP" with Christian Lechner](https://www.youtube.com/watch?v=wERTMQuwJv0) (Tue May 14 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 10 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 10 2024)
 - [HANA & Apache Spark, ADT Content Assist, CAP April 2024, Multiple API Gateways | SAP Developer News](https://www.youtube.com/watch?v=lJWosUWMKI0) (Thu May 09 2024)
 - [SAP Developers is live!](https://www.youtube.com/watch?v=Znr9GrcPsp0) (Wed May 08 2024)
-- [Use the "tiny sample" feature on new CAP projects to get started quickly. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=yrzcoU6Ge3k) (Wed May 08 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
