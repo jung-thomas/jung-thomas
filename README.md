@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [Delivering events from SAP S/4HANA Cloud to SAP Build Process Automation via AEM](https://www.youtube.com/watch?v=QfxI7ufCA24) (Mon May 20 2024)
 - [SAP Tech Bytes: Configuring SAP S/4HANA Cloud and SAP Integration Suite, advanced event mesh](https://www.youtube.com/watch?v=6hb9l0ss5ec) (Fri May 17 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=Uj6Y980JqIQ) (Thu May 16 2024)
+- [abapGit, Fiori via VSCode, CodeTalk, Cloud Connector, What's New in SAC | SAP Developer News](https://www.youtube.com/watch?v=Uj6Y980JqIQ) (Thu May 16 2024)
 - [Generation of test data records with the data facet #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=_YVvCA2oSco) (Wed May 15 2024)
 - [SAP CodeTalk on "Terraform Provider for SAP BTP" with Christian Lechner](https://www.youtube.com/watch?v=wERTMQuwJv0) (Tue May 14 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 10 2024)
