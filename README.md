@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 SAP CodeJam ABAP Cloud (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-melbourne-australia/ev-p/13652786)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/88160iC9C7B2BD64517CB4/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, May 21, 2024 at 1:00:00 PM Australian Eastern Standard Time
-  - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
 - [🇦🇺 Introducing the Core Principles of UI5 (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/introducing-the-core-principles-of-ui5-melbourne-australia/ev-p/13652789)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88172iF177B81F214F532B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 22, 2024 at 9:00:00 AM Australian Eastern Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
   - Location: Inflancka 4A, 00-189 Warszawa, Poland
+- [🇵🇱 SAP Build: Create Apps and Processes Without Code (Łódź, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-%C5%82%C3%B3d%C5%BA-poland/ev-p/13651656)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, May 28, 2024 at 1:00:00 PM Central European Summer Time
+  - Location: Wólczańska 215, 93-005 Łódź, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
