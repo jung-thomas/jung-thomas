@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk "Getting Started with SAP Build on SAP BTP" with Markus Haug](https://www.youtube.com/watch?v=flbIrdGlMcs) (Tue May 21 2024)
 - [Delivering events from SAP S/4HANA Cloud to SAP Build Process Automation via AEM](https://www.youtube.com/watch?v=QfxI7ufCA24) (Mon May 20 2024)
 - [SAP Tech Bytes: Configuring SAP S/4HANA Cloud and SAP Integration Suite, advanced event mesh](https://www.youtube.com/watch?v=6hb9l0ss5ec) (Fri May 17 2024)
 - [abapGit, Fiori via VSCode, CodeTalk, Cloud Connector, What's New in SAC | SAP Developer News](https://www.youtube.com/watch?v=Uj6Y980JqIQ) (Thu May 16 2024)
 - [Generation of test data records with the data facet #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=_YVvCA2oSco) (Wed May 15 2024)
 - [SAP CodeTalk on "Terraform Provider for SAP BTP" with Christian Lechner](https://www.youtube.com/watch?v=wERTMQuwJv0) (Tue May 14 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 13](https://www.youtube.com/watch?v=xQ-fUnpdvgM) (Fri May 10 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -48,7 +48,7 @@ Follow me on:
   - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
   - Location: Inflancka 4A, 00-189 Warszawa, Poland
 - [🇵🇱 SAP Build: Create Apps and Processes Without Code (Łódź, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-%C5%82%C3%B3d%C5%BA-poland/ev-p/13651656)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/113482iFBDE00B735884C88/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, May 28, 2024 at 1:00:00 PM Central European Summer Time
   - Location: Wólczańska 215, 93-005 Łódź, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
