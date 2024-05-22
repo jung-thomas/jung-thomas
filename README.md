@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13697473)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/108535iAAA683F072537D7C/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, May 22, 2024 at 9:00:00 AM India Standard Time
-  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, India
 - [🇦🇺 SAP Cloud Application Programming Model with SAP HANA Cloud (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-melbourne/ev-p/13652794)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/88173i363AB43C0F180E5E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 23, 2024 at 9:00:00 AM Australian Eastern Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/111616iC20CFF2203CC308B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 29, 2024 at 1:00:00 PM Central European Summer Time
   - Location: Uniwersytet WSB Merito - budynek G, Fabryczna, Wrocław, Poland
+- [🇮🇳 SAP Build: Create Business Apps and Processes Without Code (Kolkata, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-kolkata-india/ev-p/13694906)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/107358iE7DAB2E365ECC639/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 30, 2024 at 9:00:00 AM India Standard Time
+  - Location: Cognizant Technology Solutions, DH Block(Newtown), Action Area I, Newtown, Chakpachuria, New Town, West Bengal, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
