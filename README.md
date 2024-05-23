@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 SAP Cloud Application Programming Model with SAP HANA Cloud (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-melbourne/ev-p/13652794)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/88173i363AB43C0F180E5E/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 23, 2024 at 9:00:00 AM Australian Eastern Standard Time
-  - Location: Crown Promenade Melbourne, Whiteman Street, Southbank VIC, Australia
 - [🇵🇱 SAP Build: Create Apps and Processes Without Code (Warszawa, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-warszawa-poland/ev-p/13651322)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/107358iE7DAB2E365ECC639/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 30, 2024 at 9:00:00 AM India Standard Time
   - Location: Cognizant Technology Solutions, DH Block(Newtown), Action Area I, Newtown, Chakpachuria, New Town, West Bengal, India
+- [🇩🇪 Service integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-st-leon/ev-p/13601698)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/63754iB1297D8C3632E96E/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, June 3, 2024 at 8:30:00 AM British Summer Time
+  - Location: ROT 15, SAP-Allee, 68789 Sankt Leon-Rot, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
