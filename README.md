@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Tue Apr 30 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
 - [Composition of Aspects in CAP #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=7x_lwS8SCmo) (Wed May 22 2024)
 - [SAP CodeTalk "Getting Started with SAP Build on SAP BTP" with Markus Haug](https://www.youtube.com/watch?v=flbIrdGlMcs) (Tue May 21 2024)
 - [Delivering events from SAP S/4HANA Cloud to SAP Build Process Automation via AEM](https://www.youtube.com/watch?v=QfxI7ufCA24) (Mon May 20 2024)
 - [SAP Tech Bytes: Configuring SAP S/4HANA Cloud and SAP Integration Suite, advanced event mesh](https://www.youtube.com/watch?v=6hb9l0ss5ec) (Fri May 17 2024)
-- [abapGit, Fiori via VSCode, CodeTalk, Cloud Connector, What's New in SAC | SAP Developer News](https://www.youtube.com/watch?v=Uj6Y980JqIQ) (Thu May 16 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
