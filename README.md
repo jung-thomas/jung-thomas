@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Tue Apr 30 2024)
+- [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Fri May 24 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
 - [Composition of Aspects in CAP #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=7x_lwS8SCmo) (Wed May 22 2024)
 - [SAP CodeTalk "Getting Started with SAP Build on SAP BTP" with Markus Haug](https://www.youtube.com/watch?v=flbIrdGlMcs) (Tue May 21 2024)
