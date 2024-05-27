@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP Build: Create Apps and Processes Without Code (Warszawa, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-warszawa-poland/ev-p/13651322)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, May 27, 2024 at 2:00:00 PM Central European Summer Time
-  - Location: Inflancka 4A, 00-189 Warszawa, Poland
 - [🇵🇱 SAP Build: Create Apps and Processes Without Code (Łódź, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-%C5%82%C3%B3d%C5%BA-poland/ev-p/13651656)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/113482iFBDE00B735884C88/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, May 28, 2024 at 1:00:00 PM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/63754iB1297D8C3632E96E/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 3, 2024 at 8:30:00 AM British Summer Time
   - Location: ROT 15, SAP-Allee, 68789 Sankt Leon-Rot, Germany
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Mannheim, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-mannheim-de/ev-p/13653312)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/88410i2431BAB44B26AC92/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, June 3, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: MAFINEX Technologiezentrum, Julius-Hatry-Straße, Mannheim, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
