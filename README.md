@@ -25,7 +25,7 @@ Follow me on:
 - [SAP CodeJam Roadshow 2024 - Latin America edition 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (August 8th - 21st 2024)](https://www.youtube.com/watch?v=fcasG0VbncQ) (Mon May 27 2024)
 - [SAP Build Lobby - Introduction](https://www.youtube.com/watch?v=9OLnD3CpyFo) (Mon May 27 2024)
 - [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Fri May 24 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
+- [Mastering SAP | Extension Architecture Guide, ABAP 2405, Edge Integration Cell | SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
 - [Composition of Aspects in CAP #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=7x_lwS8SCmo) (Wed May 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
