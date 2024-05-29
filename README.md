@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CAP plugins, with the Telemetry example #GoodToKnow #SAPCAP #OpenTelemetry](https://www.youtube.com/watch?v=3W_ATHhJAjY) (Wed May 29 2024)
 - [SAP CodeTalk "Frank Densborn from SAP AppHaus discussing Generative AI and LLM's"](https://www.youtube.com/watch?v=RAfXetjkDkY) (Tue May 28 2024)
 - [SAP CodeJam Roadshow 2024 - Latin America edition 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (August 8th - 21st 2024)](https://www.youtube.com/watch?v=fcasG0VbncQ) (Mon May 27 2024)
 - [SAP Build Lobby - Introduction](https://www.youtube.com/watch?v=9OLnD3CpyFo) (Mon May 27 2024)
 - [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Fri May 24 2024)
 - [Mastering SAP | Extension Architecture Guide, ABAP 2405, Edge Integration Cell | SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
-- [Composition of Aspects in CAP #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=7x_lwS8SCmo) (Wed May 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP Build: Create Apps and Processes Without Code (Wrocław, Poland)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-wroc%C5%82aw-poland/ev-p/13651665)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/111616iC20CFF2203CC308B/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, May 29, 2024 at 1:00:00 PM Central European Summer Time
-  - Location: Uniwersytet WSB Merito - budynek G, Fabryczna, Wrocław, Poland
 - [🇮🇳 SAP Build: Create Business Apps and Processes Without Code (Kolkata, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-kolkata-india/ev-p/13694906)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/107358iE7DAB2E365ECC639/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 30, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/101631i07CBA95ADF27C63D/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 7, 2024 at 8:00:00 AM British Summer Time
   - Location: Covestro Leverkusen, Friedrich-Ebert-Straße 350, 51373 Leverkusen, Germany
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13694609)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/107211iC927E5544F83D483/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 14, 2024 at 9:00:00 AM India Standard Time
+  - Location: Rialtes Technologies and Solution LLP, 119, EON Free Zone, Kharadi, Pune, Maharashtra, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
