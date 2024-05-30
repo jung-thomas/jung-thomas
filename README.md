@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Business Apps and Processes Without Code (Kolkata, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-kolkata-india/ev-p/13694906)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/107358iE7DAB2E365ECC639/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 30, 2024 at 9:00:00 AM India Standard Time
-  - Location: Cognizant Technology Solutions, DH Block(Newtown), Action Area I, Newtown, Chakpachuria, New Town, West Bengal, India
 - [🇩🇪 Service integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-st-leon/ev-p/13601698)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/63754iB1297D8C3632E96E/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 3, 2024 at 8:30:00 AM British Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/107211iC927E5544F83D483/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 14, 2024 at 9:00:00 AM India Standard Time
   - Location: Rialtes Technologies and Solution LLP, 119, EON Free Zone, Kharadi, Pune, Maharashtra, India
+- [🇳🇱 Getting Started with Machine Learning using SAP HANA ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-s-hertogenbosch-nl/ev-p/13696476)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/108066i5E53085AB135CCC0/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 21, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: ITrainee, Statenlaan, 's-Hertogenbosch, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
