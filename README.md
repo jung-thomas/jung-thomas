@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=CCv3Oz4K_yQ) (Thu May 30 2024)
 - [CAP plugins, with the Telemetry example #GoodToKnow #SAPCAP #OpenTelemetry](https://www.youtube.com/watch?v=3W_ATHhJAjY) (Wed May 29 2024)
 - [SAP CodeTalk "Frank Densborn from SAP AppHaus discussing Generative AI and LLM's"](https://www.youtube.com/watch?v=RAfXetjkDkY) (Tue May 28 2024)
 - [SAP CodeJam Roadshow 2024 - Latin America edition 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (August 8th - 21st 2024)](https://www.youtube.com/watch?v=fcasG0VbncQ) (Mon May 27 2024)
 - [SAP Build Lobby - Introduction](https://www.youtube.com/watch?v=9OLnD3CpyFo) (Mon May 27 2024)
 - [RAG with SAP HANA Cloud Vector Engine, GenAI Hub & CAP](https://www.youtube.com/watch?v=EkEbUYTfa6Q) (Fri May 24 2024)
-- [Mastering SAP | Extension Architecture Guide, ABAP 2405, Edge Integration Cell | SAP Developer News](https://www.youtube.com/watch?v=HTf5JOeZr7I) (Thu May 23 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
