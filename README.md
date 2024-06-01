@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 31 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri May 31 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 10 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=CCv3Oz4K_yQ) (Thu May 30 2024)
 - [CAP plugins, with the Telemetry example #GoodToKnow #SAPCAP #OpenTelemetry](https://www.youtube.com/watch?v=3W_ATHhJAjY) (Wed May 29 2024)
 - [SAP CodeTalk "Frank Densborn from SAP AppHaus discussing Generative AI and LLM's"](https://www.youtube.com/watch?v=RAfXetjkDkY) (Tue May 28 2024)
