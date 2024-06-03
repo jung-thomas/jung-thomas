@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Service integration with SAP Cloud Application Programming Model (St Leon-Rot, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-st-leon/ev-p/13601698)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/63754iB1297D8C3632E96E/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, June 3, 2024 at 8:30:00 AM British Summer Time
-  - Location: ROT 15, SAP-Allee, 68789 Sankt Leon-Rot, Germany
-- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Mannheim, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-mannheim-de/ev-p/13653312)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/88410i2431BAB44B26AC92/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, June 3, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: MAFINEX Technologiezentrum, Julius-Hatry-Straße, Mannheim, Germany
 - [🇩🇪 Hands-on with the btp CLI and APIs](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis/ev-p/13681962)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/101631i07CBA95ADF27C63D/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 7, 2024 at 8:00:00 AM British Summer Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/108066i5E53085AB135CCC0/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 21, 2024 at 10:00:00 AM Central European Summer Time
   - Location: ITrainee, Statenlaan, 's-Hertogenbosch, Netherlands
+- [🇧🇪 SAP Build: Create Apps and Processes Without Code (Wavre, Belgium)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-wavre-belgium/ev-p/13696037)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, June 27, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: Av. Fleming 14, 1300 Wavre, Belgium
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13715368)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/116888i28C41F2694D3B63A/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
+  - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
