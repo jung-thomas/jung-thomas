@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [See your CDS model in a YAML representation of CSN for easy reading. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=O7LU9xQAOyA) (Tue Jun 04 2024)
 - [A day in the life of a Developer Advocate at SAP](https://www.youtube.com/watch?v=ypnQoYtvAPE) (Mon Jun 03 2024)
 - [Live from #SAPSapphire and CodeConnect all this week](https://www.youtube.com/watch?v=XZSdrdLy3f8) (Mon Jun 03 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 14](https://www.youtube.com/watch?v=bkZ3YqEgRuM) (Fri May 31 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri May 31 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=CCv3Oz4K_yQ) (Thu May 30 2024)
-- [CAP plugins, with the Telemetry example #GoodToKnow #SAPCAP #OpenTelemetry](https://www.youtube.com/watch?v=3W_ATHhJAjY) (Wed May 29 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
