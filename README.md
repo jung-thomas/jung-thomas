@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Trigger Process from SAP Build Apps](https://www.youtube.com/watch?v=8RVo3-h2n-I) (Mon Jun 10 2024)
+- [SAP TechBytes -- ABAP Core Data Services Overview](https://www.youtube.com/watch?v=lvorIY4Xyio) (Mon Jun 10 2024)
 - [SAP Developer News, June 6th 2024](https://www.youtube.com/watch?v=i7nnJSkJtaM) (Thu Jun 06 2024)
 - [A day in the life - UI5con as part of Code Connect](https://www.youtube.com/watch?v=rvt1Sj2SrjY) (Thu Jun 06 2024)
 - [SAP Developer News - Sapphire Day 2 Special Edition](https://www.youtube.com/watch?v=9YElePY7m7Q) (Wed Jun 05 2024)
 - [A day in the life - reCAP as part of Code Connect](https://www.youtube.com/watch?v=k7RBbieQANw) (Tue Jun 04 2024)
-- [SAP Developer News - Sapphire Day 1 Special Edition](https://www.youtube.com/watch?v=RfVsfFIhAFc) (Tue Jun 04 2024)
-- [See your CDS model in a YAML representation of CSN for easy reading. #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=O7LU9xQAOyA) (Tue Jun 04 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Hands-on with the btp CLI and APIs](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis/ev-p/13681962)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/101631i07CBA95ADF27C63D/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 7, 2024 at 8:00:00 AM British Summer Time
-  - Location: Covestro Leverkusen, Friedrich-Ebert-Straße 350, 51373 Leverkusen, Germany
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13694609)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/107211iC927E5544F83D483/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 14, 2024 at 9:00:00 AM India Standard Time
@@ -47,6 +43,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 27, 2024 at 9:00:00 AM Central European Summer Time
   - Location: Av. Fleming 14, 1300 Wavre, Belgium
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13725664)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/121373i96C1492AE6A2A201/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
+  - Location: Lemon Tree Premier, HITEC City, Hyderabad, Phase 2, Madhapur, Hyderabad, Telangana 500081, India
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13715368)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/116888i28C41F2694D3B63A/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
