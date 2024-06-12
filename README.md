@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk -](https://www.youtube.com/watch?v=GRK2rrfJ8E4) (Tue Jun 11 2024)
 - [Trigger process from SAP Build Apps](https://www.youtube.com/watch?v=W_mNLrBe6kA) (Tue Jun 11 2024)
 - [Trigger Process from SAP Build Apps](https://www.youtube.com/watch?v=8RVo3-h2n-I) (Mon Jun 10 2024)
 - [SAP TechBytes -- ABAP Core Data Services Overview](https://www.youtube.com/watch?v=lvorIY4Xyio) (Mon Jun 10 2024)
 - [SAP Developer News, June 6th 2024](https://www.youtube.com/watch?v=i7nnJSkJtaM) (Thu Jun 06 2024)
 - [A day in the life - UI5con as part of Code Connect](https://www.youtube.com/watch?v=rvt1Sj2SrjY) (Thu Jun 06 2024)
-- [SAP Developer News - Sapphire Day 2 Special Edition](https://www.youtube.com/watch?v=9YElePY7m7Q) (Wed Jun 05 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
