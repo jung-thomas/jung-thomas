@@ -24,7 +24,7 @@ Follow me on:
 - [Understanding the @path annotation #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=Q_PipD_7yBs) (Wed Jun 12 2024)
 - [SAP CodeTalk -](https://www.youtube.com/watch?v=GRK2rrfJ8E4) (Tue Jun 11 2024)
 - [Trigger process from SAP Build Apps](https://www.youtube.com/watch?v=W_mNLrBe6kA) (Tue Jun 11 2024)
-- [Trigger Process from SAP Build Apps](https://www.youtube.com/watch?v=8RVo3-h2n-I) (Mon Jun 10 2024)
+- [Trigger Process from SAP Build Apps #1 (free project)](https://www.youtube.com/watch?v=8RVo3-h2n-I) (Mon Jun 10 2024)
 - [SAP TechBytes -- ABAP Core Data Services Overview](https://www.youtube.com/watch?v=lvorIY4Xyio) (Mon Jun 10 2024)
 - [SAP Developer News, June 6th 2024](https://www.youtube.com/watch?v=i7nnJSkJtaM) (Thu Jun 06 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
