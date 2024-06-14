@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Thu Jun 13 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=7n16u-Rx8IY) (Thu Jun 13 2024)
+- [SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Thu Jun 13 2024)
 - [Understanding the @path annotation #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=Q_PipD_7yBs) (Wed Jun 12 2024)
 - [SAP CodeTalk -](https://www.youtube.com/watch?v=GRK2rrfJ8E4) (Tue Jun 11 2024)
 - [Trigger process from SAP Build Apps](https://www.youtube.com/watch?v=W_mNLrBe6kA) (Tue Jun 11 2024)
