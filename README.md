@@ -21,24 +21,24 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Mon Jun 17 2024)
+- [Trigger Process from SAP Build Apps #2 - Retrieve Instances](https://www.youtube.com/watch?v=02dPZd1Btuw) (Sun Jun 16 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri Jun 14 2024)
+- [Event-driven integrations - Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Fri Jun 14 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 16](https://www.youtube.com/watch?v=gatY3IVPEVA) (Fri Jun 14 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=7n16u-Rx8IY) (Thu Jun 13 2024)
-- [SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Thu Jun 13 2024)
-- [Understanding the @path annotation #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=Q_PipD_7yBs) (Wed Jun 12 2024)
-- [SAP CodeTalk -](https://www.youtube.com/watch?v=GRK2rrfJ8E4) (Tue Jun 11 2024)
-- [Trigger process from SAP Build Apps](https://www.youtube.com/watch?v=W_mNLrBe6kA) (Tue Jun 11 2024)
-- [Trigger Process from SAP Build Apps #1 (free project)](https://www.youtube.com/watch?v=8RVo3-h2n-I) (Mon Jun 10 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13694609)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/107211iC927E5544F83D483/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 14, 2024 at 9:00:00 AM India Standard Time
-  - Location: Rialtes Technologies and Solution LLP, 119, EON Free Zone, Kharadi, Pune, Maharashtra, India
 - [🇳🇱 Getting Started with Machine Learning using SAP HANA ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-s-hertogenbosch-nl/ev-p/13696476)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/108066i5E53085AB135CCC0/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 21, 2024 at 10:00:00 AM Central European Summer Time
   - Location: ITrainee, Statenlaan, 's-Hertogenbosch, Netherlands
+- [🇮🇳 SAP Build: Create Business Apps and Processes Without Code (Telangana, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-telangana-india/ev-p/13732805)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/124284iB6031D2D70B703CD/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, June 26, 2024 at 9:00:00 AM India Standard Time
+  - Location: TCS, Adibatla, Telangana 501510, India
 - [🇧🇪 SAP Build: Create Apps and Processes Without Code (Wavre, Belgium)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-wavre-belgium/ev-p/13696037)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 27, 2024 at 9:00:00 AM Central European Summer Time
