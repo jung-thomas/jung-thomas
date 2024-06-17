@@ -26,7 +26,7 @@ Follow me on:
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri Jun 14 2024)
 - [Event-driven integrations - Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Fri Jun 14 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 16](https://www.youtube.com/watch?v=gatY3IVPEVA) (Fri Jun 14 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=7n16u-Rx8IY) (Thu Jun 13 2024)
+- [ABAP Open-Source, June Dev Challenge, CAP May Rel, CodeTalk, Ref Architecture | SAP Developer News](https://www.youtube.com/watch?v=7n16u-Rx8IY) (Thu Jun 13 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
