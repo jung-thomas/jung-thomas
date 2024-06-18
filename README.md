@@ -47,7 +47,7 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/121373i96C1492AE6A2A201/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
   - Location: Lemon Tree Premier, HITEC City, Hyderabad, Phase 2, Madhapur, Hyderabad, Telangana 500081, India
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap/ev-p/13715368)
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13715368)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/116888i28C41F2694D3B63A/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
   - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
