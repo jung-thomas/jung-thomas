@@ -21,17 +21,17 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Event-driven integrations: CloudEvents](https://www.youtube.com/watch?v=d0RDoha57fA) (Wed Jun 19 2024)
 - [Controlling CAP server log levels #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=C_0Za3wTcEM) (Wed Jun 19 2024)
 - [Event-driven integrations: Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Fri Jun 14 2024)
 - [SAP CodeTalk on ABAP Core Data Services with Andrea Schlotthauer](https://www.youtube.com/watch?v=_jjjL9M4DnY) (Tue Jun 18 2024)
 - [SAP Tech Bytes: SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Mon Jun 17 2024)
 - [Trigger Process from SAP Build Apps #2 - Retrieve Instances](https://www.youtube.com/watch?v=02dPZd1Btuw) (Sun Jun 16 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri Jun 14 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 Getting Started with Machine Learning using SAP HANA ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-s-hertogenbosch-nl/ev-p/13696476)
+- [🇳🇱 Getting Started with Machine Learning using SAP HANA (sHertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-shertogenbosch-nl/ev-p/13696476)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/108066i5E53085AB135CCC0/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 21, 2024 at 10:00:00 AM Central European Summer Time
   - Location: ITrainee, Statenlaan, 's-Hertogenbosch, Netherlands
