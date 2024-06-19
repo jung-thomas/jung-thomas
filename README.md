@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP CodeTalk on ABAP Code Data Services with Andrea Schlotthauer](https://www.youtube.com/watch?v=_jjjL9M4DnY) (Tue Jun 18 2024)
+- [Controlling CAP server log levels #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=C_0Za3wTcEM) (Wed Jun 19 2024)
+- [Event-driven integrations: Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Fri Jun 14 2024)
+- [SAP CodeTalk on ABAP Core Data Services with Andrea Schlotthauer](https://www.youtube.com/watch?v=_jjjL9M4DnY) (Tue Jun 18 2024)
 - [SAP Tech Bytes: SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Mon Jun 17 2024)
 - [Trigger Process from SAP Build Apps #2 - Retrieve Instances](https://www.youtube.com/watch?v=02dPZd1Btuw) (Sun Jun 16 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 15](https://www.youtube.com/watch?v=FxOQsg8yc2s) (Fri Jun 14 2024)
-- [Event-driven integrations: Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Fri Jun 14 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 16](https://www.youtube.com/watch?v=gatY3IVPEVA) (Fri Jun 14 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
