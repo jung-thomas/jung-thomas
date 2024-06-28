@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jun 28 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Mon Jun 24 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=M2apymZS-Ks) (Thu Jun 27 2024)
 - [Shell completion for CDS commands #GoodToKnow #TheFutureIsTerminal](https://www.youtube.com/watch?v=NiAe03yxK4k) (Wed Jun 26 2024)
 - [SAP CodeTalk with Olga Dolinskaja](https://www.youtube.com/watch?v=Glu4-95CAgY) (Tue Jun 25 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Mon Jun 24 2024)
 - [SAP TechBytes — ABAP Core Data Services - Virtual Elements](https://www.youtube.com/watch?v=TqD-H03znVo) (Mon Jun 24 2024)
-- [Trigger Process from SAP Build Apps #3 - Retrieve Process Attributes](https://www.youtube.com/watch?v=PdlusgEMhiU) (Mon Jun 24 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Berlin, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-berlin-de/ev-p/13703853)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/129832iF9350F0C9FC87209/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, June 28, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
 - [🇵🇱 SAP CodeJam SAP Fiori elements flexible programming model (Wroclaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-wroclaw-poland/ev-p/13729912)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/123239iCBB0E8C23CB07EC7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, July 5, 2024 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
   - Location: Gopalan Global Axis Block-H, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
+- [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
+  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
