@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13725664)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/121373i96C1492AE6A2A201/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
-  - Location: Lemon Tree Premier, HITEC City, Hyderabad, Phase 2, Madhapur, Hyderabad, Telangana 500081, India
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13715368)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/116888i28C41F2694D3B63A/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
-  - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - [🇩🇪 Getting Started with Machine Learning using SAP HANA (Berlin, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-berlin-de/ev-p/13703853)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129832iF9350F0C9FC87209/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 10:00:00 AM Central European Summer Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/128010i8C74BDD0D5F6322B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 9:00:00 AM India Standard Time
   - Location: Prestige Towers, RBL Bank Ltd - Prestige Towers, Bangalore Branch & ATM, Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
+- [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Walldorf, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-walldorf-germany/ev-p/13673063)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/97500i1FB80F997AFCE28B/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, July 10, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: Altrottstraße 34A, Walldorf, Germany
+- [🇮🇳 SAP Build: Create Apps and Processes Without Code (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bangalore-india/ev-p/13744154)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
+  - Location: Gopalan Global Axis Block-H, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
