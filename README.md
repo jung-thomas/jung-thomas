@@ -21,28 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=8zC6l1_jFmg) (Thu Jun 20 2024)
-- [Event-driven integrations: Exploring the Event Mesh capability of SAP Integration Suite](https://www.youtube.com/watch?v=tUIG34xT3oo) (Wed Jun 19 2024)
-- [Event-driven integrations: CloudEvents](https://www.youtube.com/watch?v=d0RDoha57fA) (Wed Jun 19 2024)
-- [Controlling CAP server log levels #GoodToKnow #SAPCAP](https://www.youtube.com/watch?v=C_0Za3wTcEM) (Wed Jun 19 2024)
-- [SAP CodeTalk on ABAP Core Data Services with Andrea Schlotthauer](https://www.youtube.com/watch?v=_jjjL9M4DnY) (Tue Jun 18 2024)
-- [SAP Tech Bytes: SAP S/4HANA Cloud events to SAP Cloud Integration via SAP Event Broker](https://www.youtube.com/watch?v=QfMKosA4a5A) (Mon Jun 17 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=M2apymZS-Ks) (Thu Jun 27 2024)
+- [Shell completion for CDS commands #GoodToKnow #TheFutureIsTerminal](https://www.youtube.com/watch?v=NiAe03yxK4k) (Wed Jun 26 2024)
+- [SAP CodeTalk with Olga Dolinskaja](https://www.youtube.com/watch?v=Glu4-95CAgY) (Tue Jun 25 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Mon Jun 24 2024)
+- [SAP TechBytes — ABAP Core Data Services - Virtual Elements](https://www.youtube.com/watch?v=TqD-H03znVo) (Mon Jun 24 2024)
+- [Trigger Process from SAP Build Apps #3 - Retrieve Process Attributes](https://www.youtube.com/watch?v=PdlusgEMhiU) (Mon Jun 24 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 Getting Started with Machine Learning using SAP HANA (sHertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-shertogenbosch-nl/ev-p/13696476)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/108066i5E53085AB135CCC0/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 21, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: ITrainee, Statenlaan, 's-Hertogenbosch, Netherlands
-- [🇮🇳 SAP Build: Create Business Apps and Processes Without Code (Telangana, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-telangana-india/ev-p/13732805)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/124284iB6031D2D70B703CD/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, June 26, 2024 at 9:00:00 AM India Standard Time
-  - Location: TCS, Adibatla, Telangana 501510, India
-- [🇧🇪 SAP Build: Create Apps and Processes Without Code (Wavre, Belgium)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-wavre-belgium/ev-p/13696037)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, June 27, 2024 at 9:00:00 AM Central European Summer Time
-  - Location: Av. Fleming 14, 1300 Wavre, Belgium
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13725664)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/121373i96C1492AE6A2A201/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +39,18 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/116888i28C41F2694D3B63A/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 28, 2024 at 9:00:00 AM India Standard Time
   - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Berlin, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-berlin-de/ev-p/13703853)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/129832iF9350F0C9FC87209/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, June 28, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
+- [🇵🇱 SAP CodeJam SAP Fiori elements flexible programming model (Wroclaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-wroclaw-poland/ev-p/13729912)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/123239iCBB0E8C23CB07EC7/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, July 5, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: Fabryczna 14g, Wrocław, Poland
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13740946)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/128010i8C74BDD0D5F6322B/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, July 10, 2024 at 9:00:00 AM India Standard Time
+  - Location: Prestige Towers, RBL Bank Ltd - Prestige Towers, Bangalore Branch & ATM, Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
