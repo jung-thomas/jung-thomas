@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Fri Jun 28 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jun 28 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Mon Jun 24 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=M2apymZS-Ks) (Thu Jun 27 2024)
 - [Shell completion for CDS commands #GoodToKnow #TheFutureIsTerminal](https://www.youtube.com/watch?v=NiAe03yxK4k) (Wed Jun 26 2024)
 - [SAP CodeTalk with Olga Dolinskaja](https://www.youtube.com/watch?v=Glu4-95CAgY) (Tue Jun 25 2024)
