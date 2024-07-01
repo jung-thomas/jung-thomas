@@ -25,7 +25,7 @@ Follow me on:
 - [Trigger Process from SAP Build Apps #4 - Cancel, Suspend, Resume Instances](https://www.youtube.com/watch?v=JiVcTN0JIBU) (Sun Jun 30 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Fri Jun 28 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jun 28 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=M2apymZS-Ks) (Thu Jun 27 2024)
+- [abapGit Birthday, Open Source Manifesto, Build Q2 & HANA Cloud Q2 updates | SAP Developer News](https://www.youtube.com/watch?v=M2apymZS-Ks) (Thu Jun 27 2024)
 - [Shell completion for CDS commands #GoodToKnow #TheFutureIsTerminal](https://www.youtube.com/watch?v=NiAe03yxK4k) (Wed Jun 26 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
