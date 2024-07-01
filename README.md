@@ -43,14 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/97500i1FB80F997AFCE28B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 10:00:00 AM Central European Summer Time
   - Location: Altrottstraße 34A, Walldorf, Germany
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13747250)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/130617iCED4EC413504F762/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, July 15, 2024 at 9:00:00 AM India Standard Time
+  - Location: GOPALAN GLOBAL AXIS, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka
 - [🇮🇳 SAP Build: Create Apps and Processes Without Code (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bangalore-india/ev-p/13744154)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
   - Location: Gopalan Global Axis Block-H, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
-- [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
-  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
