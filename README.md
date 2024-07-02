@@ -38,7 +38,7 @@ Follow me on:
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13740946)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/128010i8C74BDD0D5F6322B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 9:00:00 AM India Standard Time
-  - Location: Prestige Towers, RBL Bank Ltd - Prestige Towers, Bangalore Branch & ATM, Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
+  - Location: Deloitte Shared Services India LLP, Palace Road, High Grounds, Bengaluru, Karnataka, India
 - [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Walldorf, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-walldorf-germany/ev-p/13673063)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/97500i1FB80F997AFCE28B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 10:00:00 AM Central European Summer Time
