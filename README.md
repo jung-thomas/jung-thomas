@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [ABAP CDS View Extensions](https://www.youtube.com/watch?v=IPEotH-6ekI) (Mon Jul 01 2024)
+- [SAP TechBytes -- ABAP CDS View Extensions](https://www.youtube.com/watch?v=IPEotH-6ekI) (Mon Jul 01 2024)
 - [Trigger Process from SAP Build Apps #4 - Cancel, Suspend, Resume Instances](https://www.youtube.com/watch?v=JiVcTN0JIBU) (Sun Jun 30 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Fri Jun 28 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jun 28 2024)
@@ -46,11 +46,11 @@ Follow me on:
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13747250)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/130617iCED4EC413504F762/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 15, 2024 at 9:00:00 AM India Standard Time
-  - Location: GOPALAN GLOBAL AXIS, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka
+  - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
 - [🇮🇳 SAP Build: Create Apps and Processes Without Code (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bangalore-india/ev-p/13744154)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
-  - Location: Gopalan Global Axis Block-H, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
+  - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
