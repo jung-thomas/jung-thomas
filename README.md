@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU) (Fri Jul 05 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jun 28 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=r5Uwk5_jnQg) (Thu Jul 04 2024)
 - [Event-driven integrations: CloudEvents](https://www.youtube.com/watch?v=IYtMlwPu2tk) (Wed Jul 03 2024)
 - [cds env roots, starter facets and the tiniest starter project #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=byZGXSwEz6Y) (Wed Jul 03 2024)
 - [SAP TechBytes -- ABAP CDS View Extensions](https://www.youtube.com/watch?v=IPEotH-6ekI) (Mon Jul 01 2024)
-- [Trigger Process from SAP Build Apps #4 - Cancel, Suspend, Resume Instances](https://www.youtube.com/watch?v=JiVcTN0JIBU) (Sun Jun 30 2024)
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 17](https://www.youtube.com/watch?v=-DorU9SLJSA) (Fri Jun 28 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP CodeJam SAP Fiori elements flexible programming model (Wroclaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-wroclaw-poland/ev-p/13729912)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/123239iCBB0E8C23CB07EC7/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, July 5, 2024 at 9:00:00 AM Central European Summer Time
-  - Location: Fabryczna 14g, Wrocław, Poland
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13740946)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/128010i8C74BDD0D5F6322B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
   - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
+- [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
+  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
