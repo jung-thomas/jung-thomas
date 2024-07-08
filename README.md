@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP TechBytes -- ABAP CDS Access Control](https://www.youtube.com/watch?v=uxgs4FigmuQ) (Mon Jul 08 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jul 05 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU) (Fri Jul 05 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=r5Uwk5_jnQg) (Thu Jul 04 2024)
 - [Event-driven integrations: CloudEvents](https://www.youtube.com/watch?v=IYtMlwPu2tk) (Wed Jul 03 2024)
 - [cds env roots, starter facets and the tiniest starter project #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=byZGXSwEz6Y) (Wed Jul 03 2024)
-- [SAP TechBytes -- ABAP CDS View Extensions](https://www.youtube.com/watch?v=IPEotH-6ekI) (Mon Jul 01 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
