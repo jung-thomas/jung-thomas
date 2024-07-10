@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13740946)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/128010i8C74BDD0D5F6322B/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, July 10, 2024 at 9:00:00 AM India Standard Time
-  - Location: Deloitte Shared Services India LLP, Palace Road, High Grounds, Bengaluru, Karnataka, India
 - [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Walldorf, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-walldorf-germany/ev-p/13673063)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/97500i1FB80F997AFCE28B/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 10, 2024 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/134117iB5A011AB7BB6BD1A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, August 8, 2024 at 9:00:00 AM India Standard Time
   - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
+- [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
+  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
