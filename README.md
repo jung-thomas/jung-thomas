@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [cds has a REPL #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=c5flAP_b12E) (Wed Jul 10 2024)
 - [¡SAP CodeJam Roadshow Latin America en 1 mes 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (8 - 21 de Agosto 2024)! #sapcodejam](https://www.youtube.com/watch?v=GSvO5BWCWwo) (Tue Jul 09 2024)
 - [SAP Tech Bytes: Deploying the BTP Resource Consumption Monitor application](https://www.youtube.com/watch?v=Q0X_XF1QuAg) (Tue Jul 09 2024)
 - [SAP TechBytes -- ABAP CDS Access Control](https://www.youtube.com/watch?v=uxgs4FigmuQ) (Mon Jul 08 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 18](https://www.youtube.com/watch?v=0hindK_fQ8c) (Fri Jul 05 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU) (Fri Jul 05 2024)
-- [BTP Resource Consumption Monitor, CEIs, July Dev Challenge, Build Governance | SAP Developer News](https://www.youtube.com/watch?v=r5Uwk5_jnQg) (Thu Jul 04 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Walldorf, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-walldorf-germany/ev-p/13673063)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/97500i1FB80F997AFCE28B/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, July 10, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: Altrottstraße 34A, Walldorf, Germany
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13747250)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/130617iCED4EC413504F762/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 15, 2024 at 9:00:00 AM India Standard Time
@@ -44,13 +40,17 @@ Follow me on:
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
   - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ahmedabad-india/ev-p/13755143)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/134117iB5A011AB7BB6BD1A/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/134117iB5A011AB7BB6BD1A/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 8, 2024 at 9:00:00 AM India Standard Time
   - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
 - [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
   - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
+- [🇮🇳SAP Build: Create Business Apps and Processes Without Code (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-ahmedabad-india/ev-p/13755253)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/134167i6DC6CE1E864AEDA8/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 9, 2024 at 9:00:00 AM India Standard Time
+  - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
