@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=z2zoEQd-DGQ) (Wed Jul 10 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=z2zoEQd-DGQ) (Thu Jul 11 2024)
 - [cds has a REPL #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=c5flAP_b12E) (Wed Jul 10 2024)
 - [¡SAP CodeJam Roadshow Latin America en 1 mes 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (8 - 21 de Agosto 2024)! #sapcodejam](https://www.youtube.com/watch?v=GSvO5BWCWwo) (Tue Jul 09 2024)
 - [SAP Tech Bytes: Deploying the BTP Resource Consumption Monitor application](https://www.youtube.com/watch?v=Q0X_XF1QuAg) (Tue Jul 09 2024)
