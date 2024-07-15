@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP TechBytes — ABAP Core Data Services Unit Test](https://www.youtube.com/watch?v=ezQ0vbhV8QY) (Mon Jul 15 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU) (Fri Jul 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 12 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=z2zoEQd-DGQ) (Thu Jul 11 2024)
 - [cds has a REPL #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=c5flAP_b12E) (Wed Jul 10 2024)
 - [¡SAP CodeJam Roadshow Latin America en 1 mes 🇧🇷 🇨🇱 🇦🇷 🇨🇴 (8 - 21 de Agosto 2024)! #sapcodejam](https://www.youtube.com/watch?v=GSvO5BWCWwo) (Tue Jul 09 2024)
-- [SAP Tech Bytes: Deploying the BTP Resource Consumption Monitor application](https://www.youtube.com/watch?v=Q0X_XF1QuAg) (Tue Jul 09 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13747250)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/130617iCED4EC413504F762/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, July 15, 2024 at 9:00:00 AM India Standard Time
-  - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
 - [🇮🇳 SAP Build: Create Apps and Processes Without Code (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bangalore-india/ev-p/13744154)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/134167i6DC6CE1E864AEDA8/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 9, 2024 at 9:00:00 AM India Standard Time
   - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
+- [🇧🇷 SAP Build: Create Apps and Processes Without Code (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-s%C3%A3o-paulo-brazil/ev-p/13710605)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 9, 2024 at 9:00:00 AM Brasilia Standard Time
+  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
