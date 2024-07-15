@@ -35,7 +35,7 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/129368i12B404159E0270D6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 16, 2024 at 9:00:00 AM India Standard Time
   - Location: TCS Anchor Annex block, ITPL Main Rd, Thigalarapalya, Kadugodi, Bengaluru, Karnataka, India
-- [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ahmedabad-india/ev-p/13755143)
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ahmedabad-india/ev-p/13755143)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/134117iB5A011AB7BB6BD1A/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 8, 2024 at 9:00:00 AM India Standard Time
   - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
