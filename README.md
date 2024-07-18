@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [3 things Josh and Antonio have in common](https://www.youtube.com/watch?v=vlLHO20wWk8) (Thu Jul 18 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=36x8zgLzFak) (Thu Jul 18 2024)
 - [Creating and using a custom logger #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=HaaG0PId4Os) (Wed Jul 17 2024)
 - [SAP TechBytes — ABAP Core Data Services Unit Test](https://www.youtube.com/watch?v=ezQ0vbhV8QY) (Mon Jul 15 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 19](https://www.youtube.com/watch?v=kuly5wTFhjU) (Fri Jul 12 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 12 2024)
-- [TechEd 2024, CodeJam Latin America, July Dev Challenge, openSAP Migration | SAP Developer News](https://www.youtube.com/watch?v=z2zoEQd-DGQ) (Thu Jul 11 2024)
-- [cds has a REPL #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=c5flAP_b12E) (Wed Jul 10 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
