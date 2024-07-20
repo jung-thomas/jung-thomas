@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 12 2024)
+- [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 19 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=36x8zgLzFak) (Thu Jul 18 2024)
 - [3 things Josh and Antonio have in common](https://www.youtube.com/watch?v=vlLHO20wWk8) (Thu Jul 18 2024)
 - [Creating and using a custom logger #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=HaaG0PId4Os) (Wed Jul 17 2024)
