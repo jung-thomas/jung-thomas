@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Modeling many-to-many associations #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=yGg3YD1weIA) (Wed Jul 24 2024)
 - [SAP TechBytes — ABAP Core Data Services Troubleshooting](https://www.youtube.com/watch?v=q7Yhj6BnWJo) (Sun Jul 21 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 19 2024)
 - [CAP Annual Release, Fiori Innovation Day, What's New Datasphere and SAC | SAP Developer News](https://www.youtube.com/watch?v=36x8zgLzFak) (Thu Jul 18 2024)
 - [3 things Josh and Antonio have in common](https://www.youtube.com/watch?v=vlLHO20wWk8) (Thu Jul 18 2024)
 - [Creating and using a custom logger #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=HaaG0PId4Os) (Wed Jul 17 2024)
-- [SAP TechBytes — ABAP Core Data Services Unit Test](https://www.youtube.com/watch?v=ezQ0vbhV8QY) (Mon Jul 15 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
