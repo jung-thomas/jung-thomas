@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [Actions in SAP Build Process Automation #1 - Create](https://www.youtube.com/watch?v=A_o8qwUnXRo) (Tue Jul 30 2024)
 - [SAP TechBytes — ABAP Core Data Services Annotations](https://www.youtube.com/watch?v=GXFHjq5L8M8) (Mon Jul 29 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=vmCGBiY07Do) (Thu Jul 25 2024)
+- [ABAP CDS, Build Code July Updates, UI5 Tooling 4.0, CAP GoodToKnow | SAP Developer News](https://www.youtube.com/watch?v=vmCGBiY07Do) (Thu Jul 25 2024)
 - [Modeling many-to-many associations #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=yGg3YD1weIA) (Wed Jul 24 2024)
 - [SAP TechBytes — ABAP Core Data Services Troubleshooting](https://www.youtube.com/watch?v=q7Yhj6BnWJo) (Sun Jul 21 2024)
 - [Back to basics with SAP Cloud Application Programming Model (CAP) - part 20](https://www.youtube.com/watch?v=6ODrvrebvF4) (Fri Jul 19 2024)
