@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [SAP TechBytes — ABAP Core Data Services Associations](https://www.youtube.com/watch?v=fhmx51FIysE) (Mon Aug 05 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=m0tChLZuWiM) (Thu Aug 01 2024)
+- [BTP Innobytes July, Aug Dev Challenge - ABAP CDS, TechEd Registration | SAP Developer News](https://www.youtube.com/watch?v=m0tChLZuWiM) (Thu Aug 01 2024)
 - [Creating your first CAP plugin. #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=eVMuCxt7xpw) (Wed Jul 31 2024)
 - [Actions in SAP Build Process Automation #2 - Consume](https://www.youtube.com/watch?v=94fZDEdjOLQ) (Wed Jul 31 2024)
 - [Actions in SAP Build Process Automation #1 - Create](https://www.youtube.com/watch?v=A_o8qwUnXRo) (Tue Jul 30 2024)
