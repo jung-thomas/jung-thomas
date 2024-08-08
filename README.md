@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ahmedabad-india/ev-p/13755143)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/134117iB5A011AB7BB6BD1A/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, August 8, 2024 at 9:00:00 AM India Standard Time
-  - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
 - [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇨🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Santiago, Chile)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710613)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 12, 2024 at 9:00:00 AM Atlantic Daylight Time
+  - Location: SAP Chile - Los Militares, Las Condes, Chile
+- [🇨🇱 SAP Build: Create Apps and Processes Without Code (Santiago, Chile)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-santiago-chile/ev-p/13710617)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, August 13, 2024 at 9:00:00 AM Atlantic Daylight Time
   - Location: SAP Chile - Los Militares, Las Condes, Chile
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
