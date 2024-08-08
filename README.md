@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710583)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, August 8, 2024 at 9:00:00 AM Brasilia Standard Time
-  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - [🇮🇳SAP Build: Create Business Apps and Processes Without Code (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-ahmedabad-india/ev-p/13755253)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/134167i6DC6CE1E864AEDA8/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 9, 2024 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 13, 2024 at 9:00:00 AM Atlantic Daylight Time
   - Location: SAP Chile - Los Militares, Las Condes, Chile
+- [🇦🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Buenos Aires)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710622)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, August 15, 2024 at 9:00:00 AM Argentina Standard Time
+  - Location: SAP Argentina, Sargento Cabral, Buenos Aires Province, Argentina
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
