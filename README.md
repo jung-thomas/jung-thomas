@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 SAP Build: Create Apps and Processes Without Code (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-s%C3%A3o-paulo-brazil/ev-p/13710605)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 9, 2024 at 9:00:00 AM Brasilia Standard Time
-  - Location: SAP Brazil LTDA - Avenida das Nações Unidas - Vila Almeida, São Paulo - State of São Paulo, Brazil
 - [🇨🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Santiago, Chile)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710613)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 12, 2024 at 9:00:00 AM Atlantic Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/130024iABE191A312D0AF94/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 16, 2024 at 9:00:00 AM Central European Summer Time
   - Location: Am Bahnhof 3, 33602 Bielefeld, Germany
+- [🇦🇷 SAP Build: Create Apps and Processes Without Code (Buenos Aires, Argentina)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-buenos-aires-argentina/ev-p/13710626)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 16, 2024 at 9:00:00 AM Argentina Standard Time
+  - Location: SAP Argentina, Sargento Cabral, Buenos Aires Province, Argentina
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
