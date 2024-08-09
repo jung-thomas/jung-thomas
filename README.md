@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳SAP Build: Create Business Apps and Processes Without Code (Ahmedabad, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-ahmedabad-india/ev-p/13755253)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/134167i6DC6CE1E864AEDA8/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 9, 2024 at 9:00:00 AM India Standard Time
-  - Location: Tata Consultancy Services, DA IICT Rd, Infocity, Gandhinagar, Gujarat 382421, India
 - [🇧🇷 SAP Build: Create Apps and Processes Without Code (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-s%C3%A3o-paulo-brazil/ev-p/13710605)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 9, 2024 at 9:00:00 AM Brasilia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 15, 2024 at 9:00:00 AM Argentina Standard Time
   - Location: SAP Argentina, Sargento Cabral, Buenos Aires Province, Argentina
+- [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-bielefeld-germany/ev-p/13745616)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/130024iABE191A312D0AF94/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 16, 2024 at 9:00:00 AM Central European Summer Time
+  - Location: Am Bahnhof 3, 33602 Bielefeld, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
