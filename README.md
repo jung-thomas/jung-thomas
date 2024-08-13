@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇱 SAP Build: Create Apps and Processes Without Code (Santiago, Chile)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-santiago-chile/ev-p/13710617)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, August 13, 2024 at 9:00:00 AM Atlantic Standard Time
-  - Location: SAP Chile - Los Militares, Las Condes, Chile
 - [🇦🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Buenos Aires)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710622)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 15, 2024 at 9:00:00 AM Argentina Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇨🇴 Event-driven integrations with SAP Integration Suite, advanced event mesh (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710631)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 20, 2024 at 9:00:00 AM Colombia Standard Time
+  - Location: SAP Colombia S.A.S, Avenida Carrera 9, Bogota, Colombia
+- [🇨🇴 SAP Build: Create Apps and Processes Without Code (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bogota-colombia/ev-p/13710641)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, August 21, 2024 at 9:00:00 AM Colombia Standard Time
   - Location: SAP Colombia S.A.S, Avenida Carrera 9, Bogota, Colombia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
