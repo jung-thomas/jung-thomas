@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [One more SAP CodeJam in Buenos Aires on 16 August, SAP Build Apps](https://www.youtube.com/watch?v=kKWWIOldWKU) (Thu Aug 15 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=4aoU3rU7XgU) (Thu Aug 15 2024)
 - [Mas plazas disponibles para los #SAPCodeJamsLATAM restantes](https://www.youtube.com/watch?v=YdZeD5uB3kU) (Tue Aug 13 2024)
 - [SAP Tech Bytes – Getting Started with the SAP BTP Document Management Service (DMS)](https://www.youtube.com/watch?v=hLrCoHPwqT4) (Mon Aug 12 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=PVj1gc1nInE) (Thu Aug 08 2024)
+- [LATAM CodeJam Roadshow, ABAP Open Source Namespaces, CAP July , SAC Q3 2024 | SAP Developer News](https://www.youtube.com/watch?v=PVj1gc1nInE) (Thu Aug 08 2024)
 - [SAP Build Process Automation: Overview (Part-1)](https://www.youtube.com/watch?v=1vElTfSxGWM) (Wed Aug 07 2024)
-- [2 Minutes of CAP Attachments Plugin](https://www.youtube.com/watch?v=unv7QFz3gS0) (Tue Aug 06 2024)
-- [SAP TechBytes — ABAP Core Data Services Associations](https://www.youtube.com/watch?v=fhmx51FIysE) (Mon Aug 05 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
