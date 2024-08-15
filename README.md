@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Buenos Aires)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710622)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, August 15, 2024 at 9:00:00 AM Argentina Standard Time
-  - Location: SAP Argentina, Sargento Cabral, Buenos Aires Province, Argentina
 - [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-bielefeld-germany/ev-p/13745616)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/130024iABE191A312D0AF94/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 16, 2024 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, August 21, 2024 at 9:00:00 AM Colombia Standard Time
   - Location: SAP Colombia S.A.S, Avenida Carrera 9, Bogota, Colombia
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13788891)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/149302i72F24745914459CD/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 6, 2024 at 9:00:00 AM India Standard Time
+  - Location: IBC KNOWLEDGE PARK, Bannerghatta Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
