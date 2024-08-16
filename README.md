@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam SAP Fiori elements flexible programming model (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-sap-fiori-elements-flexible-programming-model-bielefeld-germany/ev-p/13745616)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/130024iABE191A312D0AF94/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 16, 2024 at 9:00:00 AM Central European Summer Time
-  - Location: Am Bahnhof 3, 33602 Bielefeld, Germany
-- [🇦🇷 SAP Build: Create Apps and Processes Without Code (Buenos Aires, Argentina)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-buenos-aires-argentina/ev-p/13710626)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 16, 2024 at 9:00:00 AM Argentina Standard Time
-  - Location: SAP Argentina, Sargento Cabral, Buenos Aires Province, Argentina
 - [🇨🇴 Event-driven integrations with SAP Integration Suite, advanced event mesh (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13710631)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 20, 2024 at 9:00:00 AM Colombia Standard Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/149302i72F24745914459CD/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 6, 2024 at 9:00:00 AM India Standard Time
   - Location: IBC KNOWLEDGE PARK, Bannerghatta Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka, India
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Isernhagen, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-isernhagen-de/ev-p/13781324)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/146019i89592D4C4AD6381A/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, September 11, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: Inwerken AG, Pappelweg, Isernhagen, Germany
+- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Stuttgart, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-stuttgart-de/ev-p/13776919)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/146022i9EFD1A7767BDF824/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 13, 2024 at 10:00:00 AM Central European Summer Time
+  - Location: Borsigstraße 4, 70469 Stuttgart, Feuerbach, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
