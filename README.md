@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [One more SAP CodeJam in Buenos Aires on 16 August, SAP Build Apps](https://www.youtube.com/watch?v=kKWWIOldWKU) (Thu Aug 15 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=4aoU3rU7XgU) (Thu Aug 15 2024)
+- [One more SAP CodeJam in Buenos Aires on 16 August, SAP Build Apps](https://www.youtube.com/watch?v=kKWWIOldWKU) (Thu Aug 15 2024)
 - [Mas plazas disponibles para los #SAPCodeJamsLATAM restantes](https://www.youtube.com/watch?v=YdZeD5uB3kU) (Tue Aug 13 2024)
 - [SAP Tech Bytes – Getting Started with the SAP BTP Document Management Service (DMS)](https://www.youtube.com/watch?v=hLrCoHPwqT4) (Mon Aug 12 2024)
 - [LATAM CodeJam Roadshow, ABAP Open Source Namespaces, CAP July , SAC Q3 2024 | SAP Developer News](https://www.youtube.com/watch?v=PVj1gc1nInE) (Thu Aug 08 2024)
