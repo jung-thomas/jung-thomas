@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇴 SAP Build: Create Apps and Processes Without Code (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-and-processes-without-code-bogota-colombia/ev-p/13710641)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, August 21, 2024 at 9:00:00 AM Colombia Standard Time
-  - Location: SAP Colombia S.A.S, Avenida Carrera 9, Bogota, Colombia
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13788891)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/149302i72F24745914459CD/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 6, 2024 at 9:00:00 AM India Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇬🇪  SAP Build: Create Business Apps and Processes Without Code (Tbilisi, Georgia)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-tbilisi-georgia/ev-p/13766788)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Monday, September 16, 2024 at 9:00:00 AM Gulf Standard Time
+  - Location: EPAM Georgia, 10 Bidzina Kvernadze St, Tbilisi, Georgia
+- [🇬🇪 SAP Cloud Application Programming Model with SAP HANA Cloud (Tbilisi, Georgia)](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud-tbilisi-georgia/ev-p/13767071)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, September 18, 2024 at 9:00:00 AM Gulf Standard Time
   - Location: EPAM Georgia, 10 Bidzina Kvernadze St, Tbilisi, Georgia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
