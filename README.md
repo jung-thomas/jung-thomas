@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 SAP Build Apps 2049: Sneak Peek Inside the Lab](https://www.youtube.com/watch?v=a-ha-Ef171o) (Thu Aug 22 2024)
+- [🟢 Clean Core Extensibility with ABAP Cloud in SAP S/4HANA Cloud Private Edition](https://www.youtube.com/watch?v=HQPXI1Ba-Gk) (Thu Aug 22 2024)
 - [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Wed Aug 21 2024)
 - [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://www.youtube.com/watch?v=KvEWoKtGB9c) (Wed Aug 21 2024)
 - [🔴 Source-side filtering of RAP business events in SAP BTP ABAP Environment and AEM dynamic topics](https://www.youtube.com/watch?v=pWukHrfNS6k) (Wed Aug 21 2024)
 - [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and Event Portal Solutions](https://www.youtube.com/watch?v=kkI54Bivr58) (Wed Aug 21 2024)
-- [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://www.youtube.com/watch?v=gEbZM7gcY54) (Wed Aug 21 2024)
-- [🔴 CloudEvents for interoperable event systems](https://www.youtube.com/watch?v=FhDybT7cFAk) (Wed Aug 21 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
