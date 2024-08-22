@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Tech Bytes – SAP BTP Document Management Service (DMS), Application Option (GUI)](https://www.youtube.com/watch?v=u-FsdQXda7k) (Wed Aug 21 2024)
-- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=WKYDpx1nF7c) (Tue Aug 20 2024)
-- [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Tue Aug 20 2024)
-- [🟣 Set Up Rules for Who Can Create and Transport SAP Build Projects](https://www.youtube.com/watch?v=aLJTpAwYxyM) (Tue Aug 20 2024)
-- [🟣 Chatbot Development Made Easy with SAP AI Core and Build Apps](https://www.youtube.com/watch?v=mE7nHx9XHAY) (Tue Aug 20 2024)
-- [🟣 Boost Development with GenAI in SAP Build Process Automation](https://www.youtube.com/watch?v=Qsgxe-0XbJc) (Tue Aug 20 2024)
+- [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Wed Aug 21 2024)
+- [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://www.youtube.com/watch?v=KvEWoKtGB9c) (Wed Aug 21 2024)
+- [🔴 Source-side filtering of RAP business events in SAP BTP ABAP Environment and AEM dynamic topics](https://www.youtube.com/watch?v=pWukHrfNS6k) (Wed Aug 21 2024)
+- [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and Event Portal Solutions](https://www.youtube.com/watch?v=kkI54Bivr58) (Wed Aug 21 2024)
+- [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://www.youtube.com/watch?v=gEbZM7gcY54) (Wed Aug 21 2024)
+- [🔴 CloudEvents for interoperable event systems](https://www.youtube.com/watch?v=FhDybT7cFAk) (Wed Aug 21 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
