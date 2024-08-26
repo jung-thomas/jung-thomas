@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Developer News](https://www.youtube.com/watch?v=KRzGV1uoRCI) (Thu Aug 22 2024)
-- [🟣 SAP Build Apps 2049: Sneak Peek Inside the Lab](https://www.youtube.com/watch?v=a-ha-Ef171o) (Thu Aug 22 2024)
-- [🟢 Clean Core Extensibility with ABAP Cloud in SAP S/4HANA Cloud Private Edition](https://www.youtube.com/watch?v=HQPXI1Ba-Gk) (Thu Aug 22 2024)
-- [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Wed Aug 21 2024)
-- [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://www.youtube.com/watch?v=KvEWoKtGB9c) (Wed Aug 21 2024)
-- [🔴 Source-side filtering of RAP business events in SAP BTP ABAP Environment and AEM dynamic topics](https://www.youtube.com/watch?v=pWukHrfNS6k) (Wed Aug 21 2024)
+- [🟢 What Software Developers Should Know About Key User Extensibility](https://www.youtube.com/watch?v=Vjd3_pkqAok) (Mon Aug 26 2024)
+- [🟢 Developing and Transforming your ABAP Custom Code for Clean Core in SAP S/4HANA](https://www.youtube.com/watch?v=PVCxotz4t2A) (Mon Aug 26 2024)
+- [🟢 [ #Keynote ] ABAP Cloud and Generative AI Powering the Clean Core Strategy](https://www.youtube.com/watch?v=BM09AExkT_g) (Mon Aug 26 2024)
+- [🔴 Use SAP Event Broker for SAP cloud applications to consume business events in a CAP application](https://www.youtube.com/watch?v=m_YoqkECnGI) (Mon Aug 26 2024)
+- [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw) (Mon Aug 26 2024)
+- [SAP Tech Bytes – SAP BTP Document Management Service (DMS), part 3 – Mobile App](https://www.youtube.com/watch?v=j08yUdDBNMw) (Mon Aug 26 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
