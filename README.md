@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CodeTalk with Ranjeet:S/4HANA Extension using CAP Framework](https://www.youtube.com/watch?v=sNa4SlbDJXU) (Mon Aug 26 2024)
 - [🟢 What Software Developers Should Know About Key User Extensibility](https://www.youtube.com/watch?v=Vjd3_pkqAok) (Mon Aug 26 2024)
 - [🟢 Developing and Transforming your ABAP Custom Code for Clean Core in SAP S/4HANA](https://www.youtube.com/watch?v=PVCxotz4t2A) (Mon Aug 26 2024)
 - [🟢 [ #Keynote ] ABAP Cloud and Generative AI Powering the Clean Core Strategy](https://www.youtube.com/watch?v=BM09AExkT_g) (Mon Aug 26 2024)
 - [🔴 Use SAP Event Broker for SAP cloud applications to consume business events in a CAP application](https://www.youtube.com/watch?v=m_YoqkECnGI) (Mon Aug 26 2024)
 - [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw) (Mon Aug 26 2024)
-- [SAP Tech Bytes – SAP BTP Document Management Service (DMS), part 3 – Mobile App](https://www.youtube.com/watch?v=j08yUdDBNMw) (Mon Aug 26 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
