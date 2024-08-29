@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=xvdewwwM5kc) (Thu Aug 29 2024)
 - [SAP CAP Attachments plugin with Object Store and Malware Scan Service](https://www.youtube.com/watch?v=1mVQxJDZ2JI) (Wed Aug 28 2024)
 - [🟢 SAP Business Client & SAP GUI - The Journey Continues](https://www.youtube.com/watch?v=Ihxl85uXrjc) (Wed Aug 28 2024)
 - [🟢 DevOps with SAP BTP ABAP Environment](https://www.youtube.com/watch?v=CIPDvO6hxAo) (Wed Aug 28 2024)
 - [🟢 Gain Development Experience and Efficiency with Joule's ABAP Developer Capabilities](https://www.youtube.com/watch?v=W1B8CWprDFM) (Wed Aug 28 2024)
 - [🟢 Major Updates for Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=IuH_HrqhxeY) (Tue Aug 27 2024)
-- [CodeTalk with Ranjeet:S/4HANA Extension using CAP Framework](https://www.youtube.com/watch?v=sNa4SlbDJXU) (Mon Aug 26 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
