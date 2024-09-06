@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/13788891)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/149302i72F24745914459CD/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 6, 2024 at 9:00:00 AM India Standard Time
-  - Location: IBC KNOWLEDGE PARK, Bannerghatta Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka, India
 - [🇩🇪 Getting Started with Machine Learning using SAP HANA (Isernhagen, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-isernhagen-de/ev-p/13781324)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/146019i89592D4C4AD6381A/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, September 11, 2024 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, September 18, 2024 at 9:00:00 AM Gulf Standard Time
   - Location: EPAM Georgia, 10 Bidzina Kvernadze St, Tbilisi, Georgia
+- [‌🇵🇱 ‌Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13809704)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/158799i84A8B215070186BF/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 20, 2024 at 2:00:00 PM Central European Summer Time
+  - Location: KMD Poland, Inflancka, Warsaw, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
