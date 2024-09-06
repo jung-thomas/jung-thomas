@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟢 Transforming legacy code to CAP with the help of GenAI](https://www.youtube.com/watch?v=O-0A4oijQpk) (Thu Sep 05 2024)
-- [🟢 How to build a CAP plugin with Node.js](https://www.youtube.com/watch?v=shan8I_MtkE) (Thu Sep 05 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=Oj341riIEiM) (Thu Sep 05 2024)
-- [Devtoberfest 2024 coming soon!!](https://www.youtube.com/watch?v=7FyTestvSvY) (Mon Sep 02 2024)
-- [ABAP 2408, TechEd Registration, CodeJam on AI, ABAP Dev Challenge | SAP Developer News](https://www.youtube.com/watch?v=xvdewwwM5kc) (Thu Aug 29 2024)
-- [SAP CAP Attachments plugin with Object Store and Malware Scan Service](https://www.youtube.com/watch?v=1mVQxJDZ2JI) (Wed Aug 28 2024)
+- [🟠 Create an SAP Fiori application based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=6GqKa_MLrDk) (Fri Sep 06 2024)
+- [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Sep 06 2024)
+- [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Sep 06 2024)
+- [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Sep 06 2024)
+- [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ) (Fri Sep 06 2024)
+- [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=EiMjxninoUE) (Fri Sep 06 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
