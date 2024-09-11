@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Streamlining GenAI Development: A Developer's Guide to CAP LLM Plugin Mastery](https://www.youtube.com/watch?v=SHW5TIx_HBg) (Wed Sep 11 2024)
 - [🟠 Create an SAP Fiori application based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=6GqKa_MLrDk) (Fri Sep 06 2024)
 - [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Sep 06 2024)
 - [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Sep 06 2024)
 - [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Sep 06 2024)
 - [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ) (Fri Sep 06 2024)
-- [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=EiMjxninoUE) (Fri Sep 06 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Getting Started with Machine Learning using SAP HANA (Isernhagen, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-isernhagen-de/ev-p/13781324)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/146019i89592D4C4AD6381A/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, September 11, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: Inwerken AG, Pappelweg, Isernhagen, Germany
 - [🇩🇪 Getting Started with Machine Learning using SAP HANA (Stuttgart, DE)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-stuttgart-de/ev-p/13776919)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/146022i9EFD1A7767BDF824/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 13, 2024 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/158799i84A8B215070186BF/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 20, 2024 at 2:00:00 PM Central European Summer Time
   - Location: KMD Poland, Inflancka, Warsaw, Poland
+- [🇳🇱 Hands-on with the btp CLI and APIs](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis/ev-p/13750177)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/131885iB790E65E0977A705/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, September 25, 2024 at 8:30:00 AM British Summer Time
+  - Location: Reykjavikplein 1, Utrecht, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
