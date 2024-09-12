@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=LuTVOIOYYJ0) (Thu Sep 12 2024)
+- [🟢 Major Updates for Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=5V5nFkhlJAg) (Thu Sep 12 2024)
 - [🟢 Streamlining GenAI Development: A Developer's Guide to CAP LLM Plugin Mastery](https://www.youtube.com/watch?v=SHW5TIx_HBg) (Wed Sep 11 2024)
 - [🟠 Create an SAP Fiori application based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=6GqKa_MLrDk) (Fri Sep 06 2024)
 - [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Sep 06 2024)
 - [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Sep 06 2024)
-- [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Sep 06 2024)
-- [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ) (Fri Sep 06 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
