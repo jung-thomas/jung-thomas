@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ) (Fri Sep 27 2024)
+- [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=6GqKa_MLrDk) (Fri Sep 27 2024)
 - [🟣 Develop a Full-Stack CAP Application with SAP Build Code](https://www.youtube.com/watch?v=4o2Swj89zxU) (Fri Sep 27 2024)
 - [🟢 Tools for Clean ABAP](https://www.youtube.com/watch?v=jcux6BlkyIA) (Fri Sep 27 2024)
 - [🟣 Transform Data with JavaScript in SAP Build Process Automation](https://www.youtube.com/watch?v=Su2QvsCqjt4) (Fri Sep 27 2024)
-- [SAP Forms by Adobe](https://www.youtube.com/watch?v=KY_2Blfx5eo) (Fri Sep 27 2024)
-- [🟠 UI5 Freestyle: TypeScript E2E Development - from zero to hero in 1hr!](https://www.youtube.com/watch?v=7aAehB4ejHQ) (Fri Sep 06 2024)
-- [🟠 SAP Fiori Tools - preview-middleware](https://www.youtube.com/watch?v=6GqKa_MLrDk) (Fri Sep 06 2024)
+- [🟢 SAP Forms by Adobe](https://www.youtube.com/watch?v=KY_2Blfx5eo) (Fri Sep 27 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
