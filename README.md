@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 ABAP Development Tools  - News and Roadmap](https://www.youtube.com/watch?v=YOIsyR5C2Mk) (Mon Sep 30 2024)
+- [🟢 What software developers want to know about Key User Extensibility](https://www.youtube.com/watch?v=zxYojlSoXN0) (Mon Sep 30 2024)
+- [🟢 The Art & Science of CAP](https://www.youtube.com/watch?v=XMchiFnDJ6E) (Thu Sep 05 2024)
+- [🟢 Test Double Mechanisms with ABAP Unit - Your Friend in Achieving Effective Test Automation](https://www.youtube.com/watch?v=nuuqy5CniTs) (Tue Aug 20 2024)
 - [🟢 CAP Tools - What's new](https://www.youtube.com/watch?v=c1s8n-_mR3M) (Thu Sep 05 2024)
 - [🟢 The superpower of CAP CDS: Calculated Elements and Annotation Expressions](https://www.youtube.com/watch?v=AG9835pEclc) (Thu Sep 26 2024)
-- [🟢 SAP Forms by Adobe](https://www.youtube.com/watch?v=KY_2Blfx5eo) (Mon Sep 30 2024)
-- [🟠 Server-Side UI5 Pre-Rendering with CAP](https://www.youtube.com/watch?v=Es4QrirxSWQ) (Mon Sep 30 2024)
-- [🟢 Tools for Clean ABAP](https://www.youtube.com/watch?v=jcux6BlkyIA) (Mon Sep 30 2024)
-- [🟢 Implement Observability in a Full-Stack CAP Application Following SAP BTP Developer’s Guide](https://www.youtube.com/watch?v=II8-bcHcCAo) (Mon Sep 30 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
