@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Build Elegant Enterprise Apps for Android with SAP Fiori and SAP Build Code](https://www.youtube.com/watch?v=VZypUWUrrik) (Tue Oct 01 2024)
+- [🟣 Enable Work Zone to Consume Business Solutions from Other BTP Subaccounts (content federation)](https://www.youtube.com/watch?v=rSw0BVHQzV0) (Tue Aug 20 2024)
+- [🟠 Craft Enterprise Apps for iOS, iPadOS, and visionOS with SAP Fiori and SAP Build Code](https://www.youtube.com/watch?v=iA6nczJx1O8) (Tue Oct 01 2024)
+- [🟣 SAP Build Apps 2049: Soon with UI5 and GenAI?](https://www.youtube.com/watch?v=a-ha-Ef171o) (Thu Aug 22 2024)
 - [🟢 The Art & Science of CAP](https://www.youtube.com/watch?v=XMchiFnDJ6E) (Tue Oct 01 2024)
 - [🟢 Test Double Mechanisms with ABAP Unit - Your Friend in Achieving Effective Test Automation](https://www.youtube.com/watch?v=nuuqy5CniTs) (Tue Oct 01 2024)
-- [🟢 CAP Tools - What's new](https://www.youtube.com/watch?v=c1s8n-_mR3M) (Tue Oct 01 2024)
-- [🟢 The superpower of CAP CDS: Calculated Elements and Annotation Expressions](https://www.youtube.com/watch?v=AG9835pEclc) (Mon Sep 30 2024)
-- [🟢 ABAP Development Tools  - News and Roadmap](https://www.youtube.com/watch?v=YOIsyR5C2Mk) (Mon Sep 30 2024)
-- [🟢 What software developers want to know about Key User Extensibility](https://www.youtube.com/watch?v=zxYojlSoXN0) (Mon Sep 30 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
