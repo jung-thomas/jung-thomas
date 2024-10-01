@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Putting It All Together: S/4HANA Retail Pricing App Using SAP Build, AI, Event Mesh and More](https://www.youtube.com/watch?v=JUSURObhSuk) (Tue Aug 20 2024)
+- [🔵 What's New in SAP HANA 2.0 SPS 08: Administration and Monitoring](https://www.youtube.com/watch?v=RBNITljOwJk) (Tue Oct 01 2024)
+- [🔵 What's New in SAP HANA 2.0 SPS 08 Overview](https://www.youtube.com/watch?v=VpY2NlLXCes) (Tue Oct 01 2024)
+- [🟣 Cross-Platform Mobile App Development with SAP Build Code and the MDK](https://www.youtube.com/watch?v=qrrVh2AewCc) (Tue Aug 20 2024)
 - [🟠 Build Elegant Enterprise Apps for Android with SAP Fiori and SAP Build Code](https://www.youtube.com/watch?v=VZypUWUrrik) (Tue Oct 01 2024)
 - [🟣 Enable Work Zone to Consume Business Solutions from Other BTP Subaccounts (content federation)](https://www.youtube.com/watch?v=rSw0BVHQzV0) (Tue Aug 20 2024)
-- [🟠 Craft Enterprise Apps for iOS, iPadOS, and visionOS with SAP Fiori and SAP Build Code](https://www.youtube.com/watch?v=iA6nczJx1O8) (Tue Oct 01 2024)
-- [🟣 SAP Build Apps 2049: Soon with UI5 and GenAI?](https://www.youtube.com/watch?v=a-ha-Ef171o) (Thu Aug 22 2024)
-- [🟢 The Art & Science of CAP](https://www.youtube.com/watch?v=XMchiFnDJ6E) (Tue Oct 01 2024)
-- [🟢 Test Double Mechanisms with ABAP Unit - Your Friend in Achieving Effective Test Automation](https://www.youtube.com/watch?v=nuuqy5CniTs) (Tue Oct 01 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
