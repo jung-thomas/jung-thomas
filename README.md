@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Cross-Platform Mobile App Development with SAP Build Code and the MDK](https://www.youtube.com/watch?v=qrrVh2AewCc) (Wed Oct 02 2024)
 - [🟣 Enable Work Zone to Consume Business Solutions from Other BTP Subaccounts (content federation)](https://www.youtube.com/watch?v=rSw0BVHQzV0) (Tue Oct 01 2024)
 - [🟣 SAP Build Apps 2049: Soon with UI5 and GenAI?](https://www.youtube.com/watch?v=a-ha-Ef171o) (Tue Oct 01 2024)
 - [🟣 Putting It All Together: S/4HANA Retail Pricing App Using SAP Build, AI, Event Mesh and More](https://www.youtube.com/watch?v=JUSURObhSuk) (Tue Aug 20 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=sk9LerfiM_w) (Tue Oct 01 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=0V1Fx_odaUk) (Tue Oct 01 2024)
-- [🔵 What's New in SAP HANA 2.0 SPS 08: Smart Multi-Model](https://www.youtube.com/watch?v=I7tcVbludko) (Tue Oct 01 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
