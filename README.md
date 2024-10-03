@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Using CAP and Generative AI Hub to call OData APIs that get real stuff done in S/4HANA](https://www.youtube.com/watch?v=zSlH2xAdnq0) (Thu Sep 26 2024)
+- [SAP Developer News](https://www.youtube.com/watch?v=ClByy8sn2h8) (Thu Oct 03 2024)
+- [🔵 How to build a GenAI application using SAP BTP, Generative AI Hub and Amazon Bedrock](https://www.youtube.com/watch?v=M9zWmLjxMqI) (Thu Sep 26 2024)
 - [🔵 Integrating Generative AI in SAP S/4HANA with ISLM](https://www.youtube.com/watch?v=SezO4_HTHfQ) (Thu Sep 26 2024)
 - [🔴 CloudEvents for interoperable event systems](https://www.youtube.com/watch?v=FhDybT7cFAk) (Thu Oct 03 2024)
 - [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and Event Portal Solutions](https://www.youtube.com/watch?v=kkI54Bivr58) (Wed Oct 02 2024)
-- [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://www.youtube.com/watch?v=gEbZM7gcY54) (Wed Oct 02 2024)
-- [🟣 Putting It All Together: S/4HANA Retail Pricing App Using SAP Build, AI, Event Mesh and More](https://www.youtube.com/watch?v=JUSURObhSuk) (Wed Oct 02 2024)
-- [🟣 Cross-Platform Mobile App Development with SAP Build Code and the MDK](https://www.youtube.com/watch?v=qrrVh2AewCc) (Wed Oct 02 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
