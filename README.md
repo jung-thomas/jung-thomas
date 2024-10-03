@@ -21,9 +21,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and Event Portal Solutions](https://www.youtube.com/watch?v=kkI54Bivr58) (Wed Oct 02 2024)
+- [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://www.youtube.com/watch?v=gEbZM7gcY54) (Wed Oct 02 2024)
 - [🔴 CloudEvents for interoperable event systems](https://www.youtube.com/watch?v=FhDybT7cFAk) (Wed Aug 21 2024)
-- [🔴 Navigating EDA Complexity: SAP Integration Suite Advanced Event Mesh and Event Portal Solutions](https://www.youtube.com/watch?v=kkI54Bivr58) (Wed Aug 21 2024)
-- [🔴 Developing modern terminal-based tools for SAP Cloud Integration](https://www.youtube.com/watch?v=gEbZM7gcY54) (Wed Aug 21 2024)
 - [🟣 Putting It All Together: S/4HANA Retail Pricing App Using SAP Build, AI, Event Mesh and More](https://www.youtube.com/watch?v=JUSURObhSuk) (Wed Oct 02 2024)
 - [🟣 Cross-Platform Mobile App Development with SAP Build Code and the MDK](https://www.youtube.com/watch?v=qrrVh2AewCc) (Wed Oct 02 2024)
 - [🟣 Enable Work Zone to Consume Business Solutions from Other BTP Subaccounts (content federation)](https://www.youtube.com/watch?v=rSw0BVHQzV0) (Tue Oct 01 2024)
