@@ -47,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 30, 2024 at 9:00:00 AM Central European Standard Time
   - Location: Europapl. 1, 6003 Luzern, Schweiz
+- [🇦🇹 SAP CodeJam ABAP Cloud (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-vienna-austria/ev-p/13890825)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/176278iC30CBC839FB4E1C9/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, November 8, 2024 at 9:00:00 AM Central European Standard Time
+  - Location: SCC EDV-Beratung AG, Mantlergasse 30-32, 1130 Vienna, Austria
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
