@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News SAP TechEd Day 2](https://www.youtube.com/watch?v=oBHEAj_KeIE) (Wed Oct 09 2024)
 - [SAP TechEd Arrival Day 1](https://www.youtube.com/watch?v=T9Q_xiXsNIg) (Wed Oct 09 2024)
-- [SAP Developer News SAP TechEd Day 2](https://www.youtube.com/watch?v=oBHEAj_KeIE) (Tue Oct 08 2024)
 - [SAP Developer News: TechEd Day 1](https://www.youtube.com/watch?v=9Xr2AalX5oU) (Tue Oct 08 2024)
 - [SAP TechEd post #keynote #pressconference](https://www.youtube.com/watch?v=cHTNi7tgmLA) (Tue Oct 08 2024)
 - [🟠 Craft Enterprise Apps for iOS, iPadOS, and visionOS with SAP Fiori and SAP Build Code](https://www.youtube.com/watch?v=iA6nczJx1O8) (Fri Oct 04 2024)
