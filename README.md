@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13854907)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/162579i74E6400105993B34/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, October 11, 2024 at 10:00:00 AM Central European Summer Time
-  - Location: Friedrich-Ludwig-Bauer-Straße 5, 85748 Garching bei München, Germany
 - [🇦🇹 SAP Build: Create Business Apps and Processes Without Code (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-vienna-austria/ev-p/13798267)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Monday, October 28, 2024 at 9:00:00 AM Central European Standard Time
