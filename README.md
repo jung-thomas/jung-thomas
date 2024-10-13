@@ -32,7 +32,7 @@ Follow me on:
 
 ## Upcoming SAP CodeJams
 - [🇦🇹 SAP Build: Create Business Apps and Processes Without Code (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-vienna-austria/ev-p/13798267)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/178656iF0C7E15560E18BEC/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/178656iF0C7E15560E18BEC/image-size/thumb?v=v2&px=150" />
   - Start: Monday, October 28, 2024 at 9:00:00 AM Central European Standard Time
   - Location: Millennium Tower, Handelskai 94-96, 1200 Vienna, Austria
 - [🇧🇪 SAP CodeJam ABAP Cloud (Ghent, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-ghent-belgium/ev-p/13777307)
