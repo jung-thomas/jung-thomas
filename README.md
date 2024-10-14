@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [TechEd Josh Rapid Questions video 3 of 3](https://www.youtube.com/watch?v=1kusAVd6pcE) (Thu Oct 10 2024)
-- [TechEd Josh Rapid Questions video 2 of 3](https://www.youtube.com/watch?v=t_YQDCZWx_8) (Thu Oct 10 2024)
-- [TechEd Josh Rapid questions video 1 of 3](https://www.youtube.com/watch?v=V2miLE5yQ1w) (Thu Oct 10 2024)
-- [SAP Developer News SAP TechEd Day 2](https://www.youtube.com/watch?v=oBHEAj_KeIE) (Wed Oct 09 2024)
-- [SAP TechEd Arrival Day 1](https://www.youtube.com/watch?v=T9Q_xiXsNIg) (Wed Oct 09 2024)
-- [SAP Developer News: TechEd Day 1](https://www.youtube.com/watch?v=9Xr2AalX5oU) (Tue Oct 08 2024)
+- [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g) (Mon Aug 26 2024)
+- [🔵 Embed the latest from SAP HANA’s AI functions into your SAP BTP Application](https://www.youtube.com/watch?v=J_dTMTHFC9M) (Mon Oct 14 2024)
+- [🟠 Micro Frontends - What they are and how to implement them with Luigi](https://www.youtube.com/watch?v=09jwYMPvcQg) (Mon Oct 14 2024)
+- [🟢 Transforming legacy code to CAP with the help of GenAI](https://www.youtube.com/watch?v=O-0A4oijQpk) (Thu Sep 05 2024)
+- [🟢 Developing and Transforming your ABAP Custom Code for Clean Core in SAP S/4HANA](https://www.youtube.com/watch?v=PVCxotz4t2A) (Mon Oct 14 2024)
+- [🟢 How to build a CAP plugin with Node.js](https://www.youtube.com/watch?v=shan8I_MtkE) (Thu Sep 05 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
