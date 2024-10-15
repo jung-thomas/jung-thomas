@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Extending SAP S/4HANA Cloud events with RAP and event filtering plus dynamic topics in S4HC](https://www.youtube.com/watch?v=Q4H0LNZi7Dg) (Tue Oct 15 2024)
-- [🟣 Guided Experiences with SAP Build Process Automation and Work Zone](https://www.youtube.com/watch?v=q1pmO283Y5c) (Tue Aug 20 2024)
-- [🔵 How to get started with LLMs?](https://www.youtube.com/watch?v=0DKr3ms2bg0) (Tue Oct 15 2024)
-- [🟣 S/4HANA Extensions: Start Fast with the New Extensibility Wizard](https://www.youtube.com/watch?v=d1Uy5PEwbtc) (Tue Aug 20 2024)
-- [🟠 What's New in UI5 Web Components 2.0 and UI5 Web Components for React 2.0](https://www.youtube.com/watch?v=lvpN3eK39h8) (Tue Oct 15 2024)
-- [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g) (Tue Oct 15 2024)
+- [🟡SAP TechEd 2024 Post Event Q&A with Michael Ameling](https://www.youtube.com/watch?v=PdLrTJyYZFs) (Tue Oct 15 2024)
+- [SAP TechEd 2024 | ABAP Highlights](https://www.youtube.com/watch?v=hwbZeyHmwiA) (Tue Oct 15 2024)
+- [SAP TechEd 2024 | Executive Keynote ABAP Highlights](https://www.youtube.com/watch?v=CFKopPDfGNQ) (Tue Oct 15 2024)
+- [🟣 Boost Development with GenAI in SAP Build Process Automation](https://www.youtube.com/watch?v=Qsgxe-0XbJc) (Tue Aug 20 2024)
+- [🔵 SAP HANA Cloud Multi-Model](https://www.youtube.com/watch?v=FxlHVQa5l5Q) (Tue Oct 15 2024)
+- [🟣 Develop Even Faster (!) with SAP Build Apps Templates](https://www.youtube.com/watch?v=4zVepzBgSmM) (Tue Aug 20 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -44,7 +44,7 @@ Follow me on:
   - Start: Wednesday, October 30, 2024 at 9:00:00 AM Central European Standard Time
   - Location: Europapl. 1, 6003 Luzern, Schweiz
 - [🇵🇱 Getting Started with Machine Learning using SAP HANA (Wrocław, PL)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana-wroc%C5%82aw-pl/ev-p/13899542)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/179490iEE6AC2816AD863D6/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/179490iEE6AC2816AD863D6/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 30, 2024 at 10:00:00 AM Central European Standard Time
   - Location: LABO | Coworking Wrocław | Biura serwisowane I Sale konferencyjne, Grodzka, Wrocław, Poland
 - [🇦🇹 SAP CodeJam ABAP Cloud (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-vienna-austria/ev-p/13890825)
