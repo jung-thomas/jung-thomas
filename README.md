@@ -21,11 +21,11 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g) (Tue Oct 15 2024)
 - [🟢 Transforming legacy code to CAP with the help of GenAI](https://www.youtube.com/watch?v=O-0A4oijQpk) (Mon Oct 14 2024)
 - [🟢 How to build a CAP plugin with Node.js](https://www.youtube.com/watch?v=shan8I_MtkE) (Mon Oct 14 2024)
 - [🟢 Boost your Coding Efficiency: Explore Joule’s ABAP Developer Capabilities](https://www.youtube.com/watch?v=W1B8CWprDFM) (Mon Oct 14 2024)
 - [🟢 Streamlining GenAI Development: A Developer's Guide to CAP LLM Plugin Mastery](https://www.youtube.com/watch?v=SHW5TIx_HBg) (Mon Oct 14 2024)
-- [🟢 How to Extend the different SAP S/4HANA Editions Effectively and Clean Core Compliant](https://www.youtube.com/watch?v=BM09AExkT_g) (Mon Aug 26 2024)
 - [🔵 Embed the latest from SAP HANA’s AI functions into your SAP BTP Application](https://www.youtube.com/watch?v=J_dTMTHFC9M) (Mon Oct 14 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
