@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Boost Development with GenAI in SAP Build Process Automation](https://www.youtube.com/watch?v=Qsgxe-0XbJc) (Wed Oct 16 2024)
+- [🟣 Develop Even Faster (!) with SAP Build Apps Templates](https://www.youtube.com/watch?v=4zVepzBgSmM) (Wed Oct 16 2024)
 - [🟣 Guided Experiences with SAP Build Process Automation and Work Zone](https://www.youtube.com/watch?v=q1pmO283Y5c) (Tue Oct 15 2024)
 - [🟣 S/4HANA Extensions: Start Fast with the New Extensibility Wizard](https://www.youtube.com/watch?v=d1Uy5PEwbtc) (Tue Oct 15 2024)
 - [SAP TechEd Devtoberfest Tooling Tuesday week 3](https://www.youtube.com/watch?v=9ulDmsr8pFg) (Tue Oct 15 2024)
 - [🟡SAP TechEd 2024 Post Event Q&A with Michael Ameling](https://www.youtube.com/watch?v=PdLrTJyYZFs) (Tue Oct 15 2024)
-- [SAP TechEd 2024 | ABAP Highlights](https://www.youtube.com/watch?v=hwbZeyHmwiA) (Tue Oct 15 2024)
-- [SAP TechEd 2024 | Executive Keynote ABAP Highlights](https://www.youtube.com/watch?v=CFKopPDfGNQ) (Tue Oct 15 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
