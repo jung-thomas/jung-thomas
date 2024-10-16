@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Use SAP Cloud Application Event Hub to consume business events in a CAP application](https://www.youtube.com/watch?v=m_YoqkECnGI) (Mon Aug 26 2024)
+- [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw) (Mon Aug 26 2024)
 - [🔴 Filtering of RAP business events in SAP BTP ABAP Environment and in AEM](https://www.youtube.com/watch?v=pWukHrfNS6k) (Wed Aug 21 2024)
 - [🔴 Harnessing SAP S/4HANA Events in SAP Build](https://www.youtube.com/watch?v=xH5X6BpDOyk) (Wed Aug 21 2024)
 - [🟣 Boost Development with GenAI in SAP Build Process Automation](https://www.youtube.com/watch?v=Qsgxe-0XbJc) (Wed Oct 16 2024)
 - [🟣 Develop Even Faster (!) with SAP Build Apps Templates](https://www.youtube.com/watch?v=4zVepzBgSmM) (Wed Oct 16 2024)
-- [🟣 Guided Experiences with SAP Build Process Automation and Work Zone](https://www.youtube.com/watch?v=q1pmO283Y5c) (Tue Oct 15 2024)
-- [🟣 S/4HANA Extensions: Start Fast with the New Extensibility Wizard](https://www.youtube.com/watch?v=d1Uy5PEwbtc) (Tue Oct 15 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -50,7 +50,7 @@ Follow me on:
 - [🇦🇹 SAP CodeJam ABAP Cloud (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-vienna-austria/ev-p/13890825)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/176278iC30CBC839FB4E1C9/image-size/thumb?v=v2&px=150" />
   - Start: Friday, November 8, 2024 at 9:00:00 AM Central European Standard Time
-  - Location: SCC EDV-Beratung AG, Mantlergasse 30-32, 1130 Vienna, Austria
+  - Location: Mantlergasse 30-32, 1130 Vienna, Austria
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
