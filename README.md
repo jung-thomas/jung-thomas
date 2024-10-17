@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Embed the latest from SAP HANA’s AI functions into your SAP BTP Application](https://www.youtube.com/watch?v=J_dTMTHFC9M) (Thu Oct 17 2024)
 - [🔵 How to get started with LLMs?](https://www.youtube.com/watch?v=0DKr3ms2bg0) (Tue Oct 15 2024)
 - [🔴 Use SAP Cloud Application Event Hub to consume business events in a CAP application](https://www.youtube.com/watch?v=m_YoqkECnGI) (Thu Oct 17 2024)
 - [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw) (Thu Oct 17 2024)
 - [🔴 Filtering of RAP business events in SAP BTP ABAP Environment and in AEM](https://www.youtube.com/watch?v=pWukHrfNS6k) (Wed Oct 16 2024)
 - [🔴 Harnessing SAP S/4HANA Events in SAP Build](https://www.youtube.com/watch?v=xH5X6BpDOyk) (Wed Oct 16 2024)
-- [🟣 Boost Development with GenAI in SAP Build Process Automation](https://www.youtube.com/watch?v=Qsgxe-0XbJc) (Wed Oct 16 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
