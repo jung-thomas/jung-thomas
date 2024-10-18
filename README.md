@@ -21,9 +21,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 SAP HANA Cloud Multi-Model](https://www.youtube.com/watch?v=FxlHVQa5l5Q) (Fri Oct 18 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=g4It7Eeisu8) (Thu Oct 17 2024)
 - [🔵 How to get started with LLMs?](https://www.youtube.com/watch?v=0DKr3ms2bg0) (Thu Oct 17 2024)
-- [🔵 SAP HANA Cloud Multi-Model](https://www.youtube.com/watch?v=FxlHVQa5l5Q) (Tue Oct 15 2024)
 - [🔵 Embed the latest from SAP HANA’s AI functions into your SAP BTP Application](https://www.youtube.com/watch?v=J_dTMTHFC9M) (Thu Oct 17 2024)
 - [🔴 Use SAP Cloud Application Event Hub to consume business events in a CAP application](https://www.youtube.com/watch?v=m_YoqkECnGI) (Thu Oct 17 2024)
 - [🔴 Discover SAP Event Sources for Advanced Event Mesh](https://www.youtube.com/watch?v=NujHueCBDOw) (Thu Oct 17 2024)
