@@ -21,9 +21,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Oct 18 2024)
 - [🟠 Micro Frontends - What they are and how to implement them with Luigi](https://www.youtube.com/watch?v=09jwYMPvcQg) (Fri Oct 18 2024)
 - [🟠 What's New in UI5 Web Components 2.0 and UI5 Web Components for React 2.0](https://www.youtube.com/watch?v=lvpN3eK39h8) (Fri Oct 18 2024)
-- [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Sep 06 2024)
 - [Extending your On-Premise OData Entities in CAP](https://www.youtube.com/watch?v=suKt7xMhEY4) (Fri Oct 18 2024)
 - [🔵 SAP HANA Cloud Multi-Model](https://www.youtube.com/watch?v=FxlHVQa5l5Q) (Fri Oct 18 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=g4It7Eeisu8) (Thu Oct 17 2024)
