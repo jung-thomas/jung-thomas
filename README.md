@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 DevOps with SAP BTP ABAP Environment](https://www.youtube.com/watch?v=CIPDvO6hxAo) (Wed Aug 28 2024)
+- [🟢 How to build a CAP plugin with Java](https://www.youtube.com/watch?v=9-XZns4iUC0) (Thu Sep 05 2024)
+- [🟢 ABAP Development Tools  - News and Roadmap](https://www.youtube.com/watch?v=YOIsyR5C2Mk) (Mon Oct 21 2024)
+- [Extending your On-Premise OData Entities in CAP](https://www.youtube.com/watch?v=suKt7xMhEY4) (Mon Oct 21 2024)
+- [🟢 Overview of reuse services in ABAP Cloud](https://www.youtube.com/watch?v=PmKor6vasxM) (Tue Aug 20 2024)
 - [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Oct 18 2024)
-- [🟠 Micro Frontends - What they are and how to implement them with Luigi](https://www.youtube.com/watch?v=09jwYMPvcQg) (Fri Oct 18 2024)
-- [🟠 What's New in UI5 Web Components 2.0 and UI5 Web Components for React 2.0](https://www.youtube.com/watch?v=lvpN3eK39h8) (Fri Oct 18 2024)
-- [Extending your On-Premise OData Entities in CAP](https://www.youtube.com/watch?v=suKt7xMhEY4) (Fri Oct 18 2024)
-- [🔵 SAP HANA Cloud Multi-Model](https://www.youtube.com/watch?v=FxlHVQa5l5Q) (Fri Oct 18 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=g4It7Eeisu8) (Thu Oct 17 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -38,7 +38,7 @@ Follow me on:
 - [🇧🇪 SAP CodeJam ABAP Cloud (Ghent, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-ghent-belgium/ev-p/13777307)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/146711i13D63C14A3966BAB/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, October 29, 2024 at 9:30:00 AM Central European Standard Time
-  - Location: Sluisweg 1, 9000 Ghent, Belgium
+  - Location: d'Office Gent Poortakkerstraat 93, 1st floor 9051 Ghent
 - [🇨🇭 SAP Build: Create Business Apps and Processes Without Code (Lucerne, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-lucerne/ev-p/13798275)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 30, 2024 at 9:00:00 AM Central European Standard Time
