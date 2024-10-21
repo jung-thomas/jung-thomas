@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=SNgrpU1Srf8) (Mon Oct 21 2024)
+- [🟢 SAP Business Client & SAP GUI - The Journey Continues](https://www.youtube.com/watch?v=Ihxl85uXrjc) (Wed Aug 28 2024)
+- [🔵 Advanced Strategies for Intelligent Data Applications on SAP HANA Cloud](https://www.youtube.com/watch?v=yvJ7PhYSb48) (Mon Oct 21 2024)
 - [🟢 DevOps with SAP BTP ABAP Environment](https://www.youtube.com/watch?v=CIPDvO6hxAo) (Wed Aug 28 2024)
 - [🟢 How to build a CAP plugin with Java](https://www.youtube.com/watch?v=9-XZns4iUC0) (Thu Sep 05 2024)
 - [🟢 ABAP Development Tools  - News and Roadmap](https://www.youtube.com/watch?v=YOIsyR5C2Mk) (Mon Oct 21 2024)
-- [Extending your On-Premise OData Entities in CAP](https://www.youtube.com/watch?v=suKt7xMhEY4) (Mon Oct 21 2024)
-- [🟢 Overview of reuse services in ABAP Cloud](https://www.youtube.com/watch?v=PmKor6vasxM) (Tue Aug 20 2024)
-- [🟠 Get ready for OpenUI5 2.x](https://www.youtube.com/watch?v=JWn2oXb73cA) (Fri Oct 18 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
