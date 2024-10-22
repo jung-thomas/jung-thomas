@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟢 SAP Business Client & SAP GUI - The Journey Continues](https://www.youtube.com/watch?v=Ihxl85uXrjc) (Tue Oct 22 2024)
-- [🟢 DevOps with SAP BTP ABAP Environment](https://www.youtube.com/watch?v=CIPDvO6hxAo) (Tue Oct 22 2024)
-- [🟢 How to build a CAP plugin with Java](https://www.youtube.com/watch?v=9-XZns4iUC0) (Mon Oct 21 2024)
-- [🟢 Overview of reuse services in ABAP Cloud](https://www.youtube.com/watch?v=PmKor6vasxM) (Mon Oct 21 2024)
-- [🟢 Revolutionize SAP BTP Extensions with AWS SDK for ABAP to implement a Clean Core Strategy](https://www.youtube.com/watch?v=SNgrpU1Srf8) (Mon Oct 21 2024)
-- [🔵 Advanced Strategies for Intelligent Data Applications on SAP HANA Cloud](https://www.youtube.com/watch?v=yvJ7PhYSb48) (Mon Oct 21 2024)
+- [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Tue Aug 20 2024)
+- [🟠 Create an SAP Fiori Application Based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=mTMZgWPDzrk) (Tue Oct 22 2024)
+- [🟣 Set Up Rules for Who Can Create and Transport SAP Build Projects](https://www.youtube.com/watch?v=aLJTpAwYxyM) (Tue Aug 20 2024)
+- [🔵 Harness Generative AI Integration using SAP Cloud SDK for AI](https://www.youtube.com/watch?v=t61UhKaZkHw) (Tue Oct 22 2024)
+- [🔵 Choosing the Right LLM for your Use Case: Accuracy, Cost, and Performance in the Balance](https://www.youtube.com/watch?v=0FH10da5Ti8) (Tue Oct 22 2024)
+- [🔵 Serving Fine-Tuned Models in Production](https://www.youtube.com/watch?v=2WZ2gIS3Mus) (Tue Oct 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
