@@ -21,11 +21,11 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=WKYDpx1nF7c) (Wed Oct 23 2024)
+- [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Wed Oct 23 2024)
 - [🟣 Set Up Rules for Who Can Create and Transport SAP Build Projects](https://www.youtube.com/watch?v=aLJTpAwYxyM) (Tue Oct 22 2024)
 - [🟣 Chatbot Development Made Easy with SAP AI Core and Build Apps](https://www.youtube.com/watch?v=mE7nHx9XHAY) (Tue Oct 22 2024)
-- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=WKYDpx1nF7c) (Tue Aug 20 2024)
 - [🔵Infuse Generative AI into SAP Business Applications by utilizing Google Cloud Gemini](https://www.youtube.com/watch?v=QkL4wrvnmyI) (Tue Oct 22 2024)
-- [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Tue Aug 20 2024)
 - [🟠 Create an SAP Fiori Application Based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=mTMZgWPDzrk) (Tue Oct 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
