@@ -21,9 +21,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Thu Oct 24 2024)
 - [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://www.youtube.com/watch?v=KvEWoKtGB9c) (Wed Oct 23 2024)
 - [🔵 Innovating with SAP's Generative AI Hub and Azure OpenAI​](https://www.youtube.com/watch?v=DJC0Ar6NQ08) (Wed Oct 23 2024)
-- [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Wed Aug 21 2024)
 - [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=WKYDpx1nF7c) (Wed Oct 23 2024)
 - [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Wed Oct 23 2024)
 - [🟣 Set Up Rules for Who Can Create and Transport SAP Build Projects](https://www.youtube.com/watch?v=aLJTpAwYxyM) (Tue Oct 22 2024)
