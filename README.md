@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Choosing the Right LLM for your Use Case: Accuracy, Cost, and Performance in the Balance](https://www.youtube.com/watch?v=0FH10da5Ti8) (Tue Oct 22 2024)
+- [🔵 Serving Fine-Tuned Models in Production](https://www.youtube.com/watch?v=2WZ2gIS3Mus) (Tue Oct 22 2024)
+- [🔵 Innovating with SAP's Generative AI Hub and Azure OpenAI​](https://www.youtube.com/watch?v=DJC0Ar6NQ08) (Thu Oct 24 2024)
+- [🟡SAP TechEd 2024 Post Event Q&A with Michael Ameling](https://www.youtube.com/watch?v=PdLrTJyYZFs) (Tue Oct 15 2024)
+- [🔵 Advanced Strategies for Intelligent Data Applications on SAP HANA Cloud](https://www.youtube.com/watch?v=yvJ7PhYSb48) (Thu Oct 24 2024)
 - [🔴 Enterprise Automation with SAP: Latest Enhancements](https://www.youtube.com/watch?v=m46jocrGUas) (Thu Oct 24 2024)
-- [🔴 Improve Operational Efficiency using AI-enabled API Anomaly Detection](https://www.youtube.com/watch?v=KvEWoKtGB9c) (Wed Oct 23 2024)
-- [🔵 Innovating with SAP's Generative AI Hub and Azure OpenAI​](https://www.youtube.com/watch?v=DJC0Ar6NQ08) (Wed Oct 23 2024)
-- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=WKYDpx1nF7c) (Wed Oct 23 2024)
-- [🟣 Leveraging Decisions and Business Rules in SAP Build Process Automation](https://www.youtube.com/watch?v=ajbnWJvVNuQ) (Wed Oct 23 2024)
-- [🟣 Set Up Rules for Who Can Create and Transport SAP Build Projects](https://www.youtube.com/watch?v=aLJTpAwYxyM) (Tue Oct 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
