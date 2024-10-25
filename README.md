@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Harness Generative AI Integration using SAP Cloud SDK for AI](https://www.youtube.com/watch?v=t61UhKaZkHw) (Fri Oct 25 2024)
 - [🔵 Choosing the Right LLM for your Use Case: Accuracy, Cost, and Performance in the Balance](https://www.youtube.com/watch?v=0FH10da5Ti8) (Fri Oct 25 2024)
 - [🔵 Serving Fine-Tuned Models in Production](https://www.youtube.com/watch?v=2WZ2gIS3Mus) (Thu Oct 24 2024)
 - [🟡SAP TechEd 2024 Post Event Q&A with Michael Ameling](https://www.youtube.com/watch?v=PdLrTJyYZFs) (Thu Oct 24 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=haaZDIgz7kI) (Thu Oct 24 2024)
 - [🔵Infuse Generative AI into SAP Business Applications by utilizing Google Cloud Gemini](https://www.youtube.com/watch?v=QkL4wrvnmyI) (Thu Oct 24 2024)
-- [🔵 Harness Generative AI Integration using SAP Cloud SDK for AI](https://www.youtube.com/watch?v=t61UhKaZkHw) (Tue Oct 22 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
