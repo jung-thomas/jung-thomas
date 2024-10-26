@@ -21,10 +21,10 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Oct 25 2024)
+- [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Oct 25 2024)
 - [🟠 Server-Side UI5 Pre-Rendering with CAP](https://www.youtube.com/watch?v=Es4QrirxSWQ) (Mon Sep 30 2024)
 - [🟠 Create an SAP Fiori Application Based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=mTMZgWPDzrk) (Fri Oct 25 2024)
-- [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Sep 06 2024)
-- [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Sep 06 2024)
 - [🔵 Harness Generative AI Integration using SAP Cloud SDK for AI](https://www.youtube.com/watch?v=t61UhKaZkHw) (Fri Oct 25 2024)
 - [🔵 Choosing the Right LLM for your Use Case: Accuracy, Cost, and Performance in the Balance](https://www.youtube.com/watch?v=0FH10da5Ti8) (Fri Oct 25 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
