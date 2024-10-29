@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CAP Node.js Plugins (1 of 3) - How things work](https://www.youtube.com/watch?v=9Ajazy9Pidg) (Tue Oct 29 2024)
 - [Extending SAP S/4HANA Cloud events with RAP and event filtering plus dynamic topics in S4HC](https://www.youtube.com/watch?v=Q4H0LNZi7Dg) (Mon Oct 28 2024)
 - [🟠 Server-Side UI5 Pre-Rendering with CAP](https://www.youtube.com/watch?v=Es4QrirxSWQ) (Sat Oct 26 2024)
 - [🟠 What’s new in SAP Fiori elements – demos and live coding](https://www.youtube.com/watch?v=L1QOZGghMhE) (Fri Oct 25 2024)
 - [🟠 wdi5 - lost in documentation](https://www.youtube.com/watch?v=ijgPJTOIc08) (Fri Oct 25 2024)
 - [🟠 Create an SAP Fiori Application Based on an ABAP Business Object (BO) with SAP Build Code](https://www.youtube.com/watch?v=mTMZgWPDzrk) (Fri Oct 25 2024)
-- [🔵 Harness Generative AI Integration using SAP Cloud SDK for AI](https://www.youtube.com/watch?v=t61UhKaZkHw) (Fri Oct 25 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇪 SAP CodeJam ABAP Cloud (Ghent, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-ghent-belgium/ev-p/13777307)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/146711i13D63C14A3966BAB/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, October 29, 2024 at 9:30:00 AM Central European Standard Time
-  - Location: d'Office Gent Poortakkerstraat 93, 1st floor 9051 Ghent
 - [🇨🇭 SAP Build: Create Business Apps and Processes Without Code (Lucerne, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-lucerne/ev-p/13798275)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, October 30, 2024 at 9:00:00 AM Central European Standard Time
@@ -47,10 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/176278iC30CBC839FB4E1C9/image-size/thumb?v=v2&px=150" />
   - Start: Friday, November 8, 2024 at 9:00:00 AM Central European Standard Time
   - Location: Mantlergasse 30-32, 1130 Vienna, Austria
-- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13921665)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/184397iD61C0823FAF9DB46/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, December 6, 2024 at 9:00:00 AM Eastern Standard Time
-  - Location: 120 Park Avenue, New York, NY, USA
+- [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
+  - Location: The Future Group, Röntgenlaan, Zoetermeer, Netherlands
+- [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Den Bosch, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921793)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
+  - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
