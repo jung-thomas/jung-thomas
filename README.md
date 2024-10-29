@@ -47,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/176278iC30CBC839FB4E1C9/image-size/thumb?v=v2&px=150" />
   - Start: Friday, November 8, 2024 at 9:00:00 AM Central European Standard Time
   - Location: Mantlergasse 30-32, 1130 Vienna, Austria
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13921665)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/184397iD61C0823FAF9DB46/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, December 6, 2024 at 9:00:00 AM Eastern Standard Time
+  - Location: 120 Park Avenue, New York, NY, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
