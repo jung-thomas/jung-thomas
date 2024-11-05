@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [Back to Basics - Web Development - Introduction - Part 1](https://www.youtube.com/watch?v=sabpKj-Hf3c) (Tue Nov 05 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=IB7bqYnrxpc) (Thu Oct 31 2024)
+- [CodeJam CAP & AI, TechEd On Tour, ML/AI in Data Management, Open Source Podcast | SAP Developer News](https://www.youtube.com/watch?v=IB7bqYnrxpc) (Thu Oct 31 2024)
 - [Register now! | #SAPTechEd on Tour](https://www.youtube.com/watch?v=53rdMWTN8x8) (Wed Oct 30 2024)
 - [CAP Node.js Plugins (1 of 3) - How things work](https://www.youtube.com/watch?v=9Ajazy9Pidg) (Tue Oct 29 2024)
 - [Extending SAP S/4HANA Cloud events with RAP and event filtering plus dynamic topics in S4HC](https://www.youtube.com/watch?v=Q4H0LNZi7Dg) (Mon Oct 28 2024)
