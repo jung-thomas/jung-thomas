@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇹 SAP CodeJam ABAP Cloud (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-vienna-austria/ev-p/13890825)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/176278iC30CBC839FB4E1C9/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, November 8, 2024 at 9:00:00 AM Central European Standard Time
-  - Location: Mantlergasse 30-32, 1130 Vienna, Austria
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
