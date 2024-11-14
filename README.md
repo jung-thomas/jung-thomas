@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Back to Basics - Web Development - Node.js server - Part 2](https://www.youtube.com/watch?v=qDg6Yd-S8cc) (Mon Nov 11 2024)
+- [Back to Basics - Web Development - Node.js server - Part 2](https://www.youtube.com/watch?v=qDg6Yd-S8cc) (Wed Nov 13 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=w7azsu8Pmew) (Thu Nov 07 2024)
 - [Back to Basics - Web Development - Introduction - Part 1](https://www.youtube.com/watch?v=sabpKj-Hf3c) (Wed Nov 06 2024)
 - [CodeJam CAP & AI, TechEd On Tour, ML/AI in Data Management, Open Source Podcast | SAP Developer News](https://www.youtube.com/watch?v=IB7bqYnrxpc) (Thu Oct 31 2024)
