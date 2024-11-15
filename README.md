@@ -24,7 +24,7 @@ Follow me on:
 - [SAP Developer News](https://www.youtube.com/watch?v=pbcOouqxpd4) (Thu Nov 14 2024)
 - [Developing Event-Driven Integration with SAP BTP - E-Bite](https://www.youtube.com/watch?v=xx6gGi-V60E) (Thu Nov 14 2024)
 - [Back to Basics - Web Development - Node.js server - Part 2](https://www.youtube.com/watch?v=qDg6Yd-S8cc) (Wed Nov 13 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=w7azsu8Pmew) (Thu Nov 07 2024)
+- [CAP Oct 2024, New Adaption Editor, New SAP Devs Live Stream, Series | SAP Developer News](https://www.youtube.com/watch?v=w7azsu8Pmew) (Thu Nov 07 2024)
 - [Back to Basics - Web Development - Introduction - Part 1](https://www.youtube.com/watch?v=sabpKj-Hf3c) (Wed Nov 06 2024)
 - [CodeJam CAP & AI, TechEd On Tour, ML/AI in Data Management, Open Source Podcast | SAP Developer News](https://www.youtube.com/watch?v=IB7bqYnrxpc) (Thu Oct 31 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
