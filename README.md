@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to Basics - Web Development - HTML, CSS, JavaScript - Part 3](https://www.youtube.com/watch?v=MyJmfH4jXIs) (Tue Nov 19 2024)
+- [SAP Fiori Innovation Day 2024 - Panel Discussion](https://www.youtube.com/watch?v=3YWLgBmZxWs) (Tue Nov 19 2024)
 - [The Art and Science of CAP (part 2) with Daniel Hutzel](https://www.youtube.com/watch?v=gXsqOFArqCw) (Mon Nov 18 2024)
 - [SAP TechEd On Tour](https://www.youtube.com/watch?v=x13dG7QBwsQ) (Sun Nov 17 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=pbcOouqxpd4) (Thu Nov 14 2024)
 - [Developing Event-Driven Integration with SAP BTP - E-Bite](https://www.youtube.com/watch?v=xx6gGi-V60E) (Thu Nov 14 2024)
-- [Back to Basics - Web Development - Node.js server - Part 2](https://www.youtube.com/watch?v=qDg6Yd-S8cc) (Wed Nov 13 2024)
-- [CAP Oct 2024, New Adaption Editor, New SAP Devs Live Stream, Series | SAP Developer News](https://www.youtube.com/watch?v=w7azsu8Pmew) (Thu Nov 07 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
