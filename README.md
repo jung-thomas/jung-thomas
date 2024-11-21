@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Back to Basics - Web Development - HTML, CSS, JavaScript - Part 3](https://www.youtube.com/watch?v=MyJmfH4jXIs) (Tue Nov 19 2024)
+- [Back to Basics - Web Development - HTML, CSS, JavaScript - Part 3](https://www.youtube.com/watch?v=MyJmfH4jXIs) (Wed Nov 20 2024)
 - [SAP Fiori Innovation Day 2024 - Panel Discussion](https://www.youtube.com/watch?v=3YWLgBmZxWs) (Wed Nov 20 2024)
 - [The Art and Science of CAP (part 2) with Daniel Hutzel](https://www.youtube.com/watch?v=gXsqOFArqCw) (Mon Nov 18 2024)
 - [SAP TechEd On Tour](https://www.youtube.com/watch?v=x13dG7QBwsQ) (Sun Nov 17 2024)
