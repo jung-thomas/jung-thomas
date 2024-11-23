@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 What's New in SAP HANA 2.0 SPS 08: Mission Critical Data Center Operations](https://www.youtube.com/watch?v=G6LE9x42sVk) (Sat Nov 23 2024)
 - [The Art and Science of CAP (part 2) with Daniel Hutzel](https://www.youtube.com/watch?v=gXsqOFArqCw) (Fri Nov 22 2024)
-- [🔵 What's New in SAP HANA 2.0 SPS 08: Mission Critical Data Center Operations](https://www.youtube.com/watch?v=G6LE9x42sVk) (Tue Oct 01 2024)
 - [SAUG-x, SAP BTP ABAP Environment - 2411, SAP BTP Innobytes, SAP HANA 2.0 SPS 08| SAP Developer News](https://www.youtube.com/watch?v=i1P7LEIxiUg) (Thu Nov 21 2024)
 - [Back to Basics - Web Development - HTML, CSS, JavaScript - Part 3](https://www.youtube.com/watch?v=MyJmfH4jXIs) (Wed Nov 20 2024)
 - [SAP Fiori Innovation Day 2024 - Panel Discussion](https://www.youtube.com/watch?v=3YWLgBmZxWs) (Wed Nov 20 2024)
