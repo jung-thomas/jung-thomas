@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [The Art and Science of CAP (part 3) with Daniel Hutzel](https://www.youtube.com/watch?v=oujZD2xEUBM) (Mon Nov 25 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Administration and Monitoring](https://www.youtube.com/watch?v=RBNITljOwJk) (Mon Nov 25 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Modeling / Development (BAS)](https://www.youtube.com/watch?v=YyGzXY3vw64) (Tue Oct 01 2024)
 - [How to Add Documents to SAP Build Process Automation Forms](https://www.youtube.com/watch?v=ILlOrbHmRuc) (Mon Nov 25 2024)
 - [Setting Up DMS with SAP Build Process Automation](https://www.youtube.com/watch?v=gSBCY7537lc) (Mon Nov 25 2024)
 - [Back to Basics - Web Development - UI5 Web Components - Part 4](https://www.youtube.com/watch?v=MVrRAteavY0) (Mon Nov 25 2024)
-- [🔵 What's New in SAP HANA 2.0 SPS 08: Mission Critical Data Center Operations](https://www.youtube.com/watch?v=G6LE9x42sVk) (Sat Nov 23 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
