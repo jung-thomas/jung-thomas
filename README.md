@@ -21,9 +21,9 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Back to Basics - Web Development - UI5 Web Components - Part 4](https://www.youtube.com/watch?v=MVrRAteavY0) (Wed Nov 27 2024)
+- [🔵 What's New in SAP HANA 2.0 SPS 08: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=0V1Fx_odaUk) (Wed Nov 27 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=sk9LerfiM_w) (Tue Oct 01 2024)
-- [Back to Basics - Web Development - UI5 Web Components - Part 4](https://www.youtube.com/watch?v=MVrRAteavY0) (Mon Nov 25 2024)
-- [🔵 What's New in SAP HANA 2.0 SPS 08: Supportability (VS Plugin & SQL Analyzer)](https://www.youtube.com/watch?v=0V1Fx_odaUk) (Tue Oct 01 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Smart Multi-Model](https://www.youtube.com/watch?v=I7tcVbludko) (Wed Nov 27 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Modeling / Development (BAS)](https://www.youtube.com/watch?v=YyGzXY3vw64) (Tue Nov 26 2024)
 - [The Art and Science of CAP (part 3) with Daniel Hutzel](https://www.youtube.com/watch?v=oujZD2xEUBM) (Mon Nov 25 2024)
