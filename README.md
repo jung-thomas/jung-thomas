@@ -21,16 +21,20 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=IcyKei-TJy0) (Thu Dec 12 2024)
 - [The Art and Science of CAP (part 4) with Daniel Hutzel](https://www.youtube.com/watch?v=kwxvyiC-6FI) (Fri Dec 06 2024)
 - [The Art and Science of CAP (part 5) with Daniel Hutzel](https://www.youtube.com/watch?v=BpTDnYxoNXI) (Fri Dec 06 2024)
 - [Orchestration service of Generative AI Hub, New UI for SAP Build Apps | SAP Developer News](https://www.youtube.com/watch?v=JrxvwrYwlCo) (Thu Dec 05 2024)
 - [The Art and Science of CAP (part 3) with Daniel Hutzel](https://www.youtube.com/watch?v=oujZD2xEUBM) (Fri Nov 29 2024)
 - [🔵 What's New in SAP HANA 2.0 SPS 08: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=sk9LerfiM_w) (Thu Nov 28 2024)
-- [Back to Basics - Web Development - UI5 Web Components - Part 4](https://www.youtube.com/watch?v=MVrRAteavY0) (Wed Nov 27 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
+- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, December 13, 2024 at 8:00:00 AM Central European Standard Time
+  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
