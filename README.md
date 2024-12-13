@@ -35,10 +35,18 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, December 13, 2024 at 8:00:00 AM Central European Standard Time
   - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13962441)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201124iD5F3C59FB3FFB369/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
+  - Location: Caterpillar India, RMZ NXT, Whitefield Road, Sonnenhali Village, Whitefield, Bengaluru, Karnataka 560066, India
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
   - Location: The Future Group, Röntgenlaan, Zoetermeer, Netherlands
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13962498)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201132i697B3064AA8635C1/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, January 23, 2025 at 9:00:00 AM India Standard Time
+  - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Den Bosch, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921793)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
