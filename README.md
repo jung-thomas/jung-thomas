@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [The Art and Science of CAP (part 6) with Daniel Hutzel (Holiday Season edition)](https://www.youtube.com/watch?v=cZCOQpxC118) (Fri Dec 13 2024)
+- [The Art and Science of CAP (part 5) with Daniel Hutzel](https://www.youtube.com/watch?v=BpTDnYxoNXI) (Fri Dec 06 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=IcyKei-TJy0) (Thu Dec 12 2024)
 - [The Art and Science of CAP (part 4) with Daniel Hutzel](https://www.youtube.com/watch?v=kwxvyiC-6FI) (Fri Dec 06 2024)
-- [The Art and Science of CAP (part 5) with Daniel Hutzel](https://www.youtube.com/watch?v=BpTDnYxoNXI) (Fri Dec 06 2024)
 - [Orchestration service of Generative AI Hub, New UI for SAP Build Apps | SAP Developer News](https://www.youtube.com/watch?v=JrxvwrYwlCo) (Thu Dec 05 2024)
 - [The Art and Science of CAP (part 3) with Daniel Hutzel](https://www.youtube.com/watch?v=oujZD2xEUBM) (Fri Nov 29 2024)
-- [🔵 What's New in SAP HANA 2.0 SPS 08: Data Integration (SDI/SDA)](https://www.youtube.com/watch?v=sk9LerfiM_w) (Thu Nov 28 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, December 13, 2024 at 8:00:00 AM Central European Standard Time
-  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13962441)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201124iD5F3C59FB3FFB369/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
@@ -43,7 +39,7 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
   - Location: The Future Group, Röntgenlaan, Zoetermeer, Netherlands
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13962498)
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13962498)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201132i697B3064AA8635C1/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 9:00:00 AM India Standard Time
   - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
   - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
+- [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13962693)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, February 4, 2025 at 9:00:00 AM Central European Standard Time
+  - Location: 8a Rue Icare, 67960 Entzheim, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
