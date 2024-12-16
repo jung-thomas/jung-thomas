@@ -32,7 +32,7 @@ Follow me on:
 
 ## Upcoming SAP CodeJams
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Bangalore, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-bangalore-india/ev-p/13962441)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201124iD5F3C59FB3FFB369/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201124iD5F3C59FB3FFB369/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
   - Location: Caterpillar India, RMZ NXT, Whitefield Road, Sonnenhali Village, Whitefield, Bengaluru, Karnataka 560066, India
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
@@ -40,7 +40,7 @@ Follow me on:
   - Start: Wednesday, January 22, 2025 at 10:00:00 AM Central European Standard Time
   - Location: The Future Group, Röntgenlaan, Zoetermeer, Netherlands
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13962498)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201132i697B3064AA8635C1/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201132i697B3064AA8635C1/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 9:00:00 AM India Standard Time
   - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Den Bosch, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921793)
@@ -48,7 +48,7 @@ Follow me on:
   - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
   - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
 - [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13962693)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, February 4, 2025 at 9:00:00 AM Central European Standard Time
   - Location: 8a Rue Icare, 67960 Entzheim, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
