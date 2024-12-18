@@ -25,7 +25,7 @@ Follow me on:
 - [Consuming an RFC Service in ABAP Cloud](https://www.youtube.com/watch?v=kPP2UUQpVrY) (Fri Dec 13 2024)
 - [Instance-Based Authorization in ABAP RAP Applications](https://www.youtube.com/watch?v=Kttmjs3HetM) (Fri Dec 13 2024)
 - [The Art and Science of CAP (part 6) with Daniel Hutzel (Holiday Season edition)](https://www.youtube.com/watch?v=cZCOQpxC118) (Fri Dec 13 2024)
-- [SAP Developer News](https://www.youtube.com/watch?v=IcyKei-TJy0) (Thu Dec 12 2024)
+- [BTP Innobytes, CAP Nov 2024, Migration of Business Process Automation | SAP Developer News](https://www.youtube.com/watch?v=IcyKei-TJy0) (Thu Dec 12 2024)
 - [The Art and Science of CAP (part 4) with Daniel Hutzel](https://www.youtube.com/watch?v=kwxvyiC-6FI) (Fri Dec 06 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
