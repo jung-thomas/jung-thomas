@@ -36,7 +36,7 @@ Follow me on:
   - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
   - Location: Caterpillar India, RMZ NXT, Whitefield Road, Sonnenhali Village, Whitefield, Bengaluru, Karnataka 560066, India
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13965324)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/202493iBDD0F8E302F5630D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/202493iBDD0F8E302F5630D/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 9:00:00 AM India Standard Time
   - Location: Tata Consultancy Services, Adibatla, Telangana, India
 - [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Zoetermeer, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921794)
