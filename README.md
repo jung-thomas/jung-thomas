@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [The Art and Science of CAP (part 6) with Daniel Hutzel (Holiday Season edition)](https://www.youtube.com/watch?v=cZCOQpxC118) (Fri Dec 13 2024)
+- [The Art and Science of CAP (part 6) with Daniel Hutzel (Holiday Season edition)](https://www.youtube.com/watch?v=cZCOQpxC118) (Fri Dec 20 2024)
+- [SAP Developer News 2024 Year In Review Part 1](https://www.youtube.com/watch?v=U23xs9S4HOI) (Fri Dec 20 2024)
+- [SAP Developer News 2024 Bloopers and Outtakes](https://www.youtube.com/watch?v=WmN-SnGQm2E) (Fri Dec 20 2024)
 - [SAP Build Process Automation: Overview and Demo (Part-2)](https://www.youtube.com/watch?v=lZvG6uNleQA) (Fri Dec 20 2024)
 - [SAP Developer News](https://www.youtube.com/watch?v=64gFjbU9lN0) (Thu Dec 19 2024)
 - [The Art and Science of CAP (part 5) with Daniel Hutzel](https://www.youtube.com/watch?v=BpTDnYxoNXI) (Fri Dec 13 2024)
-- [Consuming an RFC Service in ABAP Cloud](https://www.youtube.com/watch?v=kPP2UUQpVrY) (Fri Dec 13 2024)
-- [Instance-Based Authorization in ABAP RAP Applications](https://www.youtube.com/watch?v=Kttmjs3HetM) (Fri Dec 13 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
