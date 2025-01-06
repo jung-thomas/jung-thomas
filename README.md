@@ -35,6 +35,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201124iD5F3C59FB3FFB369/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
   - Location: Caterpillar India, RMZ NXT, Whitefield Road, Sonnenhali Village, Whitefield, Bengaluru, Karnataka 560066, India
+- [🇩🇪 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applic](https://community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/13977610)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/208101i7B77ABA6B4581446/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, January 17, 2025 at 9:00:00 AM Central European Standard Time
+  - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13965324)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/202493iBDD0F8E302F5630D/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 9:00:00 AM India Standard Time
@@ -47,10 +51,6 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201132i697B3064AA8635C1/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 9:00:00 AM India Standard Time
   - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
-- [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Den Bosch, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921793)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
-  - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
