@@ -36,7 +36,7 @@ Follow me on:
   - Start: Thursday, January 9, 2025 at 9:00:00 AM India Standard Time
   - Location: Caterpillar India, RMZ NXT, Whitefield Road, Sonnenhali Village, Whitefield, Bengaluru, Karnataka 560066, India
 - [🇩🇪 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applic](https://community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/13977610)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/208101i7B77ABA6B4581446/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/208101i7B77ABA6B4581446/image-size/thumb?v=v2&px=150" />
   - Start: Friday, January 17, 2025 at 9:00:00 AM Central European Standard Time
   - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13965324)
