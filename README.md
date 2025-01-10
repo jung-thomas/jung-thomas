@@ -21,18 +21,18 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CAP Node.js Plugins (2 of 3) - Using the REPL](https://www.youtube.com/watch?v=aTEsSdP43a4) (Mon Dec 30 2024)
 - [Create Data Definition using CodeTemplates #ABAPCLoud #GoodToKnow](https://www.youtube.com/watch?v=DKC3A96lyyU) (Fri Jan 10 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=zS2ZHfwxACk) (Thu Jan 09 2025)
 - [SAP Build Process Automation: Overview and Demo - Release, Deploy and Test Process Workflow (Part-2)](https://www.youtube.com/watch?v=lZvG6uNleQA) (Mon Jan 06 2025)
 - [CAP Node.js Plugins (1 of 3) - How things work](https://www.youtube.com/watch?v=9Ajazy9Pidg) (Fri Jan 03 2025)
 - [SAP Developer News 2024 Year In Review Part 2](https://www.youtube.com/watch?v=08c7UqbPlDk) (Thu Jan 02 2025)
-- [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Mon Dec 30 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack Applic](https://community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/13977610)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/208101i7B77ABA6B4581446/image-size/thumb?v=v2&px=150" />
+- [🇩🇪 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack App](https://community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/13977610)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/210507i0F3B3F73606663E1/image-size/thumb?v=v2&px=150" />
   - Start: Friday, January 17, 2025 at 9:00:00 AM Central European Standard Time
   - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13965324)
