@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Create Data Definition using CodeTemplates #ABAPCLoud #GoodToKnow](https://www.youtube.com/watch?v=DKC3A96lyyU) (Fri Jan 10 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=zS2ZHfwxACk) (Thu Jan 09 2025)
 - [SAP Build Process Automation: Overview and Demo - Release, Deploy and Test Process Workflow (Part-2)](https://www.youtube.com/watch?v=lZvG6uNleQA) (Mon Jan 06 2025)
 - [CAP Node.js Plugins (1 of 3) - How things work](https://www.youtube.com/watch?v=9Ajazy9Pidg) (Fri Jan 03 2025)
 - [SAP Developer News 2024 Year In Review Part 2](https://www.youtube.com/watch?v=08c7UqbPlDk) (Thu Jan 02 2025)
 - [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Mon Dec 30 2024)
-- [CAP Node.js Plugins (2 of 3) - Using the REPL](https://www.youtube.com/watch?v=aTEsSdP43a4) (Mon Dec 30 2024)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
