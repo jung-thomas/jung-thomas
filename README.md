@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Mon Dec 30 2024)
 - [ABAP Cleaner Read-only preview without locking or changing code](https://www.youtube.com/watch?v=Psg9VIDHrd8) (Fri Jan 17 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=BZdboT6EdZw) (Thu Jan 16 2025)
 - [Upload a File from Build Apps to DMS](https://www.youtube.com/watch?v=gIW_tHOaNuY) (Tue Jan 14 2025)
 - [Call DMS from SAP Build Apps](https://www.youtube.com/watch?v=SJt_BzctwbI) (Mon Jan 13 2025)
 - [Set Up SAP Build Apps to Work With DMS](https://www.youtube.com/watch?v=lhBB2mM9Nho) (Mon Jan 13 2025)
-- [CAP Node.js Plugins (2 of 3) - Using the REPL](https://www.youtube.com/watch?v=aTEsSdP43a4) (Fri Jan 10 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Combine SAP Cloud Application Programming Model with SAP HANA Cloud to Create Full-Stack App](https://community.sap.com/t5/sap-codejam/combine-sap-cloud-application-programming-model-with-sap-hana-cloud-to/ev-p/13977610)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/210507i0F3B3F73606663E1/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, January 17, 2025 at 9:00:00 AM Central European Standard Time
-  - Location: Zalando SE BHQ-X, Valeska-Gert-Straße, Berlin, Germany
 - [SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/13965324)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/202493iBDD0F8E302F5630D/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 22, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
   - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
+- [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13962693)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, February 4, 2025 at 9:00:00 AM Central European Standard Time
+  - Location: 8a Rue Icare, 67960 Entzheim, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
