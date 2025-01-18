@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Mon Dec 30 2024)
+- [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Fri Jan 17 2025)
 - [ABAP Cleaner Read-only preview without locking or changing code](https://www.youtube.com/watch?v=Psg9VIDHrd8) (Fri Jan 17 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=BZdboT6EdZw) (Thu Jan 16 2025)
 - [Upload a File from Build Apps to DMS](https://www.youtube.com/watch?v=gIW_tHOaNuY) (Tue Jan 14 2025)
