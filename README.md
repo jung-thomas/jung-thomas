@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Fri Jan 17 2025)
 - [ABAP Cleaner Read-only preview without locking or changing code](https://www.youtube.com/watch?v=Psg9VIDHrd8) (Fri Jan 17 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=BZdboT6EdZw) (Thu Jan 16 2025)
+- [Uploads from Build Apps, CAP Dec 2024, Joule ABAP Early Adopter, RAP Draft | SAP Developer News](https://www.youtube.com/watch?v=BZdboT6EdZw) (Thu Jan 16 2025)
 - [Upload a File from SAP Build Apps to DMS](https://www.youtube.com/watch?v=gIW_tHOaNuY) (Tue Jan 14 2025)
 - [Call DMS from SAP Build Apps](https://www.youtube.com/watch?v=SJt_BzctwbI) (Mon Jan 13 2025)
 - [Set Up SAP Build Apps to Work With DMS](https://www.youtube.com/watch?v=lhBB2mM9Nho) (Mon Jan 13 2025)
