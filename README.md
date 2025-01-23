@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 Event-driven integrations with SAP Integration Suite, advanced event mesh (Den Bosch, NL)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/13921793)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, January 23, 2025 at 10:00:00 AM Central European Standard Time
-  - Location: Emixa | Den Bosch, Europalaan, 's-Hertogenbosch, Netherlands
 - [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13962693)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, February 4, 2025 at 9:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/206381iF491EAB2E744A0D7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 14, 2025 at 1:00:00 PM Central European Standard Time
   - Location: Boteyken 323, Utrecht, Netherlands
+- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
+  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
