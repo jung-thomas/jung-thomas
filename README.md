@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Mon Jan 27 2025)
 - [Content Assist In ADT to insert all elements in Data Definition #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=GqmMhHKlotk) (Fri Jan 24 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=BO4qZLxBPG4) (Thu Jan 23 2025)
+- [Dev Survey, Cloud SDK for AI, CodeConnect, Wait in BPA, Integration Group | SAP Developer News](https://www.youtube.com/watch?v=BO4qZLxBPG4) (Thu Jan 23 2025)
 - [Creating handler stub in SAP CAP #SAPCAP #GoodToKnow](https://www.youtube.com/watch?v=0C-CcBKX1hI) (Tue Jan 21 2025)
 - [CAP Node.js Plugins (3 of 3) - Writing our own](https://www.youtube.com/watch?v=hi7NXlMl3iU) (Fri Jan 17 2025)
 - [ABAP Cleaner Read-only preview without locking or changing code](https://www.youtube.com/watch?v=Psg9VIDHrd8) (Fri Jan 17 2025)
