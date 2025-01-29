@@ -47,10 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/206381iF491EAB2E744A0D7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 14, 2025 at 1:00:00 PM Central European Standard Time
   - Location: Boteyken 323, Utrecht, Netherlands
-- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
-  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
+- [🇮🇳 Getting Started with Machine Learning using SAP HANA](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana/ev-p/13999839)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/218508i796DE62F0B26024E/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, March 4, 2025 at 9:00:00 AM India Standard Time
+  - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
