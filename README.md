@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13962693)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201175i9DACFA07FA2237BA/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, February 4, 2025 at 9:00:00 AM Central European Standard Time
-  - Location: 8a Rue Icare, 67960 Entzheim, France
 - [🇮🇳 SAP Build: Create Business Apps and Processes Without Code(Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-chennai-india/ev-p/13987701)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 6, 2025 at 9:00:00 AM India Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇮🇳 Getting Started with Machine Learning using SAP HANA](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana/ev-p/13999839)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/218508i796DE62F0B26024E/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 4, 2025 at 9:00:00 AM India Standard Time
+  - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13999844)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/218509i093639358BFE123E/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, March 5, 2025 at 9:00:00 AM India Standard Time
   - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
