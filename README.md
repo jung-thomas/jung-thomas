@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Getting Started with UI5 Web Components for React](https://www.youtube.com/watch?v=NR98Fr0wkbc) (Tue Feb 04 2025)
 - [The SAP Bluebeard isn't hair dye?!? #bluebeard #btp](https://www.youtube.com/watch?v=zuBUhTwi9yE) (Fri Jan 31 2025)
 - [Cleanup Settings of ABAP Cleaner](https://www.youtube.com/watch?v=vbOROd04VQs) (Fri Jan 31 2025)
 - [What's New in SAP Build & Build Code, CAP Jan 2025, Community on Bluesky | SAP Developer News](https://www.youtube.com/watch?v=8RqkYsvTQ1M) (Thu Jan 30 2025)
 - [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Mon Jan 27 2025)
 - [Content Assist In ADT to insert all elements in Data Definition #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=GqmMhHKlotk) (Fri Jan 24 2025)
-- [Dev Survey, Cloud SDK for AI, CodeConnect, Wait in BPA, Integration Group | SAP Developer News](https://www.youtube.com/watch?v=BO4qZLxBPG4) (Thu Jan 23 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
