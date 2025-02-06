@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Business Apps and Processes Without Code(Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-chennai-india/ev-p/13987701)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/139411i4D4B2C159632ECD9/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, February 6, 2025 at 9:00:00 AM India Standard Time
-  - Location: Business Core Solutions, Kundrathur High Road, Gerugambakkam, Chennai, Tamil Nadu, India
 - [🇮🇳 SAP Build: Create Business Apps, Processes and website without Code(Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-processes-and-website-without-code-chennai/ev-p/13987802)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/212974i8FE0F1EF3DAA6247/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 7, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/218509i093639358BFE123E/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 5, 2025 at 9:00:00 AM India Standard Time
   - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14001200)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219031i268918C55D0994B3/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, March 7, 2025 at 9:00:00 AM India Standard Time
+  - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
