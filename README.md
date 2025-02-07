@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Use Source type of development objects of ADT in searching and sorting the objects](https://www.youtube.com/watch?v=dnAALtV0FCE) (Fri Feb 07 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=CE4JuE8x1V0) (Thu Feb 06 2025)
 - [Getting Started with UI5 Web Components for React](https://www.youtube.com/watch?v=NR98Fr0wkbc) (Tue Feb 04 2025)
 - [The SAP Bluebeard isn't hair dye?!? #bluebeard #btp](https://www.youtube.com/watch?v=zuBUhTwi9yE) (Fri Jan 31 2025)
 - [Cleanup Settings of ABAP Cleaner](https://www.youtube.com/watch?v=vbOROd04VQs) (Fri Jan 31 2025)
 - [What's New in SAP Build & Build Code, CAP Jan 2025, Community on Bluesky | SAP Developer News](https://www.youtube.com/watch?v=8RqkYsvTQ1M) (Thu Jan 30 2025)
-- [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Mon Jan 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Business Apps, Processes and website without Code(Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-processes-and-website-without-code-chennai/ev-p/13987802)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/212974i8FE0F1EF3DAA6247/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, February 7, 2025 at 9:00:00 AM India Standard Time
-  - Location: Innov8 | Coworking Space in SKCL Techsquare, Guindy, Chennai, Lazer Street, South Phase, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu, India
 - [🇳🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13974257)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/206381iF491EAB2E744A0D7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, February 14, 2025 at 1:00:00 PM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219031i268918C55D0994B3/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 7, 2025 at 9:00:00 AM India Standard Time
   - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
+- [🇮🇳 Getting Started with Machine Learning and the Vector Engine using SAP HANA (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-and-the-vector-engine-using-sap-hana/ev-p/14002554)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219675i8B9E7F415C57EE23/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, March 10, 2025 at 9:00:00 AM India Standard Time
+  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
