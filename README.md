@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Mon Jan 27 2025)
+- [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Fri Feb 07 2025)
 - [Use Source type of development objects of ADT in searching and sorting the objects](https://www.youtube.com/watch?v=dnAALtV0FCE) (Fri Feb 07 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=CE4JuE8x1V0) (Thu Feb 06 2025)
 - [Getting Started with UI5 Web Components for React](https://www.youtube.com/watch?v=NR98Fr0wkbc) (Tue Feb 04 2025)
