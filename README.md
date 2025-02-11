@@ -41,11 +41,11 @@ Follow me on:
   - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13999844)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/218509i093639358BFE123E/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 5, 2025 at 9:00:00 AM India Standard Time
+  - Start: Wednesday, March 5, 2025 at 10:00:00 AM India Standard Time
   - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14001200)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219031i268918C55D0994B3/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, March 7, 2025 at 9:00:00 AM India Standard Time
+  - Start: Friday, March 7, 2025 at 10:00:00 AM India Standard Time
   - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
 - [🇮🇳 Getting Started with Machine Learning and the Vector Engine using SAP HANA (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-and-the-vector-engine-using-sap-hana/ev-p/14002554)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219675i8B9E7F415C57EE23/image-size/thumb?v=v2&px=150" />
