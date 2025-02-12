@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Tech Bytes: Connect everything with SAP Integration Suite - Salesforce](https://www.youtube.com/watch?v=HWPRztVhtzE) (Wed Feb 12 2025)
 - [The Art and Science of CAP (part 8) with Daniel Hutzel](https://www.youtube.com/watch?v=FF1NzLwsmos) (Mon Feb 10 2025)
-- [SAP Tech Bytes: Connect everything with SAP Integration Suite - Salesforce](https://www.youtube.com/watch?v=HWPRztVhtzE) (Mon Feb 10 2025)
 - [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Fri Feb 07 2025)
 - [Use Source type of development objects of ADT in searching and sorting the objects](https://www.youtube.com/watch?v=dnAALtV0FCE) (Fri Feb 07 2025)
 - [New Destination UI, Art & Science of CAP, BTP Day 2 Ops, Feb Dev Challenge | SAP Developer News](https://www.youtube.com/watch?v=CE4JuE8x1V0) (Thu Feb 06 2025)
