@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=rxvfQANvro4) (Fri Feb 14 2025)
+- [The Art and Science of CAP (part 8) with Daniel Hutzel](https://www.youtube.com/watch?v=FF1NzLwsmos) (Mon Feb 10 2025)
 - [Cleanup Rules Customization of ABAP Cleaner](https://www.youtube.com/watch?v=Wz9SMzX3izQ) (Fri Feb 14 2025)
 - [The SAP Developer News will release a few hours later than normal this week](https://www.youtube.com/watch?v=BqfNbrMaR5I) (Thu Feb 13 2025)
 - [SAP Tech Bytes: Connect everything with SAP Integration Suite - Salesforce](https://www.youtube.com/watch?v=HWPRztVhtzE) (Wed Feb 12 2025)
-- [The Art and Science of CAP (part 8) with Daniel Hutzel](https://www.youtube.com/watch?v=FF1NzLwsmos) (Mon Feb 10 2025)
 - [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Fri Feb 07 2025)
-- [Use Source type of development objects of ADT in searching and sorting the objects](https://www.youtube.com/watch?v=dnAALtV0FCE) (Fri Feb 07 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13974257)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/206381iF491EAB2E744A0D7/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, February 14, 2025 at 1:00:00 PM Central European Standard Time
-  - Location: Boteyken 323, Utrecht, Netherlands
 - [🇮🇳 Getting Started with Machine Learning using SAP HANA](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-using-sap-hana/ev-p/13999839)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/218508i796DE62F0B26024E/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 4, 2025 at 10:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219675i8B9E7F415C57EE23/image-size/thumb?v=v2&px=150" />
   - Start: Monday, March 10, 2025 at 10:00:00 AM India Standard Time
   - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, India
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangalore-india/ev-p/14002510)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219656iE84F00145A175DB6/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, March 11, 2025 at 10:00:00 AM India Standard Time
+  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
