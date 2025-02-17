@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [The Art and Science of CAP (part 9) with Daniel Hutzel](https://www.youtube.com/watch?v=Tz7TTM1pOIk) (Mon Feb 17 2025)
 - [The Art and Science of CAP (part 8) with Daniel Hutzel](https://www.youtube.com/watch?v=FF1NzLwsmos) (Fri Feb 14 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=rxvfQANvro4) (Fri Feb 14 2025)
 - [Cleanup Rules Customization of ABAP Cleaner](https://www.youtube.com/watch?v=Wz9SMzX3izQ) (Fri Feb 14 2025)
 - [The SAP Developer News will release a few hours later than normal this week](https://www.youtube.com/watch?v=BqfNbrMaR5I) (Thu Feb 13 2025)
 - [SAP Tech Bytes: Connect everything with SAP Integration Suite - Salesforce](https://www.youtube.com/watch?v=HWPRztVhtzE) (Wed Feb 12 2025)
-- [The Art and Science of CAP (part 7) with Daniel Hutzel (restart!)](https://www.youtube.com/watch?v=r_mxsBZSgEo) (Fri Feb 07 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
