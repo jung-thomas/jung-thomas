@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - How to start using Joule Chat](https://www.youtube.com/watch?v=7hkm29eGTXc) (Mon Feb 24 2025)
 - [The Art and Science of CAP (part 9) with Daniel Hutzel](https://www.youtube.com/watch?v=Tz7TTM1pOIk) (Fri Feb 21 2025)
 - [Check if the relevant data can be selected with an underlying access control #abapcloud #GoodToKnow](https://www.youtube.com/watch?v=z5ksXD_dTr8) (Fri Feb 21 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=LM-GzsbM1Uc) (Thu Feb 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities Introduction](https://www.youtube.com/watch?v=OwtRsMRLPYU) (Tue Feb 18 2025)
 - [The Art and Science of CAP (part 8) with Daniel Hutzel](https://www.youtube.com/watch?v=FF1NzLwsmos) (Fri Feb 14 2025)
-- [Business Unleashed: Business Data Cloud, Joule Agents, SAP Databricks | SAP Developer News](https://www.youtube.com/watch?v=rxvfQANvro4) (Fri Feb 14 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
