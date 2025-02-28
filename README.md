@@ -21,10 +21,10 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [The Art and Science of CAP (part 10) with Daniel Hutzel](https://www.youtube.com/watch?v=483aIk_-PqQ) (Tue Feb 25 2025)
 - [Sharing and Synchronizing ABAP Cleaner Profiles](https://www.youtube.com/watch?v=Rrg-fKV-6wo) (Fri Feb 28 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=09aFLcOdDxQ) (Thu Feb 27 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Having a conversation with Joule Chat](https://www.youtube.com/watch?v=sUqXort28iU) (Thu Feb 27 2025)
-- [The Art and Science of CAP (part 10) with Daniel Hutzel](https://www.youtube.com/watch?v=483aIk_-PqQ) (Tue Feb 25 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - How to start using Joule Chat](https://www.youtube.com/watch?v=7hkm29eGTXc) (Mon Feb 24 2025)
 - [The Art and Science of CAP (part 9) with Daniel Hutzel](https://www.youtube.com/watch?v=Tz7TTM1pOIk) (Fri Feb 21 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
