@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/13999844)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/218509i093639358BFE123E/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 5, 2025 at 10:00:00 AM India Standard Time
-  - Location: Candor TechSpace, Newtown, Kolkata, DH Block(Newtown), Action Area 1D, Newtown, New Town, Chakpachuria, West Bengal, India
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14001200)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219031i268918C55D0994B3/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 7, 2025 at 10:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219046i71447262CE4956B8/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 18, 2025 at 9:00:00 AM Central European Standard Time
   - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
+- [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-hamburg-germany/ev-p/14001246)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, March 19, 2025 at 9:00:00 AM Central European Standard Time
+  - Location: SAP Schulungszentrum Hamburg, Tesdorpfstraße 8, 20148 Hamburg, Eimsbüttel, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
