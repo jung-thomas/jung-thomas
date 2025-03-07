@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Search ABAP CDS objects using Annotations. #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=B8ETW3H5ciA) (Fri Mar 07 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=0fMn7EEqa4k) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for dev objects](https://www.youtube.com/watch?v=LQ6OpqyNHqE) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for lines of code](https://www.youtube.com/watch?v=DpJmJO6LaKc) (Mon Mar 03 2025)
 - [The Art and Science of CAP (part 10) with Daniel Hutzel](https://www.youtube.com/watch?v=483aIk_-PqQ) (Fri Feb 28 2025)
 - [Sharing and Synchronizing ABAP Cleaner Profiles](https://www.youtube.com/watch?v=Rrg-fKV-6wo) (Fri Feb 28 2025)
-- [ABAP AI vids, Integration Suite Onboarding Webinar, SAP Inside Track Bangalore | SAP Developer News](https://www.youtube.com/watch?v=09aFLcOdDxQ) (Thu Feb 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14001200)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219031i268918C55D0994B3/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, March 7, 2025 at 10:00:00 AM India Standard Time
-  - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
 - [🇮🇳 Getting Started with Machine Learning and the Vector Engine using SAP HANA (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-and-the-vector-engine-using-sap-hana/ev-p/14002554)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219675i8B9E7F415C57EE23/image-size/thumb?v=v2&px=150" />
   - Start: Monday, March 10, 2025 at 10:00:00 AM India Standard Time
@@ -44,13 +40,17 @@ Follow me on:
   - Start: Tuesday, March 11, 2025 at 10:00:00 AM India Standard Time
   - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India
 - [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bielefeld-germany/ev-p/14001222)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219046i71447262CE4956B8/image-size/thumb?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 18, 2025 at 9:00:00 AM Central European Standard Time
   - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
 - [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-hamburg-germany/ev-p/14001246)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 19, 2025 at 9:00:00 AM Central European Standard Time
   - Location: SAP Schulungszentrum Hamburg, Tesdorpfstraße 8, 20148 Hamburg, Eimsbüttel, Germany
+- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
+  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
