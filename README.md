@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Explain skill in Project Explorer](https://www.youtube.com/watch?v=1qj1eV4GTP8) (Mon Mar 10 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill from Joule Chat](https://www.youtube.com/watch?v=NNVupb_2lOI) (Mon Mar 10 2025)
 - [Search ABAP CDS objects using Annotations. #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=B8ETW3H5ciA) (Fri Mar 07 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=0fMn7EEqa4k) (Thu Mar 06 2025)
+- [AI/ML Roadshow, Dev Challenge March, Function Programming, CodeConnect | SAP Developer News](https://www.youtube.com/watch?v=0fMn7EEqa4k) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for dev objects](https://www.youtube.com/watch?v=LQ6OpqyNHqE) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for lines of code](https://www.youtube.com/watch?v=DpJmJO6LaKc) (Mon Mar 03 2025)
-- [The Art and Science of CAP (part 10) with Daniel Hutzel](https://www.youtube.com/watch?v=483aIk_-PqQ) (Fri Feb 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
