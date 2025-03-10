@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill from Joule Chat](https://www.youtube.com/watch?v=NNVupb_2lOI) (Mon Mar 10 2025)
 - [Search ABAP CDS objects using Annotations. #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=B8ETW3H5ciA) (Fri Mar 07 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=0fMn7EEqa4k) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for dev objects](https://www.youtube.com/watch?v=LQ6OpqyNHqE) (Thu Mar 06 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running the explain skill for lines of code](https://www.youtube.com/watch?v=DpJmJO6LaKc) (Mon Mar 03 2025)
 - [The Art and Science of CAP (part 10) with Daniel Hutzel](https://www.youtube.com/watch?v=483aIk_-PqQ) (Fri Feb 28 2025)
-- [Sharing and Synchronizing ABAP Cleaner Profiles](https://www.youtube.com/watch?v=Rrg-fKV-6wo) (Fri Feb 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting Started with Machine Learning and the Vector Engine using SAP HANA (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-machine-learning-and-the-vector-engine-using-sap-hana/ev-p/14002554)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219675i8B9E7F415C57EE23/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, March 10, 2025 at 10:00:00 AM India Standard Time
-  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka, India
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangalore-india/ev-p/14002510)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/219656iE84F00145A175DB6/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 11, 2025 at 10:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
   - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
+- [🇦🇹 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14008974)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/224455i3EF7774C87E16E9E/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, March 20, 2025 at 10:00:00 AM Central European Standard Time
+  - Location: SAP Österreich GmbH, Lassallestraße, Vienna, Austria
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
