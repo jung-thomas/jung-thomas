@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Bangalore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangalore-india/ev-p/14002510)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/219656iE84F00145A175DB6/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, March 11, 2025 at 10:00:00 AM India Standard Time
-  - Location: Victor Building, ITPL, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India
 - [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bielefeld-germany/ev-p/14001222)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 18, 2025 at 9:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/224455i3EF7774C87E16E9E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 20, 2025 at 10:00:00 AM Central European Standard Time
   - Location: SAP Österreich GmbH, Lassallestraße, Vienna, Austria
+- [🇦🇪 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14007747)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, March 25, 2025 at 9:30:00 AM Arabian Standard Time
+  - Location: Emirates Financial Towers - Dubai - United Arab Emirates
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
