@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇭 Event-driven integrations with SAP Integration Suite, AEM (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-aem-risch-rotkreuz/ev-p/14040614)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 12, 2025 at 8:00:00 AM Central European Standard Time
-  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bielefeld-germany/ev-p/14001222)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 18, 2025 at 9:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/224455i3EF7774C87E16E9E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 20, 2025 at 10:00:00 AM Central European Standard Time
   - Location: SAP Österreich GmbH, Lassallestraße, Vienna, Austria
+- [🇦🇪 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14007747)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, March 25, 2025 at 9:30:00 AM Arabian Standard Time
+  - Location: Emirates Financial Towers - Dubai - United Arab Emirates
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
