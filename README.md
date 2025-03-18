@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=Ozc4iAPEbis) (Thu Mar 13 2025)
+- [CAP Feb Release, CodeJam News, March Dev Challenge - AI | SAP Developer News](https://www.youtube.com/watch?v=Ozc4iAPEbis) (Thu Mar 13 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running explain skill for CDS views](https://www.youtube.com/watch?v=ilpBI8EG2Z8) (Thu Mar 13 2025)
 - [See you at SAP Insider Las Vegas March 17-20th](https://www.youtube.com/watch?v=sQ7JAnpeNA8) (Wed Mar 12 2025)
 - [SAP Tech Bytes: Connect everything with SAP Integration Suite - Workday](https://www.youtube.com/watch?v=VriE9tASGLY) (Tue Mar 11 2025)
