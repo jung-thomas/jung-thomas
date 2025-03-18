@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Predictive Code Completion](https://www.youtube.com/watch?v=pCZye3cYYME) (Tue Mar 18 2025)
 - [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
 - [CAP Feb Release, CodeJam News, March Dev Challenge - AI | SAP Developer News](https://www.youtube.com/watch?v=Ozc4iAPEbis) (Thu Mar 13 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running explain skill for CDS views](https://www.youtube.com/watch?v=ilpBI8EG2Z8) (Thu Mar 13 2025)
 - [See you at SAP Insider Las Vegas March 17-20th](https://www.youtube.com/watch?v=sQ7JAnpeNA8) (Wed Mar 12 2025)
 - [SAP Tech Bytes: Connect everything with SAP Integration Suite - Workday](https://www.youtube.com/watch?v=VriE9tASGLY) (Tue Mar 11 2025)
-- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Explain skill in Project Explorer](https://www.youtube.com/watch?v=1qj1eV4GTP8) (Mon Mar 10 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bielefeld-germany/ev-p/14001222)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, March 18, 2025 at 9:00:00 AM Central European Standard Time
-  - Location: Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
 - [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-hamburg-germany/ev-p/14001246)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 19, 2025 at 9:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 25, 2025 at 9:30:00 AM Arabian Standard Time
   - Location: Emirates Financial Towers - Dubai - United Arab Emirates
+- [🇦🇪 SAP Build: Create Business Apps and Processes Without Code (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-dubai-uae/ev-p/14014842)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/225146iF3766521984C9571/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, March 26, 2025 at 9:00:00 AM Gulf Standard Time
+  - Location: ROBERT BOSCH MIDDLE EAST FZE - Dubai Airport Free Zone - Dubai - United Arab Emirates
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
