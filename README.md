@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP Build: Create Apps, Processes and Sites Without Code (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-hamburg-germany/ev-p/14001246)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 19, 2025 at 9:00:00 AM Central European Standard Time
-  - Location: SAP Schulungszentrum Hamburg, Tesdorpfstraße 8, 20148 Hamburg, Eimsbüttel, Germany
 - [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/225146iF3766521984C9571/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 26, 2025 at 9:00:00 AM Gulf Standard Time
   - Location: ROBERT BOSCH MIDDLE EAST FZE - Dubai Airport Free Zone - Dubai - United Arab Emirates
+- [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14033671)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232968i718C95C29BAA8084/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, April 1, 2025 at 2:00:00 PM Central European Summer Time
+  - Location: KMD, Inflancka 4a, Warszawa, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
