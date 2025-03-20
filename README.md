@@ -21,24 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating ABAP Unit Tests using Joule](https://www.youtube.com/watch?v=KQh036sLdbQ) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Predictive Code Completion](https://www.youtube.com/watch?v=pCZye3cYYME) (Tue Mar 18 2025)
 - [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
 - [CAP Feb Release, CodeJam News, March Dev Challenge - AI | SAP Developer News](https://www.youtube.com/watch?v=Ozc4iAPEbis) (Thu Mar 13 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running explain skill for CDS views](https://www.youtube.com/watch?v=ilpBI8EG2Z8) (Thu Mar 13 2025)
 - [See you at SAP Insider Las Vegas March 17-20th](https://www.youtube.com/watch?v=sQ7JAnpeNA8) (Wed Mar 12 2025)
-- [SAP Tech Bytes: Connect everything with SAP Integration Suite - Workday](https://www.youtube.com/watch?v=VriE9tASGLY) (Tue Mar 11 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 Service integration with SAP Cloud Application Programming Model (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/service-integration-with-sap-cloud-application-programming-model-madrid/ev-p/13962160)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/201046i48DF39914B0C9777/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 20, 2025 at 9:30:00 AM Central European Standard Time
-  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
-- [🇦🇹 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14008974)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/224455i3EF7774C87E16E9E/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 20, 2025 at 10:00:00 AM Central European Standard Time
-  - Location: SAP Österreich GmbH, Lassallestraße, Vienna, Austria
 - [🇦🇪 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14007747)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 25, 2025 at 9:30:00 AM Arabian Standard Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232968i718C95C29BAA8084/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, April 1, 2025 at 2:00:00 PM Central European Summer Time
   - Location: KMD, Inflancka 4a, Warszawa, Poland
+- [🇵🇱 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14040982)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235895i46FABE51B48AA031/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, April 3, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: EPAM Systems, Fabryczna 1A, Kraków, Poland
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14048044)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/238895iC35385427CF2C9D2/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, April 7, 2025 at 9:00:00 AM India Standard Time
+  - Location: WeWork Galaxy, 43, Residency Road, Shanthala Nagar, Ashok Nagar, Bangalore, Karnataka 560025, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
