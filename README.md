@@ -33,7 +33,7 @@ Follow me on:
 ## Upcoming SAP CodeJams
 - [🇦🇪 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14007747)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, March 25, 2025 at 9:30:00 AM Arabian Standard Time
+  - Start: Tuesday, March 25, 2025 at 9:30:00 AM Gulf Standard Time
   - Location: Emirates Financial Towers - Dubai - United Arab Emirates
 - [🇦🇪 SAP Build: Create Business Apps and Processes Without Code (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-dubai-uae/ev-p/14014842)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/225146iF3766521984C9571/image-size/thumb?v=v2&px=150" />
