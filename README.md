@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Puppies learn to use SAP Joule](https://www.youtube.com/watch?v=xbxseFznO7E) (Thu Mar 20 2025)
 - [Terraform Exporter for SAP BTP Candidate Release, ABAP2UI5-local is available | SAP Developer News](https://www.youtube.com/watch?v=vKrpkDe2mkU) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating ABAP Unit Tests using Joule](https://www.youtube.com/watch?v=KQh036sLdbQ) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Predictive Code Completion](https://www.youtube.com/watch?v=pCZye3cYYME) (Tue Mar 18 2025)
 - [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
 - [CAP Feb Release, CodeJam News, March Dev Challenge - AI | SAP Developer News](https://www.youtube.com/watch?v=Ozc4iAPEbis) (Thu Mar 13 2025)
-- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Running explain skill for CDS views](https://www.youtube.com/watch?v=ilpBI8EG2Z8) (Thu Mar 13 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
