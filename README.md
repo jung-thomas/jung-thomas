@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [Use code completion to insert signature of CDS view, Annotations, SQL functions](https://www.youtube.com/watch?v=jS3WtOjbrJw) (Fri Mar 21 2025)
 - [Puppies learn to use SAP Joule](https://www.youtube.com/watch?v=xbxseFznO7E) (Thu Mar 20 2025)
-- [Terraform Exporter for SAP BTP Candidate Release, ABAP2UI5-local is available | SAP Developer News](https://www.youtube.com/watch?v=vKrpkDe2mkU) (Thu Mar 20 2025)
+- [Joule for Developers, Terraform Exporter for BTP, ABAP2UI5, SAP Insider LV | SAP Developer News](https://www.youtube.com/watch?v=vKrpkDe2mkU) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating ABAP Unit Tests using Joule](https://www.youtube.com/watch?v=KQh036sLdbQ) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Predictive Code Completion](https://www.youtube.com/watch?v=pCZye3cYYME) (Tue Mar 18 2025)
 - [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
