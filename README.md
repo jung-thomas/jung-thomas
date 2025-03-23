@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Sun Mar 23 2025)
 - [Use code completion to insert signature of CDS view, Annotations, SQL functions](https://www.youtube.com/watch?v=jS3WtOjbrJw) (Fri Mar 21 2025)
 - [Puppies learn to use SAP Joule](https://www.youtube.com/watch?v=xbxseFznO7E) (Thu Mar 20 2025)
 - [Joule for Developers, Terraform Exporter for BTP, ABAP2UI5, SAP Insider LV | SAP Developer News](https://www.youtube.com/watch?v=vKrpkDe2mkU) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating ABAP Unit Tests using Joule](https://www.youtube.com/watch?v=KQh036sLdbQ) (Thu Mar 20 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Predictive Code Completion](https://www.youtube.com/watch?v=pCZye3cYYME) (Tue Mar 18 2025)
-- [Empty Lines Rule in ABAP Cleaner](https://www.youtube.com/watch?v=4d14vFiTJ08) (Fri Mar 14 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
