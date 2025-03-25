@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇪 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14007747)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, March 25, 2025 at 9:30:00 AM Gulf Standard Time
-  - Location: Emirates Financial Towers - Dubai - United Arab Emirates
 - [🇦🇪 SAP Build: Create Business Apps and Processes Without Code (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-dubai-uae/ev-p/14014842)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/225146iF3766521984C9571/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 26, 2025 at 9:00:00 AM Gulf Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/238895iC35385427CF2C9D2/image-size/thumb?v=v2&px=150" />
   - Start: Monday, April 7, 2025 at 9:00:00 AM India Standard Time
   - Location: WeWork Galaxy, 43, Residency Road, Shanthala Nagar, Ashok Nagar, Bangalore, Karnataka 560025, India
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14046640)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/238379iF3C7456879808B37/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, April 9, 2025 at 9:00:00 AM India Standard Time
+  - Location: Innov8 | Coworking Space in SKCL Techsquare, Guindy, Chennai, Lazer St, South Phase, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
