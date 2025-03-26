@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇪 SAP Build: Create Business Apps and Processes Without Code (Dubai, UAE)](https://community.sap.com/t5/sap-codejam/sap-build-create-business-apps-and-processes-without-code-dubai-uae/ev-p/14014842)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/225146iF3766521984C9571/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 26, 2025 at 9:00:00 AM Gulf Standard Time
-  - Location: ROBERT BOSCH MIDDLE EAST FZE - Dubai Airport Free Zone - Dubai - United Arab Emirates
 - [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14033671)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232968i718C95C29BAA8084/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, April 1, 2025 at 2:00:00 PM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/238379iF3C7456879808B37/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 9, 2025 at 9:00:00 AM India Standard Time
   - Location: Innov8 | Coworking Space in SKCL Techsquare, Guindy, Chennai, Lazer St, South Phase, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032, India
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-chennai-india/ev-p/14020719)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227384i2FA82F41910E1D8A/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, April 10, 2025 at 9:00:00 AM India Standard Time
+  - Location: Business Core Solutions, Kundrathur High Road, Gerugambakkam, Chennai, Tamil Nadu, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
