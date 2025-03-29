@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Sun Mar 23 2025)
+- [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Fri Mar 28 2025)
 - [Automatically Activate New Features After Update](https://www.youtube.com/watch?v=08oxHtwZ2kc) (Fri Mar 28 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=23cIFhBcuCU) (Thu Mar 27 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating new test classes for CDS views](https://www.youtube.com/watch?v=7GO9iHKifus) (Thu Mar 27 2025)
