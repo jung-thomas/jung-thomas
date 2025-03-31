@@ -24,7 +24,7 @@ Follow me on:
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Activating test classes for CDS views](https://www.youtube.com/watch?v=BLlHq76zGh4) (Mon Mar 31 2025)
 - [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Fri Mar 28 2025)
 - [Automatically Activate New Features After Update](https://www.youtube.com/watch?v=08oxHtwZ2kc) (Fri Mar 28 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=23cIFhBcuCU) (Thu Mar 27 2025)
+- [New EA Learning Journey, ABAP Cloud Shorts, What's New HANA Cloud | SAP Developer News](https://www.youtube.com/watch?v=23cIFhBcuCU) (Thu Mar 27 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating new test classes for CDS views](https://www.youtube.com/watch?v=7GO9iHKifus) (Thu Mar 27 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Find Unfriendly Dependencies](https://www.youtube.com/watch?v=6en1qRQFl94) (Mon Mar 24 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
