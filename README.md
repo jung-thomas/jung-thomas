@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14033671)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232968i718C95C29BAA8084/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, April 1, 2025 at 2:00:00 PM Central European Summer Time
-  - Location: KMD, Inflancka 4a, Warszawa, Poland
 - [🇵🇱 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14040982)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235895i46FABE51B48AA031/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 3, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227384i2FA82F41910E1D8A/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 10, 2025 at 9:00:00 AM India Standard Time
   - Location: Business Core Solutions, Kundrathur High Road, Gerugambakkam, Chennai, Tamil Nadu, India
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, Texas, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-texas-usa/ev-p/14043737)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 11, 2025 at 9:00:00 AM Central Daylight Time
+  - Location: 6001 Savoy Drive, Houston, TX 77036, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
