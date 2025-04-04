@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating an ISLM Scenario & Model](https://www.youtube.com/watch?v=hcIntBTfSSs) (Thu Apr 03 2025)
 - [Enable GenAI in SAP Build Solution Portfolio #SAPBuild #SAPBuildProcess Automation #SAPBuildCode](https://www.youtube.com/watch?v=qPOxwDLFPhQ) (Tue Apr 01 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Activating test classes for CDS views](https://www.youtube.com/watch?v=BLlHq76zGh4) (Mon Mar 31 2025)
 - [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Fri Mar 28 2025)
 - [Automatically Activate New Features After Update](https://www.youtube.com/watch?v=08oxHtwZ2kc) (Fri Mar 28 2025)
-- [New EA Learning Journey, ABAP Cloud Shorts, What's New HANA Cloud | SAP Developer News](https://www.youtube.com/watch?v=23cIFhBcuCU) (Thu Mar 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
