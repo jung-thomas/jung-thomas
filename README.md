@@ -21,24 +21,20 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using your own ISLM Scenario](https://www.youtube.com/watch?v=bkHNORCLPiI) (Mon Apr 07 2025)
+- [Introduction to Formulas in SAP Build Apps - Part 1](https://www.youtube.com/watch?v=-df2YK11Jz8) (Mon Apr 07 2025)
 - [Working with the Relation Explorer #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=FuThIM3aHpw) (Fri Apr 04 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating an ISLM Scenario & Model](https://www.youtube.com/watch?v=hcIntBTfSSs) (Thu Apr 03 2025)
 - [Enable GenAI in SAP Build Solution Portfolio #SAPBuild #SAPBuildProcess Automation #SAPBuildCode](https://www.youtube.com/watch?v=qPOxwDLFPhQ) (Tue Apr 01 2025)
-- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Activating test classes for CDS views](https://www.youtube.com/watch?v=BLlHq76zGh4) (Mon Mar 31 2025)
-- [Let's explore functional programming (part 1)](https://www.youtube.com/watch?v=CpvJcdoZ7yE) (Fri Mar 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14048044)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/238895iC35385427CF2C9D2/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, April 7, 2025 at 9:00:00 AM India Standard Time
-  - Location: WeWork Galaxy, 43, Residency Road, Shanthala Nagar, Ashok Nagar, Bangalore, Karnataka 560025, India
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14046640)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/238379iF3C7456879808B37/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 9, 2025 at 9:00:00 AM India Standard Time
-  - Location: Innov8 | Coworking Space in SKCL Techsquare, Guindy, Chennai, Lazer St, South Phase, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032, India
+  - Location: Innov8 Coworking Space Millenia, Campus-1a, Kodandarama Nagar, Perungudi, Chennai, Tamil Nadu 600096, India
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-chennai-india/ev-p/14020719)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227384i2FA82F41910E1D8A/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 10, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/225144i28FA9733B5EBEA20/image-size/thumb?v=v2&px=150" />
   - Start: Saturday, April 12, 2025 at 10:00:00 AM Arabian Standard Time
   - Location: NTT DATA Business Solutions Turkey, Barbaros, Begonya Sokak, Ataşehir/İstanbul, Türkiye
+- [🇵🇱 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14035745)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/233852i62EDF8ABD38C2FCC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, April 24, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: KION Business Services Polska, Puszkarska, Kraków, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
