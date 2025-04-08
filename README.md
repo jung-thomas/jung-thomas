@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Create DATA TYPE in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation](https://www.youtube.com/watch?v=m0UI1qzZ4Y8) (Tue Apr 08 2025)
 - [SAP Build Process Automation Triggers- Form and API Triggers](https://www.youtube.com/watch?v=rQjCJI38Jq4) (Mon Apr 07 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using your own ISLM Scenario](https://www.youtube.com/watch?v=bkHNORCLPiI) (Mon Apr 07 2025)
 - [Introduction to Formulas in SAP Build Apps - Part 1](https://www.youtube.com/watch?v=-df2YK11Jz8) (Mon Apr 07 2025)
 - [Working with the Relation Explorer #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=FuThIM3aHpw) (Fri Apr 04 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
-- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Creating an ISLM Scenario & Model](https://www.youtube.com/watch?v=hcIntBTfSSs) (Thu Apr 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
