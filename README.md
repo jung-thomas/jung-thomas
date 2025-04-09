@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Build Process Automation - (Part-3) Triggers - Form and API Triggers](https://www.youtube.com/watch?v=Wn-mxCqPB6k) (Wed Apr 09 2025)
 - [Create DATA TYPE in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation](https://www.youtube.com/watch?v=m0UI1qzZ4Y8) (Tue Apr 08 2025)
-- [SAP Build Process Automation Triggers- Form and API Triggers](https://www.youtube.com/watch?v=rQjCJI38Jq4) (Mon Apr 07 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using your own ISLM Scenario](https://www.youtube.com/watch?v=bkHNORCLPiI) (Mon Apr 07 2025)
 - [Introduction to Formulas in SAP Build Apps - Part 1](https://www.youtube.com/watch?v=-df2YK11Jz8) (Mon Apr 07 2025)
 - [Working with the Relation Explorer #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=FuThIM3aHpw) (Fri Apr 04 2025)
@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14046640)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/238379iF3C7456879808B37/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, April 9, 2025 at 9:00:00 AM India Standard Time
-  - Location: Innov8 Coworking Space Millenia, Campus-1a, Kodandarama Nagar, Perungudi, Chennai, Tamil Nadu 600096, India
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-chennai-india/ev-p/14020719)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227384i2FA82F41910E1D8A/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 10, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/233852i62EDF8ABD38C2FCC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 24, 2025 at 10:00:00 AM Central European Summer Time
   - Location: KION Business Services Polska, Puszkarska, Kraków, Poland
+- [🇺🇸 Build AI services using the SAP Cloud Application Programming Model, and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14068639)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/247736iBB82B364408159B8/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
+  - Location: SAP America Inc., 3999 West Chester Pike, Newtown Square, PA, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
