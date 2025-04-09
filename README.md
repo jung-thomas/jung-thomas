@@ -26,7 +26,7 @@ Follow me on:
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using your own ISLM Scenario](https://www.youtube.com/watch?v=bkHNORCLPiI) (Mon Apr 07 2025)
 - [Introduction to Formulas in SAP Build Apps - Part 1](https://www.youtube.com/watch?v=-df2YK11Jz8) (Mon Apr 07 2025)
 - [Working with the Relation Explorer #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=FuThIM3aHpw) (Fri Apr 04 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
+- [April Dev Challenge, Gen AI in Process Automation and Build Apps, BTP Usability | SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
