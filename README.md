@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Create FORM in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation #GenAI](https://www.youtube.com/watch?v=3YABWbaR7Eo) (Thu Apr 10 2025)
 - [SAP Build Process Automation:(Part-3) Triggers - Form, API Trigger testing with Postman Client](https://www.youtube.com/watch?v=Wn-mxCqPB6k) (Wed Apr 09 2025)
 - [Create DATA TYPE in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation](https://www.youtube.com/watch?v=m0UI1qzZ4Y8) (Tue Apr 08 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using your own ISLM Scenario](https://www.youtube.com/watch?v=bkHNORCLPiI) (Mon Apr 07 2025)
 - [Introduction to Formulas in SAP Build Apps - Part 1](https://www.youtube.com/watch?v=-df2YK11Jz8) (Mon Apr 07 2025)
 - [Working with the Relation Explorer #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=FuThIM3aHpw) (Fri Apr 04 2025)
-- [April Dev Challenge, Gen AI in Process Automation and Build Apps, BTP Usability | SAP Developer News](https://www.youtube.com/watch?v=d2-7I45KCac) (Thu Apr 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Chennai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-chennai-india/ev-p/14020719)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227384i2FA82F41910E1D8A/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, April 10, 2025 at 9:00:00 AM India Standard Time
-  - Location: Business Core Solutions, Kundrathur High Road, Gerugambakkam, Chennai, Tamil Nadu, India
 - [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, Texas, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-texas-usa/ev-p/14043737)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232228i850F521D5436F0F2/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 11, 2025 at 9:00:00 AM Central Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/247736iBB82B364408159B8/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
   - Location: SAP America Inc., 3999 West Chester Pike, Newtown Square, PA, USA
+- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: Berliner Platz 9, 44623 Herne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
