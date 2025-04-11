@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Standardize Class Definition](https://www.youtube.com/watch?v=V0EbfrKqkJM) (Fri Apr 11 2025)
+- [Standardize Class Definition #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=V0EbfrKqkJM) (Fri Apr 11 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=kUeEVoJMsqQ) (Thu Apr 10 2025)
 - [Create FORM in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation #GenAI](https://www.youtube.com/watch?v=3YABWbaR7Eo) (Thu Apr 10 2025)
 - [SAP Build Process Automation:(Part-3) Triggers - Form, API Trigger testing with Postman Client](https://www.youtube.com/watch?v=Wn-mxCqPB6k) (Wed Apr 09 2025)
@@ -47,10 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/247736iBB82B364408159B8/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
   - Location: SAP America Inc., 3999 West Chester Pike, Newtown Square, PA, USA
-- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Berliner Platz 9, 44623 Herne, Germany
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14073383)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/249692i2E76B339D0EBE813/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, May 8, 2025 at 9:00:00 AM India Standard Time
+  - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
