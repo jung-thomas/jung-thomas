@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇹🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14014827)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/225144i28FA9733B5EBEA20/image-size/thumb?v=v2&px=150" />
-  - Start: Saturday, April 12, 2025 at 10:00:00 AM Arabian Standard Time
-  - Location: NTT DATA Business Solutions Turkey, Barbaros, Begonya Sokak, Ataşehir/İstanbul, Türkiye
 - [🇵🇱 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14035745)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/233852i62EDF8ABD38C2FCC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, April 24, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Berliner Platz 9, 44623 Herne, Germany
+- [🇮🇹 SAP Build: Create Apps, Processes and Sites Without Code (Brescia, Italy)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-brescia-italy/ev-p/14047456)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227172i30D5A9A9533C79FF/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, May 19, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Via Antonio Panigada, 15, 25126 Brescia, BS, Italy
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
