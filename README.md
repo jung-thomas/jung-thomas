@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [Introduction to Formulas in SAP Build Apps - Part 2](https://www.youtube.com/watch?v=39jN3gBHh8o) (Mon Apr 14 2025)
 - [Standardize Class Definition #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=V0EbfrKqkJM) (Fri Apr 11 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=kUeEVoJMsqQ) (Thu Apr 10 2025)
+- [Future of Data & AI, Apeiro & NeoNephos, CAP March Rel, Free Student Learning | SAP Developer News](https://www.youtube.com/watch?v=kUeEVoJMsqQ) (Thu Apr 10 2025)
 - [Create FORM in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation #GenAI](https://www.youtube.com/watch?v=3YABWbaR7Eo) (Thu Apr 10 2025)
 - [SAP Build Process Automation:(Part-3) Triggers - Form, API Trigger testing with Postman Client](https://www.youtube.com/watch?v=Wn-mxCqPB6k) (Wed Apr 09 2025)
 - [Create DATA TYPE in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation](https://www.youtube.com/watch?v=m0UI1qzZ4Y8) (Tue Apr 08 2025)
