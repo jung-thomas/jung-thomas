@@ -40,7 +40,7 @@ Follow me on:
   - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
   - Location: SAP America Inc., 3999 West Chester Pike, Newtown Square, PA, USA
 - [🇩🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14077893)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251536i9AE4F48EEC4DE172/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251536i9AE4F48EEC4DE172/image-size/thumb?v=v2&px=150" />
   - Start: Monday, April 28, 2025 at 9:00:00 AM Central European Summer Time
   - Location: SAP AppHaus, Bergheimer Straße, Heidelberg, Bergheim, Germany
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14073383)
