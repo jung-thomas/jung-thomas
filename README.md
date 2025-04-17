@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=04Xcj789Gaw) (Thu Apr 17 2025)
+- [SAP Build Process Automation: (Part-4) - Event Triggers](https://www.youtube.com/watch?v=ZxSiE5ANlWY) (Thu Apr 17 2025)
 - [Let's explore functional programming (part 2)](https://www.youtube.com/watch?v=4XLCRF1Cc9w) (Wed Apr 16 2025)
+- [Extending SAP S/4HANA With SAP Build Code and Joule](https://www.youtube.com/watch?v=EjDarkotQpI) (Tue Apr 15 2025)
 - [Create a Business PROCESS in SAP Build Process Automation using Generative AI #SAPBuild #SBPA](https://www.youtube.com/watch?v=j9CMArd3fjo) (Tue Apr 15 2025)
 - [Introduction to Formulas in SAP Build Apps - Part 2](https://www.youtube.com/watch?v=39jN3gBHh8o) (Mon Apr 14 2025)
-- [Standardize Class Definition #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=V0EbfrKqkJM) (Fri Apr 11 2025)
-- [Future of Data & AI, Apeiro & NeoNephos, CAP March Rel, Free Student Learning | SAP Developer News](https://www.youtube.com/watch?v=kUeEVoJMsqQ) (Thu Apr 10 2025)
-- [Create FORM in SAP Build Process Automation using Generative AI #SAPBuildProcessAutomation #GenAI](https://www.youtube.com/watch?v=3YABWbaR7Eo) (Thu Apr 10 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
