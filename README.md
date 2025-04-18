@@ -22,11 +22,11 @@ Follow me on:
   
 ## Videos and Live Streams
 - [SAP Developer News](https://www.youtube.com/watch?v=04Xcj789Gaw) (Thu Apr 17 2025)
-- [SAP Build Process Automation: (Part-4) - Event Triggers](https://www.youtube.com/watch?v=ZxSiE5ANlWY) (Thu Apr 17 2025)
-- [Let's explore functional programming (part 2)](https://www.youtube.com/watch?v=4XLCRF1Cc9w) (Wed Apr 16 2025)
-- [Extending SAP S/4HANA With SAP Build Code and Joule](https://www.youtube.com/watch?v=EjDarkotQpI) (Tue Apr 15 2025)
-- [Create a Business PROCESS in SAP Build Process Automation using Generative AI #SAPBuild #SBPA](https://www.youtube.com/watch?v=j9CMArd3fjo) (Tue Apr 15 2025)
-- [Introduction to Formulas in SAP Build Apps - Part 2](https://www.youtube.com/watch?v=39jN3gBHh8o) (Mon Apr 14 2025)
+- [Extend S/4HANA: Part 16 Test from SAP HANA DB Explorer](https://www.youtube.com/watch?v=qTjKHgdAdzM) (Thu Apr 17 2025)
+- [Extend S/4HANA: Part 15 HANA Cloud Instance Mapping](https://www.youtube.com/watch?v=u4UxTKHts-k) (Thu Apr 17 2025)
+- [Extend S/4HANA: Part 14 Provision SAP HANA Cloud](https://www.youtube.com/watch?v=p9vTmg2z88o) (Thu Apr 17 2025)
+- [Extend S/4HANA: Part 13 Task Explorer to Deploy App](https://www.youtube.com/watch?v=lyUJdnt-G_k) (Thu Apr 17 2025)
+- [Extend S/4HANA: Part 12 Create New UI Application Wizard](https://www.youtube.com/watch?v=jYUd_1fU5us) (Thu Apr 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -47,10 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/249692i2E76B339D0EBE813/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 8, 2025 at 9:00:00 AM India Standard Time
   - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032, India
-- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Berliner Platz 9, 44623 Herne, Germany
+- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14079395)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/252219iA1D5E8FB96AB8016/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, May 9, 2025 at 9:00:00 AM India Standard Time
+  - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
