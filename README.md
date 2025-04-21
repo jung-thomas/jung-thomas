@@ -23,7 +23,7 @@ Follow me on:
 ## Videos and Live Streams
 - [Active/Inactive version of a development object in ADT #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=VsUj1o6edNg) (Fri Apr 18 2025)
 - [SAP Build Process Automation: (Part-4) - Event Triggers](https://www.youtube.com/watch?v=ZxSiE5ANlWY) (Fri Apr 18 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=04Xcj789Gaw) (Thu Apr 17 2025)
+- [Removal of Themes, SQL on Files, BTP Root Certificate, Integration Migration | SAP Developer News](https://www.youtube.com/watch?v=04Xcj789Gaw) (Thu Apr 17 2025)
 - [Extend S/4HANA: Part 16 Test from SAP HANA DB Explorer](https://www.youtube.com/watch?v=qTjKHgdAdzM) (Thu Apr 17 2025)
 - [Extend S/4HANA: Part 15 HANA Cloud Instance Mapping](https://www.youtube.com/watch?v=u4UxTKHts-k) (Thu Apr 17 2025)
 - [Extend S/4HANA: Part 14 Provision SAP HANA Cloud](https://www.youtube.com/watch?v=p9vTmg2z88o) (Thu Apr 17 2025)
