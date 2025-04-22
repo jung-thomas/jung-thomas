@@ -48,7 +48,7 @@ Follow me on:
   - Start: Thursday, May 8, 2025 at 9:00:00 AM India Standard Time
   - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032, India
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14079395)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/252219iA1D5E8FB96AB8016/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/252219iA1D5E8FB96AB8016/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 9, 2025 at 9:00:00 AM India Standard Time
   - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
