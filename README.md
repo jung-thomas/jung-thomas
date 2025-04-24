@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Extend S/4HANA: Part 3 Joule Project Generation](https://www.youtube.com/watch?v=SpGSQRpXFHw) (Wed Apr 23 2025)
+- [Extend S/4HANA: Part 3 Joule Project Generation](https://www.youtube.com/watch?v=SpGSQRpXFHw) (Thu Apr 24 2025)
+- [SAP Build news,New Basic Trial available,Event Mesh bridge, Developer Hub | SAP Developer News](https://www.youtube.com/watch?v=9YcPBZZpw6E) (Thu Apr 24 2025)
 - [Extend S/4HANA: Part 2 SAP Build Lobby](https://www.youtube.com/watch?v=cbKuPy9KKRY) (Wed Apr 23 2025)
 - [Extend S/4HANA: Part 1 Introduction](https://www.youtube.com/watch?v=WCyWypdL1n0) (Tue Apr 22 2025)
 - [Extending SAP S/4HANA With SAP Build and Joule](https://www.youtube.com/watch?v=l0xvVxkFv3Y) (Mon Apr 21 2025)
 - [Active/Inactive version of a development object in ADT #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=VsUj1o6edNg) (Fri Apr 18 2025)
-- [SAP Build Process Automation: (Part-4) - Event Triggers](https://www.youtube.com/watch?v=ZxSiE5ANlWY) (Fri Apr 18 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14035745)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/233852i62EDF8ABD38C2FCC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, April 24, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: KION Business Services Polska, Puszkarska, Kraków, Poland
 - [🇺🇸 Build AI services using the SAP Cloud Application Programming Model, and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14068639)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/247736iBB82B364408159B8/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/254135i0F4242E85F04CE07/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 9, 2025 at 9:00:00 AM India Standard Time
   - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
+- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: Berliner Platz 9, 44623 Herne, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
