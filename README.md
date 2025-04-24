@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [Extend S/4HANA: Part 3 Joule Project Generation](https://www.youtube.com/watch?v=SpGSQRpXFHw) (Thu Apr 24 2025)
-- [SAP Build news,New Basic Trial available,Event Mesh bridge, Developer Hub | SAP Developer News](https://www.youtube.com/watch?v=9YcPBZZpw6E) (Thu Apr 24 2025)
+- [SAP Developer News](https://www.youtube.com/watch?v=9YcPBZZpw6E) (Thu Apr 24 2025)
 - [Extend S/4HANA: Part 2 SAP Build Lobby](https://www.youtube.com/watch?v=cbKuPy9KKRY) (Wed Apr 23 2025)
 - [Extend S/4HANA: Part 1 Introduction](https://www.youtube.com/watch?v=WCyWypdL1n0) (Tue Apr 22 2025)
 - [Extending SAP S/4HANA With SAP Build and Joule](https://www.youtube.com/watch?v=l0xvVxkFv3Y) (Mon Apr 21 2025)
