@@ -21,24 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Let's explore functional programming (part 2)](https://www.youtube.com/watch?v=4XLCRF1Cc9w) (Wed Apr 16 2025)
-- [Displaying Code Element Information  #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=Okg9FTmRkq0) (Fri Apr 25 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=9YcPBZZpw6E) (Thu Apr 24 2025)
-- [Extend S/4HANA: Part 3 Joule Project Generation](https://www.youtube.com/watch?v=SpGSQRpXFHw) (Thu Apr 24 2025)
-- [SAP Build Process Automation:( Part-5 ) Scheduled Triggers](https://www.youtube.com/watch?v=woGvQGPvvMQ) (Thu Apr 24 2025)
-- [Extend S/4HANA: Part 2 SAP Build Lobby](https://www.youtube.com/watch?v=cbKuPy9KKRY) (Wed Apr 23 2025)
+- [Extend S/4HANA: Part 8 Authorization Editor](https://www.youtube.com/watch?v=79ST3XtJ8Gg) (Wed Apr 30 2025)
+- [Extend S/4HANA: SAP Build Lobby #coding #saps4hana #sapbuild #joule](https://www.youtube.com/watch?v=5M4m9Fc_Suc) (Tue Apr 29 2025)
+- [SAP Build Process Automation:( Part-5 ) Scheduled Triggers](https://www.youtube.com/watch?v=woGvQGPvvMQ) (Tue Apr 29 2025)
+- [Extend S/4HANA: Part 7 Storyboard & Graphical View](https://www.youtube.com/watch?v=S9Uptw6TDkQ) (Mon Apr 28 2025)
+- [EXPLAIN/SUMMARISE SAP Build Process Automation PROJECT with Generative AI](https://www.youtube.com/watch?v=uKGJTyY3lUs) (Mon Apr 28 2025)
+- [Extend S/4HANA: Part 6 Generate CAP Application Logic](https://www.youtube.com/watch?v=LhTD6n7p2T0) (Sun Apr 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 Build AI services using the SAP Cloud Application Programming Model, and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14068639)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/247736iBB82B364408159B8/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, April 25, 2025 at 9:30:00 AM Eastern Daylight Time
-  - Location: SAP America Inc., 3999 West Chester Pike, Newtown Square, PA, USA
-- [🇩🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14077893)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251536i9AE4F48EEC4DE172/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, April 28, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: SAP AppHaus, Bergheimer Straße, Heidelberg, Bergheim, Germany
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14073383)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/249692i2E76B339D0EBE813/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 8, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Berliner Platz 9, 44623 Herne, Germany
+- [🇵🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14078188)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256702i69271A18E15C2BA5/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, May 16, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: Capgemini Polska, Legnicka 48H, Wrocław, Poland
+- [🇮🇹 SAP Build: Create Apps, Processes and Sites Without Code (Brescia, Italy)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-brescia-italy/ev-p/14047456)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227172i30D5A9A9533C79FF/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, May 19, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Via Antonio Panigada, 15, 25126 Brescia, BS, Italy
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
