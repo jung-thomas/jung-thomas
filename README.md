@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore functional programming (part 3)](https://www.youtube.com/watch?v=zVyxUWAnM2c) (Fri Apr 25 2025)
 - [Changing Colors for ABAP Source Code #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=NA2V-jTrKh4) (Fri May 02 2025)
 - [ABAP Challenge, UI5, SAP Integration suite Adapters, Build Wizard, New Pricing | SAP Developer News](https://www.youtube.com/watch?v=uZ2O8Krv3rE) (Thu May 01 2025)
 - [Extend S/4HANA: Part 8 Authorization Editor](https://www.youtube.com/watch?v=79ST3XtJ8Gg) (Wed Apr 30 2025)
 - [Extend S/4HANA: SAP Build Lobby #coding #saps4hana #sapbuild #joule](https://www.youtube.com/watch?v=5M4m9Fc_Suc) (Tue Apr 29 2025)
 - [SAP Build Process Automation:( Part-5 ) Scheduled Triggers](https://www.youtube.com/watch?v=woGvQGPvvMQ) (Tue Apr 29 2025)
-- [Extend S/4HANA: Part 7 Storyboard & Graphical View](https://www.youtube.com/watch?v=S9Uptw6TDkQ) (Mon Apr 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -44,7 +44,7 @@ Follow me on:
   - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Berliner Platz 9, 44623 Herne, Germany
 - [🇵🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14078188)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256702i69271A18E15C2BA5/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256702i69271A18E15C2BA5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 16, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Capgemini Polska, Legnicka 48H, Wrocław, Poland
 - [🇮🇹 SAP Build: Create Apps, Processes and Sites Without Code (Brescia, Italy)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-brescia-italy/ev-p/14047456)
