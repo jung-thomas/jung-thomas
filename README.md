@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Let's explore functional programming (part 3)](https://www.youtube.com/watch?v=zVyxUWAnM2c) (Fri Apr 25 2025)
+- [Let's explore functional programming (part 3)](https://www.youtube.com/watch?v=zVyxUWAnM2c) (Fri May 02 2025)
+- [Extend S/4HANA: Part 9 Add a New External Resource](https://www.youtube.com/watch?v=q4Q7lgNYKAo) (Fri May 02 2025)
 - [Changing Colors for ABAP Source Code #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=NA2V-jTrKh4) (Fri May 02 2025)
 - [ABAP Challenge, UI5, SAP Integration suite Adapters, Build Wizard, New Pricing | SAP Developer News](https://www.youtube.com/watch?v=uZ2O8Krv3rE) (Thu May 01 2025)
 - [Extend S/4HANA: Part 8 Authorization Editor](https://www.youtube.com/watch?v=79ST3XtJ8Gg) (Wed Apr 30 2025)
 - [Extend S/4HANA: SAP Build Lobby #coding #saps4hana #sapbuild #joule](https://www.youtube.com/watch?v=5M4m9Fc_Suc) (Tue Apr 29 2025)
-- [SAP Build Process Automation:( Part-5 ) Scheduled Triggers](https://www.youtube.com/watch?v=woGvQGPvvMQ) (Tue Apr 29 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
