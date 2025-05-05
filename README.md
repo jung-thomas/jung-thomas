@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Extend S/4HANA: Part 11 Test Application Locally](https://www.youtube.com/watch?v=nBuhHtANRqU) (Sun May 04 2025)
 - [Extend S/4HANA: Part 10 Joule Generates Logic for Service Call](https://www.youtube.com/watch?v=-znf_ipmGUA) (Sat May 03 2025)
 - [Let's explore functional programming (part 3)](https://www.youtube.com/watch?v=zVyxUWAnM2c) (Fri May 02 2025)
 - [Extend S/4HANA: Part 9 Add a New External Resource](https://www.youtube.com/watch?v=q4Q7lgNYKAo) (Fri May 02 2025)
 - [Changing Colors for ABAP Source Code #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=NA2V-jTrKh4) (Fri May 02 2025)
 - [ABAP Challenge, UI5, SAP Integration suite Adapters, Build Wizard, New Pricing | SAP Developer News](https://www.youtube.com/watch?v=uZ2O8Krv3rE) (Thu May 01 2025)
-- [Extend S/4HANA: Part 8 Authorization Editor](https://www.youtube.com/watch?v=79ST3XtJ8Gg) (Wed Apr 30 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
