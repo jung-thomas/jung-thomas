@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14073383)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/249692i2E76B339D0EBE813/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 8, 2025 at 9:00:00 AM India Standard Time
-  - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana 500032, India
 - [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14079395)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/254135i0F4242E85F04CE07/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 9, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227172i30D5A9A9533C79FF/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 19, 2025 at 9:00:00 AM Central European Summer Time
   - Location: Via Antonio Panigada, 15, 25126 Brescia, BS, Italy
+- [🇨🇭 SAP Build: Create Event-Based Processes (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-risch-rotkreuz-switzerland/ev-p/14040209)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, May 21, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
