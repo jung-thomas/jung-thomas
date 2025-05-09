@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14079395)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/254135i0F4242E85F04CE07/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, May 9, 2025 at 9:00:00 AM India Standard Time
-  - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
 - [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇨🇭 SAP Build: Create Event-Based Processes (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-risch-rotkreuz-switzerland/ev-p/14040209)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 21, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
+- [🇨🇭 Event-driven integrations with SAP Integration Suite, AEM (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-aem-risch-rotkreuz/ev-p/14040614)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 22, 2025 at 9:00:00 AM Central European Summer Time
   - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
