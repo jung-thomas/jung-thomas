@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore functional programming (part 4)](https://www.youtube.com/watch?v=1j253luGOlU) (Fri May 09 2025)
 - [Let's explore functional programming (part 5)](https://www.youtube.com/watch?v=8eKWxP3F6xc) (Fri May 09 2025)
-- [Let's explore functional programming (part 4)](https://www.youtube.com/watch?v=1j253luGOlU) (Tue May 06 2025)
 - [Mass Import Excel to SAP CAP, SAP HANA Cloud Graph Engine,SAP Fiori newsletter | SAP Developer News](https://www.youtube.com/watch?v=7L19pz9--g0) (Thu May 08 2025)
 - [Extend S/4HANA: Part 14 Provision SAP HANA Cloud](https://www.youtube.com/watch?v=p9vTmg2z88o) (Wed May 07 2025)
 - [Extend S/4HANA: Part 13 Task Explorer to Deploy App](https://www.youtube.com/watch?v=lyUJdnt-G_k) (Tue May 06 2025)
