@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14021560)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227782i43DD2B800C6C30C3/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 15, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Berliner Platz 9, 44623 Herne, Germany
 - [🇵🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14078188)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/256702i69271A18E15C2BA5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 16, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 22, 2025 at 9:00:00 AM Central European Summer Time
   - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
+- [🇳🇱 SAP CodeJam: Service Integration with CAP ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/sap-codejam-service-integration-with-cap-s-hertogenbosch-nl/ev-p/14032345)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232442i08DF9A2D960F3B05/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, May 23, 2025 at 8:30:00 AM British Summer Time
+  - Location: Amerikastraat 7-11, 5232 BE 's-Hertogenbosch, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
