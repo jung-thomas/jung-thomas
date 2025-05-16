@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Let's explore functional programming (part 5)](https://www.youtube.com/watch?v=8eKWxP3F6xc) (Fri May 09 2025)
 - [Replace Obsolete Statements using ABAP Cleaner #abapcloud #goodtoknow #abapcleaner](https://www.youtube.com/watch?v=hu3Gc694Y3k) (Fri May 16 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=KTvMTQyEemE) (Thu May 15 2025)
 - [Extend S/4HANA: Part 16 Test from SAP HANA DB Explorer](https://www.youtube.com/watch?v=qTjKHgdAdzM) (Tue May 13 2025)
 - [Extend S/4HANA: Part 15 HANA Cloud Instance Mapping](https://www.youtube.com/watch?v=u4UxTKHts-k) (Mon May 12 2025)
 - [Let's explore functional programming (part 4)](https://www.youtube.com/watch?v=1j253luGOlU) (Fri May 09 2025)
-- [Let's explore functional programming (part 5)](https://www.youtube.com/watch?v=8eKWxP3F6xc) (Fri May 09 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14078188)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256702i69271A18E15C2BA5/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, May 16, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Capgemini Polska, Legnicka 48H, Wrocław, Poland
 - [🇮🇹 SAP Build: Create Apps, Processes and Sites Without Code (Brescia, Italy)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-brescia-italy/ev-p/14047456)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/227172i30D5A9A9533C79FF/image-size/thumb?v=v2&px=150" />
   - Start: Monday, May 19, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232442i08DF9A2D960F3B05/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 23, 2025 at 8:30:00 AM British Summer Time
   - Location: Amerikastraat 7-11, 5232 BE 's-Hertogenbosch, Netherlands
+- [🇬🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14090952)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256701i84F4BD7891392CF3/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, May 29, 2025 at 11:00:00 AM Samara Standard Time
+  - Location: EPAM Georgia, Bidzina Kvernadze Street, Tbilisi, Georgia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
