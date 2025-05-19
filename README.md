@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇹 SAP Build: Create Apps, Processes and Sites Without Code (Brescia, Italy)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-brescia-italy/ev-p/14047456)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/227172i30D5A9A9533C79FF/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, May 19, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: Via Antonio Panigada, 15, 25126 Brescia, BS, Italy
 - [🇨🇭 SAP Build: Create Event-Based Processes (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-risch-rotkreuz-switzerland/ev-p/14040209)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, May 21, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/256701i84F4BD7891392CF3/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 29, 2025 at 11:00:00 AM Samara Standard Time
   - Location: EPAM Georgia, Bidzina Kvernadze Street, Tbilisi, Georgia
+- [🇪🇸 Getting started with Generative AI Hub on SAP AI Core (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-madrid-spain/ev-p/14082043)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/253036i11014557C6761CF2/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, May 30, 2025 at 9:30:00 AM Central European Summer Time
+  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
