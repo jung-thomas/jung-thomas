@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [List Formula Functions in SAP Build - Part 3](https://www.youtube.com/watch?v=0BVElz99kbU) (Tue May 20 2025)
 - [01 - ABAP Cloud - Expose ABAP CDS view using Communication Arrangement](https://www.youtube.com/watch?v=3QoP-6cTDm4) (Mon May 19 2025)
 - [Let's explore functional programming (part 5)](https://www.youtube.com/watch?v=8eKWxP3F6xc) (Fri May 16 2025)
 - [Replace Obsolete Statements using ABAP Cleaner #abapcloud #goodtoknow #abapcleaner](https://www.youtube.com/watch?v=hu3Gc694Y3k) (Fri May 16 2025)
 - [CAP April Rel, May Dev Challenge, Sapphire, AI CodeJam Roadshow US | SAP Developer News](https://www.youtube.com/watch?v=KTvMTQyEemE) (Thu May 15 2025)
 - [Extend S/4HANA: Part 16 Test from SAP HANA DB Explorer](https://www.youtube.com/watch?v=qTjKHgdAdzM) (Tue May 13 2025)
-- [Extend S/4HANA: Part 15 HANA Cloud Instance Mapping](https://www.youtube.com/watch?v=u4UxTKHts-k) (Mon May 12 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
