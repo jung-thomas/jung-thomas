@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇭 SAP Build: Create Event-Based Processes (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-risch-rotkreuz-switzerland/ev-p/14040209)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, May 21, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - [🇨🇭 Event-driven integrations with SAP Integration Suite, AEM (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-aem-risch-rotkreuz/ev-p/14040614)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 22, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/253036i11014557C6761CF2/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 30, 2025 at 9:30:00 AM Central European Summer Time
   - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
+- [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Odisha, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-odisha-india/ev-p/14094382)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/258076i4531C8804B62D9F0/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 6, 2025 at 9:30:00 AM India Standard Time
+  - Location: Hotel Suraj Palace, Infocity Avenue, Chandrasekharpur, Bhubaneswar, Odisha, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
