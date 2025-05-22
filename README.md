@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇭 Event-driven integrations with SAP Integration Suite, AEM (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-aem-risch-rotkreuz/ev-p/14040614)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 22, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - [🇳🇱 SAP CodeJam: Service Integration with CAP ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/sap-codejam-service-integration-with-cap-s-hertogenbosch-nl/ev-p/14032345)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/232442i08DF9A2D960F3B05/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 23, 2025 at 8:30:00 AM British Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/258076i4531C8804B62D9F0/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 6, 2025 at 9:30:00 AM India Standard Time
   - Location: Hotel Suraj Palace, Infocity Avenue, Chandrasekharpur, Bhubaneswar, Odisha, India
+- [🇵🇱 Hands-on with the btp CLI and APIs (Wrocław, PL)](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis-wroc%C5%82aw-pl/ev-p/14105401)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/262977iC033736D7175628B/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 6, 2025 at 8:30:00 AM British Summer Time
+  - Location: Fabryczna 14g/2nd floor room 220, 53-609 Wrocław, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
