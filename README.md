@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 SAP CodeJam: Service Integration with CAP ('s-Hertogenbosch, NL)](https://community.sap.com/t5/sap-codejam/sap-codejam-service-integration-with-cap-s-hertogenbosch-nl/ev-p/14032345)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/232442i08DF9A2D960F3B05/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, May 23, 2025 at 8:30:00 AM British Summer Time
-  - Location: Amerikastraat 7-11, 5232 BE 's-Hertogenbosch, Netherlands
 - [🇬🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14090952)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/256701i84F4BD7891392CF3/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, May 29, 2025 at 11:00:00 AM Samara Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/262977iC033736D7175628B/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 6, 2025 at 8:30:00 AM British Summer Time
   - Location: Fabryczna 14g/2nd floor room 220, 53-609 Wrocław, Poland
+- [🇫🇷 SAP Build: Create Event-Based Processes (Paris, France)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-paris-france/ev-p/14054469)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, June 10, 2025 at 9:30:00 AM Central European Summer Time
+  - Location: Nagarro, Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
