@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇬🇪 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14090952)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/256701i84F4BD7891392CF3/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, May 29, 2025 at 11:00:00 AM Samara Standard Time
-  - Location: EPAM Georgia, Bidzina Kvernadze Street, Tbilisi, Georgia
 - [🇪🇸 Getting started with Generative AI Hub on SAP AI Core (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-madrid-spain/ev-p/14082043)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/253036i11014557C6761CF2/image-size/thumb?v=v2&px=150" />
   - Start: Friday, May 30, 2025 at 9:30:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, June 10, 2025 at 9:30:00 AM Central European Summer Time
   - Location: Nagarro, Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux
+- [🇫🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Paris, France)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/14040622)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, June 11, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
