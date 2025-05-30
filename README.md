@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Display the structure of Data Definition using Outline view #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=q8WYkzBf0qs) (Fri May 30 2025)
 - [SAP: BTP ABAP, Integration Suite, Studio Home Build, CAP Challenge, SAPUI5 | SAP Developer News](https://www.youtube.com/watch?v=q73gDfWwp-c) (Thu May 29 2025)
 - [SAP Build Setup and Configuration Walkthrough](https://www.youtube.com/watch?v=VTkOObQzLWA) (Wed May 28 2025)
 - [ABAP Cloud: Joule for developers, ABAP AI capabilities - Create a Fiori application from scratch](https://www.youtube.com/watch?v=8QJL2UHPp8o) (Wed May 28 2025)
 - [02 - ABAP Cloud - Create your First App using RAP Generator](https://www.youtube.com/watch?v=-SMAfDdPmeo) (Tue May 27 2025)
 - [AI Foundation: Orchestration workflow with grounding using S3](https://www.youtube.com/watch?v=f2hgGgpLIn0) (Mon May 26 2025)
-- [CamelCase Rule for Custom Views and Fields #goodtoknow #abapcloud #abapcleaner #cleancore](https://www.youtube.com/watch?v=ITVZzcd-IIQ) (Fri May 23 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
