@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇪🇸 Getting started with Generative AI Hub on SAP AI Core (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-madrid-spain/ev-p/14082043)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/253036i11014557C6761CF2/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, May 30, 2025 at 9:30:00 AM Central European Summer Time
-  - Location: SAP España, S.A. - Madrid, Plaza Pablo Ruiz Picasso, Madrid, Spain
 - [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Odisha, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-odisha-india/ev-p/14094382)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/258076i4531C8804B62D9F0/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 6, 2025 at 9:30:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, June 11, 2025 at 9:00:00 AM Central European Summer Time
   - Location: Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux, France
+- [🇺🇸 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Denver, CO, USA)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-denver-co-usa/ev-p/14111766)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266002i705F00B81BD0C90D/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 13, 2025 at 9:00:00 AM Mountain Daylight Time
+  - Location: St. Cajetan’s Church at Metropolitan State University, 101 Lawrence St., Denver, CO 80204 US`
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
