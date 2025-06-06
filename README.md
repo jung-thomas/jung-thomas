@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Odisha, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-odisha-india/ev-p/14094382)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/258076i4531C8804B62D9F0/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 6, 2025 at 9:30:00 AM India Standard Time
-  - Location: Hotel Suraj Palace, Infocity Avenue, Chandrasekharpur, Bhubaneswar, Odisha, India
 - [🇵🇱 Hands-on with the btp CLI and APIs (Wrocław, PL)](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis-wroc%C5%82aw-pl/ev-p/14105401)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/262977iC033736D7175628B/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 6, 2025 at 8:30:00 AM British Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266002i705F00B81BD0C90D/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 13, 2025 at 9:00:00 AM Mountain Daylight Time
   - Location: St. Cajetan’s Church at Metropolitan State University, 101 Lawrence St., Denver, CO 80204 US`
+- [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14077772)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251497i8F93C2EC8BB390BA/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: VINCI Energies Systèmes d'Information, Mail de la Petite Espagne, Saint-Denis, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
