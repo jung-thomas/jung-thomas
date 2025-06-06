@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 Hands-on with the btp CLI and APIs (Wrocław, PL)](https://community.sap.com/t5/sap-codejam/hands-on-with-the-btp-cli-and-apis-wroc%C5%82aw-pl/ev-p/14105401)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/262977iC033736D7175628B/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 6, 2025 at 8:30:00 AM British Summer Time
-  - Location: Fabryczna 14g/2nd floor room 220, 53-609 Wrocław, Poland
 - [🇫🇷 SAP Build: Create Event-Based Processes (Paris, France)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-paris-france/ev-p/14054469)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, June 10, 2025 at 9:30:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/251497i8F93C2EC8BB390BA/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
   - Location: VINCI Energies Systèmes d'Information, Mail de la Petite Espagne, Saint-Denis, France
+- [🇫🇷 Build AI services using the SAP Cloud Application Programming Model, and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14077763)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251492i582D12D025297DBB/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: VINCI Energies Systèmes d'Information, 1 Mail de la Petite Espagne, Saint-Denis, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
