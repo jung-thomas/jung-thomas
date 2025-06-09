@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk with Sebastiano Marchesini](https://www.youtube.com/watch?v=VFbBN8KHH1A) (Mon Jun 09 2025)
 - [Implement Numbering in RAP](https://www.youtube.com/watch?v=fmUY-nW9GLE) (Mon Jun 09 2025)
 - [SAP Business Data Cloud, Terraform Exporter for SAP BTP, SAP CodeJam Roadshow | SAP Developer News](https://www.youtube.com/watch?v=XLj5qgN7i8s) (Thu Jun 05 2025)
 - [03 - ABAP Cloud - Fiori project using ABAP Tool Bridge](https://www.youtube.com/watch?v=vwcTSPH84GY) (Mon Jun 02 2025)
 - [Display the structure of Data Definition using Outline view #ABAPCloud #GoodToKnow](https://www.youtube.com/watch?v=q8WYkzBf0qs) (Fri May 30 2025)
 - [SAP: BTP ABAP, Integration Suite, Studio Home Build, CAP Challenge, SAPUI5 | SAP Developer News](https://www.youtube.com/watch?v=q73gDfWwp-c) (Thu May 29 2025)
-- [SAP Build Setup and Configuration Walkthrough](https://www.youtube.com/watch?v=VTkOObQzLWA) (Wed May 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
