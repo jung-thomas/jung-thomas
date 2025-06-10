@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 SAP Build: Create Event-Based Processes (Paris, France)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-paris-france/ev-p/14054469)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, June 10, 2025 at 9:30:00 AM Central European Summer Time
-  - Location: Nagarro, Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux
 - [🇫🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Paris, France)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/14040622)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, June 11, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/251492i582D12D025297DBB/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
   - Location: VINCI Energies Systèmes d'Information, 1 Mail de la Petite Espagne, Saint-Denis, France
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bengaluru-india/ev-p/14107897)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/264291iF67BE0445F71F05F/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 20, 2025 at 10:00:00 AM India Standard Time
+  - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
