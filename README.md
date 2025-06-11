@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 Event-driven integrations with SAP Integration Suite, advanced event mesh (Paris, France)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/14040622)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, June 11, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: Tour Franklin, 100-101 Terr. Boieldieu, 92800 Puteaux, France
 - [🇺🇸 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Denver, CO, USA)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-denver-co-usa/ev-p/14111766)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266002i705F00B81BD0C90D/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 13, 2025 at 9:00:00 AM Mountain Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/264291iF67BE0445F71F05F/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 20, 2025 at 10:00:00 AM India Standard Time
   - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
+- [🇦🇹 SAP CodeJam ABAP Cloud (Linz, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-linz-austria/ev-p/13998358)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/217852i0C408183FB806BAF/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, June 23, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: TechCenter, Hafenstraße 47-51, 4020 Linz, Austria
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
