@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Denver, CO, USA)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-denver-co-usa/ev-p/14111766)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266002i705F00B81BD0C90D/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 13, 2025 at 9:00:00 AM Mountain Daylight Time
-  - Location: St. Cajetan’s Church at Metropolitan State University, 101 Lawrence St., Denver, CO 80204 US`
 - [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14077772)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/251497i8F93C2EC8BB390BA/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/217852i0C408183FB806BAF/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 23, 2025 at 9:00:00 AM Central European Summer Time
   - Location: TechCenter, Hafenstraße 47-51, 4020 Linz, Austria
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (New York, New York, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-new-york-new-york-usa/ev-p/14099369)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/260171i4FDB0006F396DF2C/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, June 23, 2025 at 9:00:00 AM Eastern Daylight Time
+  - Location: 315 Madison Avenue, New York, NY, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
