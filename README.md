@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 Getting started with Generative AI Hub on SAP AI Core](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core/ev-p/14077772)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251497i8F93C2EC8BB390BA/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: VINCI Energies Systèmes d'Information, Mail de la Petite Espagne, Saint-Denis, France
-- [🇫🇷 Build AI services using the SAP Cloud Application Programming Model, and SAP generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and-sap/ev-p/14077763)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/251492i582D12D025297DBB/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, June 19, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: VINCI Energies Systèmes d'Information, 1 Mail de la Petite Espagne, Saint-Denis, France
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bengaluru-india/ev-p/14107897)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/264291iF67BE0445F71F05F/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 20, 2025 at 10:00:00 AM India Standard Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/260171i4FDB0006F396DF2C/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 23, 2025 at 9:00:00 AM Eastern Daylight Time
   - Location: 315 Madison Avenue, New York, NY, USA
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Palo Alto, CA, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-palo-alto-ca-usa/ev-p/14101603)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/261175iFC98E69AC8AD4945/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, June 25, 2025 at 9:00:00 AM Pacific Daylight Time
+  - Location: SAP Labs (PAL01), 3410 Hillview Avenue, Palo Alto, CA 94304, USA
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, TX, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-tx-usa/ev-p/14101612)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/261179i36ED93925873F3F5/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, June 27, 2025 at 9:00:00 AM Central Daylight Time
+  - Location: 15500 Voss Rd, Sugar Land, TX 77498, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
