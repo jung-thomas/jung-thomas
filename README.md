@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SEA CodeJam, Open Source Webinar, community contributions, UI5 version preview | SAP Developer News](https://www.youtube.com/watch?v=FnJrQjz7NGU) (Thu Jun 19 2025)
 - [SAP BTP AI Best Practices #3: Content Filtering](https://www.youtube.com/watch?v=Oa9Wii0XJFI) (Wed Jun 18 2025)
 - [SAP BTP AI Best Practices #3: Content Filtering Intro](https://www.youtube.com/watch?v=U0fJzsRIKhY) (Wed Jun 18 2025)
 - [SAP BTP AI Best Practices #2: Data Masking](https://www.youtube.com/watch?v=c186VMnbNQU) (Tue Jun 17 2025)
 - [SAP BTP AI Best Practices #2: Data Masking Intro](https://www.youtube.com/watch?v=9V3JCg38TIk) (Tue Jun 17 2025)
 - [SAP BTP AI Best Practices #1: Access to Generative AI Models](https://www.youtube.com/watch?v=kU5lJHt7Mfw) (Mon Jun 16 2025)
-- [SAP BTP AI Best Practices #1: Access to Generative AI Models Intro](https://www.youtube.com/watch?v=NEDgNZVpVvA) (Mon Jun 16 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
