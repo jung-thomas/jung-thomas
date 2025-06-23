@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (New York, New York, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-new-york-new-york-usa/ev-p/14099369)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/260171i4FDB0006F396DF2C/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, June 23, 2025 at 9:00:00 AM Eastern Daylight Time
-  - Location: 315 Madison Avenue, New York, NY, USA
 - [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Palo Alto, CA, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-palo-alto-ca-usa/ev-p/14101603)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/261175iFC98E69AC8AD4945/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, June 25, 2025 at 9:00:00 AM Pacific Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266304i2ADA623BEF2181D4/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, July 3, 2025 at 10:00:00 AM Singapore Standard Time
   - Location: 30 Pasir Panjang Rd, SAP Asia Pte Ltd., Singapore 117440, Singapore
+- [🇲🇾 SAP Build: Create Apps, Processes and Sites Without Code (Kuala Lumpur, Malaysia)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-kuala-lumpur/ev-p/14112261)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266289i8D801E2A1578DA94/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, July 7, 2025 at 9:00:00 AM India Standard Time
+  - Location: SAP Malaysia Sdn Bhd, Medan Syed Putra Selatan, Mid Valley City, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
