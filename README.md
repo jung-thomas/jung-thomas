@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP AI Best Practices #4: Prompt Templating Intro](https://www.youtube.com/watch?v=mNzXQkBp40U) (Mon Jun 23 2025)
+- [SAP BTP AI Best Practices #4: Prompt Templating](https://www.youtube.com/watch?v=6yOVgaO7beo) (Mon Jun 23 2025)
 - [SEA CodeJam, Open Source Webinar, community contributions, UI5 version preview | SAP Developer News](https://www.youtube.com/watch?v=FnJrQjz7NGU) (Thu Jun 19 2025)
 - [SAP BTP AI Best Practices #3: Content Filtering](https://www.youtube.com/watch?v=Oa9Wii0XJFI) (Wed Jun 18 2025)
 - [SAP BTP AI Best Practices #3: Content Filtering Intro](https://www.youtube.com/watch?v=U0fJzsRIKhY) (Wed Jun 18 2025)
 - [SAP BTP AI Best Practices #2: Data Masking](https://www.youtube.com/watch?v=c186VMnbNQU) (Tue Jun 17 2025)
-- [SAP BTP AI Best Practices #2: Data Masking Intro](https://www.youtube.com/watch?v=9V3JCg38TIk) (Tue Jun 17 2025)
-- [SAP BTP AI Best Practices #1: Access to Generative AI Models](https://www.youtube.com/watch?v=kU5lJHt7Mfw) (Mon Jun 16 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇹 SAP CodeJam ABAP Cloud (Linz, Austria)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-linz-austria/ev-p/13998358)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/217852i0C408183FB806BAF/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, June 23, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: TechCenter, Hafenstraße 47-51, 4020 Linz, Austria
 - [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (New York, New York, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-new-york-new-york-usa/ev-p/14099369)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/260171i4FDB0006F396DF2C/image-size/thumb?v=v2&px=150" />
   - Start: Monday, June 23, 2025 at 9:00:00 AM Eastern Daylight Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇸🇬 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Singapore)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-singapore/ev-p/14112313)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266305i9CB85E38679894F9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 2, 2025 at 9:00:00 AM Singapore Standard Time
+  - Location: 30 Pasir Panjang Rd, SAP Asia Pte Ltd., Singapore 117440, Singapore
+- [🇸🇬 Getting started with Generative AI Hub on SAP AI Core ( Singapore )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14112295)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266304i2ADA623BEF2181D4/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, July 3, 2025 at 10:00:00 AM Singapore Standard Time
   - Location: 30 Pasir Panjang Rd, SAP Asia Pte Ltd., Singapore 117440, Singapore
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
