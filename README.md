@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk with Matt Harding](https://www.youtube.com/watch?v=ZLWMBdknrIY) (Tue Jun 24 2025)
+- [SAP BTP AI Best Practices #5: Vector-based RAG Embedding](https://www.youtube.com/watch?v=P1eXOjTZ53w) (Tue Jun 24 2025)
+- [SAP BTP AI Best Practices #5: Vector-based RAG Embedding Intro](https://www.youtube.com/watch?v=8-v_SAhBrgg) (Tue Jun 24 2025)
 - [SAP BTP AI Best Practices #4: Prompt Templating Intro](https://www.youtube.com/watch?v=mNzXQkBp40U) (Mon Jun 23 2025)
 - [SAP BTP AI Best Practices #4: Prompt Templating](https://www.youtube.com/watch?v=6yOVgaO7beo) (Mon Jun 23 2025)
 - [SEA CodeJam, Open Source Webinar, community contributions, UI5 version preview | SAP Developer News](https://www.youtube.com/watch?v=FnJrQjz7NGU) (Thu Jun 19 2025)
-- [SAP BTP AI Best Practices #3: Content Filtering](https://www.youtube.com/watch?v=Oa9Wii0XJFI) (Wed Jun 18 2025)
-- [SAP BTP AI Best Practices #3: Content Filtering Intro](https://www.youtube.com/watch?v=U0fJzsRIKhY) (Wed Jun 18 2025)
-- [SAP BTP AI Best Practices #2: Data Masking](https://www.youtube.com/watch?v=c186VMnbNQU) (Tue Jun 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -38,7 +38,7 @@ Follow me on:
 - [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, TX, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-tx-usa/ev-p/14101612)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/261179i36ED93925873F3F5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 27, 2025 at 9:00:00 AM Central Daylight Time
-  - Location: 15500 Voss Rd, Sugar Land, TX 77498, USA
+  - Location: 2800 Post Oak Blvd, Houston, TX 77056, USA
 - [🇸🇬 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Singapore)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-singapore/ev-p/14112313)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266305i9CB85E38679894F9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 2, 2025 at 9:00:00 AM Singapore Standard Time
