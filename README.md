@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Palo Alto, CA, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-palo-alto-ca-usa/ev-p/14101603)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/261175iFC98E69AC8AD4945/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, June 25, 2025 at 9:00:00 AM Pacific Daylight Time
-  - Location: SAP Labs (PAL01), 3410 Hillview Avenue, Palo Alto, CA 94304, USA
 - [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, TX, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-tx-usa/ev-p/14101612)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/261179i36ED93925873F3F5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, June 27, 2025 at 9:00:00 AM Central Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266289i8D801E2A1578DA94/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 7, 2025 at 9:00:00 AM India Standard Time
   - Location: SAP Malaysia Sdn Bhd, Medan Syed Putra Selatan, Mid Valley City, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+- [🇹🇭 Getting started with Generative AI Hub on SAP AI Core (Bangkok, Thailand)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangkok-thailand/ev-p/14112276)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266292i84A1D7BAB6623223/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, July 9, 2025 at 10:00:00 AM Indochina Time
+  - Location: SAP Thailand Ltd, Park Silom, Si Lom, Bang Rak, Bangkok, Thailand
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
