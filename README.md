@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP AI Best Practices #6: Vector-based RAG Query Pipeline](https://www.youtube.com/watch?v=kEiKDwceC5A) (Wed Jun 25 2025)
+- [SAP BTP AI Best Practices #6: Vector-based RAG Query Pipeline Intro](https://www.youtube.com/watch?v=Q0sONOPtfwo) (Wed Jun 25 2025)
 - [SAP CodeTalk with Matt Harding](https://www.youtube.com/watch?v=ZLWMBdknrIY) (Tue Jun 24 2025)
 - [SAP BTP AI Best Practices #5: Vector-based RAG Embedding](https://www.youtube.com/watch?v=P1eXOjTZ53w) (Tue Jun 24 2025)
 - [SAP BTP AI Best Practices #5: Vector-based RAG Embedding Intro](https://www.youtube.com/watch?v=8-v_SAhBrgg) (Tue Jun 24 2025)
 - [SAP BTP AI Best Practices #4: Prompt Templating Intro](https://www.youtube.com/watch?v=mNzXQkBp40U) (Mon Jun 23 2025)
-- [SAP BTP AI Best Practices #4: Prompt Templating](https://www.youtube.com/watch?v=6yOVgaO7beo) (Mon Jun 23 2025)
-- [SEA CodeJam, Open Source Webinar, community contributions, UI5 version preview | SAP Developer News](https://www.youtube.com/watch?v=FnJrQjz7NGU) (Thu Jun 19 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
