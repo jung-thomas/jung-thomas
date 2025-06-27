@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Houston, TX, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-houston-tx-usa/ev-p/14101612)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/261179i36ED93925873F3F5/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, June 27, 2025 at 9:00:00 AM Central Daylight Time
-  - Location: 2800 Post Oak Blvd, Houston, TX 77056, USA
 - [🇸🇬 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Singapore)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-singapore/ev-p/14112313)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266305i9CB85E38679894F9/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 2, 2025 at 9:00:00 AM Singapore Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266292i84A1D7BAB6623223/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 9, 2025 at 10:00:00 AM Indochina Time
   - Location: SAP Thailand Ltd, Park Silom, Si Lom, Bang Rak, Bangkok, Thailand
+- [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Mumbai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110686)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, July 14, 2025 at 9:00:00 AM India Standard Time
+  - Location: Colgate-Palmolive’s, Colgate Research Centre, Main Street, Hiranandani Gardens, Sainath Nagar, Powai, Mumbai, Maharashtra 400076, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
