@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇸🇬 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP (Singapore)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-singapore/ev-p/14112313)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266305i9CB85E38679894F9/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, July 2, 2025 at 9:00:00 AM Singapore Standard Time
-  - Location: 30 Pasir Panjang Rd, SAP Asia Pte Ltd., Singapore 117440, Singapore
 - [🇸🇬 Getting started with Generative AI Hub on SAP AI Core ( Singapore )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14112295)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266304i2ADA623BEF2181D4/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, July 3, 2025 at 10:00:00 AM Singapore Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 14, 2025 at 9:00:00 AM India Standard Time
   - Location: Colgate-Palmolive’s, Colgate Research Centre, Main Street, Hiranandani Gardens, Sainath Nagar, Powai, Mumbai, Maharashtra 400076, India
+- [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #1 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-1/ev-p/14110689)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, July 15, 2025 at 9:00:00 AM India Standard Time
+  - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
