@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇸🇬 Getting started with Generative AI Hub on SAP AI Core ( Singapore )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14112295)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266304i2ADA623BEF2181D4/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, July 3, 2025 at 10:00:00 AM Singapore Standard Time
-  - Location: 30 Pasir Panjang Rd, SAP Asia Pte Ltd., Singapore 117440, Singapore
 - [🇲🇾 SAP Build: Create Apps, Processes and Sites Without Code (Kuala Lumpur, Malaysia)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-kuala-lumpur/ev-p/14112261)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266289i8D801E2A1578DA94/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 7, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 15, 2025 at 9:00:00 AM India Standard Time
   - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
+- [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #2 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-2/ev-p/14110691)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, July 16, 2025 at 9:00:00 AM India Standard Time
+  - Location: INFOSYS STP ECC, ISB Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
