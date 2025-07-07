@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇲🇾 SAP Build: Create Apps, Processes and Sites Without Code (Kuala Lumpur, Malaysia)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-kuala-lumpur/ev-p/14112261)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266289i8D801E2A1578DA94/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, July 7, 2025 at 9:00:00 AM India Standard Time
-  - Location: MEZZANINE FLOOR, ACCEA Amoda Building Imbi Branch, BANGUNAN AMODA, 22, Jalan Imbi, Bukit Bintang, 55100 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia
 - [🇹🇭 Getting started with Generative AI Hub on SAP AI Core (Bangkok, Thailand)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangkok-thailand/ev-p/14112276)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/266292i84A1D7BAB6623223/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 9, 2025 at 10:00:00 AM Indochina Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 16, 2025 at 9:00:00 AM India Standard Time
   - Location: INFOSYS STP ECC, ISB Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana, India
+- [🇮🇳 SAP Build: Create Event-Based Processes (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-bengaluru-india/ev-p/14129498)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, July 17, 2025 at 9:00:00 AM India Standard Time
+  - Location: SAP Labs, EPIP Zone Whitefield Road, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
