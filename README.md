@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇹🇭 Getting started with Generative AI Hub on SAP AI Core (Bangkok, Thailand)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bangkok-thailand/ev-p/14112276)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/266292i84A1D7BAB6623223/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, July 9, 2025 at 10:00:00 AM Indochina Time
-  - Location: SAP Thailand Ltd, Park Silom, Si Lom, Bang Rak, Bangkok, Thailand
 - [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Mumbai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110686)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Monday, July 14, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, July 17, 2025 at 9:00:00 AM India Standard Time
   - Location: SAP Labs, EPIP Zone Whitefield Road, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
+- [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110696)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, July 18, 2025 at 9:00:00 AM India Standard Time
+  - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
