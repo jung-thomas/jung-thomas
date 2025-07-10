@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [TechEd Community Talk,CAP License,CodeJam Roadshow,CAP MCP Plugin, Code Connect | SAP Developer News](https://www.youtube.com/watch?v=0PUDy-TkpiQ) (Thu Jul 10 2025)
 - [SAP Code Connect 2025, SAP Build, July's Developer Challenge and ABAPGit | SAP Developer News](https://www.youtube.com/watch?v=PqR5Lkgpgyk) (Thu Jul 03 2025)
 - [TechEd, CodeTalk, HANA Cloud Q2, InnerSource Summit & CodeJam 2025 Register now | SAP Developer News](https://www.youtube.com/watch?v=AQdlZsMshqs) (Thu Jun 26 2025)
 - [SAP BTP AI Best Practices #6: Vector-based RAG Query Pipeline](https://www.youtube.com/watch?v=kEiKDwceC5A) (Wed Jun 25 2025)
 - [SAP BTP AI Best Practices #6: Vector-based RAG Query Pipeline Intro](https://www.youtube.com/watch?v=Q0sONOPtfwo) (Wed Jun 25 2025)
 - [SAP CodeTalk with Matt Harding](https://www.youtube.com/watch?v=ZLWMBdknrIY) (Tue Jun 24 2025)
-- [SAP BTP AI Best Practices #5: Vector-based RAG Embedding](https://www.youtube.com/watch?v=P1eXOjTZ53w) (Tue Jun 24 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
