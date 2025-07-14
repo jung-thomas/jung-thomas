@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Mumbai, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110686)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, July 14, 2025 at 9:00:00 AM India Standard Time
-  - Location: Colgate-Palmolive’s, Colgate Research Centre, Main Street, Hiranandani Gardens, Sainath Nagar, Powai, Mumbai, Maharashtra 400076, India
 - [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #1 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-1/ev-p/14110689)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, July 15, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Friday, July 18, 2025 at 9:00:00 AM India Standard Time
   - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
+- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-s%C3%A3o-paulo-brazil/ev-p/14116325)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268289i8D3688BF1DC90E2C/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, July 25, 2025 at 9:30:00 AM Brasilia Standard Time
+  - Location: Rua James Joule, 65 - 5th floor - Cidade Monções, São Paulo - SP, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
