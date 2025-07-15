@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #1 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-1/ev-p/14110689)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, July 15, 2025 at 9:00:00 AM India Standard Time
-  - Location: WeWork Krishe Emerald, Kondapur Main Road, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana, India
 - [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #2 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-2/ev-p/14110691)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, July 16, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268289i8D3688BF1DC90E2C/image-size/thumb?v=v2&px=150" />
   - Start: Friday, July 25, 2025 at 9:30:00 AM Brasilia Standard Time
   - Location: Rua James Joule, 65 - 5th floor - Cidade Monções, São Paulo - SP, Brazil
+- [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bengaluru-india/ev-p/14143132)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/281977iE541749588E32D0B/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 1, 2025 at 9:00:00 AM India Standard Time
+  - Location: Bosch EC3 (360° Business Park), Electronic City Phase I, Doddathoguru, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
