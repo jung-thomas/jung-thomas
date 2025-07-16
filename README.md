@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh #2 (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh-2/ev-p/14110691)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, July 16, 2025 at 9:00:00 AM India Standard Time
-  - Location: INFOSYS STP ECC, ISB Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana, India
 - [🇮🇳 SAP Build: Create Event-Based Processes (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-bengaluru-india/ev-p/14129498)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, July 17, 2025 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/281977iE541749588E32D0B/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 1, 2025 at 9:00:00 AM India Standard Time
   - Location: Bosch EC3 (360° Business Park), Electronic City Phase I, Doddathoguru, Bengaluru, Karnataka, India
+- [🇵🇪 SAP CodeJam ABAP Cloud (Lima, Peru)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-lima-peru/ev-p/14116353)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268295iCD3812E12E1469DF/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, August 4, 2025 at 9:30:00 AM Colombia Standard Time
+  - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
