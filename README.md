@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Event-Based Processes (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-bengaluru-india/ev-p/14129498)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, July 17, 2025 at 9:00:00 AM India Standard Time
-  - Location: SAP Labs, EPIP Zone Whitefield Road, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, India
 - [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110696)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
   - Start: Friday, July 18, 2025 at 9:00:00 AM India Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇵🇪 SAP CodeJam ABAP Cloud (Lima, Peru)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-lima-peru/ev-p/14116353)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268295iCD3812E12E1469DF/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 4, 2025 at 9:30:00 AM Colombia Standard Time
+  - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
+- [🇵🇪 Getting started with Generative AI Hub on SAP AI Core (Lima, Peru)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-lima-peru/ev-p/14116326)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268290iCBD87219FCF26D0F/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, August 5, 2025 at 9:30:00 AM Colombia Standard Time
   - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
