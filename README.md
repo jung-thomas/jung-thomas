@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam: Connecting systems and services using SAP Integration Suite (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-codejam-connecting-systems-and-services-using-sap-integration-suite/ev-p/14110696)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/45559i09C35E9742FB0F67/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, July 18, 2025 at 9:00:00 AM India Standard Time
-  - Location: Mindset Consulting, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India
 - [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-s%C3%A3o-paulo-brazil/ev-p/14116325)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268289i8D3688BF1DC90E2C/image-size/thumb?v=v2&px=150" />
   - Start: Friday, July 25, 2025 at 9:30:00 AM Brasilia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268290iCBD87219FCF26D0F/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 5, 2025 at 9:30:00 AM Colombia Standard Time
   - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
+- [🇲🇽 SAP CodeJam ABAP Cloud (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mexico-city-mexico/ev-p/14116360)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268304i491331EE49F9C80E/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, August 7, 2025 at 9:30:00 AM Central Standard Time
+  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
