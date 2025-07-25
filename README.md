@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-s%C3%A3o-paulo-brazil/ev-p/14116325)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268289i8D3688BF1DC90E2C/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, July 25, 2025 at 9:30:00 AM Brasilia Standard Time
-  - Location: Rua James Joule, 65 - 5th floor - Cidade Monções, São Paulo - SP, Brazil
 - [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bengaluru-india/ev-p/14143132)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/281977iE541749588E32D0B/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 1, 2025 at 9:00:00 AM India Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇲🇽 SAP CodeJam ABAP Cloud (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mexico-city-mexico/ev-p/14116360)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268304i491331EE49F9C80E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 7, 2025 at 9:30:00 AM Central Standard Time
+  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
+- [🇲🇽 Getting started with Generative AI Hub on SAP AI Core (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-mexico-city-mexico/ev-p/14116336)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268291i9D024D8A89140CC5/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, August 8, 2025 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
