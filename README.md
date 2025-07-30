@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [ABAP Cloud:  HTTP Communication Targets](https://www.youtube.com/watch?v=n6_rekYKcwY) (Wed Jul 30 2025)
 - [Join us for Devtoberfest 2025](https://www.youtube.com/watch?v=AKO8aZJ15PU) (Fri Jul 25 2025)
 - [Devtoberfest, UI5 Actions Guide, HANA Con Recordings & Import BPMN to SAP Build | SAP Developer News](https://www.youtube.com/watch?v=ZEa_j4wdcls) (Thu Jul 24 2025)
 - [SAP Joule Studio, SAC Q3 2025, UI5 Legacy-Free, TechEd Catalog, & More | SAP Developer News](https://www.youtube.com/watch?v=UkOonSYtiW8) (Thu Jul 17 2025)
 - [SAP Tech Bytes: Connect everything with SAP Integration Suite - Coupa](https://www.youtube.com/watch?v=Na4CZKqtxRA) (Mon Jul 14 2025)
 - [TechEd Community Talk,CAP License,CodeJam Roadshow,CAP MCP Plugin, Code Connect | SAP Developer News](https://www.youtube.com/watch?v=0PUDy-TkpiQ) (Thu Jul 10 2025)
-- [SAP Code Connect 2025, SAP Build, July's Developer Challenge and ABAPGit | SAP Developer News](https://www.youtube.com/watch?v=PqR5Lkgpgyk) (Thu Jul 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
