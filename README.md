@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Create Apps, Processes and Sites Without Code (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-apps-processes-and-sites-without-code-bengaluru-india/ev-p/14143132)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/281977iE541749588E32D0B/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 1, 2025 at 9:00:00 AM India Standard Time
-  - Location: Bosch EC3 (360° Business Park), Electronic City Phase I, Doddathoguru, Bengaluru, Karnataka, India
 - [🇵🇪 SAP CodeJam ABAP Cloud (Lima, Peru)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-lima-peru/ev-p/14116353)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268295iCD3812E12E1469DF/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 4, 2025 at 9:30:00 AM Colombia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268291i9D024D8A89140CC5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 8, 2025 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
+- [🇨🇴 SAP CodeJam ABAP Cloud (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bogota-colombia/ev-p/14116371)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268314i4CAC51A2B8751DD6/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, August 11, 2025 at 9:30:00 AM Colombia Standard Time
+  - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
