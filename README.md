@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇪 SAP CodeJam ABAP Cloud (Lima, Peru)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-lima-peru/ev-p/14116353)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268295iCD3812E12E1469DF/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, August 4, 2025 at 9:30:00 AM Colombia Standard Time
-  - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
 - [🇵🇪 Getting started with Generative AI Hub on SAP AI Core (Lima, Peru)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-lima-peru/ev-p/14116326)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268290iCBD87219FCF26D0F/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 5, 2025 at 9:30:00 AM Colombia Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇨🇴 SAP CodeJam ABAP Cloud (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bogota-colombia/ev-p/14116371)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268314i4CAC51A2B8751DD6/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 11, 2025 at 9:30:00 AM Colombia Standard Time
+  - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
+- [🇨🇴 Getting started with Generative AI Hub on SAP AI Core (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bogota-colombia/ev-p/14116343)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268293i19BD448625542153/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, August 12, 2025 at 9:30:00 AM Colombia Standard Time
   - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
