@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇪 Getting started with Generative AI Hub on SAP AI Core (Lima, Peru)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-lima-peru/ev-p/14116326)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268290iCBD87219FCF26D0F/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, August 5, 2025 at 9:30:00 AM Colombia Standard Time
-  - Location: SAP Perú SAC, Av. Club Golf los Incas 154, Santiago de Surco 15023, Peru
 - [🇲🇽 SAP CodeJam ABAP Cloud (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mexico-city-mexico/ev-p/14116360)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268304i491331EE49F9C80E/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, August 7, 2025 at 9:30:00 AM Central Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268293i19BD448625542153/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 12, 2025 at 9:30:00 AM Colombia Standard Time
   - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
+- [🇵🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14156198)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/292541i6088F05474D0AE65/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, August 26, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: Hicron, Gwiaździsta 62, Wrocław, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
