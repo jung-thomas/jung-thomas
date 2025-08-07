@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Dev Challenge, Jupyter in SAP BTP & Business Data Cloud & Devtoberfest Fun | SAP Developer News](https://www.youtube.com/watch?v=ciUO6NM-b6Y) (Thu Aug 07 2025)
 - [Integration Suite update, Terraform Provider beta, GitHub repo, Community Voice | SAP Developer News](https://www.youtube.com/watch?v=4_vluAVEY-4) (Thu Jul 31 2025)
 - [ABAP Cloud:  HTTP Communication Targets](https://www.youtube.com/watch?v=n6_rekYKcwY) (Wed Jul 30 2025)
 - [Join us for Devtoberfest 2025](https://www.youtube.com/watch?v=AKO8aZJ15PU) (Fri Jul 25 2025)
 - [Devtoberfest, UI5 Actions Guide, HANA Con Recordings & Import BPMN to SAP Build | SAP Developer News](https://www.youtube.com/watch?v=ZEa_j4wdcls) (Thu Jul 24 2025)
 - [SAP Joule Studio, SAC Q3 2025, UI5 Legacy-Free, TechEd Catalog, & More | SAP Developer News](https://www.youtube.com/watch?v=UkOonSYtiW8) (Thu Jul 17 2025)
-- [SAP Tech Bytes: Connect everything with SAP Integration Suite - Coupa](https://www.youtube.com/watch?v=Na4CZKqtxRA) (Mon Jul 14 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇲🇽 SAP CodeJam ABAP Cloud (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mexico-city-mexico/ev-p/14116360)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268304i491331EE49F9C80E/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, August 7, 2025 at 9:30:00 AM Central Standard Time
-  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
 - [🇲🇽 Getting started with Generative AI Hub on SAP AI Core (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-mexico-city-mexico/ev-p/14116336)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268291i9D024D8A89140CC5/image-size/thumb?v=v2&px=150" />
   - Start: Friday, August 8, 2025 at 9:30:00 AM Central Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/292541i6088F05474D0AE65/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 26, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Hicron, Gwiaździsta 62, Wrocław, Poland
+- [🇳🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14164269)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/292537iC58DECE35CD3F74A/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
+  - Location: Aiden 's-Hertogenbosch, Het Zuiderkruis 61, 5215 MV 's-Hertogenbosch, Netherlands
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
