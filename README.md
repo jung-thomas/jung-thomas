@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇲🇽 Getting started with Generative AI Hub on SAP AI Core (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-mexico-city-mexico/ev-p/14116336)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268291i9D024D8A89140CC5/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, August 8, 2025 at 9:30:00 AM Central Standard Time
-  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
 - [🇨🇴 SAP CodeJam ABAP Cloud (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bogota-colombia/ev-p/14116371)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268314i4CAC51A2B8751DD6/image-size/thumb?v=v2&px=150" />
   - Start: Monday, August 11, 2025 at 9:30:00 AM Colombia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/292537iC58DECE35CD3F74A/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
   - Location: Aiden 's-Hertogenbosch, Het Zuiderkruis 61, 5215 MV 's-Hertogenbosch, Netherlands
+- [🇧🇪 SAP CodeJam ABAP Cloud (Mechelen, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mechelen-belgium/ev-p/14146229)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283546i60B4ED144C931D48/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 19, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: Van der Valk Hotel Mechelen, Rode-Kruisplein 1-4, 2800 Mechelen, Belgium
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
