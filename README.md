@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP CodeTalk with Björn Schulz](https://www.youtube.com/watch?v=M607CLKmzzM) (Mon Aug 11 2025)
 - [Dev Challenge, Jupyter in SAP BTP & Business Data Cloud & Devtoberfest Fun | SAP Developer News](https://www.youtube.com/watch?v=ciUO6NM-b6Y) (Thu Aug 07 2025)
 - [Integration Suite update, Terraform Provider beta, GitHub repo, Community Voice | SAP Developer News](https://www.youtube.com/watch?v=4_vluAVEY-4) (Thu Jul 31 2025)
 - [ABAP Cloud:  HTTP Communication Targets](https://www.youtube.com/watch?v=n6_rekYKcwY) (Wed Jul 30 2025)
 - [Join us for Devtoberfest 2025](https://www.youtube.com/watch?v=AKO8aZJ15PU) (Fri Jul 25 2025)
 - [Devtoberfest, UI5 Actions Guide, HANA Con Recordings & Import BPMN to SAP Build | SAP Developer News](https://www.youtube.com/watch?v=ZEa_j4wdcls) (Thu Jul 24 2025)
-- [SAP Joule Studio, SAC Q3 2025, UI5 Legacy-Free, TechEd Catalog, & More | SAP Developer News](https://www.youtube.com/watch?v=UkOonSYtiW8) (Thu Jul 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇴 SAP CodeJam ABAP Cloud (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-bogota-colombia/ev-p/14116371)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268314i4CAC51A2B8751DD6/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, August 11, 2025 at 9:30:00 AM Colombia Standard Time
-  - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
 - [🇨🇴 Getting started with Generative AI Hub on SAP AI Core (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bogota-colombia/ev-p/14116343)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/268293i19BD448625542153/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 12, 2025 at 9:30:00 AM Colombia Standard Time
@@ -47,6 +43,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/292537iC58DECE35CD3F74A/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
   - Location: Aiden 's-Hertogenbosch, Het Zuiderkruis 61, 5215 MV 's-Hertogenbosch, Netherlands
+- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14177684)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/299474i61B9743C82C5B5CA/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, September 16, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: NEOMATIC AG, Aachener Str., 50674 Köln, Deutschland
 - [🇧🇪 SAP CodeJam ABAP Cloud (Mechelen, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mechelen-belgium/ev-p/14146229)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/283546i60B4ED144C931D48/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 19, 2025 at 9:00:00 AM Central European Summer Time
