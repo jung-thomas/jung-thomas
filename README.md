@@ -44,7 +44,7 @@ Follow me on:
   - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
   - Location: Aiden 's-Hertogenbosch, Het Zuiderkruis 61, 5215 MV 's-Hertogenbosch, Netherlands
 - [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14177684)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/299474i61B9743C82C5B5CA/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/299474i61B9743C82C5B5CA/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, September 16, 2025 at 10:00:00 AM Central European Summer Time
   - Location: NEOMATIC AG, Aachener Str., 50674 Köln, Deutschland
 - [🇧🇪 SAP CodeJam ABAP Cloud (Mechelen, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mechelen-belgium/ev-p/14146229)
