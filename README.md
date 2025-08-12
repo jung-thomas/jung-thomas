@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇴 Getting started with Generative AI Hub on SAP AI Core (Bogota, Colombia)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-bogota-colombia/ev-p/14116343)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/268293i19BD448625542153/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, August 12, 2025 at 9:30:00 AM Colombia Standard Time
-  - Location: SAP Colombia S.A.S, Ak 9 #115-06, Bogotá, Bogota, Colombia
 - [🇵🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14156198)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/292541i6088F05474D0AE65/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, August 26, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/283546i60B4ED144C931D48/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 19, 2025 at 9:00:00 AM Central European Summer Time
   - Location: Van der Valk Hotel Mechelen, Rode-Kruisplein 1-4, 2800 Mechelen, Belgium
+- [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14146218)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283545i375C9D53C9C253BE/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 19, 2025 at 2:00:00 PM Central European Summer Time
+  - Location: Inflancka 4A, Warsaw, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
