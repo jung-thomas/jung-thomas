@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Partner Directory Accelerator Tool for Pipeline Concept - an SAP open-source project](https://www.youtube.com/watch?v=m51z53fc1c4) (Wed Aug 13 2025)
+- [🔴 AI for Integration Excellence: Modernize, Optimize, Thrive](https://www.youtube.com/watch?v=bNAlsqwrOvg) (Wed Aug 13 2025)
+- [🔴 IT System Landscape Transparency with Open Resource Discovery (ORD)](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Wed Aug 13 2025)
 - [🔴 A(P)I: Unified connectivity for AI applications using MCP](https://www.youtube.com/watch?v=Ql2FQaF0IRo) (Tue Aug 12 2025)
 - [🔴 Using Intermediate Message Events and Success Factors Events in SAP Build Process Automation](https://www.youtube.com/watch?v=CMVEobhPSIw) (Tue Aug 12 2025)
 - [🔴 Seamless side-by-side extensibility with SAP Build and SAP Cloud Application Event Hub](https://www.youtube.com/watch?v=1SW6C_sGDEw) (Tue Aug 12 2025)
-- [🔴 Hands-on session: practical demonstration of the Event Add-on for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo) (Tue Aug 12 2025)
-- [🔴 Warp-Speed for Event Creation: Overview on the new Event Add-on for ERP](https://www.youtube.com/watch?v=x9uXO18TVBg) (Tue Aug 12 2025)
-- [🔴 Enterprise in Motion: Event-Driven Architecture Use Cases for Innovation and Agility](https://www.youtube.com/watch?v=mDONEh311HY) (Tue Aug 12 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
