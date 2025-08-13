@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP CodeTalk with Björn Schulz](https://www.youtube.com/watch?v=M607CLKmzzM) (Mon Aug 11 2025)
-- [Dev Challenge, Jupyter in SAP BTP & Business Data Cloud & Devtoberfest Fun | SAP Developer News](https://www.youtube.com/watch?v=ciUO6NM-b6Y) (Thu Aug 07 2025)
-- [Integration Suite update, Terraform Provider beta, GitHub repo, Community Voice | SAP Developer News](https://www.youtube.com/watch?v=4_vluAVEY-4) (Thu Jul 31 2025)
-- [ABAP Cloud:  HTTP Communication Targets](https://www.youtube.com/watch?v=n6_rekYKcwY) (Wed Jul 30 2025)
-- [Join us for Devtoberfest 2025](https://www.youtube.com/watch?v=AKO8aZJ15PU) (Fri Jul 25 2025)
-- [Devtoberfest, UI5 Actions Guide, HANA Con Recordings & Import BPMN to SAP Build | SAP Developer News](https://www.youtube.com/watch?v=ZEa_j4wdcls) (Thu Jul 24 2025)
+- [🔴 A(P)I: Unified connectivity for AI applications using MCP](https://www.youtube.com/watch?v=Ql2FQaF0IRo) (Tue Aug 12 2025)
+- [🔴 Using Intermediate Message Events and Success Factors Events in SAP Build Process Automation](https://www.youtube.com/watch?v=CMVEobhPSIw) (Tue Aug 12 2025)
+- [🔴 Seamless side-by-side extensibility with SAP Build and SAP Cloud Application Event Hub](https://www.youtube.com/watch?v=1SW6C_sGDEw) (Tue Aug 12 2025)
+- [🔴 Hands-on session: practical demonstration of the Event Add-on for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo) (Tue Aug 12 2025)
+- [🔴 Warp-Speed for Event Creation: Overview on the new Event Add-on for ERP](https://www.youtube.com/watch?v=x9uXO18TVBg) (Tue Aug 12 2025)
+- [🔴 Enterprise in Motion: Event-Driven Architecture Use Cases for Innovation and Agility](https://www.youtube.com/watch?v=mDONEh311HY) (Tue Aug 12 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
