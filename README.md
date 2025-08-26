@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [ABAP Extensibility Guide,CAP July 2025 Release,SAP BTP ABAP Environment,ABAP ADT| SAP Developer News](https://www.youtube.com/watch?v=xg6tB_RccA4) (Thu Aug 21 2025)
-- [LATAM Roadshow, SAPUI5, re≽cap25 recordings & Integration Suite learning | SAP Developer News](https://www.youtube.com/watch?v=mCFtPGSSNoU) (Thu Aug 14 2025)
-- [🔴 Partner Directory Accelerator Tool for Pipeline Concept - an SAP open-source project](https://www.youtube.com/watch?v=m51z53fc1c4) (Wed Aug 13 2025)
-- [🔴 AI for Integration Excellence: Modernize, Optimize, Thrive](https://www.youtube.com/watch?v=bNAlsqwrOvg) (Wed Aug 13 2025)
-- [🔴 IT System Landscape Transparency with Open Resource Discovery (ORD)](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Wed Aug 13 2025)
-- [🔴 A(P)I: Unified connectivity for AI applications using MCP](https://www.youtube.com/watch?v=Ql2FQaF0IRo) (Tue Aug 12 2025)
+- [SAP BTP AI Best Practices #12: SAP Document AI Intro](https://www.youtube.com/watch?v=EQRzZWcvWHE) (Tue Aug 26 2025)
+- [SAP BTP AI Best Practices #11: Anomaly Detection Intro](https://www.youtube.com/watch?v=XmvVYhvv3xQ) (Tue Aug 26 2025)
+- [SAP BTP AI Best Practices #10: Time Series Intro](https://www.youtube.com/watch?v=GlO9YzUmGro) (Tue Aug 26 2025)
+- [SAP BTP AI Best Practices #8: Graph-based RAG KG Query Pipeline Intro](https://www.youtube.com/watch?v=6qI_lUm6QbA) (Tue Aug 26 2025)
+- [SAP BTP AI Best Practices #9: Regression Intro](https://www.youtube.com/watch?v=ar7mZtG3lz4) (Tue Aug 26 2025)
+- [SAP BTP AI Best Practices #7: Graph-based RAG KG Creation Intro](https://www.youtube.com/watch?v=T_J3ZJJjr74) (Tue Aug 26 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
