@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇵🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14156198)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/292541i6088F05474D0AE65/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, August 26, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Hicron, Gwiaździsta 62, Wrocław, Poland
 - [🇳🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14164269)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/292537iC58DECE35CD3F74A/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/283545i375C9D53C9C253BE/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 19, 2025 at 2:00:00 PM Central European Summer Time
   - Location: Inflancka 4A, Warsaw, Poland
+- [🇩🇪 SAP CodeJam ABAP Cloud (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-hamburg-germany/ev-p/14146237)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283547i544A148B64B18ADA/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, September 25, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: INW - Bildungswerk Nord e.V., Kurze Mühren 1, 20095 Hamburg, Hamburg-Mitte, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
