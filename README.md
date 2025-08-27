@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP AI Best Practices #7: Graph-based RAG KG Creation](https://www.youtube.com/watch?v=lPWSl-uZQ4I) (Tue Aug 26 2025)
 - [SAP BTP AI Best Practices #12: SAP Document AI Intro](https://www.youtube.com/watch?v=EQRzZWcvWHE) (Tue Aug 26 2025)
 - [SAP BTP AI Best Practices #11: Anomaly Detection Intro](https://www.youtube.com/watch?v=XmvVYhvv3xQ) (Tue Aug 26 2025)
 - [SAP BTP AI Best Practices #10: Time Series Intro](https://www.youtube.com/watch?v=GlO9YzUmGro) (Tue Aug 26 2025)
 - [SAP BTP AI Best Practices #8: Graph-based RAG KG Query Pipeline Intro](https://www.youtube.com/watch?v=6qI_lUm6QbA) (Tue Aug 26 2025)
 - [SAP BTP AI Best Practices #9: Regression Intro](https://www.youtube.com/watch?v=ar7mZtG3lz4) (Tue Aug 26 2025)
-- [SAP BTP AI Best Practices #7: Graph-based RAG KG Creation Intro](https://www.youtube.com/watch?v=T_J3ZJJjr74) (Tue Aug 26 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
