@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 How to Interview for an SAP Tech Job](https://www.youtube.com/watch?v=6MOfsgU06QE) (Mon Sep 01 2025)
+- [🟡 Take the Next Step in Your Career and Master an SAP Certification](https://www.youtube.com/watch?v=yuQyllRor9w) (Mon Sep 01 2025)
+- [🟡 The New Community for Developers](https://www.youtube.com/watch?v=uQ-BVWqbpRE) (Mon Sep 01 2025)
 - [SAP BTP ABAP, Webinar on Gardener, Community Updates & ABAP Test Cockpit  | SAP Developer News](https://www.youtube.com/watch?v=oTgQpkc0Xwg) (Thu Aug 28 2025)
 - [SAP BTP AI Best Practices #8: Graph-based RAG KG Query Pipeline](https://www.youtube.com/watch?v=P-CwzLOS_Ok) (Wed Aug 27 2025)
 - [SAP BTP AI Best Practices #7: Graph-based RAG KG Creation](https://www.youtube.com/watch?v=lPWSl-uZQ4I) (Tue Aug 26 2025)
-- [SAP BTP AI Best Practices #12: SAP Document AI Intro](https://www.youtube.com/watch?v=EQRzZWcvWHE) (Tue Aug 26 2025)
-- [SAP BTP AI Best Practices #11: Anomaly Detection Intro](https://www.youtube.com/watch?v=XmvVYhvv3xQ) (Tue Aug 26 2025)
-- [SAP BTP AI Best Practices #10: Time Series Intro](https://www.youtube.com/watch?v=GlO9YzUmGro) (Tue Aug 26 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
