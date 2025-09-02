@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟡 How to Interview for an SAP Tech Job](https://www.youtube.com/watch?v=6MOfsgU06QE) (Mon Sep 01 2025)
-- [🟡 Take the Next Step in Your Career and Master an SAP Certification](https://www.youtube.com/watch?v=yuQyllRor9w) (Mon Sep 01 2025)
-- [🟡 The New Community for Developers](https://www.youtube.com/watch?v=uQ-BVWqbpRE) (Mon Sep 01 2025)
-- [SAP BTP ABAP, Webinar on Gardener, Community Updates & ABAP Test Cockpit  | SAP Developer News](https://www.youtube.com/watch?v=oTgQpkc0Xwg) (Thu Aug 28 2025)
-- [SAP BTP AI Best Practices #8: Graph-based RAG KG Query Pipeline](https://www.youtube.com/watch?v=P-CwzLOS_Ok) (Wed Aug 27 2025)
-- [SAP BTP AI Best Practices #7: Graph-based RAG KG Creation](https://www.youtube.com/watch?v=lPWSl-uZQ4I) (Tue Aug 26 2025)
+- [🟣 Document Translation with SAP Build Apps and Translation Hub](https://www.youtube.com/watch?v=4U31w3w_olc) (Mon Sep 01 2025)
+- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
+- [🟣 From Clicks to Code: Automate SAP BTP Setup with Terraform](https://www.youtube.com/watch?v=fxp71OxVYRw) (Mon Sep 01 2025)
+- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=w6tmODEoEwU) (Mon Sep 01 2025)
+- [🟣   Taking guided experiences with SAP Build to the next level](https://www.youtube.com/watch?v=NRUgCQPS5xQ) (Mon Sep 01 2025)
+- [🟣 Generate Process Artifacts by Importing BPMN Models from any Process Design Tool](https://www.youtube.com/watch?v=gU4qyitQC2c) (Mon Sep 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
