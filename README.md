@@ -26,7 +26,7 @@ Follow me on:
 - [🔴 Unleash Next-Generation Hybrid Integration with Edge Integration Cell](https://www.youtube.com/watch?v=oZ0Bu6plkfk) (Tue Sep 02 2025)
 - [🟣 Document Translation with SAP Build Apps and Translation Hub](https://www.youtube.com/watch?v=4U31w3w_olc) (Mon Sep 01 2025)
 - [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
-- [🟣 Extend Joule with Your Own Skills](https://www.youtube.com/watch?v=w6tmODEoEwU) (Mon Sep 01 2025)
+- [🟣 From Insights to Action: Process excellence by combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Mon Sep 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
