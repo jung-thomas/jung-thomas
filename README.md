@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP BTP AI Best Practices #10: Time Series](https://www.youtube.com/watch?v=QMcdAWHVxFA) (Tue Sep 02 2025)
-- [🔴 SAP Cloud ALM - Integration & Exception Monitoring for SAP Integration Suite](https://www.youtube.com/watch?v=E9GELrTRWZ8) (Tue Sep 02 2025)
-- [🔴 Unleash Next-Generation Hybrid Integration with Edge Integration Cell](https://www.youtube.com/watch?v=oZ0Bu6plkfk) (Tue Sep 02 2025)
-- [🟣 Document Translation with SAP Build Apps and Translation Hub](https://www.youtube.com/watch?v=4U31w3w_olc) (Mon Sep 01 2025)
-- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
-- [🟣 From Insights to Action: Process excellence by combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Mon Sep 01 2025)
+- [🟢 Boost your developer efficiency with IDE Actions](https://www.youtube.com/watch?v=BAALIiRtChA) (Wed Sep 03 2025)
+- [🟢 Discover the latest innovations in the ABAP language](https://www.youtube.com/watch?v=4ZoXz1_MxiI) (Wed Sep 03 2025)
+- [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Wed Sep 03 2025)
+- [🟢 What's new in RAP](https://www.youtube.com/watch?v=5znLNdpr5y8) (Wed Sep 03 2025)
+- [🟢 Updates on Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=iREHX4ufaH4) (Wed Sep 03 2025)
+- [🟢 SAP BTP ABAP Environment – How to Monitor and Support Custom Cloud Apps](https://www.youtube.com/watch?v=TWzP1kBsFG0) (Wed Sep 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇳🇱 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14164269)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/292537iC58DECE35CD3F74A/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, September 3, 2025 at 9:30:00 AM Central European Summer Time
-  - Location: Aiden 's-Hertogenbosch, Het Zuiderkruis 61, 5215 MV 's-Hertogenbosch, Netherlands
 - [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14177684)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/299474i61B9743C82C5B5CA/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, September 16, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/283547i544A148B64B18ADA/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, September 25, 2025 at 9:00:00 AM Central European Summer Time
   - Location: INW - Bildungswerk Nord e.V., Kurze Mühren 1, 20095 Hamburg, Hamburg-Mitte, Germany
+- [🇩🇪 Getting started with Generative AI Hub on SAP AI Core (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hamburg-germany/ev-p/14157908)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/289300i447B90F74EFAD486/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 26, 2025 at 9:30:00 AM Central European Summer Time
+  - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße, Eimsbüttel, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
