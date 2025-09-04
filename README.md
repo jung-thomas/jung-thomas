@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP BTP AI Best Practices #11: Anomaly Detection](https://www.youtube.com/watch?v=UfiKWu7YEzU) (Wed Sep 03 2025)
 - [🟢 Boost your developer efficiency with IDE Actions](https://www.youtube.com/watch?v=BAALIiRtChA) (Wed Sep 03 2025)
 - [🟢 Discover the latest innovations in the ABAP language](https://www.youtube.com/watch?v=4ZoXz1_MxiI) (Wed Sep 03 2025)
 - [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Wed Sep 03 2025)
 - [🟢 What's new in RAP](https://www.youtube.com/watch?v=5znLNdpr5y8) (Wed Sep 03 2025)
 - [🟢 Updates on Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=iREHX4ufaH4) (Wed Sep 03 2025)
-- [🟢 SAP BTP ABAP Environment – How to Monitor and Support Custom Cloud Apps](https://www.youtube.com/watch?v=TWzP1kBsFG0) (Wed Sep 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
