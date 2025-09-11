@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Thu Sep 11 2025)
+- [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Thu Sep 11 2025)
+- [🟠 Less code, same logic – reduce your custom handlers by using new CAP features](https://www.youtube.com/watch?v=0dyfMLFYif8) (Thu Sep 11 2025)
 - [Enrich Data Products with SAP Databricks](https://www.youtube.com/watch?v=LWfiux8dOHI) (Wed Sep 10 2025)
 - [🔵 Demystifying the MCP, A2A, and ACP Protocols to Build Custom Multi-Agent Systems](https://www.youtube.com/watch?v=ki-4CHTT8O8) (Tue Sep 09 2025)
 - [🔵 Manage and Optimize Prompts in SAP AI Core: Concepts and Application](https://www.youtube.com/watch?v=qXjV75yBplE) (Tue Sep 09 2025)
-- [SAP BTP AI Best Practices #12: SAP Document AI](https://www.youtube.com/watch?v=c4_fPlf3rIQ) (Mon Sep 08 2025)
-- [SAP Build MCP Servers, ABAP Partner Reference & Joule Studio Extension Guidance | SAP Developer News](https://www.youtube.com/watch?v=k5ctT8VZPLo) (Thu Sep 04 2025)
-- [ABAP Cloud: Joule for developers, ABAP AI capabilities - Using the Extensibility AI Assistant](https://www.youtube.com/watch?v=RyAaBBKILUg) (Thu Sep 04 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
