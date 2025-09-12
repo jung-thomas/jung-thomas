@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 CAP Tools – What's New and Hot](https://www.youtube.com/watch?v=HLlX_e-kXJw) (Thu Sep 11 2025)
+- [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Thu Sep 11 2025)
 - [CAP August 2025, ABAP AI, Business Data Cloud, Devtoberfest & TechEd Agenda | SAP Developer News](https://www.youtube.com/watch?v=Gbz0-cAlxH0) (Thu Sep 11 2025)
 - [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Thu Sep 11 2025)
 - [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Thu Sep 11 2025)
 - [🟠 Less code, same logic – reduce your custom handlers by using new CAP features](https://www.youtube.com/watch?v=0dyfMLFYif8) (Thu Sep 11 2025)
-- [Enrich Data Products with SAP Databricks](https://www.youtube.com/watch?v=LWfiux8dOHI) (Wed Sep 10 2025)
-- [🔵 Demystifying the MCP, A2A, and ACP Protocols to Build Custom Multi-Agent Systems](https://www.youtube.com/watch?v=ki-4CHTT8O8) (Tue Sep 09 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
