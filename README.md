@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 From Clicks to Code: Automate SAP BTP Setup with Terraform](https://www.youtube.com/watch?v=1daQVSV_DGM) (Mon Sep 15 2025)
+- [🔴 Future-proof your scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=dckxEt1xenk) (Mon Sep 15 2025)
+- [🟣 Create a Case in Service Cloud V2 by Uploading Images Using AI Core, Build Apps](https://www.youtube.com/watch?v=5UgP9JCKLDw) (Mon Sep 15 2025)
 - [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Mon Sep 15 2025)
 - [🔵 The SAP Generative AI Hub plug-in for LiteLLM](https://www.youtube.com/watch?v=UZz6Eh2XOog) (Mon Sep 15 2025)
 - [🔵 SAP Business Data Cloud – An Architecture Deep Dive](https://www.youtube.com/watch?v=X6TzLgtNjDI) (Mon Sep 15 2025)
-- [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Mon Sep 15 2025)
-- [🔵 Building Multi-Tool Research Agents: Amazon Bedrock Generative AI Hub and Strands SDK](https://www.youtube.com/watch?v=VaM_w2yXRTY) (Mon Sep 15 2025)
-- [🔵 Prompt, Create and Innovate with AI Vibe Coding](https://www.youtube.com/watch?v=bYlTGcLtmko) (Mon Sep 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
