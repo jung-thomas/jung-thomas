@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟡 Developer Advocates Discuss: Developer Tools in the 21st Century](https://www.youtube.com/watch?v=ovf3h2YvM8w) (Fri Sep 12 2025)
-- [🟠 CAP Tools – What's New and Hot](https://www.youtube.com/watch?v=HLlX_e-kXJw) (Thu Sep 11 2025)
-- [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Thu Sep 11 2025)
-- [CAP August 2025, ABAP AI, Business Data Cloud, Devtoberfest & TechEd Agenda | SAP Developer News](https://www.youtube.com/watch?v=Gbz0-cAlxH0) (Thu Sep 11 2025)
-- [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Thu Sep 11 2025)
-- [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Thu Sep 11 2025)
+- [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Mon Sep 15 2025)
+- [🔵 The SAP Generative AI Hub plug-in for LiteLLM](https://www.youtube.com/watch?v=UZz6Eh2XOog) (Mon Sep 15 2025)
+- [🔵 SAP Business Data Cloud – An Architecture Deep Dive](https://www.youtube.com/watch?v=X6TzLgtNjDI) (Mon Sep 15 2025)
+- [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Mon Sep 15 2025)
+- [🔵 Building Multi-Tool Research Agents: Amazon Bedrock Generative AI Hub and Strands SDK](https://www.youtube.com/watch?v=VaM_w2yXRTY) (Mon Sep 15 2025)
+- [🔵 Prompt, Create and Innovate with AI Vibe Coding](https://www.youtube.com/watch?v=bYlTGcLtmko) (Mon Sep 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
