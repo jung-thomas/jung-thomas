@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Build Your Own AI Agent-Based Solution with the Generative AI Hub (Java & SpringAI version)](https://www.youtube.com/watch?v=DRQfo5X6MOc) (Wed Sep 17 2025)
+- [🔵 Build Your Own AI Agent-Based Solution with the Generative AI Hub (JS & LangGraph version)](https://www.youtube.com/watch?v=1W4_ZWHLhYo) (Wed Sep 17 2025)
 - [🟣 AI + SAP Fiori elements = Intelligent App Development at Scale](https://www.youtube.com/watch?v=2ZyI6b81yLw) (Wed Sep 17 2025)
 - [🟣 UI5 Middleware FE Mockserver in Practice — Setup, Use Cases, Live Coding](https://www.youtube.com/watch?v=er6Mx93shJI) (Wed Sep 17 2025)
 - [Subscribe to the channel!](https://www.youtube.com/shorts/Z_GOeSD_g7U) (Wed Sep 17 2025)
 - [🟠 Integrating S/4HANA Public Cloud APIs into CAP Made Simple](https://www.youtube.com/watch?v=7m22NubgqME) (Tue Sep 16 2025)
-- [🟣 From Clicks to Code: Automate SAP BTP Setup with Terraform](https://www.youtube.com/watch?v=1daQVSV_DGM) (Mon Sep 15 2025)
-- [🔴 Future-proof your scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=dckxEt1xenk) (Mon Sep 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
