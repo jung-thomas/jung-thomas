@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇪 SAP CodeJam ABAP Cloud (Mechelen, Belgium)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-mechelen-belgium/ev-p/14146229)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283546i60B4ED144C931D48/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 19, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: Van der Valk Hotel Mechelen, Rode-Kruisplein 1-4, 2800 Mechelen, Belgium
-- [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14146218)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283545i375C9D53C9C253BE/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 19, 2025 at 2:00:00 PM Central European Summer Time
-  - Location: Inflancka 4A, Warsaw, Poland
 - [🇩🇪 SAP CodeJam ABAP Cloud (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-hamburg-germany/ev-p/14146237)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/283547i544A148B64B18ADA/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, September 25, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/289278iE98A963A76B147ED/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 26, 2025 at 9:30:00 AM Central European Summer Time
   - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße, Hamburg, Eimsbüttel, Germany
+- [🇵🇹 Foundations of AI applications with the SAP HANA Cloud (Porto, PT)](https://community.sap.com/t5/sap-codejam/foundations-of-ai-applications-with-the-sap-hana-cloud-porto-pt/ev-p/14153367)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/287047i030D7B75C8655D79/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, September 26, 2025 at 10:00:00 AM British Summer Time
+  - Location: Forte de Gaia, Autograph Collection, R. de Serpa Pinto 60, 4400-307 Vila Nova de Gaia, Portugal
+- [[CANCELLED] 🇪🇸 Event-driven integrations with SAP Integration Suite, AEM (Barcelona, Spain)](https://community.sap.com/t5/sap-codejam/cancelled-event-driven-integrations-with-sap-integration-suite-aem/ev-p/14204702)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, October 2, 2025 at 9:00:00 AM Central European Summer Time
+  - Location: CINC Centre de Negocis, Coworking i Assessoria Barcelona - 22@ Poblenou, Carrer de Llull, 321, Sant Martí, 08019 Barcelona, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
