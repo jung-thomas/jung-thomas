@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam ABAP Cloud (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-hamburg-germany/ev-p/14146237)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/283547i544A148B64B18ADA/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, September 25, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: INW - Bildungswerk Nord e.V., Kurze Mühren 1, 20095 Hamburg, Hamburg-Mitte, Germany
 - [🇩🇪 Getting started with Generative AI Hub on SAP AI Core (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hamburg-germany/ev-p/14157908)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/289300i447B90F74EFAD486/image-size/thumb?v=v2&px=150" />
   - Start: Friday, September 26, 2025 at 9:30:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, October 2, 2025 at 9:00:00 AM Central European Summer Time
   - Location: CINC Centre de Negocis, Coworking i Assessoria Barcelona - 22@ Poblenou, Carrer de Llull, 321, Sant Martí, 08019 Barcelona, Spain
+- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14211068)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/311186i395A1C4457C8F9F8/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, October 7, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: Henri-Dunant-Straße 50, 91058 Erlangen, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
