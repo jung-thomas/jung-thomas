@@ -31,18 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Getting started with Generative AI Hub on SAP AI Core (Hamburg, Germany)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hamburg-germany/ev-p/14157908)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/289300i447B90F74EFAD486/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 26, 2025 at 9:30:00 AM Central European Summer Time
-  - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße, Eimsbüttel, Germany
-- [🇩🇪 Build AI services using the SAP Cloud Application Programming Model and Generative AI Hub](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-sap-cloud-application-programming-model-and/ev-p/14157903)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/289278iE98A963A76B147ED/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 26, 2025 at 9:30:00 AM Central European Summer Time
-  - Location: SAP Deutschland SE & Co. KG, Tesdorpfstraße, Hamburg, Eimsbüttel, Germany
-- [🇵🇹 Foundations of AI applications with the SAP HANA Cloud (Porto, PT)](https://community.sap.com/t5/sap-codejam/foundations-of-ai-applications-with-the-sap-hana-cloud-porto-pt/ev-p/14153367)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/287047i030D7B75C8655D79/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, September 26, 2025 at 10:00:00 AM British Summer Time
-  - Location: Forte de Gaia, Autograph Collection, R. de Serpa Pinto 60, 4400-307 Vila Nova de Gaia, Portugal
 - [[CANCELLED] 🇪🇸 Event-driven integrations with SAP Integration Suite, AEM (Barcelona, Spain)](https://community.sap.com/t5/sap-codejam/cancelled-event-driven-integrations-with-sap-integration-suite-aem/ev-p/14204702)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, October 2, 2025 at 9:00:00 AM Central European Summer Time
@@ -51,6 +39,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/311186i395A1C4457C8F9F8/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, October 7, 2025 at 10:00:00 AM Central European Summer Time
   - Location: Henri-Dunant-Straße 50, 91058 Erlangen, Germany
+- [🇬🇧 SAP Fiori elements flexible programming model (Birmingham, UK)](https://community.sap.com/t5/sap-codejam/sap-fiori-elements-flexible-programming-model-birmingham-uk/ev-p/14210332)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/310861i0A9D1A3A93AF1ABE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, October 8, 2025 at 9:30:00 AM British Summer Time
+  - Location: Shoosmiths, 103 Colmore Row, Colmore Row, Birmingham B3 3AG, UK
+- [🇩🇪 Service integration with the SAP Cloud Application Programming Model (Munich, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-the-sap-cloud-application-programming-model-munich/ev-p/14212922)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/312113iC441150D1600CB02/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, October 10, 2025 at 10:00:00 AM Central European Summer Time
+  - Location: SAP Labs Munich (MUE03), Friedrich-Ludwig-Bauer-Straße, Garching, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
