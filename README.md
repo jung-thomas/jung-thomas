@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Boost Your Developer Satisfaction with SAP Joule for Developers, ABAP AI Capabilities](https://www.youtube.com/watch?v=b9lmZHp2WaA) (Fri Sep 26 2025)
 - [Devtoberfest, SAPUI5 V1.140 and SAP BTP Cockpit Recent Changes | SAP Developer News](https://www.youtube.com/watch?v=werUh2w7n88) (Thu Sep 25 2025)
 - [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Thu Sep 25 2025)
 - [🔵 Elevate productivity with AI in mobile apps using SAP Build](https://www.youtube.com/watch?v=S4IQpyCXjso) (Mon Sep 22 2025)
 - [🟠 Building Enterprise Grade CAP applications using BTP Developer's guide](https://www.youtube.com/watch?v=tUKMUIL9C6k) (Mon Sep 22 2025)
 - [🟠 Plug'n'Ask: Enabling AI Context in CAP Through the Power of Plugins And MCP](https://www.youtube.com/watch?v=68VtJWNkYk4) (Mon Sep 22 2025)
-- [CSV Data Loss Fix in CAP, Devtoberfest, UI5con, Subscribers, CAP ESLint plugin | SAP Developer News](https://www.youtube.com/watch?v=T0veFdcM280) (Thu Sep 18 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
