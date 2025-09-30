@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Unboxing Joule Studio: Honest Insights from Hack2Build Champions](https://www.youtube.com/watch?v=I5k4FvyDiNg) (Mon Sep 01 2025)
+- [🟣 Building Agents with Joule Studio](https://www.youtube.com/watch?v=o5zIoawwKso) (Tue Sep 30 2025)
+- [🟣 Code-Along: Build a Joule Skill from Scratch with Joule Studio](https://www.youtube.com/watch?v=tYm2mwsIuXY) (Mon Sep 01 2025)
 - [🟣 Introducing Application Frontend: Simplifying UI App Hosting](https://www.youtube.com/watch?v=cqRC6_50tlE) (Mon Sep 29 2025)
 - [🟢 Boost Your Developer Satisfaction with SAP Joule for Developers, ABAP AI Capabilities](https://www.youtube.com/watch?v=b9lmZHp2WaA) (Mon Sep 29 2025)
 - [🟢 Custom code development and transformation for Clean Core in SAP S/4HANA](https://www.youtube.com/watch?v=PuAcfsRhdDk) (Mon Sep 29 2025)
-- [🔵 Leveraging Calculation Views in SAP BAS: an Introduction](https://www.youtube.com/watch?v=67wcoMJhHqo) (Mon Sep 29 2025)
-- [🟢 Clean Core Extensibility Strategy powered by ABAP Cloud and Generative AI](https://www.youtube.com/watch?v=Zmo7YU9BUlc) (Mon Sep 29 2025)
-- [🟣 Use GenAI in Process Automation to  Adapt 100s of Templates to Your Needs](https://www.youtube.com/watch?v=MX1PdXNQ8I4) (Sat Sep 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -46,7 +46,7 @@ Follow me on:
 - [🇩🇪 Service integration with the SAP Cloud Application Programming Model (Munich, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-the-sap-cloud-application-programming-model-munich/ev-p/14212922)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/312113iC441150D1600CB02/image-size/thumb?v=v2&px=150" />
   - Start: Friday, October 10, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: SAP Labs Munich (MUE03), Friedrich-Ludwig-Bauer-Straße, Garching, Germany
+  - Location: SAP SE (MUE04), Schleißheimer Straße, Garching, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
