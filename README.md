@@ -44,7 +44,7 @@ Follow me on:
   - Start: Wednesday, October 8, 2025 at 9:30:00 AM British Summer Time
   - Location: Shoosmiths, 103 Colmore Row, Colmore Row, Birmingham B3 3AG, UK
 - [🇩🇪 Service integration with the SAP Cloud Application Programming Model (Munich, DE)](https://community.sap.com/t5/sap-codejam/service-integration-with-the-sap-cloud-application-programming-model-munich/ev-p/14212922)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/312113iC441150D1600CB02/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/312113iC441150D1600CB02/image-size/thumb?v=v2&px=150" />
   - Start: Friday, October 10, 2025 at 10:00:00 AM Central European Summer Time
   - Location: SAP Labs Munich (MUE03), Friedrich-Ludwig-Bauer-Straße, Garching, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
