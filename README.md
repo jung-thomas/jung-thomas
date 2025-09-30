@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Introducing Application Frontend: Simplifying UI App Hosting](https://www.youtube.com/watch?v=cqRC6_50tlE) (Mon Sep 29 2025)
 - [🟢 Boost Your Developer Satisfaction with SAP Joule for Developers, ABAP AI Capabilities](https://www.youtube.com/watch?v=b9lmZHp2WaA) (Mon Sep 29 2025)
 - [🟢 Custom code development and transformation for Clean Core in SAP S/4HANA](https://www.youtube.com/watch?v=PuAcfsRhdDk) (Mon Sep 29 2025)
 - [🔵 Leveraging Calculation Views in SAP BAS: an Introduction](https://www.youtube.com/watch?v=67wcoMJhHqo) (Mon Sep 29 2025)
 - [🟢 Clean Core Extensibility Strategy powered by ABAP Cloud and Generative AI](https://www.youtube.com/watch?v=Zmo7YU9BUlc) (Mon Sep 29 2025)
 - [🟣 Use GenAI in Process Automation to  Adapt 100s of Templates to Your Needs](https://www.youtube.com/watch?v=MX1PdXNQ8I4) (Sat Sep 27 2025)
-- [🟣 Multi-tenancy Support within SAP Build Work Zone](https://www.youtube.com/watch?v=cU90JRM9bRo) (Sat Sep 27 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
