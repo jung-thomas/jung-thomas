@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Designing understandable SAP BTP Solution Diagrams and contributing to the SAP Architecture Center](https://www.youtube.com/watch?v=mXdqs39qYtI) (Mon Sep 15 2025)
+- [🔴 Clean Core, Event-Driven: Unlocking SAP Value with Advanced Event Mesh](https://www.youtube.com/watch?v=J86agPa9bOk) (Tue Aug 12 2025)
+- [🔴 Accelerate your move to the cloud via Pipeline for Cloud Integration](https://www.youtube.com/watch?v=LFfW8rnm4fU) (Tue Aug 12 2025)
 - [🟣 Introducing Application Frontend: Simplifying UI App Hosting](https://www.youtube.com/watch?v=cqRC6_50tlE) (Wed Oct 01 2025)
 - [🟣 Unboxing Joule Studio: Honest Insights from Hack2Build Champions](https://www.youtube.com/watch?v=I5k4FvyDiNg) (Wed Oct 01 2025)
 - [🟣 Code-Along: Build a Joule Skill from Scratch with Joule Studio](https://www.youtube.com/watch?v=tYm2mwsIuXY) (Tue Sep 30 2025)
-- [🟣 Create a Case in Service Cloud V2 by Uploading Images Using AI Core, Build Apps](https://www.youtube.com/watch?v=5UgP9JCKLDw) (Tue Sep 30 2025)
-- [🟢 Explore the Latest Updates in ABAP CDS.mp4](https://www.youtube.com/watch?v=VNJWHBUxtYY) (Tue Sep 30 2025)
-- [🟣 Building Agents with Joule Studio](https://www.youtube.com/watch?v=o5zIoawwKso) (Tue Sep 30 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
