@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Open Resource Discovery – How to build a well-connected metadata catalog across silos](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Thu Oct 02 2025)
 - [🔴 Designing understandable SAP BTP Solution Diagrams and contributing to the SAP Architecture Center](https://www.youtube.com/watch?v=mXdqs39qYtI) (Thu Oct 02 2025)
 - [🟣 wdi5 v3: Faster, Smoother, Smarter](https://www.youtube.com/watch?v=YFUL0vGvX1Q) (Wed Oct 01 2025)
 - [🔴 Clean Core, Event-Driven: Unlocking SAP Value with Advanced Event Mesh](https://www.youtube.com/watch?v=J86agPa9bOk) (Wed Oct 01 2025)
 - [🔴 Accelerate your move to the cloud via Pipeline for Cloud Integration](https://www.youtube.com/watch?v=LFfW8rnm4fU) (Wed Oct 01 2025)
 - [🔵 AI Agents at Work - From Buzzword to Business Impact](https://www.youtube.com/watch?v=JdPvbHLuDD0) (Wed Oct 01 2025)
-- [🔴 Open Resource Discovery – How to build a well-connected metadata catalog across silos](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Wed Aug 13 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
