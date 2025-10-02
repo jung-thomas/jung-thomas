@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵Enrich Data Products with SAP Databricks](https://www.youtube.com/watch?v=LWfiux8dOHI) (Thu Oct 02 2025)
+- [🔵 Leveraging Calculation Views in SAP BAS: an Introduction](https://www.youtube.com/watch?v=67wcoMJhHqo) (Thu Oct 02 2025)
 - [🔴 Open Resource Discovery – How to build a well-connected metadata catalog across silos](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Thu Oct 02 2025)
 - [🔴 Designing understandable SAP BTP Solution Diagrams and contributing to the SAP Architecture Center](https://www.youtube.com/watch?v=mXdqs39qYtI) (Thu Oct 02 2025)
 - [🟣 wdi5 v3: Faster, Smoother, Smarter](https://www.youtube.com/watch?v=YFUL0vGvX1Q) (Wed Oct 01 2025)
 - [🔴 Clean Core, Event-Driven: Unlocking SAP Value with Advanced Event Mesh](https://www.youtube.com/watch?v=J86agPa9bOk) (Wed Oct 01 2025)
-- [🔴 Accelerate your move to the cloud via Pipeline for Cloud Integration](https://www.youtube.com/watch?v=LFfW8rnm4fU) (Wed Oct 01 2025)
-- [🔵 AI Agents at Work - From Buzzword to Business Impact](https://www.youtube.com/watch?v=JdPvbHLuDD0) (Wed Oct 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [[CANCELLED] 🇪🇸 Event-driven integrations with SAP Integration Suite, AEM (Barcelona, Spain)](https://community.sap.com/t5/sap-codejam/cancelled-event-driven-integrations-with-sap-integration-suite-aem/ev-p/14204702)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/105415i052CC3F6FF50A0FC/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, October 2, 2025 at 9:00:00 AM Central European Summer Time
-  - Location: CINC Centre de Negocis, Coworking i Assessoria Barcelona - 22@ Poblenou, Carrer de Llull, 321, Sant Martí, 08019 Barcelona, Spain
 - [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14211068)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/311186i395A1C4457C8F9F8/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, October 7, 2025 at 10:00:00 AM Central European Summer Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/322131i489DCBE4AAAD07AA/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Monday, November 17, 2025 at 9:00:00 AM Australian Eastern Daylight Time
   - Location: 28 Freshwater Place, Freshwater Place, Southbank Melbourne, VIC 3006, Australia
+- [🇸🇬 Getting started with Generative AI Hub on SAP AI Core (Singapore)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14233018)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/322129i584AD5A5A51522DB/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, November 20, 2025 at 9:00:00 AM Singapore Standard Time
+  - Location: Pasir Panjang Road, Mapletree Business City, Singapore
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
