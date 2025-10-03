@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 AI Agents at Work - From Buzzword to Business Impact](https://www.youtube.com/watch?v=JdPvbHLuDD0) (Fri Oct 03 2025)
 - [Devtoberfest, Petoberfest, reCAP videos, Scavenger Hunt, SAP HANA Cloud, UI5con | SAP Developer News](https://www.youtube.com/watch?v=rnvatQhJurI) (Thu Oct 02 2025)
-- [🔵 AI Agents at Work - From Buzzword to Business Impact](https://www.youtube.com/watch?v=JdPvbHLuDD0) (Wed Oct 01 2025)
 - [🔵Enrich Data Products with SAP Databricks](https://www.youtube.com/watch?v=LWfiux8dOHI) (Thu Oct 02 2025)
 - [🔵 Leveraging Calculation Views in SAP BAS: an Introduction](https://www.youtube.com/watch?v=67wcoMJhHqo) (Thu Oct 02 2025)
 - [🔴 Open Resource Discovery – How to build a well-connected metadata catalog across silos](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Thu Oct 02 2025)
