@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 The New Community for Developers](https://www.youtube.com/watch?v=uQ-BVWqbpRE) (Mon Sep 01 2025)
+- [🟠 Get to know more about CAP’s documentation offering](https://www.youtube.com/watch?v=gvjbxitDf18) (Fri Oct 03 2025)
+- [🟠 Building Enterprise Grade CAP applications using BTP Developer's guide](https://www.youtube.com/watch?v=tUKMUIL9C6k) (Fri Oct 03 2025)
 - [🔵 AI Agents at Work - From Buzzword to Business Impact](https://www.youtube.com/watch?v=JdPvbHLuDD0) (Fri Oct 03 2025)
 - [Devtoberfest, Petoberfest, reCAP videos, Scavenger Hunt, SAP HANA Cloud, UI5con | SAP Developer News](https://www.youtube.com/watch?v=rnvatQhJurI) (Thu Oct 02 2025)
 - [🔵Enrich Data Products with SAP Databricks](https://www.youtube.com/watch?v=LWfiux8dOHI) (Thu Oct 02 2025)
-- [🔵 Leveraging Calculation Views in SAP BAS: an Introduction](https://www.youtube.com/watch?v=67wcoMJhHqo) (Thu Oct 02 2025)
-- [🔴 Open Resource Discovery – How to build a well-connected metadata catalog across silos](https://www.youtube.com/watch?v=IwyaX_XoSuo) (Thu Oct 02 2025)
-- [🔴 Designing understandable SAP BTP Solution Diagrams and contributing to the SAP Architecture Center](https://www.youtube.com/watch?v=mXdqs39qYtI) (Thu Oct 02 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
