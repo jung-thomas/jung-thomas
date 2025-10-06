@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Updates on Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=iREHX4ufaH4) (Wed Sep 03 2025)
+- [🔵 Modernize your SAP Business Warehouse with SAP Business Data Cloud](https://www.youtube.com/watch?v=dEmaun_5YGA) (Mon Oct 06 2025)
 - [🟢 Explore the Latest Updates in ABAP CDS](https://www.youtube.com/watch?v=VNJWHBUxtYY) (Mon Oct 06 2025)
 - [🟢 SAP BTP ABAP Environment – How to Monitor and Support Custom Cloud Apps](https://www.youtube.com/watch?v=TWzP1kBsFG0) (Wed Sep 03 2025)
 - [🟡 The New Community for Developers](https://www.youtube.com/watch?v=uQ-BVWqbpRE) (Fri Oct 03 2025)
 - [🔵 Bottom Line - Teaching Neural Networks with Snap!](https://www.youtube.com/watch?v=_JSnHmGMbfY) (Fri Oct 03 2025)
-- [🔵 Developing AI-driven SAP HANA Cloud applications with SAP Business Application Studio and Joule](https://www.youtube.com/watch?v=MJnvltbF7yY) (Fri Oct 03 2025)
-- [🟠 Integrating S/4HANA Public Cloud APIs into CAP Made Simple](https://www.youtube.com/watch?v=7m22NubgqME) (Fri Oct 03 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
