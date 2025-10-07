@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Multi-tenancy Support within SAP Build Work Zone](https://www.youtube.com/watch?v=cU90JRM9bRo) (Tue Oct 07 2025)
+- [🟣 Best Practices for Quickly Building Extensions to SAP SuccessFactors](https://www.youtube.com/watch?v=7NgGVBDojDc) (Tue Oct 07 2025)
+- [🟣 Build Mobile Solutions with Advanced Scanning Using SAP Build](https://www.youtube.com/watch?v=Qy3VDqQedjM) (Mon Sep 01 2025)
+- [Devtoberfest Holiday Special](https://www.youtube.com/shorts/tSAjxXjhsFY) (Tue Oct 07 2025)
 - [🟣 Beyond UI5 Controls with the Rise of Web Components](https://www.youtube.com/watch?v=jVslHo5I5qg) (Tue Oct 07 2025)
 - [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
-- [🟣 Best Practices for Quickly Building Extensions to SAP SuccessFactors](https://www.youtube.com/watch?v=7NgGVBDojDc) (Mon Sep 01 2025)
-- [🟢 Updates on Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=iREHX4ufaH4) (Tue Oct 07 2025)
-- [🟣 wdi5 v3: Faster, Smoother, Smarter](https://www.youtube.com/watch?v=YFUL0vGvX1Q) (Tue Oct 07 2025)
-- [🟢 SAP BTP ABAP Environment – How to Monitor and Support Custom Cloud Apps](https://www.youtube.com/watch?v=TWzP1kBsFG0) (Mon Oct 06 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
