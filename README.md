@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Beyond UI5 Controls with the Rise of Web Components](https://www.youtube.com/watch?v=jVslHo5I5qg) (Tue Oct 07 2025)
+- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
 - [🟣 Best Practices for Quickly Building Extensions to SAP SuccessFactors](https://www.youtube.com/watch?v=7NgGVBDojDc) (Mon Sep 01 2025)
 - [🟢 Updates on Embedded Analytics in ABAP Cloud](https://www.youtube.com/watch?v=iREHX4ufaH4) (Tue Oct 07 2025)
 - [🟣 wdi5 v3: Faster, Smoother, Smarter](https://www.youtube.com/watch?v=YFUL0vGvX1Q) (Tue Oct 07 2025)
 - [🟢 SAP BTP ABAP Environment – How to Monitor and Support Custom Cloud Apps](https://www.youtube.com/watch?v=TWzP1kBsFG0) (Mon Oct 06 2025)
-- [🟠 Status-Transition Flows](https://www.youtube.com/watch?v=1XolXCjN5IQ) (Mon Oct 06 2025)
-- [🔵 Modernize your SAP Business Warehouse with SAP Business Data Cloud](https://www.youtube.com/watch?v=dEmaun_5YGA) (Mon Oct 06 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP Cloud Application Programming Model with SAP HANA Cloud](https://community.sap.com/t5/sap-codejam/sap-cloud-application-programming-model-with-sap-hana-cloud/ev-p/14211068)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/311186i395A1C4457C8F9F8/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, October 7, 2025 at 10:00:00 AM Central European Summer Time
-  - Location: Henri-Dunant-Straße 50, 91058 Erlangen, Germany
 - [🇬🇧 SAP Fiori elements flexible programming model (Birmingham, UK)](https://community.sap.com/t5/sap-codejam/sap-fiori-elements-flexible-programming-model-birmingham-uk/ev-p/14210332)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/310861i0A9D1A3A93AF1ABE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, October 8, 2025 at 9:30:00 AM British Summer Time
