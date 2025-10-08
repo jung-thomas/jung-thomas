@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Tue Oct 07 2025)
 - [🟣 Multi-tenancy Support within SAP Build Work Zone](https://www.youtube.com/watch?v=cU90JRM9bRo) (Tue Oct 07 2025)
 - [🟣 Best Practices for Quickly Building Extensions to SAP SuccessFactors](https://www.youtube.com/watch?v=7NgGVBDojDc) (Tue Oct 07 2025)
 - [🟣 Build Mobile Solutions with Advanced Scanning Using SAP Build](https://www.youtube.com/watch?v=Qy3VDqQedjM) (Mon Sep 01 2025)
 - [Devtoberfest Holiday Special](https://www.youtube.com/shorts/tSAjxXjhsFY) (Tue Oct 07 2025)
-- [🟣 Beyond UI5 Controls with the Rise of Web Components](https://www.youtube.com/watch?v=jVslHo5I5qg) (Tue Oct 07 2025)
-- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Mon Sep 01 2025)
+- [🟠 Taking UI5 Server Side Rendering to the next level with AI](https://www.youtube.com/watch?v=X8Q59aRg6lA) (Tue Oct 07 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
