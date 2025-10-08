@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 Unleash Next-Generation Hybrid Integration with Edge Integration Cell](https://www.youtube.com/watch?v=oZ0Bu6plkfk) (Tue Sep 02 2025)
 - [🔴 Enterprise in Motion: Event-Driven Architecture Use Cases for Innovation and Agility](https://www.youtube.com/watch?v=mDONEh311HY) (Tue Aug 12 2025)
+- [🔵 Elevate Productivity with AI in Mobile Apps using SAP Build](https://www.youtube.com/watch?v=kKiACJgaR10) (Wed Oct 08 2025)
 - [🔴 Hands-on session: practical demonstration of the Event Add-on for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo) (Tue Aug 12 2025)
 - [🔴 Warp-Speed for Event Creation: Overview on the new Event Add-on for ERP](https://www.youtube.com/watch?v=x9uXO18TVBg) (Tue Aug 12 2025)
 - [🟣 Build Mobile Solutions with Advanced Scanning Using SAP Build](https://www.youtube.com/watch?v=Qy3VDqQedjM) (Wed Oct 08 2025)
-- [🟣 Leverage Joule Studio to Implement Custom Skills for Smart Customer Advisory Companion](https://www.youtube.com/watch?v=dC5pTEHMt9E) (Tue Oct 07 2025)
-- [🟣 Multi-tenancy Support within SAP Build Work Zone](https://www.youtube.com/watch?v=cU90JRM9bRo) (Tue Oct 07 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
