@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Prompt, Create and Innovate with AI Vibe Coding](https://www.youtube.com/watch?v=bYlTGcLtmko) (Mon Sep 15 2025)
+- [🔵 Accelerate AI & Generative AI Innovation in SAP S/4HANA with ISLM](https://www.youtube.com/watch?v=oY7w0UW3HjI) (Mon Sep 15 2025)
 - [🔵 Developing AI-driven SAP HANA Cloud applications with SAP Business Application Studio and Joule](https://www.youtube.com/watch?v=MJnvltbF7yY) (Fri Oct 03 2025)
 - [🔴 Unleash Next-Generation Hybrid Integration with Edge Integration Cell](https://www.youtube.com/watch?v=oZ0Bu6plkfk) (Thu Oct 09 2025)
 - [🔴 Enterprise in Motion: Event-Driven Architecture Use Cases for Innovation and Agility](https://www.youtube.com/watch?v=mDONEh311HY) (Thu Oct 09 2025)
 - [🔴 Hands-on session: practical demonstration of the Event Add-on for ERP](https://www.youtube.com/watch?v=vwzqNLISvHo) (Wed Oct 08 2025)
-- [🔴 Warp-Speed for Event Creation: Overview on the new Event Add-on for ERP](https://www.youtube.com/watch?v=x9uXO18TVBg) (Wed Oct 08 2025)
-- [🔵 Elevate Productivity with AI in Mobile Apps using SAP Build](https://www.youtube.com/watch?v=kKiACJgaR10) (Wed Oct 08 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
