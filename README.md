@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Accelerate AI & Generative AI Innovation in SAP S/4HANA with ISLM](https://www.youtube.com/watch?v=oY7w0UW3HjI) (Thu Oct 09 2025)
+- [Devtoberfest, CAP Customer Roundtable, ES5 Decommissioned & Scavenger Hunt Clue | SAP Developer News](https://www.youtube.com/watch?v=7kAbhWcSBFg) (Thu Oct 09 2025)
+- [🔵 Developing AI-driven SAP HANA Cloud applications with SAP Business Application Studio and Joule](https://www.youtube.com/watch?v=MJnvltbF7yY) (Thu Oct 09 2025)
 - [🔵 Elevate Productivity with AI in Mobile Apps using SAP Build](https://www.youtube.com/watch?v=kKiACJgaR10) (Thu Oct 09 2025)
 - [🔵 Demystifying the MCP, A2A, and ACP Protocols to Build Custom Multi-Agent Systems](https://www.youtube.com/watch?v=ki-4CHTT8O8) (Tue Sep 09 2025)
-- [Devtoberfest, CAP Customer Roundtable, ES5 Decommissioned & Scavenger Hunt Clue | SAP Developer News](https://www.youtube.com/watch?v=7kAbhWcSBFg) (Thu Oct 09 2025)
 - [🔵 Building Multi-Tool Research Agents: Amazon Bedrock Generative AI Hub and Strands SDK](https://www.youtube.com/watch?v=CydVK0Nshnc) (Thu Oct 09 2025)
-- [🔵 Prompt, Create and Innovate with AI Vibe Coding](https://www.youtube.com/watch?v=bYlTGcLtmko) (Mon Sep 15 2025)
-- [🔵 Accelerate AI & Generative AI Innovation in SAP S/4HANA with ISLM](https://www.youtube.com/watch?v=oY7w0UW3HjI) (Mon Sep 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
