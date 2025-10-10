@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Taking UI5 Server Side Rendering to the next level with AI](https://www.youtube.com/watch?v=X8Q59aRg6lA) (Fri Oct 10 2025)
+- [🔵 SAP Data Products: how to handle them today and what is the plan for tomorrow?](https://www.youtube.com/watch?v=8A9VqSIIyRw) (Fri Oct 10 2025)
+- [🟡 Take the Next Step in Your Career and Master an SAP Certification](https://www.youtube.com/watch?v=yuQyllRor9w) (Mon Sep 01 2025)
 - [🟠 Status-Transition Flows](https://www.youtube.com/watch?v=1XolXCjN5IQ) (Fri Oct 10 2025)
 - [🟠 Less code, same logic – reduce your custom handlers by using new CAP features](https://www.youtube.com/watch?v=0dyfMLFYif8) (Thu Sep 11 2025)
 - [🔵 Demystifying the MCP, A2A, and ACP Protocols to Build Custom Multi-Agent Systems](https://www.youtube.com/watch?v=ki-4CHTT8O8) (Fri Oct 10 2025)
-- [🔵 Prompt, Create and Innovate with AI Vibe Coding](https://www.youtube.com/watch?v=bYlTGcLtmko) (Fri Oct 10 2025)
-- [🔵 Accelerate AI & Generative AI Innovation in SAP S/4HANA with ISLM](https://www.youtube.com/watch?v=oY7w0UW3HjI) (Thu Oct 09 2025)
-- [Devtoberfest, CAP Customer Roundtable, ES5 Decommissioned & Scavenger Hunt Clue | SAP Developer News](https://www.youtube.com/watch?v=7kAbhWcSBFg) (Thu Oct 09 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
