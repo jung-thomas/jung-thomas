@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Discover the latest innovations in the ABAP language](https://www.youtube.com/watch?v=4ZoXz1_MxiI) (Wed Sep 03 2025)
 - [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Wed Sep 03 2025)
 - [🟢 ABAP Development Tools for Eclipse – What's new](https://www.youtube.com/watch?v=snzOyuMICV8) (Mon Oct 13 2025)
 - [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Mon Oct 13 2025)
 - [🟢 What's new in RAP](https://www.youtube.com/watch?v=5znLNdpr5y8) (Mon Oct 13 2025)
 - [🟡 Take the Next Step in Your Career and Master an SAP Certification](https://www.youtube.com/watch?v=yuQyllRor9w) (Sat Oct 11 2025)
-- [🟠 Less code, same logic – reduce your custom handlers by using new CAP features](https://www.youtube.com/watch?v=0dyfMLFYif8) (Fri Oct 10 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
