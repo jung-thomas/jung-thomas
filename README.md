@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Tue Oct 14 2025)
 - [🟢 Discover the latest innovations in the ABAP language](https://www.youtube.com/watch?v=4ZoXz1_MxiI) (Wed Sep 03 2025)
-- [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Wed Sep 03 2025)
 - [🟢 ABAP Development Tools for Eclipse – What's new](https://www.youtube.com/watch?v=snzOyuMICV8) (Mon Oct 13 2025)
 - [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Mon Oct 13 2025)
 - [🟢 What's new in RAP](https://www.youtube.com/watch?v=5znLNdpr5y8) (Mon Oct 13 2025)
