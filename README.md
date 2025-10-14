@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 UI5 Middleware FE Mockserver in Practice — Setup, Use Cases, Live Coding](https://www.youtube.com/watch?v=er6Mx93shJI) (Wed Sep 17 2025)
+- [🟣 Supercharge SAP Build Process Automation with the UiPath Foundation Add-On](https://www.youtube.com/watch?v=pZv9632X9Ps) (Mon Sep 01 2025)
+- [🟣 Roles and Authorization in SAP Build Process Automation: A Developer’s Guide](https://www.youtube.com/watch?v=AXTka16LJow) (Mon Sep 01 2025)
 - [🟣 Generate Process Artifacts by Importing BPMN Models from Any Process Design Tool](https://www.youtube.com/watch?v=3uzgJXBb_X0) (Mon Sep 01 2025)
 - [🟢 Discover the latest innovations in the ABAP language](https://www.youtube.com/watch?v=4ZoXz1_MxiI) (Tue Oct 14 2025)
 - [🟢 Evolving data integration with SQL services and CDS external entities](https://www.youtube.com/watch?v=1oc1XnJMag8) (Tue Oct 14 2025)
-- [🟣 Extend Fiori UIs in SAP Build: Empowering Adaptation Projects with Generative AI Capabilities](https://www.youtube.com/watch?v=3MpBQo2Aov8) (Mon Oct 13 2025)
-- [🟢 ABAP Development Tools for Eclipse – What's new](https://www.youtube.com/watch?v=snzOyuMICV8) (Mon Oct 13 2025)
-- [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Mon Oct 13 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
