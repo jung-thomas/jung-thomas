@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 Supercharge SAP Build Process Automation with the UiPath Foundation Add-On](https://www.youtube.com/watch?v=pZv9632X9Ps) (Tue Oct 14 2025)
+- [🟣 Roles and Authorization in SAP Build Process Automation: A Developer’s Guide](https://www.youtube.com/watch?v=AXTka16LJow) (Tue Oct 14 2025)
 - [🟣 Generate Process Artifacts by Importing BPMN Models from Any Process Design Tool](https://www.youtube.com/watch?v=3uzgJXBb_X0) (Tue Oct 14 2025)
 - [🟣 Use GenAI in Process Automation to  Adapt 100s of Templates to Your Needs](https://www.youtube.com/watch?v=MX1PdXNQ8I4) (Tue Oct 14 2025)
 - [🟣 Extend Fiori UIs in SAP Build: Empowering Adaptation Projects with Generative AI Capabilities](https://www.youtube.com/watch?v=3MpBQo2Aov8) (Tue Oct 14 2025)
 - [🟣 UI5 Middleware FE Mockserver in Practice — Setup, Use Cases, Live Coding](https://www.youtube.com/watch?v=er6Mx93shJI) (Wed Sep 17 2025)
-- [🟣 Supercharge SAP Build Process Automation with the UiPath Foundation Add-On](https://www.youtube.com/watch?v=pZv9632X9Ps) (Mon Sep 01 2025)
-- [🟣 Roles and Authorization in SAP Build Process Automation: A Developer’s Guide](https://www.youtube.com/watch?v=AXTka16LJow) (Mon Sep 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
