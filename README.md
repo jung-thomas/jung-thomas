@@ -21,11 +21,11 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔴 SAP Cloud ALM - Integration & Exception Monitoring for SAP Integration Suite](https://www.youtube.com/watch?v=E9GELrTRWZ8) (Thu Oct 16 2025)
+- [🔴 Seamless side-by-side extensibility with SAP Build and SAP Cloud Application Event Hub](https://www.youtube.com/watch?v=1SW6C_sGDEw) (Wed Oct 15 2025)
+- [🔴 Using Intermediate Message Events and Success Factors Events in SAP Build Process Automation](https://www.youtube.com/watch?v=CMVEobhPSIw) (Wed Oct 15 2025)
 - [🟠 Testing SAP CAP Node.js apps with cds.test](https://www.youtube.com/watch?v=6kfixPTQH4U) (Wed Oct 15 2025)
 - [🔴 Partner Directory Accelerator Tool for Pipeline Concept - an SAP open-source project](https://www.youtube.com/watch?v=m51z53fc1c4) (Wed Aug 13 2025)
-- [🔴 SAP Cloud ALM - Integration & Exception Monitoring for SAP Integration Suite](https://www.youtube.com/watch?v=E9GELrTRWZ8) (Tue Sep 02 2025)
-- [🔴 Seamless side-by-side extensibility with SAP Build and SAP Cloud Application Event Hub](https://www.youtube.com/watch?v=1SW6C_sGDEw) (Tue Aug 12 2025)
-- [🔴 Using Intermediate Message Events and Success Factors Events in SAP Build Process Automation](https://www.youtube.com/watch?v=CMVEobhPSIw) (Tue Aug 12 2025)
 - [🟣 UI5 Middleware FE Mockserver in Practice — Setup, Use Cases, Live Coding](https://www.youtube.com/watch?v=er6Mx93shJI) (Wed Oct 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
