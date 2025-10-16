@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Thu Sep 25 2025)
+- [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Mon Sep 15 2025)
+- [🔵 SAP Data Products: how to handle them today and what is the plan for tomorrow?](https://www.youtube.com/watch?v=8A9VqSIIyRw) (Thu Oct 16 2025)
 - [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Mon Sep 15 2025)
+- [Devtoberfest, Gen AI Hub, Scavenger Hunt, CAP Sep Rel & Cust Influence Reqs | SAP Developer News](https://www.youtube.com/watch?v=9NHkJWfJskg) (Thu Oct 16 2025)
 - [🔵 Manage and Optimize Prompts in SAP AI Core: Concepts and Application](https://www.youtube.com/watch?v=qXjV75yBplE) (Tue Sep 09 2025)
-- [🔵 Modernize your SAP Business Warehouse with SAP Business Data Cloud](https://www.youtube.com/watch?v=dEmaun_5YGA) (Thu Oct 16 2025)
-- [🔵 Bottom Line - Teaching Neural Networks with Snap!](https://www.youtube.com/watch?v=_JSnHmGMbfY) (Fri Oct 03 2025)
-- [🔴 Partner Directory Accelerator Tool for Pipeline Concept - an SAP open-source project](https://www.youtube.com/watch?v=m51z53fc1c4) (Thu Oct 16 2025)
-- [🔴 SAP Cloud ALM - Integration & Exception Monitoring for SAP Integration Suite](https://www.youtube.com/watch?v=E9GELrTRWZ8) (Thu Oct 16 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -37,7 +37,7 @@ Follow me on:
   - Location: level 5/161 Collins St, Melbourne VIC 3000, Australia
 - [🇸🇬 Getting started with Generative AI Hub on SAP AI Core (Singapore)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14233018)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/322129i584AD5A5A51522DB/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, November 20, 2025 at 9:00:00 AM Singapore Standard Time
+  - Start: Thursday, November 20, 2025 at 12:00:00 PM Singapore Standard Time
   - Location: Pasir Panjang Road, Mapletree Business City, Singapore
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
