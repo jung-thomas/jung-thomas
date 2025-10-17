@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 Testing SAP CAP Node.js apps with cds.test](https://www.youtube.com/watch?v=6kfixPTQH4U) (Fri Oct 17 2025)
+- [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Thu Sep 11 2025)
+- [🟠 CAP Tools – What's New and Hot](https://www.youtube.com/watch?v=HLlX_e-kXJw) (Thu Sep 11 2025)
 - [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Fri Oct 17 2025)
 - [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Fri Oct 17 2025)
 - [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Fri Oct 17 2025)
-- [🔵 Manage and Optimize Prompts in SAP AI Core: Concepts and Application](https://www.youtube.com/watch?v=qXjV75yBplE) (Thu Oct 16 2025)
-- [🔵 Bottom Line - Teaching Neural Networks with Snap!](https://www.youtube.com/watch?v=_JSnHmGMbfY) (Thu Oct 16 2025)
-- [Devtoberfest, Gen AI Hub, Scavenger Hunt, CAP Sep Rel & Cust Influence Reqs | SAP Developer News](https://www.youtube.com/watch?v=9NHkJWfJskg) (Thu Oct 16 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
