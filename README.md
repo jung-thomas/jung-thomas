@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Thu Sep 11 2025)
+- [🟡 How to Interview for an SAP Tech Job](https://www.youtube.com/watch?v=6MOfsgU06QE) (Mon Sep 01 2025)
 - [🟠 Testing SAP CAP Node.js apps with cds.test](https://www.youtube.com/watch?v=6kfixPTQH4U) (Fri Oct 17 2025)
 - [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Thu Sep 11 2025)
 - [🟠 CAP Tools – What's New and Hot](https://www.youtube.com/watch?v=HLlX_e-kXJw) (Thu Sep 11 2025)
 - [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Fri Oct 17 2025)
-- [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Fri Oct 17 2025)
-- [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Fri Oct 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -39,6 +39,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/322129i584AD5A5A51522DB/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, November 20, 2025 at 12:00:00 PM Singapore Standard Time
   - Location: Pasir Panjang Road, Mapletree Business City, Singapore
+- [🇮🇳 SAP Build: Create Event-Based Processes (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-bengaluru-india/ev-p/14247170)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/329142iA06EB8AA0EB64324/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, December 10, 2025 at 10:30:00 AM India Standard Time
+  - Location: Bosch EC3 (360° Business Park), Electronic City Phase I, Doddathoguru, Bengaluru, Karnataka, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
