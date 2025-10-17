@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Fri Oct 17 2025)
+- [🔵 Manage and Optimize Prompts in SAP AI Core: Concepts and Application](https://www.youtube.com/watch?v=qXjV75yBplE) (Thu Oct 16 2025)
+- [🔵 Bottom Line - Teaching Neural Networks with Snap!](https://www.youtube.com/watch?v=_JSnHmGMbfY) (Thu Oct 16 2025)
+- [Devtoberfest, Gen AI Hub, Scavenger Hunt, CAP Sep Rel & Cust Influence Reqs | SAP Developer News](https://www.youtube.com/watch?v=9NHkJWfJskg) (Thu Oct 16 2025)
 - [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Thu Sep 25 2025)
 - [🔵 Accelerate SAP CAP and Fiori Development with AI Tools](https://www.youtube.com/watch?v=YKzEsg9uPZQ) (Mon Sep 15 2025)
-- [🔵 SAP Data Products: how to handle them today and what is the plan for tomorrow?](https://www.youtube.com/watch?v=8A9VqSIIyRw) (Thu Oct 16 2025)
-- [🔵 What’s new in AI Core Orchestration](https://www.youtube.com/watch?v=PDqQhKx6lvI) (Mon Sep 15 2025)
-- [Devtoberfest, Gen AI Hub, Scavenger Hunt, CAP Sep Rel & Cust Influence Reqs | SAP Developer News](https://www.youtube.com/watch?v=9NHkJWfJskg) (Thu Oct 16 2025)
-- [🔵 Manage and Optimize Prompts in SAP AI Core: Concepts and Application](https://www.youtube.com/watch?v=qXjV75yBplE) (Tue Sep 09 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
