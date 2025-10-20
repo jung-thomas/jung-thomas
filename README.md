@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟢 Exploring the Path to SAP Certification](https://www.youtube.com/watch?v=XcWGwvGhy3Q) (Mon Oct 20 2025)
 - [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Sat Oct 18 2025)
 - [🟡 How to Interview for an SAP Tech Job](https://www.youtube.com/watch?v=6MOfsgU06QE) (Sat Oct 18 2025)
 - [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Fri Oct 17 2025)
 - [🟠 CAP Tools – What's New and Hot](https://www.youtube.com/watch?v=HLlX_e-kXJw) (Fri Oct 17 2025)
 - [🟠 Testing SAP CAP Node.js apps with cds.test](https://www.youtube.com/watch?v=6kfixPTQH4U) (Fri Oct 17 2025)
-- [🔵 Behind the Magic: How Cirque du Soleil Reimagined Invoice Management with SAP Business AI](https://www.youtube.com/watch?v=l4mQ73tFT1s) (Fri Oct 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
