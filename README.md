@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [🟢 Boost your developer efficiency with IDE Actions](https://www.youtube.com/watch?v=BAALIiRtChA) (Wed Sep 03 2025)
+- [🟣 Document Translation with SAP Build Apps and Translation Hub](https://www.youtube.com/watch?v=4U31w3w_olc) (Mon Sep 01 2025)
+- [🟢 Boost your developer efficiency with IDE Actions](https://www.youtube.com/watch?v=BAALIiRtChA) (Tue Oct 21 2025)
 - [🟢 Exploring the Path to SAP Certification](https://www.youtube.com/watch?v=XcWGwvGhy3Q) (Mon Oct 20 2025)
 - [🟣 End to End UI5 Tooling Connecting Apps, Libraries, and Components](https://www.youtube.com/watch?v=wXpIsrZ2WoE) (Sat Oct 18 2025)
 - [🟠 SAP HANA Application Migration Assistant - Transforming with Gen AI](https://www.youtube.com/watch?v=h9_4C7FswKk) (Sat Oct 18 2025)
 - [🟡 How to Interview for an SAP Tech Job](https://www.youtube.com/watch?v=6MOfsgU06QE) (Sat Oct 18 2025)
-- [🟠 Best Practices in CAP](https://www.youtube.com/watch?v=BrmPTjVeTN4) (Fri Oct 17 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
