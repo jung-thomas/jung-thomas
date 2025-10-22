@@ -22,11 +22,11 @@ Follow me on:
   
 ## Videos and Live Streams
 - [🔴 A(P)I: Unified connectivity for AI applications using MCP](https://www.youtube.com/watch?v=Ql2FQaF0IRo) (Tue Aug 12 2025)
+- [🟠 CAP Console](https://www.youtube.com/watch?v=4xhnrPNWdAQ) (Wed Oct 22 2025)
 - [🔴 Future-proof your scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=dckxEt1xenk) (Mon Sep 15 2025)
 - [🔴 AI for Integration Excellence: Modernize, Optimize, Thrive](https://www.youtube.com/watch?v=bNAlsqwrOvg) (Wed Aug 13 2025)
 - [🟣 AI + SAP Fiori elements = Intelligent App Development at Scale](https://www.youtube.com/watch?v=2ZyI6b81yLw) (Wed Oct 22 2025)
 - [🟣 From Insights to Action: Process Excellence by Combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Tue Oct 21 2025)
-- [🟣   Taking Guided Experiences with SAP Build to the Next Level](https://www.youtube.com/watch?v=NRUgCQPS5xQ) (Tue Oct 21 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
