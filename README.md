@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟣 From Insights to Action: Process Excellence by Combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Tue Oct 21 2025)
+- [🟣   Taking Guided Experiences with SAP Build to the Next Level](https://www.youtube.com/watch?v=NRUgCQPS5xQ) (Tue Oct 21 2025)
 - [🟣 Document Translation with SAP Build Apps and Translation Hub](https://www.youtube.com/watch?v=4U31w3w_olc) (Tue Oct 21 2025)
 - [🟣 From Clicks to Code: Automate SAP BTP Setup with Terraform](https://www.youtube.com/watch?v=1daQVSV_DGM) (Tue Oct 21 2025)
 - [🟣 AI + SAP Fiori elements = Intelligent App Development at Scale](https://www.youtube.com/watch?v=2ZyI6b81yLw) (Wed Sep 17 2025)
 - [🟣 End to End UI5 Tooling Connecting Apps, Libraries, and Components](https://www.youtube.com/watch?v=wXpIsrZ2WoE) (Tue Oct 21 2025)
-- [🟣 From Insights to Action: Process Excellence by Combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Mon Sep 01 2025)
-- [🟣   Taking Guided Experiences with SAP Build to the Next Level](https://www.youtube.com/watch?v=NRUgCQPS5xQ) (Mon Sep 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
