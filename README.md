@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🔵 Build Your Own AI Agent-Based Solution with the Generative AI Hub (JS & LangGraph version)](https://www.youtube.com/watch?v=1W4_ZWHLhYo) (Wed Sep 17 2025)
+- [🔵 Connect to Generative AI Hub with LiteLLM and Build AI Agents with CrewAI](https://www.youtube.com/watch?v=osVV9lqm3ms) (Thu Oct 23 2025)
+- [🔵 AI Won't Take Your Job. But Someone Using it Might](https://www.youtube.com/watch?v=16UFIuNYVo0) (Thu Sep 04 2025)
+- [🔵 SAP Business Data Cloud – An Architecture Deep Dive](https://www.youtube.com/watch?v=X6TzLgtNjDI) (Mon Sep 15 2025)
 - [🔴 A(P)I: Unified connectivity for AI applications using MCP](https://www.youtube.com/watch?v=Ql2FQaF0IRo) (Thu Oct 23 2025)
 - [🔴 Future-proof your scripts in SAP Cloud Integration](https://www.youtube.com/watch?v=dckxEt1xenk) (Wed Oct 22 2025)
-- [🔴 AI for Integration Excellence: Modernize, Optimize, Thrive](https://www.youtube.com/watch?v=bNAlsqwrOvg) (Wed Oct 22 2025)
-- [🟠 CAP Console](https://www.youtube.com/watch?v=4xhnrPNWdAQ) (Wed Oct 22 2025)
-- [🟣 AI + SAP Fiori elements = Intelligent App Development at Scale](https://www.youtube.com/watch?v=2ZyI6b81yLw) (Wed Oct 22 2025)
-- [🟣 From Insights to Action: Process Excellence by Combining Process Mining, Task Mining & Automation](https://www.youtube.com/watch?v=w6tmODEoEwU) (Tue Oct 21 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
