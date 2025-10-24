@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟠 CAP Console](https://www.youtube.com/watch?v=4xhnrPNWdAQ) (Fri Oct 24 2025)
+- [🟠 Plug'n'Ask: Enabling AI Context in CAP Through the Power of Plugins And MCP](https://www.youtube.com/watch?v=68VtJWNkYk4) (Fri Oct 24 2025)
+- [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Thu Sep 11 2025)
 - [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Fri Oct 24 2025)
 - [🔵 Want better RAG results? Optimize your Data](https://www.youtube.com/watch?v=0r-h-3YMRj4) (Fri Oct 24 2025)
 - [🔵 Build Your Own AI Agent-Based Solution with the Generative AI Hub (Java & SpringAI version)](https://www.youtube.com/watch?v=DRQfo5X6MOc) (Fri Oct 24 2025)
-- [🔵 Build Your Own AI Agent-Based Solution with the Generative AI Hub (JS & LangGraph version)](https://www.youtube.com/watch?v=1W4_ZWHLhYo) (Fri Oct 24 2025)
-- [🔵 AI Won't Take Your Job. But Someone Using it Might](https://www.youtube.com/watch?v=16UFIuNYVo0) (Thu Oct 23 2025)
-- [🔵 SAP Business Data Cloud – An Architecture Deep Dive](https://www.youtube.com/watch?v=X6TzLgtNjDI) (Thu Oct 23 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
