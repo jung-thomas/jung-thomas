@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [🟡 Developer Advocates Discuss: Developer Tools in the 21st Century](https://www.youtube.com/watch?v=ovf3h2YvM8w) (Sat Oct 25 2025)
 - [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Fri Oct 24 2025)
-- [🟡 Developer Advocates Discuss: Developer Tools in the 21st Century](https://www.youtube.com/watch?v=ovf3h2YvM8w) (Fri Sep 12 2025)
 - [🟠 CAP Console](https://www.youtube.com/watch?v=4xhnrPNWdAQ) (Fri Oct 24 2025)
 - [🟠 Plug'n'Ask: Enabling AI Context in CAP Through the Power of Plugins And MCP](https://www.youtube.com/watch?v=68VtJWNkYk4) (Fri Oct 24 2025)
 - [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Fri Oct 24 2025)
