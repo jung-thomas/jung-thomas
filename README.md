@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Application Development with SAP Joule for Developers](https://www.youtube.com/watch?v=IFSHQNWc1ok) (Tue Oct 28 2025)
+- [Process Automation with SAP Joule for Developers](https://www.youtube.com/watch?v=v44g_E1RkD0) (Tue Oct 28 2025)
+- [Low-code Development with SAP Joule for Developers](https://www.youtube.com/watch?v=bdOBW9LmllM) (Tue Oct 28 2025)
+- [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Tue Oct 28 2025)
 - [🟡 Developer Advocates Discuss: Developer Tools in the 21st Century](https://www.youtube.com/watch?v=ovf3h2YvM8w) (Sat Oct 25 2025)
 - [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Fri Oct 24 2025)
-- [🟠 CAP Console](https://www.youtube.com/watch?v=4xhnrPNWdAQ) (Fri Oct 24 2025)
-- [🟠 Plug'n'Ask: Enabling AI Context in CAP Through the Power of Plugins And MCP](https://www.youtube.com/watch?v=68VtJWNkYk4) (Fri Oct 24 2025)
-- [🔵 PromptOps - CICD and lifecycle management of prompts for code based agents](https://www.youtube.com/watch?v=4gPydCXtjbc) (Fri Oct 24 2025)
-- [🔵 Want better RAG results? Optimize your Data](https://www.youtube.com/watch?v=0r-h-3YMRj4) (Fri Oct 24 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
