@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Devtoberfest Digest, Documentation Collaboration, SAP TechEd & Community Voice  | SAP Developer News](https://www.youtube.com/watch?v=U-ydjRv8UGc) (Thu Oct 30 2025)
 - [Process Automation with SAP Joule for Developers](https://www.youtube.com/watch?v=v44g_E1RkD0) (Wed Oct 29 2025)
 - [Application Development with SAP Joule for Developers](https://www.youtube.com/watch?v=IFSHQNWc1ok) (Tue Oct 28 2025)
 - [Low-code Development with SAP Joule for Developers](https://www.youtube.com/watch?v=bdOBW9LmllM) (Tue Oct 28 2025)
 - [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Tue Oct 28 2025)
 - [🟡 Developer Advocates Discuss: Developer Tools in the 21st Century](https://www.youtube.com/watch?v=ovf3h2YvM8w) (Sat Oct 25 2025)
-- [🟠 Agentic Coding with CAP](https://www.youtube.com/watch?v=vvSrbsiIfmA) (Fri Oct 24 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
