@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Day 2 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=KS--ow-eDaI) (Mon Nov 03 2025)
+- [Day 1 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=9FcKYgjyYeE) (Mon Nov 03 2025)
+- [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Mon Nov 03 2025)
 - [Efficient Migration through Payload-Based & Test-Driven Approaches (B2B)](https://www.youtube.com/watch?v=4hcpan5asCM) (Mon Nov 03 2025)
 - [Low-code Development with SAP Joule for Developers](https://www.youtube.com/watch?v=bdOBW9LmllM) (Fri Oct 31 2025)
 - [Devtoberfest Digest, Documentation Collaboration, SAP TechEd & Community Voice  | SAP Developer News](https://www.youtube.com/watch?v=U-ydjRv8UGc) (Thu Oct 30 2025)
-- [Process Automation with SAP Joule for Developers](https://www.youtube.com/watch?v=v44g_E1RkD0) (Wed Oct 29 2025)
-- [Application Development with SAP Joule for Developers](https://www.youtube.com/watch?v=IFSHQNWc1ok) (Tue Oct 28 2025)
-- [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Tue Oct 28 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
