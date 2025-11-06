@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [Day 3 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=BRC-UU31UN4) (Wed Nov 05 2025)
+- [Day 3 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=BRC-UU31UN4) (Thu Nov 06 2025)
 - [Day 2 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=KS--ow-eDaI) (Wed Nov 05 2025)
 - [Day 1 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=9FcKYgjyYeE) (Tue Nov 04 2025)
 - [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Mon Nov 03 2025)
