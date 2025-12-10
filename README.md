@@ -21,28 +21,28 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP Clean Core - Integration Dimension](https://www.youtube.com/watch?v=41Jf6GbDtU4) (Mon Nov 10 2025)
-- [Efficient Migration through Payload-Based & Test-Driven Approaches (B2B)](https://www.youtube.com/watch?v=4hcpan5asCM) (Fri Nov 07 2025)
-- [Day 3 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=BRC-UU31UN4) (Thu Nov 06 2025)
-- [Day 2 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=KS--ow-eDaI) (Wed Nov 05 2025)
-- [Day 1 from SAP TechEd Berlin | SAP Developer News](https://www.youtube.com/watch?v=9FcKYgjyYeE) (Tue Nov 04 2025)
-- [ABAP Development with SAP Joule for Developers](https://www.youtube.com/watch?v=6JeU5PW5y6I) (Mon Nov 03 2025)
+- [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
+- [SAP BTP AI Best Practices #18: SAP Translation Hub](https://www.youtube.com/watch?v=L5Q7lfPnqLg) (Mon Dec 08 2025)
+- [SAP Integration Suite – Connect Everything ( Salesforce, Workday, Kafka, Snowflake)](https://www.youtube.com/watch?v=-FEMkmBHbRQ) (Mon Dec 08 2025)
+- [SAP Developer News](https://www.youtube.com/watch?v=n0PiEWIOiKo) (Thu Dec 04 2025)
+- [SAP BTP AI Best Practices #17: Document Grounding](https://www.youtube.com/watch?v=9Mb34SVvrb0) (Wed Dec 03 2025)
+- [SAP Document and Reporting Compliance - One Automated Compliance Solution Worldwide (B2B/B2G)](https://www.youtube.com/watch?v=ipX8sk5cNkw) (Mon Dec 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 Getting started with Generative AI Hub on SAP AI Core (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-melbourne-australia/ev-p/14233023)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/322131i489DCBE4AAAD07AA/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, November 17, 2025 at 9:00:00 AM Australian Eastern Daylight Time
-  - Location: level 5/161 Collins St, Melbourne VIC 3000, Australia
-- [🇸🇬 Getting started with Generative AI Hub on SAP AI Core (Singapore)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-singapore/ev-p/14233018)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/322129i584AD5A5A51522DB/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, November 20, 2025 at 12:00:00 PM Singapore Standard Time
-  - Location: Pasir Panjang Road, Mapletree Business City, Singapore
-- [🇮🇳 SAP Build: Create Event-Based Processes (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-bengaluru-india/ev-p/14247170)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/329142iA06EB8AA0EB64324/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Wednesday, December 10, 2025 at 10:30:00 AM India Standard Time
-  - Location: Bosch EC3 (360° Business Park), Electronic City Phase I, Doddathoguru, Bengaluru, Karnataka, India
+- [🇹🇷 Foundations of AI applications with the SAP HANA Cloud (Istanbul, TR)](https://community.sap.com/t5/sap-codejam/foundations-of-ai-applications-with-the-sap-hana-cloud-istanbul-tr/ev-p/14270129)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/341431iE49228FE74A86333/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Saturday, December 13, 2025 at 10:00:00 AM Eastern European Standard Time
+  - Location: Maltepe Golden Plaza, Altayçeşme, Öz Sokak No:19, 34843 Maltepe/İstanbul, Türkiye
+- [🇩🇪 Build AI services using the CAP and Generative AI Hub (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-bielefeld-germany/ev-p/14270837)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
+  - Location: Steigenberger Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
+- [🇧🇪 Build AI services using the CAP and Generative AI Hub (Gent, Belgium)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-gent-belgium/ev-p/14283723)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/348430iF66E3C09046D7425/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, February 26, 2026 at 10:00:00 AM Central European Standard Time
+  - Location: Amelia Earhartlaan 10, Ghent, Belgium
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
