@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CAP Release, Console update, Customer Roundtable, AEM, RPT-1 GA, Devtoberfest |SAP Developer News](https://www.youtube.com/watch?v=BkCPoH7VKHg) (Thu Dec 11 2025)
+- [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Thu Dec 11 2025)
 - [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
 - [SAP BTP AI Best Practices #18: SAP Translation Hub](https://www.youtube.com/watch?v=L5Q7lfPnqLg) (Mon Dec 08 2025)
 - [SAP Integration Suite – Connect Everything ( Salesforce, Workday, Kafka, Snowflake)](https://www.youtube.com/watch?v=-FEMkmBHbRQ) (Mon Dec 08 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=n0PiEWIOiKo) (Thu Dec 04 2025)
-- [SAP BTP AI Best Practices #17: Document Grounding](https://www.youtube.com/watch?v=9Mb34SVvrb0) (Wed Dec 03 2025)
-- [SAP Document and Reporting Compliance - One Automated Compliance Solution Worldwide (B2B/B2G)](https://www.youtube.com/watch?v=ipX8sk5cNkw) (Mon Dec 01 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
