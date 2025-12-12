@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [CAP Release, Console update, Customer Roundtable, AEM, RPT-1 GA, Devtoberfest |SAP Developer News](https://www.youtube.com/watch?v=BkCPoH7VKHg) (Thu Dec 11 2025)
+- [CAP Release, Console update, Customer Roundtable, AEM, RPT-1 GA, Devtoberfest | SAP Developer News](https://www.youtube.com/watch?v=BkCPoH7VKHg) (Thu Dec 11 2025)
 - [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Thu Dec 11 2025)
 - [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
 - [SAP BTP AI Best Practices #18: SAP Translation Hub](https://www.youtube.com/watch?v=L5Q7lfPnqLg) (Mon Dec 08 2025)
