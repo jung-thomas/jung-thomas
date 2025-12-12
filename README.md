@@ -26,7 +26,7 @@ Follow me on:
 - [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
 - [SAP BTP AI Best Practices #18: SAP Translation Hub](https://www.youtube.com/watch?v=L5Q7lfPnqLg) (Mon Dec 08 2025)
 - [SAP Integration Suite – Connect Everything ( Salesforce, Workday, Kafka, Snowflake)](https://www.youtube.com/watch?v=-FEMkmBHbRQ) (Mon Dec 08 2025)
-- [SAP Developer News](https://www.youtube.com/watch?v=n0PiEWIOiKo) (Thu Dec 04 2025)
+- [UI5con Bengaluru, UKISUG Connect, AI Coding Assistant, BTP CLI, Data Architect | SAP Developer News](https://www.youtube.com/watch?v=n0PiEWIOiKo) (Thu Dec 04 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
