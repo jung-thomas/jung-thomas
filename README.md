@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇹🇷 Foundations of AI applications with the SAP HANA Cloud (Istanbul, TR)](https://community.sap.com/t5/sap-codejam/foundations-of-ai-applications-with-the-sap-hana-cloud-istanbul-tr/ev-p/14270129)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/341431iE49228FE74A86333/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Saturday, December 13, 2025 at 10:00:00 AM Arabian Standard Time
-  - Location: Maltepe Golden Plaza, Altayçeşme, Öz Sokak No:19, 34843 Maltepe/İstanbul, Türkiye
 - [🇩🇪 Build AI services using the CAP and Generative AI Hub (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-bielefeld-germany/ev-p/14270837)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
