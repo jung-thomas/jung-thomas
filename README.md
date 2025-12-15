@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Mon Dec 15 2025)
+- [APIM Basics using SAP Integration Suite ( Manage and Control your Landscape via API's )](https://www.youtube.com/watch?v=iKiNlarKMXc) (Mon Dec 15 2025)
 - [CAP Release, Console update, Customer Roundtable, AEM, RPT-1 GA, Devtoberfest | SAP Developer News](https://www.youtube.com/watch?v=BkCPoH7VKHg) (Thu Dec 11 2025)
-- [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Thu Dec 11 2025)
 - [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
 - [SAP BTP AI Best Practices #18: SAP Translation Hub](https://www.youtube.com/watch?v=L5Q7lfPnqLg) (Mon Dec 08 2025)
 - [SAP Integration Suite – Connect Everything ( Salesforce, Workday, Kafka, Snowflake)](https://www.youtube.com/watch?v=-FEMkmBHbRQ) (Mon Dec 08 2025)
-- [UI5con Bengaluru, UKISUG Connect, AI Coding Assistant, BTP CLI, Data Architect | SAP Developer News](https://www.youtube.com/watch?v=n0PiEWIOiKo) (Thu Dec 04 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
@@ -35,6 +35,18 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
   - Location: Steigenberger Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hyderabad-india/ev-p/14290178)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351914iF28C424A7EE21B94/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, January 21, 2026 at 9:00:00 AM India Standard Time
+  - Location: Phoenix Business Consulting, Gachibowli Circle, Telecom Nagar, Gachibowli, Hyderabad, Telangana, India
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/14290200)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351919i55546E41BC9C888F/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, January 22, 2026 at 9:00:00 AM India Standard Time
+  - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana, India
+- [🇮🇳 SAP Build: Advanced Event Mesh - Event based SAP Build Process Automation (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-advanced-event-mesh-event-based-sap-build-process-automation/ev-p/14290231)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
+  - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
 - [🇧🇪 Build AI services using the CAP and Generative AI Hub (Gent, Belgium)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-gent-belgium/ev-p/14283723)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/348430iF66E3C09046D7425/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 26, 2026 at 10:00:00 AM Central European Standard Time
