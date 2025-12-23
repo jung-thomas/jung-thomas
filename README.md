@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [Year in Review 2025 | SAP Developer News](https://www.youtube.com/watch?v=T2bj7LynS8E) (Tue Dec 23 2025)
 - [2025 Fun Bloopers, Mistakes, and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=6kYWwYlBFgU) (Mon Dec 22 2025)
 - [Kasimir Holiday Singalong](https://www.youtube.com/watch?v=AuB-WSDYItA) (Mon Dec 22 2025)
 - [Joule Studio Agent, ABAP Calendar, GenAI Hub,Terraform Provider for SAP BTP, CAP| SAP Developer News](https://www.youtube.com/watch?v=MbY-IojtvfQ) (Thu Dec 18 2025)
 - [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Mon Dec 15 2025)
 - [APIM Basics using SAP Integration Suite ( Manage and Control your Landscape via API's )](https://www.youtube.com/watch?v=iKiNlarKMXc) (Mon Dec 15 2025)
-- [CAP Release, Console update, Customer Roundtable, AEM, RPT-1 GA, Devtoberfest | SAP Developer News](https://www.youtube.com/watch?v=BkCPoH7VKHg) (Thu Dec 11 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
