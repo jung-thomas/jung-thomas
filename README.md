@@ -47,10 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
   - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
-- [🇮🇳 Build AI services using the CAP and Generative AI Hub (Pune, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-pune-india/ev-p/14291107)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/355129i51A48849E90C55B7/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, February 11, 2026 at 9:30:00 AM India Standard Time
-  - Location: Bosch Global Software Technologies Pvt Ltd. Pune, Balewadi High St, Laxman Nagar, Baner, Pune, Maharashtra 411045, India
+- [🇮🇹 Joule Studio: Create Skills and Agents to Extend Joule (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-milan-italy/ev-p/14300897)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
+  - Location: Viale Francesco Restelli, 5, 20124 Milan, Metropolitan City of Milan, Italy
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
