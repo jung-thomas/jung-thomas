@@ -21,16 +21,20 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Integration Suite, Advanced Event Mesh - Getting Started](https://www.youtube.com/watch?v=s9hjiRXB4c8) (Mon Jan 05 2026)
 - [Year in Review 2025 | SAP Developer News](https://www.youtube.com/watch?v=T2bj7LynS8E) (Thu Jan 01 2026)
 - [2025 Fun Bloopers, Mistakes, and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=6kYWwYlBFgU) (Thu Dec 25 2025)
 - [Developer Advocates Behind the Scenes 2025](https://www.youtube.com/shorts/FUdX1TIrv_w) (Wed Dec 24 2025)
 - [Kasimir Holiday Singalong](https://www.youtube.com/watch?v=AuB-WSDYItA) (Mon Dec 22 2025)
 - [Joule Studio Agent, ABAP Calendar, GenAI Hub,Terraform Provider for SAP BTP, CAP| SAP Developer News](https://www.youtube.com/watch?v=MbY-IojtvfQ) (Thu Dec 18 2025)
-- [Expert Session: Getting started with CAP Node.js - 2025/2026 edition!](https://www.youtube.com/watch?v=fUYNjuQbLzQ) (Mon Dec 15 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hyderabad-india/ev-p/14301139)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/358057i60751A30BAD4D9EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, January 20, 2026 at 9:00:00 AM India Standard Time
+  - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
 - [🇩🇪 Build AI services using the CAP and Generative AI Hub (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-bielefeld-germany/ev-p/14270837)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
@@ -47,10 +51,6 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
   - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
-- [🇮🇹 Joule Studio: Create Skills and Agents to Extend Joule (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-milan-italy/ev-p/14300897)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
-  - Location: Viale Francesco Restelli, 5, 20124 Milan, Metropolitan City of Milan, Italy
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
