@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=BjgfZcqT5eI) (Thu Jan 08 2026)
 - [SAP Integration Suite, Advanced Event Mesh - Getting Started](https://www.youtube.com/watch?v=s9hjiRXB4c8) (Mon Jan 05 2026)
 - [Year in Review 2025 | SAP Developer News](https://www.youtube.com/watch?v=T2bj7LynS8E) (Thu Jan 01 2026)
 - [2025 Fun Bloopers, Mistakes, and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=6kYWwYlBFgU) (Thu Dec 25 2025)
 - [Developer Advocates Behind the Scenes 2025](https://www.youtube.com/shorts/FUdX1TIrv_w) (Wed Dec 24 2025)
 - [Kasimir Holiday Singalong](https://www.youtube.com/watch?v=AuB-WSDYItA) (Mon Dec 22 2025)
-- [Joule Studio Agent, ABAP Calendar, GenAI Hub,Terraform Provider for SAP BTP, CAP| SAP Developer News](https://www.youtube.com/watch?v=MbY-IojtvfQ) (Thu Dec 18 2025)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
