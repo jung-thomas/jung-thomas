@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [SAP Edge Integration Cell with SUSE, Best Practice](https://www.youtube.com/watch?v=j58vcuAHccw) (Mon Jan 12 2026)
-- [SAP Developer News](https://www.youtube.com/watch?v=BjgfZcqT5eI) (Thu Jan 08 2026)
+- [CAP Dec 2025, ABAP in 2026, HANA Cloud 2025-Q4, App Vulnerability Report | SAP Developer News](https://www.youtube.com/watch?v=BjgfZcqT5eI) (Thu Jan 08 2026)
 - [SAP Integration Suite, Advanced Event Mesh - Getting Started](https://www.youtube.com/watch?v=s9hjiRXB4c8) (Mon Jan 05 2026)
 - [Year in Review 2025 | SAP Developer News](https://www.youtube.com/watch?v=T2bj7LynS8E) (Thu Jan 01 2026)
 - [2025 Fun Bloopers, Mistakes, and Outtakes | SAP Developer News](https://www.youtube.com/watch?v=6kYWwYlBFgU) (Thu Dec 25 2025)
