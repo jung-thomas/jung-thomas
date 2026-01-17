@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Fri Jan 16 2026)
 - [CDS expressions in CAP - Under the hood - Part 2](https://www.youtube.com/watch?v=s4IZR1LBRrA) (Fri Jan 16 2026)
-- [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Tue Dec 09 2025)
 - [SAP Developer News](https://www.youtube.com/watch?v=3iZ5fe3Zxig) (Thu Jan 15 2026)
 - [SAP Edge Integration Cell with SUSE, Best Practice](https://www.youtube.com/watch?v=j58vcuAHccw) (Mon Jan 12 2026)
 - [CAP Dec 2025, ABAP in 2026, HANA Cloud 2025-Q4, App Vulnerability Report | SAP Developer News](https://www.youtube.com/watch?v=BjgfZcqT5eI) (Thu Jan 08 2026)
