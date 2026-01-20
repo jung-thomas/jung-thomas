@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Build AI services using the CAP and Generative AI Hub (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-bielefeld-germany/ev-p/14270837)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
-  - Location: Steigenberger Hotel Bielefelder Hof, Am Bahnhof 3, 33602 Bielefeld, Germany
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hyderabad-india/ev-p/14290178)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351914iF28C424A7EE21B94/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, January 21, 2026 at 9:00:00 AM India Standard Time
@@ -48,9 +44,13 @@ Follow me on:
   - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
   - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
 - [🇮🇹 Joule Studio: Create Joule Skills and Agents Without Coding (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-milan-italy/ev-p/14300897)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/295882i3E2967613A5D1256/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
   - Location: Via Bisceglie, 66, 20152 Milan, Metropolitan City of Milan, Italy
+- [🇦🇺 Joule Studio: Create Skills and Agents to Extend Joule (Sydney, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-sydney-australia/ev-p/14308512)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361874i71DB1F0827B2F06D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, February 10, 2026 at 12:30:00 PM Solomon Islands Time
+  - Location: SAP Australia Pty Ltd, Level 13/1 Denison Street, North Sydney NSW, Australia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
