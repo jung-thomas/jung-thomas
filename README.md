@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hyderabad-india/ev-p/14301139)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/358057i60751A30BAD4D9EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, January 20, 2026 at 9:00:00 AM India Standard Time
-  - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana, India
 - [🇩🇪 Build AI services using the CAP and Generative AI Hub (Bielefeld, Germany)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-bielefeld-germany/ev-p/14270837)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/341824i782F547C744A1611/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, January 20, 2026 at 10:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
   - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
+- [🇮🇹 Joule Studio: Create Joule Skills and Agents Without Coding (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-milan-italy/ev-p/14300897)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
+  - Location: Via Bisceglie, 66, 20152 Milan, Metropolitan City of Milan, Italy
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
