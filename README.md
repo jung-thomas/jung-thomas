@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-hyderabad-india/ev-p/14290178)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351914iF28C424A7EE21B94/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, January 21, 2026 at 9:00:00 AM India Standard Time
-  - Location: Phoenix Business Consulting, Gachibowli Circle, Telecom Nagar, Gachibowli, Hyderabad, Telangana, India
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/14290200)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351919i55546E41BC9C888F/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 22, 2026 at 9:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361874i71DB1F0827B2F06D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, February 10, 2026 at 12:30:00 PM Solomon Islands Time
   - Location: SAP Australia Pty Ltd, Level 13/1 Denison Street, North Sydney NSW, Australia
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Pune, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-pune-india/ev-p/14305428)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/360362iFC6393815E3B09F4/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Tuesday, February 10, 2026 at 10:00:00 AM India Standard Time
+  - Location: IT09 LTIMindtree Hinjewadi Blueridge, Blue Ridge, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
