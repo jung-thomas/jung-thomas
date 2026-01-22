@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Hyderabad, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-hyderabad-india/ev-p/14290200)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351919i55546E41BC9C888F/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, January 22, 2026 at 9:00:00 AM India Standard Time
-  - Location: Infosys STP, Infosys Road, Madhava Reddy Colony, Gachibowli, Hyderabad, Telangana, India
 - [🇮🇳 SAP Build: Advanced Event Mesh - Event based SAP Build Process Automation (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-advanced-event-mesh-event-based-sap-build-process-automation/ev-p/14290231)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/360362iFC6393815E3B09F4/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, February 10, 2026 at 10:00:00 AM India Standard Time
   - Location: IT09 LTIMindtree Hinjewadi Blueridge, Blue Ridge, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra, India
+- [🇩🇪 SAP Build: Create Event-Based Processes (Heidelberg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-heidelberg-germany/ev-p/14303578)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, February 10, 2026 at 9:30:00 AM Central European Standard Time
+  - Location: sovanta AG, Mittermaierstraße 31, 69115 Heidelberg-Bergheim-Ost, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
