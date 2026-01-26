@@ -24,7 +24,7 @@ Follow me on:
 - [SAP BTP Integration - Operational Excellence with Figaf](https://www.youtube.com/watch?v=BoYXw2AwoS4) (Mon Jan 26 2026)
 - [CDS expressions in CAP - Under the hood - Part 2](https://www.youtube.com/watch?v=s4IZR1LBRrA) (Fri Jan 23 2026)
 - [CDS expressions in CAP - Under the hood - Part 3](https://www.youtube.com/watch?v=FVEbvHMxOIY) (Fri Jan 23 2026)
-- [SAP Developer News](https://www.youtube.com/watch?v=WH52v01BYOo) (Thu Jan 22 2026)
+- [UI5Con Bangalore, BTP Automation Roundtable, Event Mesh Monitoring, UI5 Roadmap | SAP Developer News](https://www.youtube.com/watch?v=WH52v01BYOo) (Thu Jan 22 2026)
 - [SAP Edge Integration Cell with Red Hat, Best Practice](https://www.youtube.com/watch?v=SuzRQUBvUPQ) (Sun Jan 18 2026)
 - [CDS expressions in CAP - Under the hood - Part 1](https://www.youtube.com/watch?v=aiE20i5BP70) (Fri Jan 16 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
