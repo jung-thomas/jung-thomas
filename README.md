@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP Build: Advanced Event Mesh - Event based SAP Build Process Automation (Bengaluru, India)](https://community.sap.com/t5/sap-codejam/sap-build-advanced-event-mesh-event-based-sap-build-process-automation/ev-p/14290231)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/351939i87C61024CE41B733/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, January 29, 2026 at 9:30:00 AM India Standard Time
-  - Location: Bagmane World Technology Centre, Goshala Road, Lakshmi Sagar Layout, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka, India
 - [🇮🇹 Joule Studio: Create Joule Skills and Agents Without Coding (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-milan-italy/ev-p/14300897)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/295882i3E2967613A5D1256/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, February 10, 2026 at 9:30:00 AM Central European Standard Time
   - Location: sovanta AG, Mittermaierstraße 31, 69115 Heidelberg-Bergheim-Ost, Germany
+- [🇮🇳 Build AI services using the CAP and Generative AI Hub (Pune, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-pune-india/ev-p/14291107)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/355129i51A48849E90C55B7/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, February 11, 2026 at 9:30:00 AM India Standard Time
+  - Location: Bosch Global Software Technologies Pvt Ltd. Pune, Balewadi High St, Laxman Nagar, Baner, Pune, Maharashtra 411045, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
