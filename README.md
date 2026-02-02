@@ -24,7 +24,7 @@ Follow me on:
 - [SAP BTP Integration - Operational Excellence with INT4](https://www.youtube.com/watch?v=V8962etOtSw) (Mon Feb 02 2026)
 - [CDS expressions in CAP - Under the hood - Part 3](https://www.youtube.com/watch?v=FVEbvHMxOIY) (Fri Jan 30 2026)
 - [CDS expressions in CAP - Under the hood - Part 4](https://www.youtube.com/watch?v=XD71N7YYuGA) (Fri Jan 30 2026)
-- [SAP Developer News](https://www.youtube.com/watch?v=5-mzMGS1gHo) (Thu Jan 29 2026)
+- [CodeConnect, Joule Studio CodeJams, DYK #1, HANA ML Hackathon, Python Client | Developer News](https://www.youtube.com/watch?v=5-mzMGS1gHo) (Thu Jan 29 2026)
 - [SAP BTP Integration - Operational Excellence with Figaf](https://www.youtube.com/watch?v=BoYXw2AwoS4) (Mon Jan 26 2026)
 - [CDS expressions in CAP - Under the hood - Part 2](https://www.youtube.com/watch?v=s4IZR1LBRrA) (Fri Jan 23 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
@@ -33,7 +33,7 @@ Follow me on:
 ## Upcoming SAP CodeJams
 - [🇮🇹 Joule Studio: Create Joule Skills and Agents Without Coding (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-milan-italy/ev-p/14300897)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/295882i3E2967613A5D1256/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, February 3, 2026 at 9:00:00 AM Central European Standard Time
+  - Start: Tuesday, February 3, 2026 at 9:30:00 AM Central European Standard Time
   - Location: Via Bisceglie, 66, 20152 Milan, Metropolitan City of Milan, Italy
 - [🇦🇺 Joule Studio: Create Skills and Agents to Extend Joule (Sydney, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-sydney-australia/ev-p/14308512)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361874i71DB1F0827B2F06D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
