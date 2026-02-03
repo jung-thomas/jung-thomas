@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇹 Joule Studio: Create Joule Skills and Agents Without Coding (Milan, Italy)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-milan-italy/ev-p/14300897)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/295882i3E2967613A5D1256/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, February 3, 2026 at 9:30:00 AM Central European Standard Time
-  - Location: Via Bisceglie, 66, 20152 Milan, Metropolitan City of Milan, Italy
 - [🇦🇺 Joule Studio: Create Skills and Agents to Extend Joule (Sydney, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-sydney-australia/ev-p/14308512)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361874i71DB1F0827B2F06D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, February 10, 2026 at 12:30:00 PM Solomon Islands Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/355129i51A48849E90C55B7/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, February 11, 2026 at 9:30:00 AM India Standard Time
   - Location: Bosch Global Software Technologies Pvt Ltd. Pune, Balewadi High St, Laxman Nagar, Baner, Pune, Maharashtra 411045, India
+- [🇫🇷 Joule Studio: Create Joule Skills and Agents Without Coding (Paris, France)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-paris-france/ev-p/14303203)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, February 11, 2026 at 9:30:00 AM Central European Standard Time
+  - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
