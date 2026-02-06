@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 5](https://www.youtube.com/watch?v=I2Y3uC10Cs8) (Fri Feb 06 2026)
+- [CDS expressions in CAP - Under the hood - Part 4](https://www.youtube.com/watch?v=XD71N7YYuGA) (Fri Jan 30 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=HqlUHFtW0g4) (Thu Feb 05 2026)
 - [Design-First Event-Driven Architecture: Mastering Multi-Account AEM Management with Event Portal](https://www.youtube.com/watch?v=T8PWu4kmEzQ) (Thu Feb 05 2026)
 - [SAP BTP Integration - Operational Excellence with INT4](https://www.youtube.com/watch?v=V8962etOtSw) (Mon Feb 02 2026)
 - [CDS expressions in CAP - Under the hood - Part 3](https://www.youtube.com/watch?v=FVEbvHMxOIY) (Fri Jan 30 2026)
-- [CDS expressions in CAP - Under the hood - Part 4](https://www.youtube.com/watch?v=XD71N7YYuGA) (Fri Jan 30 2026)
-- [CodeConnect, Joule Studio CodeJams, DYK #1, HANA ML Hackathon, Python Client | Developer News](https://www.youtube.com/watch?v=5-mzMGS1gHo) (Thu Jan 29 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
