@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 Joule Studio: Create Skills and Agents to Extend Joule (Sydney, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-sydney-australia/ev-p/14308512)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361874i71DB1F0827B2F06D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, February 10, 2026 at 12:30:00 PM Solomon Islands Time
-  - Location: SAP Australia Pty Ltd, Level 13/1 Denison Street, North Sydney NSW, Australia
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Pune, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-pune-india/ev-p/14305428)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/360362iFC6393815E3B09F4/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, February 10, 2026 at 10:00:00 AM India Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, February 11, 2026 at 9:30:00 AM Central European Standard Time
   - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
+- [🇦🇺Joule Studio: Create Skills and Agents to Extend Joule (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-melbourne-australia/ev-p/14308549)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361887iD6A8CE7CEBEA89AF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, February 12, 2026 at 12:30:00 PM Solomon Islands Time
+  - Location: SAP Australia Pty Ltd, Level 23/28 Freshwater Pl, Southbank VIC, Australia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
