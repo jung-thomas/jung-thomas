@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core (Pune, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-pune-india/ev-p/14305428)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/360362iFC6393815E3B09F4/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, February 10, 2026 at 10:00:00 AM India Standard Time
-  - Location: IT09 LTIMindtree Hinjewadi Blueridge, Blue Ridge, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra, India
-- [🇩🇪 SAP Build: Create Event-Based Processes (Heidelberg, Germany)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-heidelberg-germany/ev-p/14303578)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
-  - Start: Tuesday, February 10, 2026 at 9:30:00 AM Central European Standard Time
-  - Location: sovanta AG, Mittermaierstraße 31, 69115 Heidelberg-Bergheim-Ost, Germany
 - [🇮🇳 Build AI services using the CAP and Generative AI Hub (Pune, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-pune-india/ev-p/14291107)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/355129i51A48849E90C55B7/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, February 11, 2026 at 9:30:00 AM India Standard Time
@@ -51,6 +43,14 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361887iD6A8CE7CEBEA89AF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, February 12, 2026 at 12:30:00 PM Solomon Islands Time
   - Location: SAP Australia Pty Ltd, Level 23/28 Freshwater Pl, Southbank VIC, Australia
+- [🇫🇷 Real-time data for AI agents: Grounding with event-driven architecture (Paris, France)](https://community.sap.com/t5/sap-codejam/real-time-data-for-ai-agents-grounding-with-event-driven-architecture-paris/ev-p/14303452)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359269i0535500BB3BE52CB/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Thursday, February 12, 2026 at 9:30:00 AM Central European Standard Time
+  - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
+- [🇦🇺 Gen AI Hub & Joule Studio : Create Skills and AI Agents to Extend Joule (Brisbane, Australia)](https://community.sap.com/t5/sap-codejam/gen-ai-hub-amp-joule-studio-create-skills-and-ai-agents-to-extend-joule/ev-p/14308419)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361817i69A438EB46088F11/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, February 13, 2026 at 9:00:00 AM Australian Eastern Daylight Time
+  - Location: GOLD TOWER, level 27/10 Eagle St, Brisbane City QLD 4000, Australia
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
