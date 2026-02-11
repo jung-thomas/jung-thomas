@@ -31,14 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Build AI services using the CAP and Generative AI Hub (Pune, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-pune-india/ev-p/14291107)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/355129i51A48849E90C55B7/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, February 11, 2026 at 9:30:00 AM India Standard Time
-  - Location: Bosch Global Software Technologies Pvt Ltd. Pune, Balewadi High St, Laxman Nagar, Baner, Pune, Maharashtra 411045, India
-- [🇫🇷 Joule Studio: Create Joule Skills and Agents Without Coding (Paris, France)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-paris-france/ev-p/14303203)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Wednesday, February 11, 2026 at 9:30:00 AM Central European Standard Time
-  - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
 - [🇦🇺Joule Studio: Create Skills and Agents to Extend Joule (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-melbourne-australia/ev-p/14308549)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361887iD6A8CE7CEBEA89AF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, February 12, 2026 at 12:30:00 PM Solomon Islands Time
@@ -49,8 +41,16 @@ Follow me on:
   - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
 - [🇦🇺 Gen AI Hub & Joule Studio : Create Skills and AI Agents to Extend Joule (Brisbane, Australia)](https://community.sap.com/t5/sap-codejam/gen-ai-hub-amp-joule-studio-create-skills-and-ai-agents-to-extend-joule/ev-p/14308419)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361817i69A438EB46088F11/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, February 13, 2026 at 9:00:00 AM Australian Eastern Daylight Time
+  - Start: Friday, February 13, 2026 at 9:00:00 AM Australian Eastern Standard Time
   - Location: GOLD TOWER, level 27/10 Eagle St, Brisbane City QLD 4000, Australia
+- [🇳🇿 SAP CodeJam ABAP : SAP BTP, ABAP Environment & RAP (Auckland, New Zealand)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-auckland-new-zealand/ev-p/14312399)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/363963iE2C50743597A52EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, February 18, 2026 at 9:00:00 AM New Zealand Daylight Time
+  - Location: SAP New Zealand Limited - Auckland 151 Queen Street, Auckland Central, Auckland 1010, New Zealand
+- [🇩🇪 SAP CodeJam ABAP Cloud & ABAP RESTful Application Programming Model  – SPECIAL EDITION](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-amp-abap-restful-application-programming-model/ev-p/14308182)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/365879i7A2583BF13FD7E5C/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Friday, February 20, 2026 at 10:00:00 AM Central European Standard Time
+  - Location: SAP Deutschland SE & Co. KG (WDF21), Hasso-Plattner-Ring, Walldorf, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
