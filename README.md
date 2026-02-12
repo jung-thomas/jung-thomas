@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺Joule Studio: Create Skills and Agents to Extend Joule (Melbourne, Australia)](https://community.sap.com/t5/sap-codejam/joule-studio-create-skills-and-agents-to-extend-joule-melbourne-australia/ev-p/14308549)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361887iD6A8CE7CEBEA89AF/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Thursday, February 12, 2026 at 12:30:00 PM Solomon Islands Time
-  - Location: SAP Australia Pty Ltd, Level 23/28 Freshwater Pl, Southbank VIC, Australia
 - [🇫🇷 Real-time data for AI agents: Grounding with event-driven architecture (Paris, France)](https://community.sap.com/t5/sap-codejam/real-time-data-for-ai-agents-grounding-with-event-driven-architecture-paris/ev-p/14303452)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359269i0535500BB3BE52CB/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Thursday, February 12, 2026 at 9:30:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/365879i7A2583BF13FD7E5C/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, February 20, 2026 at 10:00:00 AM Central European Standard Time
   - Location: SAP Deutschland SE & Co. KG (WDF21), Hasso-Plattner-Ring, Walldorf, Germany
+- [🇧🇪 Build AI services using CAP and Generative AI Hub (Gent, Belgium)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-cap-and-generative-ai-hub-gent-belgium/ev-p/14283723)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/348430iF66E3C09046D7425/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, February 26, 2026 at 10:00:00 AM Central European Standard Time
+  - Location: Amelia Earhartlaan 10, Ghent, Belgium
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
