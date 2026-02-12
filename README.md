@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇫🇷 Real-time data for AI agents: Grounding with event-driven architecture (Paris, France)](https://community.sap.com/t5/sap-codejam/real-time-data-for-ai-agents-grounding-with-event-driven-architecture-paris/ev-p/14303452)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359269i0535500BB3BE52CB/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Thursday, February 12, 2026 at 9:30:00 AM Central European Standard Time
-  - Location: BearingPoint, Passerelle des Reflets, Courbevoie, France
 - [🇦🇺 Gen AI Hub & Joule Studio : Create Skills and AI Agents to Extend Joule (Brisbane, Australia)](https://community.sap.com/t5/sap-codejam/gen-ai-hub-amp-joule-studio-create-skills-and-ai-agents-to-extend-joule/ev-p/14308419)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/361817i69A438EB46088F11/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Friday, February 13, 2026 at 9:00:00 AM Australian Eastern Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/348430iF66E3C09046D7425/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 26, 2026 at 10:00:00 AM Central European Standard Time
   - Location: Amelia Earhartlaan 10, Ghent, Belgium
+- [🇺🇸 Getting started with Generative AI Hub on SAP AI Core (Atlanta, GA, USA)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-atlanta-ga-usa/ev-p/14320955)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/368665i582758113804B743/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, February 26, 2026 at 7:00:00 AM Eastern Standard Time
+  - Location: 170 17th Street Northwest, Atlanta, GA, USA
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
