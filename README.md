@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇦🇺 Gen AI Hub & Joule Studio : Create Skills and AI Agents to Extend Joule (Brisbane, Australia)](https://community.sap.com/t5/sap-codejam/gen-ai-hub-amp-joule-studio-create-skills-and-ai-agents-to-extend-joule/ev-p/14308419)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/361817i69A438EB46088F11/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, February 13, 2026 at 9:00:00 AM Australian Eastern Standard Time
-  - Location: GOLD TOWER, level 27/10 Eagle St, Brisbane City QLD 4000, Australia
 - [🇳🇿 SAP CodeJam ABAP : SAP BTP, ABAP Environment & RAP (Auckland, New Zealand)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-auckland-new-zealand/ev-p/14312399)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/363963iE2C50743597A52EE/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, February 18, 2026 at 9:00:00 AM New Zealand Daylight Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/368665i582758113804B743/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 26, 2026 at 7:00:00 AM Eastern Standard Time
   - Location: 170 17th Street Northwest, Atlanta, GA, USA
+- [🇧🇷 Build AI services using the CAP and Generative AI Hub (Campinas, Brazil)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-campinas-brazil/ev-p/14317691)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/366902iEF1BA95A4683B97D/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Monday, March 2, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: Bosch Portaria 4 - Parque Via Norte, Campinas - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
