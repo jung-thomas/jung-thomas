@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 5](https://www.youtube.com/watch?v=I2Y3uC10Cs8) (Fri Feb 13 2026)
 - [CDS expressions in CAP - Under the hood - Part 6](https://www.youtube.com/watch?v=OPOH3agULQ0) (Fri Feb 13 2026)
-- [CDS expressions in CAP - Under the hood - Part 5](https://www.youtube.com/watch?v=I2Y3uC10Cs8) (Fri Feb 06 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=aU3Eu2SlvxE) (Thu Feb 12 2026)
 - [Pipeline Concept](https://www.youtube.com/watch?v=f8kV9V-U9v0) (Mon Feb 09 2026)
 - [CDS expressions in CAP - Under the hood - Part 4](https://www.youtube.com/watch?v=XD71N7YYuGA) (Fri Feb 06 2026)
