@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 20 2026)
+- [CDS expressions in CAP - Under the hood - Part 6](https://www.youtube.com/watch?v=OPOH3agULQ0) (Fri Feb 13 2026)
 - [Developer Survey, RPT-1 Beta, CodeJams in ANZ, ABAP Roundtable, DYK 4 | SAP Developer News](https://www.youtube.com/watch?v=-PQk6qfZLeQ) (Thu Feb 19 2026)
 - [Design-First Event-Driven Architecture: Mastering Multi-Account AEM Management with Event Portal](https://www.youtube.com/watch?v=T8PWu4kmEzQ) (Tue Feb 17 2026)
 - [SAP Developer Insights Survey 2026 #sap #developers](https://www.youtube.com/shorts/jp6k7atZp6E) (Mon Feb 16 2026)
 - [SAP Code Talk: ABAP AI Podcast](https://www.youtube.com/watch?v=lJcAikOgk4c) (Mon Feb 16 2026)
-- [RISE Survival Guide for Integration](https://www.youtube.com/watch?v=jfrLYZLnCkY) (Mon Feb 16 2026)
-- [CDS expressions in CAP - Under the hood - Part 5](https://www.youtube.com/watch?v=I2Y3uC10Cs8) (Fri Feb 13 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam ABAP Cloud & ABAP RESTful Application Programming Model  – SPECIAL EDITION](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-amp-abap-restful-application-programming-model/ev-p/14308182)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/365879i7A2583BF13FD7E5C/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Friday, February 20, 2026 at 10:00:00 AM Central European Standard Time
-  - Location: SAP Deutschland SE & Co. KG (WDF21), Hasso-Plattner-Ring, Walldorf, Germany
 - [🇧🇪 Build AI services using CAP and Generative AI Hub (Gent, Belgium)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-cap-and-generative-ai-hub-gent-belgium/ev-p/14283723)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/348430iF66E3C09046D7425/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, February 26, 2026 at 10:00:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, March 3, 2026 at 9:00:00 AM Brasilia Standard Time
   - Location: SAP Brasil - Avenida das Nações Unidas - Vila Gertrudes, São Paulo - State of São Paulo, Brazil
+- [🇧🇷 SAP Build: Create Event-Based Processes (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-s%C3%A3o-paulo-brazil/ev-p/14317705)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
+  - Start: Wednesday, March 4, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: Exed Consulting - Rua James Joule - Brooklin, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
