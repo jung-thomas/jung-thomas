@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 6](https://www.youtube.com/watch?v=OPOH3agULQ0) (Fri Feb 20 2026)
 - [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 20 2026)
-- [CDS expressions in CAP - Under the hood - Part 6](https://www.youtube.com/watch?v=OPOH3agULQ0) (Fri Feb 13 2026)
 - [Developer Survey, RPT-1 Beta, CodeJams in ANZ, ABAP Roundtable, DYK 4 | SAP Developer News](https://www.youtube.com/watch?v=-PQk6qfZLeQ) (Thu Feb 19 2026)
 - [Design-First Event-Driven Architecture: Mastering Multi-Account AEM Management with Event Portal](https://www.youtube.com/watch?v=T8PWu4kmEzQ) (Tue Feb 17 2026)
 - [SAP Developer Insights Survey 2026 #sap #developers](https://www.youtube.com/shorts/jp6k7atZp6E) (Mon Feb 16 2026)
