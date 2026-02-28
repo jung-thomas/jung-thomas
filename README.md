@@ -21,8 +21,8 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 27 2026)
 - [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Fri Feb 27 2026)
-- [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 20 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=MI7CC4ji5z0) (Thu Feb 26 2026)
 - [SAP CodeTalk with Timo John](https://www.youtube.com/watch?v=wTlHL3_WcZc) (Wed Feb 25 2026)
 - [Integration Cockpit for Strategy Alignment & Insights with SAP Integration Suite](https://www.youtube.com/watch?v=7MTfW_ZWSPA) (Mon Feb 23 2026)
