@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Mon Mar 02 2026)
+- [ISA-M Basics](https://www.youtube.com/watch?v=oYCbkN-HiRQ) (Mon Mar 02 2026)
 - [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 27 2026)
-- [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Fri Feb 27 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=MI7CC4ji5z0) (Thu Feb 26 2026)
 - [SAP CodeTalk with Timo John](https://www.youtube.com/watch?v=wTlHL3_WcZc) (Wed Feb 25 2026)
 - [Integration Cockpit for Strategy Alignment & Insights with SAP Integration Suite](https://www.youtube.com/watch?v=7MTfW_ZWSPA) (Mon Feb 23 2026)
-- [CDS expressions in CAP - Under the hood - Part 6](https://www.youtube.com/watch?v=OPOH3agULQ0) (Fri Feb 20 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Build AI services using the CAP and Generative AI Hub (Campinas, Brazil)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-the-cap-and-generative-ai-hub-campinas-brazil/ev-p/14317691)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/366902iEF1BA95A4683B97D/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, March 2, 2026 at 9:00:00 AM Brasilia Standard Time
-  - Location: Bosch Portaria 4 - Parque Via Norte, Campinas - State of São Paulo, Brazil
 - [🇧🇷 Joule Studio: Create Joule Skills and Agents Without Coding (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-s%C3%A3o-paulo-brazil/ev-p/14317678)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Tuesday, March 3, 2026 at 9:00:00 AM Brasilia Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇻🇳 Getting started with Generative AI Hub on SAP AI Core ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-ho-chi-minh-city/ev-p/14304308)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359743i5D3E27975999AEE1/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 10, 2026 at 9:00:00 AM Indochina Time
+  - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+- [🇻🇳 Build AI services using SAP CAP,  SAP AI Core and SAP Gen AI Hub ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-sap-ai-core-and-sap-gen-ai-hub-ho-chi-minh/ev-p/14304277)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359671i70CFBE1D64A454A2/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - Start: Wednesday, March 11, 2026 at 9:00:00 AM Indochina Time
   - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
