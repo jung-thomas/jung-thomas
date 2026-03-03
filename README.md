@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Joule Studio: Create Joule Skills and Agents Without Coding (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-s%C3%A3o-paulo-brazil/ev-p/14317678)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
-  - Start: Tuesday, March 3, 2026 at 9:00:00 AM Brasilia Standard Time
-  - Location: SAP Brasil - Avenida das Nações Unidas - Vila Gertrudes, São Paulo - State of São Paulo, Brazil
 - [🇧🇷 SAP Build: Create Event-Based Processes (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-s%C3%A3o-paulo-brazil/ev-p/14317705)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 4, 2026 at 9:00:00 AM Brasilia Standard Time
@@ -50,6 +46,10 @@ Follow me on:
 - [🇻🇳 Build AI services using SAP CAP,  SAP AI Core and SAP Gen AI Hub ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-sap-ai-core-and-sap-gen-ai-hub-ho-chi-minh/ev-p/14304277)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359671i70CFBE1D64A454A2/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
   - Start: Wednesday, March 11, 2026 at 9:00:00 AM Indochina Time
+  - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+- [🇻🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ho-chi-minh-city-vietnam/ev-p/14304506)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359772iFC7DDA189AF1199F/image-size/thumb?v=v2&px=150" />
+  - Start: Thursday, March 12, 2026 at 9:00:00 AM Indochina Time
   - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
