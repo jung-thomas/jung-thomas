@@ -44,7 +44,7 @@ Follow me on:
   - Start: Tuesday, March 10, 2026 at 9:00:00 AM Indochina Time
   - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - [🇻🇳 Build AI services using SAP CAP,  SAP AI Core and SAP Gen AI Hub ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-sap-ai-core-and-sap-gen-ai-hub-ho-chi-minh/ev-p/14304277)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359671i70CFBE1D64A454A2/image-size/thumb/is-moderation-mode/true?v=v2&px=150" />
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359671i70CFBE1D64A454A2/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, March 11, 2026 at 9:00:00 AM Indochina Time
   - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - [🇻🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ho-chi-minh-city-vietnam/ev-p/14304506)
