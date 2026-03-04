@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 SAP Build: Create Event-Based Processes (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-build-create-event-based-processes-s%C3%A3o-paulo-brazil/ev-p/14317705)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/235563iB45DC31B9C324F43/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 4, 2026 at 9:00:00 AM Brasilia Standard Time
-  - Location: Exed Consulting - Rua James Joule - Brooklin, São Paulo - State of São Paulo, Brazil
 - [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Rio de Janeiro, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-rio-de-janeiro-brazil/ev-p/14317716)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/366919i207F4A3819361A0F/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 5, 2026 at 10:00:00 AM Brasilia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359772iFC7DDA189AF1199F/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 12, 2026 at 9:00:00 AM Indochina Time
   - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Joinville, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-joinville-brazil/ev-p/14322316)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/369210iC9A225B7E4A59BC1/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, March 13, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: Ágora Tech Park - Rua Dona Francisca, 8300 - Distrito Industrial, Joinville - State of Santa Catarina, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
