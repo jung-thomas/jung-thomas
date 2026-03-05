@@ -21,20 +21,16 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP Developer News](https://www.youtube.com/watch?v=g6hDrE2ERyI) (Thu Mar 05 2026)
 - [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Mon Mar 02 2026)
 - [ISA-M Basics](https://www.youtube.com/watch?v=oYCbkN-HiRQ) (Mon Mar 02 2026)
 - [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 27 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=MI7CC4ji5z0) (Thu Feb 26 2026)
 - [SAP CodeTalk with Timo John](https://www.youtube.com/watch?v=wTlHL3_WcZc) (Wed Feb 25 2026)
-- [Integration Cockpit for Strategy Alignment & Insights with SAP Integration Suite](https://www.youtube.com/watch?v=7MTfW_ZWSPA) (Mon Feb 23 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Rio de Janeiro, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-rio-de-janeiro-brazil/ev-p/14317716)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/366919i207F4A3819361A0F/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 5, 2026 at 10:00:00 AM Brasilia Standard Time
-  - Location: INFNET Institute - Rua São José - Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil
 - [🇻🇳 Getting started with Generative AI Hub on SAP AI Core ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-ho-chi-minh-city/ev-p/14304308)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359743i5D3E27975999AEE1/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 10, 2026 at 9:00:00 AM Indochina Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/369210iC9A225B7E4A59BC1/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 13, 2026 at 9:00:00 AM Brasilia Standard Time
   - Location: Ágora Tech Park - Rua Dona Francisca, 8300 - Distrito Industrial, Joinville - State of Santa Catarina, Brazil
+- [🇨🇭 Getting started with Generative AI Hub on SAP AI Core (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-risch-rotkreuz/ev-p/14309628)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, March 16, 2026 at 9:30:00 AM Central European Standard Time
+  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
