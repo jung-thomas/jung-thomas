@@ -22,7 +22,7 @@ Follow me on:
   
 ## Videos and Live Streams
 - [AIFAEM - SAP Application Interface Framework and Advanced Event Mesh](https://www.youtube.com/watch?v=F2dEaKTYyb0) (Mon Mar 09 2026)
-- [SAP Developer News](https://www.youtube.com/watch?v=g6hDrE2ERyI) (Thu Mar 05 2026)
+- [Brazil Roadshow, ABAP Cloud Learning Map, Odata Series, DYK Privileged Access | SAP Developer News](https://www.youtube.com/watch?v=g6hDrE2ERyI) (Thu Mar 05 2026)
 - [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Mon Mar 02 2026)
 - [ISA-M Basics](https://www.youtube.com/watch?v=oYCbkN-HiRQ) (Mon Mar 02 2026)
 - [CDS expressions in CAP - Under the hood - Part 7](https://www.youtube.com/watch?v=TqfHXKKHEEU) (Fri Feb 27 2026)
