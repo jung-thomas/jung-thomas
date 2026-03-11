@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇻🇳 Build AI services using SAP CAP,  SAP AI Core and SAP Gen AI Hub ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-sap-ai-core-and-sap-gen-ai-hub-ho-chi-minh/ev-p/14304277)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359671i70CFBE1D64A454A2/image-size/thumb?v=v2&px=150" />
-  - Start: Wednesday, March 11, 2026 at 9:00:00 AM Indochina Time
-  - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - [🇻🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ho-chi-minh-city-vietnam/ev-p/14304506)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/359772iFC7DDA189AF1199F/image-size/thumb?v=v2&px=150" />
   - Start: Thursday, March 12, 2026 at 9:00:00 AM Indochina Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 17, 2026 at 9:30:00 AM Central European Standard Time
   - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
+- [🇪🇸 Getting started with Generative AI Hub on SAP AI Core (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-madrid-spain/ev-p/14325994)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/371305iA261D08EFE5C24A7/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, March 20, 2026 at 9:30:00 AM Central European Standard Time
+  - Location: Universidad Carlos III de Madrid | Campus de Getafe, Calle Madrid, Getafe, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
