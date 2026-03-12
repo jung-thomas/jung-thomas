@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇻🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Ho Chi Minh City, Vietnam)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-ho-chi-minh-city-vietnam/ev-p/14304506)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/359772iFC7DDA189AF1199F/image-size/thumb?v=v2&px=150" />
-  - Start: Thursday, March 12, 2026 at 9:00:00 AM Indochina Time
-  - Location: 364 Đường Cộng Hòa, Phường Tân Bình, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 - [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Joinville, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-joinville-brazil/ev-p/14322316)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/369210iC9A225B7E4A59BC1/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 13, 2026 at 9:00:00 AM Brasilia Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/371305iA261D08EFE5C24A7/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 20, 2026 at 9:30:00 AM Central European Standard Time
   - Location: Universidad Carlos III de Madrid | Campus de Getafe, Calle Madrid, Getafe, Spain
+- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Belo Horizonte, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-belo-horizonte-brazil/ev-p/14322967)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/369544iC75EED8890B809F4/image-size/thumb?v=v2&px=150" />
+  - Start: Friday, March 20, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: Localiza Labs - R. Gurupá, 33 - Cachoeirinha, Belo Horizonte - MG, 31150-180, Brasil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
