@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Joinville, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-joinville-brazil/ev-p/14322316)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/369210iC9A225B7E4A59BC1/image-size/thumb?v=v2&px=150" />
-  - Start: Friday, March 13, 2026 at 9:00:00 AM Brasilia Standard Time
-  - Location: Ágora Tech Park - Rua Dona Francisca, 8300 - Distrito Industrial, Joinville - State of Santa Catarina, Brazil
 - [🇨🇭 Getting started with Generative AI Hub on SAP AI Core (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-risch-rotkreuz/ev-p/14309628)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
   - Start: Monday, March 16, 2026 at 9:30:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/369544iC75EED8890B809F4/image-size/thumb?v=v2&px=150" />
   - Start: Friday, March 20, 2026 at 9:00:00 AM Brasilia Standard Time
   - Location: Localiza Labs - R. Gurupá, 33 - Cachoeirinha, Belo Horizonte - MG, 31150-180, Brasil
+- [🇧🇷 Combine SAP CAP with SAP HANA Cloud to Create Full-Stack App (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/combine-sap-cap-with-sap-hana-cloud-to-create-full-stack-app-s%C3%A3o-paulo/ev-p/14322980)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/369551i3B754649D651D694/image-size/thumb?v=v2&px=150" />
+  - Start: Monday, April 6, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: Exed Consulting - Rua James Joule - Brooklin, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
