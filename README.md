@@ -31,10 +31,6 @@ Follow me on:
 </td></tr></table>
 
 ## Upcoming SAP CodeJams
-- [🇨🇭 Getting started with Generative AI Hub on SAP AI Core (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-risch-rotkreuz/ev-p/14309628)
-  - <img src="https://community.sap.com/t5/image/serverpage/image-id/60779i762EF2904875ADCE/image-size/thumb?v=v2&px=150" />
-  - Start: Monday, March 16, 2026 at 9:30:00 AM Central European Standard Time
-  - Location: Gambit Consulting AG, Suurstoffi 22, 6343 Risch-Rotkreuz, Switzerland
 - [🇨🇭 Joule Studio: Create Joule Skills and Agents Without Coding (Risch-Rotkreuz, Switzerland)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-risch-rotkreuz/ev-p/14309541)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/357932iCB056C27E1D17A23/image-size/thumb?v=v2&px=150" />
   - Start: Tuesday, March 17, 2026 at 9:30:00 AM Central European Standard Time
@@ -51,6 +47,10 @@ Follow me on:
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/369551i3B754649D651D694/image-size/thumb?v=v2&px=150" />
   - Start: Monday, April 6, 2026 at 9:00:00 AM Brasilia Standard Time
   - Location: Exed Consulting - Rua James Joule - Brooklin, São Paulo - State of São Paulo, Brazil
+- [🇧🇷 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (São Paulo, Brazil)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-s%C3%A3o-paulo-brazil/ev-p/14322983)
+  - <img src="https://community.sap.com/t5/image/serverpage/image-id/369568i260186C9DEEF5DAC/image-size/thumb?v=v2&px=150" />
+  - Start: Tuesday, April 7, 2026 at 9:00:00 AM Brasilia Standard Time
+  - Location: SAP Brasil - Avenida das Nações Unidas - Vila Gertrudes, São Paulo - State of São Paulo, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 ## SAP Community Activity
