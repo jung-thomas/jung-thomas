@@ -21,12 +21,12 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
+- [SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://www.youtube.com/watch?v=80bI2F6bnzo) (Mon Mar 23 2026)
 - [CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)](https://www.youtube.com/watch?v=n0oArGkerVk) (Fri Mar 20 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=-I5nYXrnATE) (Thu Mar 19 2026)
 - [SAP Developer News](https://www.youtube.com/watch?v=3Uc8l3b5600) (Thu Mar 12 2026)
 - [AIFAEM - SAP Application Interface Framework and Advanced Event Mesh](https://www.youtube.com/watch?v=F2dEaKTYyb0) (Mon Mar 09 2026)
 - [Brazil Roadshow, ABAP Cloud Learning Map, Odata Series, DYK Privileged Access | SAP Developer News](https://www.youtube.com/watch?v=g6hDrE2ERyI) (Thu Mar 05 2026)
-- [4 Digital Workspace Tasks Made Easier with Joule in SAP Build](https://www.youtube.com/watch?v=d8zLgpgJ1zM) (Mon Mar 02 2026)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/views/UCNfmelKDrvRmjYwSi9yvrMg) ![](https://img.shields.io/youtube/channel/subscribers/UCNfmelKDrvRmjYwSi9yvrMg)
 </td></tr></table>
 
