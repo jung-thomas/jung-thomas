@@ -21,7 +21,7 @@ Follow me on:
 <td valign="top" width="50%">
   
 ## Videos and Live Streams
-- [SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://www.youtube.com/watch?v=80bI2F6bnzo) (Mon Mar 23 2026)
+- [SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://www.youtube.com/watch?v=80bI2F6bnzo) (Wed Mar 25 2026)
 - [CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)](https://www.youtube.com/watch?v=n0oArGkerVk) (Fri Mar 20 2026)
 - [ABAP Dev Challenge, SAP Insider Las Vegas, Integration Suite Enhanced | SAP Developer News](https://www.youtube.com/watch?v=-I5nYXrnATE) (Thu Mar 19 2026)
 - [SAP Intelligence Event, HANA-CLI 4.0, BTP Automation Roundtable | SAP Developer News](https://www.youtube.com/watch?v=3Uc8l3b5600) (Thu Mar 12 2026)
@@ -42,7 +42,7 @@ Follow me on:
 - [🇧🇷 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Londrina, Brazil)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-londrina-brazil/ev-p/14324622)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/370527iCCD05F9D5D8E95AA/image-size/thumb?v=v2&px=150" />
   - Start: Wednesday, April 8, 2026 at 4:00:00 PM Brasilia Standard Time
-  - Location: Teatro Colégio Londrinense - Avenida Juscelino Kubitscheck - Quebec, Londrina - State of Paraná, Brazil
+  - Location: UniFil Campus Ipolon - Rua Alagoas - Centro, Londrina - State of Paraná, Brazil
 - [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Curitiba, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-curitiba-brazil/ev-p/14322976)
   - <img src="https://community.sap.com/t5/image/serverpage/image-id/369548iCD45137FA38C7236/image-size/thumb?v=v2&px=150" />
   - Start: Friday, April 10, 2026 at 9:00:00 AM Brasilia Standard Time
