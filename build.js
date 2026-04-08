@@ -90,7 +90,7 @@ const main = async _ => {
 
     console.log(template({ itemsNew, events, repoRows }))
   } catch (error) {
-    console.log(`${error}`)
+    console.error(`${error}`)
     process.exit(1)
   }
 }
