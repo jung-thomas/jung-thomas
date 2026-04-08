@@ -23,6 +23,8 @@ jobs:
 
       - name: (Re)build README
         run: npm --silent run build > README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check for changes (fail if none)
         
