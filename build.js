@@ -13,6 +13,23 @@ const template = Handlebars.compile(source)
 const URLSAPDevs = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCNfmelKDrvRmjYwSi9yvrMg'
 //const URLSCN = 'https://content.services.sap.com/cs/searches/userProfile?userName=thomas.jung&objectTypes=blogpost&sort=published,desc&size=6&page=0'
 //const URLSCN = 'https://content.services.sap.com/feed?type=blogpost&author=thomas.jung'
+
+const FEATURED_REPOS = [
+  'SAP-samples/hana-developer-cli-tool-example',
+  'SAP-samples/abap-oo-basics',
+  'SAP-samples/cloud-cap-hana-swapi',
+  'SAP-samples/cap-hana-exercises-codejam',
+]
+
+const repoHeaders = {
+  'User-Agent': 'jung-thomas-readme-builder',
+  'Accept': 'application/vnd.github+json',
+  'X-GitHub-Api-Version': '2022-11-28',
+  ...(process.env.GITHUB_TOKEN && {
+    'Authorization': `token ${process.env.GITHUB_TOKEN}`
+  })
+}
+
 const main = async _ => {
   try {
     const feedNew = await parser.parseURL(URLSAPDevs)
@@ -50,16 +67,28 @@ const main = async _ => {
         (typeof date === "string" ? new Date(newItem.end_time) : newItem.end_time)
       ).toLocaleString('en-US', { timeZone: newItem.timezone })
 
-      const thumbURL = `https://groups.community.sap.com/api/2.0/search?q=SELECT * FROM images WHERE messages.id = '${item.id}'`
-      let thumbDetails = await request('GET', thumbURL)
-      const thumbOutput = JSON.parse(thumbDetails.getBody())
-      newItem.thumb = thumbOutput.data.items[0].thumb_href
       return newItem
 
     }))
-    let items = []
 
-    console.log(template({ itemsNew, items,  events }))
+    const repos = []
+    for (const slug of FEATURED_REPOS) {
+      const res = await request('GET', `https://api.github.com/repos/${slug}`, { headers: repoHeaders })
+      if (res.statusCode !== 200) {
+        process.stderr.write(`Warning: could not fetch ${slug} (${res.statusCode})\n`)
+        repos.push({ name: slug.split('/')[1], description: '', url: 'https://github.com/' + slug })
+      } else {
+        const data = JSON.parse(res.getBody('utf8'))
+        repos.push({ name: data.name, description: data.description || '', url: data.html_url })
+      }
+    }
+
+    const repoRows = []
+    for (let i = 0; i < repos.length; i += 2) {
+      repoRows.push(repos.slice(i, i + 2))
+    }
+
+    console.log(template({ itemsNew, events, repoRows }))
   } catch (error) {
     console.log(`${error}`)
     process.exit(1)
