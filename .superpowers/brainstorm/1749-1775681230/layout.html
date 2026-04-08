@@ -1,0 +1,129 @@
+<h2>How should the page be laid out?</h2>
+<p class="subtitle">All versions include: intro, LinkedIn, about, tech stack, featured projects, YouTube videos, CodeJams</p>
+
+<div class="cards">
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:monospace;font-size:12px;line-height:1.6;padding:12px;background:#111;border-radius:6px;color:#ccc">
+        <div style="color:#58a6ff;font-weight:bold;margin-bottom:4px">▌ Thomas Jung · Head of SAP Developer Advocacy</div>
+        <div style="color:#888;margin-bottom:8px">🔗 LinkedIn &nbsp; 📍 SAP</div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">ABOUT</div>
+          <div style="color:#aaa;font-size:11px">I help developers build with SAP technology...</div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">TECH STACK</div>
+          <div style="display:flex;gap:4px;flex-wrap:wrap">
+            <span style="background:#238636;padding:2px 6px;border-radius:10px;font-size:10px">SAP BTP</span>
+            <span style="background:#1f6feb;padding:2px 6px;border-radius:10px;font-size:10px">CAP</span>
+            <span style="background:#6e40c9;padding:2px 6px;border-radius:10px;font-size:10px">HANA</span>
+          </div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">FEATURED PROJECTS</div>
+          <div style="color:#58a6ff;font-size:11px">📦 cloud-cap-hana-swapi<br/>📦 ...</div>
+        </div>
+        <div style="display:flex;gap:6px">
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">▶ YOUTUBE</div>
+            <div style="color:#aaa;font-size:10px">• Video 1<br/>• Video 2<br/>• Video 3</div>
+          </div>
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">🗓 CODEJAMS</div>
+            <div style="color:#aaa;font-size:10px">• Event 1<br/>• Event 2<br/>• Event 3</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Single Column + Side-by-Side Finale</h3>
+      <p>Stacked sections flowing top to bottom. Videos and CodeJams share the bottom row as two columns. Clean and structured.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:monospace;font-size:12px;line-height:1.6;padding:12px;background:#111;border-radius:6px;color:#ccc">
+        <div style="color:#58a6ff;font-weight:bold;margin-bottom:4px">▌ Thomas Jung · Head of SAP Developer Advocacy</div>
+        <div style="color:#888;margin-bottom:8px">🔗 LinkedIn &nbsp; 📍 SAP</div>
+        <div style="display:flex;gap:6px;margin-bottom:6px">
+          <div style="flex:2;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">ABOUT</div>
+            <div style="color:#aaa;font-size:11px">I help developers build with SAP technology. Currently leading...</div>
+          </div>
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">QUICK LINKS</div>
+            <div style="color:#58a6ff;font-size:10px">📦 Project 1<br/>📦 Project 2<br/>📦 Project 3</div>
+          </div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">TECH STACK</div>
+          <div style="display:flex;gap:4px;flex-wrap:wrap">
+            <span style="background:#238636;padding:2px 6px;border-radius:10px;font-size:10px">SAP BTP</span>
+            <span style="background:#1f6feb;padding:2px 6px;border-radius:10px;font-size:10px">CAP</span>
+            <span style="background:#6e40c9;padding:2px 6px;border-radius:10px;font-size:10px">HANA</span>
+            <span style="background:#da3633;padding:2px 6px;border-radius:10px;font-size:10px">AI SDK</span>
+          </div>
+        </div>
+        <div style="display:flex;gap:6px">
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">▶ YOUTUBE</div>
+            <div style="color:#aaa;font-size:10px">• Video 1<br/>• Video 2<br/>• Video 3</div>
+          </div>
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">🗓 CODEJAMS</div>
+            <div style="color:#aaa;font-size:10px">• Event 1<br/>• Event 2<br/>• Event 3</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Two-Column Hero + Side-by-Side Finale</h3>
+      <p>About and Projects share the top row as two columns. Tech stack spans full width. Videos and CodeJams split the bottom. Denser feel.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:monospace;font-size:12px;line-height:1.6;padding:12px;background:#111;border-radius:6px;color:#ccc">
+        <div style="text-align:center;margin-bottom:8px">
+          <div style="color:#58a6ff;font-weight:bold;font-size:14px">Thomas Jung</div>
+          <div style="color:#888;font-size:11px">Head of SAP Developer Advocacy</div>
+          <div style="color:#888;font-size:10px;margin-top:2px">🔗 LinkedIn</div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px;text-align:center">
+          <div style="color:#aaa;font-size:11px;font-style:italic">"I help developers build with SAP technology..."</div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">TECH STACK</div>
+          <div style="display:flex;gap:4px;justify-content:center;flex-wrap:wrap">
+            <span style="background:#238636;padding:2px 6px;border-radius:10px;font-size:10px">SAP BTP</span>
+            <span style="background:#1f6feb;padding:2px 6px;border-radius:10px;font-size:10px">CAP</span>
+            <span style="background:#6e40c9;padding:2px 6px;border-radius:10px;font-size:10px">HANA</span>
+          </div>
+        </div>
+        <div style="border:1px solid #30363d;border-radius:4px;padding:8px;margin-bottom:6px">
+          <div style="color:#e3b341;font-size:10px;margin-bottom:4px">FEATURED PROJECTS</div>
+          <div style="display:flex;gap:4px">
+            <div style="flex:1;background:#161b22;border-radius:4px;padding:6px;font-size:10px;color:#aaa">📦 Project 1</div>
+            <div style="flex:1;background:#161b22;border-radius:4px;padding:6px;font-size:10px;color:#aaa">📦 Project 2</div>
+          </div>
+        </div>
+        <div style="display:flex;gap:6px">
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">▶ YOUTUBE</div>
+            <div style="color:#aaa;font-size:10px">• Video 1<br/>• Video 2</div>
+          </div>
+          <div style="flex:1;border:1px solid #30363d;border-radius:4px;padding:8px">
+            <div style="color:#e3b341;font-size:10px;margin-bottom:4px">🗓 CODEJAMS</div>
+            <div style="color:#aaa;font-size:10px">• Event 1<br/>• Event 2</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Centered Hero</h3>
+      <p>Centered header and intro, then full-width sections below. More personal/portfolio feel. Good for standing out.</p>
+    </div>
+  </div>
+</div>

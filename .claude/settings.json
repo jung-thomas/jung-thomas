@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git cherry-pick:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(C:\\\\Users\\\\I809764\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\5.0.5\\\\scripts\\\\start-server.sh --project-dir d:/projects/jung-thomas)",
+      "Bash(cat d:/projects/jung-thomas/.superpowers/brainstorm/*/\".server-info\")",
+      "Bash(bash \"C:/Users/I809764/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.5/skills/brainstorming/scripts/start-server.sh\" --project-dir \"d:/projects/jung-thomas\")",
+      "WebFetch(domain:api.github.com)",
+      "Bash(node -e \"const t = require\\('./template'\\); console.log\\(typeof t\\)\")",
+      "Bash(npm --silent run build)",
+      "Bash(node -e ':*)",
+      "Bash(grep -c \"^$\")",
+      "Bash(node --trace-deprecation -e \"require\\('./build'\\)\")",
+      "Bash(cat /d/projects/jung-thomas/.github/workflows/*.yml)",
+      "Bash(grep -n \"GITHUB_TOKEN\" /d/projects/jung-thomas/.github/workflows/*.yml)"
+    ]
+  }
+}
