@@ -35,6 +35,8 @@ const main = async _ => {
     const feedNew = await parser.parseURL(URLSAPDevs)
     const itemsNew = feedNew.items.slice(0, 6).map(item => {
       item.date = new Date(item.pubDate).toDateString()
+      const videoId = new URL(item.link).searchParams.get('v')
+      item.thumb = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`
       return item
     })
 

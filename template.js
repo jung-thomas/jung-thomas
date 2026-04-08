@@ -16,7 +16,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
-{{#itemsNew}}- [{{{title}}}]({{{link}}}) ({{date}})
+{{#itemsNew}}[![{{{title}}}]({{{thumb}}})]({{{link}}})
 {{/itemsNew}}
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 

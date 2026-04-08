@@ -16,12 +16,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
-- [05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )](https://www.youtube.com/watch?v=8Qz35klEwOs) (Wed Apr 08 2026)
-- [AI Dev Challenge April, What's New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News](https://www.youtube.com/watch?v=OOy_Firo61Y) (Thu Apr 02 2026)
-- [CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)](https://www.youtube.com/watch?v=YWjiPDSFrrs) (Fri Mar 27 2026)
-- [CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)](https://www.youtube.com/watch?v=n0oArGkerVk) (Fri Mar 27 2026)
-- [Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News](https://www.youtube.com/watch?v=VLy14Vy4L2U) (Thu Mar 26 2026)
-- [SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://www.youtube.com/watch?v=80bI2F6bnzo) (Wed Mar 25 2026)
+[![05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )](https://img.youtube.com/vi/8Qz35klEwOs/mqdefault.jpg)](https://www.youtube.com/watch?v=8Qz35klEwOs)
+[![AI Dev Challenge April, What's New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News](https://img.youtube.com/vi/OOy_Firo61Y/mqdefault.jpg)](https://www.youtube.com/watch?v=OOy_Firo61Y)
+[![CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)](https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg)](https://www.youtube.com/watch?v=YWjiPDSFrrs)
+[![CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)](https://img.youtube.com/vi/n0oArGkerVk/mqdefault.jpg)](https://www.youtube.com/watch?v=n0oArGkerVk)
+[![Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News](https://img.youtube.com/vi/VLy14Vy4L2U/mqdefault.jpg)](https://www.youtube.com/watch?v=VLy14Vy4L2U)
+[![SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://img.youtube.com/vi/80bI2F6bnzo/mqdefault.jpg)](https://www.youtube.com/watch?v=80bI2F6bnzo)
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
 </td><td valign="top" width="50%">
