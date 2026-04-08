@@ -35,13 +35,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat&logo=sap&logoColor=white" alt="SAP BTP" />
-<img src="https://img.shields.io/badge/CAP%20Node.js-0070F2?style=flat&logo=sap&logoColor=white" alt="CAP Node.js" />
-<img src="https://img.shields.io/badge/SAP%20HANA%20Cloud-00A4E4?style=flat&logo=sap&logoColor=white" alt="SAP HANA Cloud" />
-<img src="https://img.shields.io/badge/ABAP-0070F2?style=flat&logo=sap&logoColor=white" alt="ABAP" />
-<img src="https://img.shields.io/badge/SAP%20AI%20Core-6E40C9?style=flat&logo=sap&logoColor=white" alt="SAP AI Core" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Joule%20Studio-E8503A?style=flat&logo=sap&logoColor=white" alt="Joule Studio" />
+<img src="https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat&logo=sap&logoColor=white" alt="SAP BTP" /> <img src="https://img.shields.io/badge/CAP%20Node.js-0070F2?style=flat&logo=sap&logoColor=white" alt="CAP Node.js" /> <img src="https://img.shields.io/badge/SAP%20HANA%20Cloud-00A4E4?style=flat&logo=sap&logoColor=white" alt="SAP HANA Cloud" /> <img src="https://img.shields.io/badge/ABAP-0070F2?style=flat&logo=sap&logoColor=white" alt="ABAP" /> <img src="https://img.shields.io/badge/SAP%20AI%20Core-6E40C9?style=flat&logo=sap&logoColor=white" alt="SAP AI Core" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Joule%20Studio-E8503A?style=flat&logo=sap&logoColor=white" alt="Joule Studio" />
 
 ---
 

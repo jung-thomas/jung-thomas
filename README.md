@@ -50,13 +50,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat&logo=sap&logoColor=white" alt="SAP BTP" />
-<img src="https://img.shields.io/badge/CAP%20Node.js-0070F2?style=flat&logo=sap&logoColor=white" alt="CAP Node.js" />
-<img src="https://img.shields.io/badge/SAP%20HANA%20Cloud-00A4E4?style=flat&logo=sap&logoColor=white" alt="SAP HANA Cloud" />
-<img src="https://img.shields.io/badge/ABAP-0070F2?style=flat&logo=sap&logoColor=white" alt="ABAP" />
-<img src="https://img.shields.io/badge/SAP%20AI%20Core-6E40C9?style=flat&logo=sap&logoColor=white" alt="SAP AI Core" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Joule%20Studio-E8503A?style=flat&logo=sap&logoColor=white" alt="Joule Studio" />
+<img src="https://img.shields.io/badge/SAP%20BTP-0070F2?style=flat&logo=sap&logoColor=white" alt="SAP BTP" /> <img src="https://img.shields.io/badge/CAP%20Node.js-0070F2?style=flat&logo=sap&logoColor=white" alt="CAP Node.js" /> <img src="https://img.shields.io/badge/SAP%20HANA%20Cloud-00A4E4?style=flat&logo=sap&logoColor=white" alt="SAP HANA Cloud" /> <img src="https://img.shields.io/badge/ABAP-0070F2?style=flat&logo=sap&logoColor=white" alt="ABAP" /> <img src="https://img.shields.io/badge/SAP%20AI%20Core-6E40C9?style=flat&logo=sap&logoColor=white" alt="SAP AI Core" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Joule%20Studio-E8503A?style=flat&logo=sap&logoColor=white" alt="Joule Studio" />
 
 ---
 
@@ -68,14 +62,14 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 **[hana-developer-cli-tool-example](https://github.com/SAP-samples/hana-developer-cli-tool-example)**
 
-Learn how to build a developer-centric SAP HANA command line tool, particularly designed to be used when performing SAP HANA development in non-SAP tooling (for example from VS Code).
+
 
 </td>
 <td valign="top" width="50%">
 
 **[abap-oo-basics](https://github.com/SAP-samples/abap-oo-basics)**
 
-In support of the YouTube video series on ABAP Object Oriented basics, this repository contains the ABAP source code samples which are used in the video series. 
+
 
 </td>
 </tr>
@@ -84,14 +78,14 @@ In support of the YouTube video series on ABAP Object Oriented basics, this repo
 
 **[cloud-cap-hana-swapi](https://github.com/SAP-samples/cloud-cap-hana-swapi)**
 
-SAP Cloud Application Programming Model fun sample to demonstrate many-to-many relationships.
+
 
 </td>
 <td valign="top" width="50%">
 
 **[cap-hana-exercises-codejam](https://github.com/SAP-samples/cap-hana-exercises-codejam)**
 
-This repo contains the exercise instructions, starting template code, and sample solution for the CodeJam based on SAP Cloud Application Programming Model.
+
 
 </td>
 </tr>
