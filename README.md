@@ -16,12 +16,24 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
-[![05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )](https://img.youtube.com/vi/8Qz35klEwOs/mqdefault.jpg)](https://www.youtube.com/watch?v=8Qz35klEwOs)
-[![AI Dev Challenge April, What's New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News](https://img.youtube.com/vi/OOy_Firo61Y/mqdefault.jpg)](https://www.youtube.com/watch?v=OOy_Firo61Y)
-[![CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)](https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg)](https://www.youtube.com/watch?v=YWjiPDSFrrs)
-[![CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)](https://img.youtube.com/vi/n0oArGkerVk/mqdefault.jpg)](https://www.youtube.com/watch?v=n0oArGkerVk)
-[![Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News](https://img.youtube.com/vi/VLy14Vy4L2U/mqdefault.jpg)](https://www.youtube.com/watch?v=VLy14Vy4L2U)
-[![SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean](https://img.youtube.com/vi/80bI2F6bnzo/mqdefault.jpg)](https://www.youtube.com/watch?v=80bI2F6bnzo)
+<a href="https://www.youtube.com/watch?v=8Qz35klEwOs"><img src="https://img.youtube.com/vi/8Qz35klEwOs/mqdefault.jpg" width="240" alt="05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )" /></a><br/>
+<a href="https://www.youtube.com/watch?v=8Qz35klEwOs">05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )</a> (Wed Apr 08 2026)
+
+<a href="https://www.youtube.com/watch?v=OOy_Firo61Y"><img src="https://img.youtube.com/vi/OOy_Firo61Y/mqdefault.jpg" width="240" alt="AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=OOy_Firo61Y">AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News</a> (Thu Apr 02 2026)
+
+<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs"><img src="https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)" /></a><br/>
+<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs">CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)</a> (Fri Mar 27 2026)
+
+<a href="https://www.youtube.com/watch?v=n0oArGkerVk"><img src="https://img.youtube.com/vi/n0oArGkerVk/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)" /></a><br/>
+<a href="https://www.youtube.com/watch?v=n0oArGkerVk">CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)</a> (Fri Mar 27 2026)
+
+<a href="https://www.youtube.com/watch?v=VLy14Vy4L2U"><img src="https://img.youtube.com/vi/VLy14Vy4L2U/mqdefault.jpg" width="240" alt="Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=VLy14Vy4L2U">Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News</a> (Thu Mar 26 2026)
+
+<a href="https://www.youtube.com/watch?v=80bI2F6bnzo"><img src="https://img.youtube.com/vi/80bI2F6bnzo/mqdefault.jpg" width="240" alt="SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean" /></a><br/>
+<a href="https://www.youtube.com/watch?v=80bI2F6bnzo">SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean</a> (Wed Mar 25 2026)
+
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
 </td><td valign="top" width="50%">
