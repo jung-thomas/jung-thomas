@@ -1,6 +1,6 @@
 {
   "name": "jung-thomas",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Thomas Jung's home readme on GitHub",
   "main": "build.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": "https://github.com/jung-thomas/jung-thomas#readme",
   "dependencies": {
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "rss-parser": "^3.13.0",
     "then-request": "^6.0.2"
   }
