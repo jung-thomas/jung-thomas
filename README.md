@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=Ams8yzY-x-A"><img src="https://img.youtube.com/vi/Ams8yzY-x-A/mqdefault.jpg" width="240" alt="SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=Ams8yzY-x-A">SAP Developer News</a> (Thu Apr 09 2026)
+
 <a href="https://www.youtube.com/watch?v=8Qz35klEwOs"><img src="https://img.youtube.com/vi/8Qz35klEwOs/mqdefault.jpg" width="240" alt="05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )" /></a><br/>
 <a href="https://www.youtube.com/watch?v=8Qz35klEwOs">05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )</a> (Wed Apr 08 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=VLy14Vy4L2U"><img src="https://img.youtube.com/vi/VLy14Vy4L2U/mqdefault.jpg" width="240" alt="Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=VLy14Vy4L2U">Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News</a> (Thu Mar 26 2026)
-
-<a href="https://www.youtube.com/watch?v=80bI2F6bnzo"><img src="https://img.youtube.com/vi/80bI2F6bnzo/mqdefault.jpg" width="240" alt="SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean" /></a><br/>
-<a href="https://www.youtube.com/watch?v=80bI2F6bnzo">SAP PI/PO Migration to SAP Integration Suite: MessageTransformBean</a> (Wed Mar 25 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
