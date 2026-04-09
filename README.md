@@ -74,14 +74,14 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 **[hana-developer-cli-tool-example](https://github.com/SAP-samples/hana-developer-cli-tool-example)**
 
-
+Learn how to build a developer-centric SAP HANA command line tool, particularly designed to be used when performing SAP HANA development in non-SAP tooling (for example from VS Code).
 
 </td>
 <td valign="top" width="50%">
 
 **[abap-oo-basics](https://github.com/SAP-samples/abap-oo-basics)**
 
-
+In support of the YouTube video series on ABAP Object Oriented basics, this repository contains the ABAP source code samples which are used in the video series. 
 
 </td>
 </tr>
@@ -90,14 +90,14 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 **[cloud-cap-hana-swapi](https://github.com/SAP-samples/cloud-cap-hana-swapi)**
 
-
+SAP Cloud Application Programming Model fun sample to demonstrate many-to-many relationships.
 
 </td>
 <td valign="top" width="50%">
 
 **[cap-hana-exercises-codejam](https://github.com/SAP-samples/cap-hana-exercises-codejam)**
 
-
+This repo contains the exercise instructions, starting template code, and sample solution for the CodeJam based on SAP Cloud Application Programming Model.
 
 </td>
 </tr>
