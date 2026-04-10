@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs"><img src="https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)" /></a><br/>
+<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs">CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)</a> (Fri Apr 10 2026)
+
 <a href="https://www.youtube.com/watch?v=Ams8yzY-x-A"><img src="https://img.youtube.com/vi/Ams8yzY-x-A/mqdefault.jpg" width="240" alt="SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=Ams8yzY-x-A">SAP Developer News</a> (Thu Apr 09 2026)
 
@@ -24,9 +27,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=OOy_Firo61Y"><img src="https://img.youtube.com/vi/OOy_Firo61Y/mqdefault.jpg" width="240" alt="AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=OOy_Firo61Y">AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News</a> (Thu Apr 02 2026)
-
-<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs"><img src="https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)" /></a><br/>
-<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs">CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)</a> (Fri Mar 27 2026)
 
 <a href="https://www.youtube.com/watch?v=n0oArGkerVk"><img src="https://img.youtube.com/vi/n0oArGkerVk/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)" /></a><br/>
 <a href="https://www.youtube.com/watch?v=n0oArGkerVk">CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)</a> (Fri Mar 27 2026)
