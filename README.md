@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
+<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 10 2026)
+
 <a href="https://www.youtube.com/watch?v=YWjiPDSFrrs"><img src="https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)" /></a><br/>
 <a href="https://www.youtube.com/watch?v=YWjiPDSFrrs">CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)</a> (Fri Apr 10 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=n0oArGkerVk"><img src="https://img.youtube.com/vi/n0oArGkerVk/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)" /></a><br/>
 <a href="https://www.youtube.com/watch?v=n0oArGkerVk">CAP Node.js Expert Session #2: Deploying to Cloud Foundry (Easy Mode)</a> (Fri Mar 27 2026)
-
-<a href="https://www.youtube.com/watch?v=VLy14Vy4L2U"><img src="https://img.youtube.com/vi/VLy14Vy4L2U/mqdefault.jpg" width="240" alt="Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=VLy14Vy4L2U">Build Apps Retirement, Edge Integration Cell, A2A Editor, DYK 9 | Developer News</a> (Thu Mar 26 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
