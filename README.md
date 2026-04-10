@@ -39,12 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Curitiba, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-curitiba-brazil/ev-p/14322976)
-  - Start: Friday, April 10, 2026 at 8:30:00 AM Brasilia Standard Time
-  - Location: R. Imac. Conceição, 1155 - Prado Velho, Curitiba - PR, 80215-901, Brazil
-- [🇧🇷 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (Ribeirão Preto, Brazil)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-ribeir%C3%A3o/ev-p/14330764)
-  - Start: Friday, April 10, 2026 at 9:30:00 AM Brasilia Standard Time
-  - Location: Fatec Ribeirão Preto - Av. Pio XII, 1255 - Vila Virginia, Ribeirão Preto - State of São Paulo, Brazil
 - [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Campinas, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-campinas-brazil/ev-p/14360190)
   - Start: Saturday, April 11, 2026 at 1:00:00 PM Brasilia Standard Time
   - Location: FACAMP Faculdades de Campinas - Avenida Alan Turing - Cidade Universitária, Campinas - SP, Brasil
@@ -53,6 +47,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
   - Location: FACAMP Faculdades de Campinas - Avenida Alan Turing - Cidade Universitária, Campinas - SP, Brasil
 - [🇧🇷 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-s%C3%A3o/ev-p/14330771)
   - Start: Monday, April 13, 2026 at 9:30:00 AM Brasilia Standard Time
+  - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
+- [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Herne, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-herne-germany/ev-p/14333495)
+  - Start: Tuesday, April 14, 2026 at 9:00:00 AM Central European Summer Time
+  - Location: rku.it GmbH, Westring, Herne, Germany
+- [🇧🇷 Build code-based AI Agents on SAP Business Technology Platform (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-s%C3%A3o-leopoldo/ev-p/14330791)
+  - Start: Tuesday, April 14, 2026 at 9:30:00 AM Brasilia Standard Time
   - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
