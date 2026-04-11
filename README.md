@@ -39,12 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Getting started with Generative AI Hub on SAP AI Core (Campinas, Brazil)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-campinas-brazil/ev-p/14360190)
-  - Start: Saturday, April 11, 2026 at 1:00:00 PM Brasilia Standard Time
-  - Location: FACAMP Faculdades de Campinas - Avenida Alan Turing - Cidade Universitária, Campinas - SP, Brasil
-- [🇧🇷 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Campinas, Brazil)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-campinas-brazil/ev-p/14360183)
-  - Start: Saturday, April 11, 2026 at 1:00:00 PM Brasilia Standard Time
-  - Location: FACAMP Faculdades de Campinas - Avenida Alan Turing - Cidade Universitária, Campinas - SP, Brasil
 - [🇧🇷 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-s%C3%A3o/ev-p/14330771)
   - Start: Monday, April 13, 2026 at 9:30:00 AM Brasilia Standard Time
   - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
@@ -54,6 +48,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇧🇷 Build code-based AI Agents on SAP Business Technology Platform (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-s%C3%A3o-leopoldo/ev-p/14330791)
   - Start: Tuesday, April 14, 2026 at 9:30:00 AM Brasilia Standard Time
   - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
+- [🇮🇳 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Bangalore, India)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-bangalore-india/ev-p/14347166)
+  - Start: Thursday, April 16, 2026 at 9:00:00 AM India Standard Time
+  - Location: Mindset Consulting, Cunningham Road, near Fortis Hospital Pvt Ltd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka, India
+- [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Bonn, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-bonn-germany/ev-p/14333499)
+  - Start: Thursday, April 16, 2026 at 9:00:00 AM Central European Summer Time
+  - Location: Deutsche Post Filiale 502, Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
