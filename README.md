@@ -16,32 +16,29 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU"><img src="https://img.youtube.com/vi/Fs_kUiSVRcU/mqdefault.jpg" width="240" alt="SAP APIM support for OWASP / API Threats" /></a><br/>
+<a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU">SAP APIM support for OWASP / API Threats</a> (Mon Apr 13 2026)
+
+<a href="https://www.youtube.com/watch?v=XybiwWGreyo"><img src="https://img.youtube.com/vi/XybiwWGreyo/mqdefault.jpg" width="240" alt="How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)" /></a><br/>
+<a href="https://www.youtube.com/watch?v=XybiwWGreyo">How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)</a> (Mon Apr 13 2026)
+
+<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k"><img src="https://img.youtube.com/vi/W5WHGl2A9-k/mqdefault.jpg" width="240" alt="Publishing Events with Event Add-on for ERP" /></a><br/>
+<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k">Publishing Events with Event Add-on for ERP</a> (Mon Apr 13 2026)
+
+<a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
+<a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Mon Apr 13 2026)
+
 <a href="https://www.youtube.com/watch?v=WXjuhUYljvE"><img src="https://img.youtube.com/vi/WXjuhUYljvE/mqdefault.jpg" width="240" alt="ABAP Cloud - Determinations" /></a><br/>
 <a href="https://www.youtube.com/watch?v=WXjuhUYljvE">ABAP Cloud - Determinations</a> (Mon Apr 13 2026)
 
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 10 2026)
 
-<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs"><img src="https://img.youtube.com/vi/YWjiPDSFrrs/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)" /></a><br/>
-<a href="https://www.youtube.com/watch?v=YWjiPDSFrrs">CAP Node.js Expert Session #3: Deploying to Cloud Foundry (Hard Mode)</a> (Fri Apr 10 2026)
-
-<a href="https://www.youtube.com/watch?v=Ams8yzY-x-A"><img src="https://img.youtube.com/vi/Ams8yzY-x-A/mqdefault.jpg" width="240" alt="SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=Ams8yzY-x-A">SAP Developer News</a> (Thu Apr 09 2026)
-
-<a href="https://www.youtube.com/watch?v=8Qz35klEwOs"><img src="https://img.youtube.com/vi/8Qz35klEwOs/mqdefault.jpg" width="240" alt="05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )" /></a><br/>
-<a href="https://www.youtube.com/watch?v=8Qz35klEwOs">05 - ABAP Cloud - Odata UI Service from Scratch Wizard (without Joule Chat )</a> (Wed Apr 08 2026)
-
-<a href="https://www.youtube.com/watch?v=OOy_Firo61Y"><img src="https://img.youtube.com/vi/OOy_Firo61Y/mqdefault.jpg" width="240" alt="AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=OOy_Firo61Y">AI Dev Challenge April, What&#x27;s New SAP HANA Cloud, Removal of webc, DYK #10 | SAP Developer News</a> (Thu Apr 02 2026)
-
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-s%C3%A3o/ev-p/14330771)
-  - Start: Monday, April 13, 2026 at 9:30:00 AM Brasilia Standard Time
-  - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
 - [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Herne, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-herne-germany/ev-p/14333495)
   - Start: Tuesday, April 14, 2026 at 9:00:00 AM Central European Summer Time
   - Location: rku.it GmbH, Westring, Herne, Germany
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Bonn, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-bonn-germany/ev-p/14333499)
   - Start: Thursday, April 16, 2026 at 9:00:00 AM Central European Summer Time
   - Location: Deutsche Post Filiale 502, Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany
+- [🇪🇸 Build code-based AI Agents on SAP Business Technology Platform (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-madrid-spain/ev-p/14344415)
+  - Start: Thursday, April 16, 2026 at 9:30:00 AM Central European Summer Time
+  - Location: NEORIS, Calle de María de Portugal, Madrid, Spain
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
