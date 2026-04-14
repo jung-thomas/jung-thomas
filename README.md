@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Herne, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-herne-germany/ev-p/14333495)
-  - Start: Tuesday, April 14, 2026 at 9:00:00 AM Central European Summer Time
-  - Location: rku.it GmbH, Westring, Herne, Germany
 - [🇧🇷 Build code-based AI Agents on SAP Business Technology Platform (São Leopoldo, Brazil)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-s%C3%A3o-leopoldo/ev-p/14330791)
   - Start: Tuesday, April 14, 2026 at 9:30:00 AM Brasilia Standard Time
   - Location: SAP Labs Latin America (SLE01) - Avenida SAP - Cristo Rei, São Leopoldo - RS, Brazil
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇪🇸 Build code-based AI Agents on SAP Business Technology Platform (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-madrid-spain/ev-p/14344415)
   - Start: Thursday, April 16, 2026 at 9:30:00 AM Central European Summer Time
   - Location: NEORIS, Calle de María de Portugal, Madrid, Spain
+- [🇧🇷 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (Recife, Brazil)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-recife/ev-p/14330773)
+  - Start: Thursday, April 16, 2026 at 9:30:00 AM Brasilia Standard Time
+  - Location: Accenture - Armazém 9 - Av. Alfredo Lisboa, 810, Recife - PE, 50030-150, Brazil
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
