@@ -16,14 +16,14 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k"><img src="https://img.youtube.com/vi/W5WHGl2A9-k/mqdefault.jpg" width="240" alt="Publishing Events with Event Add-on for ERP" /></a><br/>
+<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k">Publishing Events with Event Add-on for ERP</a> (Wed Apr 15 2026)
+
 <a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU"><img src="https://img.youtube.com/vi/Fs_kUiSVRcU/mqdefault.jpg" width="240" alt="SAP APIM support for OWASP / API Threats" /></a><br/>
 <a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU">SAP APIM support for OWASP / API Threats</a> (Mon Apr 13 2026)
 
 <a href="https://www.youtube.com/watch?v=XybiwWGreyo"><img src="https://img.youtube.com/vi/XybiwWGreyo/mqdefault.jpg" width="240" alt="How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)" /></a><br/>
 <a href="https://www.youtube.com/watch?v=XybiwWGreyo">How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)</a> (Mon Apr 13 2026)
-
-<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k"><img src="https://img.youtube.com/vi/W5WHGl2A9-k/mqdefault.jpg" width="240" alt="Publishing Events with Event Add-on for ERP" /></a><br/>
-<a href="https://www.youtube.com/watch?v=W5WHGl2A9-k">Publishing Events with Event Add-on for ERP</a> (Mon Apr 13 2026)
 
 <a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Mon Apr 13 2026)
