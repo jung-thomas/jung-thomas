@@ -39,12 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Bangalore, India)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-bangalore-india/ev-p/14347166)
-  - Start: Thursday, April 16, 2026 at 9:00:00 AM India Standard Time
-  - Location: Mindset Consulting, Cunningham Road, near Fortis Hospital Pvt Ltd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka, India
-- [🇩🇪 Joule Studio: Create Joule Skills and Agents Without Coding (Bonn, Germany)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-bonn-germany/ev-p/14333499)
-  - Start: Thursday, April 16, 2026 at 9:00:00 AM Central European Summer Time
-  - Location: Deutsche Post Filiale 502, Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany
 - [🇪🇸 Build code-based AI Agents on SAP Business Technology Platform (Madrid, Spain)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-madrid-spain/ev-p/14344415)
   - Start: Thursday, April 16, 2026 at 9:30:00 AM Central European Summer Time
   - Location: NEORIS, Calle de María de Portugal, Madrid, Spain
@@ -54,6 +48,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇧🇷 Build code-based AI Agents on SAP Business Technology Platform (Recife, Brazil)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-recife/ev-p/14330796)
   - Start: Friday, April 17, 2026 at 9:30:00 AM Brasilia Standard Time
   - Location: Accenture - Armazém 9 - Av. Alfredo Lisboa, 810, Recife - PE, 50030-150, Brazil
+- [🇵🇱 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (Poznań, Poland)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-pozna%C5%84/ev-p/14348081)
+  - Start: Wednesday, April 22, 2026 at 10:00:00 AM Central European Summer Time
+  - Location: Capgemini Polska Sp. z o.o., Kolorowa, Poznań, Poland
+- [🇵🇱 SAP CodeJam ABAP Cloud (Warsaw, Poland)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-warsaw-poland/ev-p/14331237)
+  - Start: Thursday, April 23, 2026 at 12:00:00 PM Central European Summer Time
+  - Location: KMD, Ulica Inflancka 4a, 00-189 Warszawa, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
