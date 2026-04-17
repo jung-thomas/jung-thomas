@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇧🇷 Build code-based AI Agents on SAP Business Technology Platform (Recife, Brazil)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-recife/ev-p/14330796)
-  - Start: Friday, April 17, 2026 at 9:30:00 AM Brasilia Standard Time
-  - Location: Accenture - Armazém 9 - Av. Alfredo Lisboa, 810, Recife - PE, 50030-150, Brazil
 - [🇵🇱 SAP HANA Cloud for AI Applications: ML, Vectors, and Knowledge Graphs (Poznań, Poland)](https://community.sap.com/t5/sap-codejam/sap-hana-cloud-for-ai-applications-ml-vectors-and-knowledge-graphs-pozna%C5%84/ev-p/14348081)
   - Start: Wednesday, April 22, 2026 at 10:00:00 AM Central European Summer Time
   - Location: Capgemini Polska Sp. z o.o., Kolorowa, Poznań, Poland
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇭🇺 Build AI services using CAP and Generative AI Hub (Budapest, Hungary)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-cap-and-generative-ai-hub-budapest-hungary/ev-p/14329968)
   - Start: Wednesday, April 29, 2026 at 10:00:00 AM Central European Summer Time
   - Location: Budapest, House of Business Bank Center, Szabadság tér 7, Hungary
+- [🇵🇱 Hands-on with CAP CDS](https://community.sap.com/t5/sap-codejam/hands-on-with-cap-cds/ev-p/14375155)
+  - Start: Thursday, May 21, 2026 at 8:30:00 AM British Summer Time
+  - Location: Avia Office, Profesora Michała Życzkowskiego 20, 31-864 Kraków, Poland
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
