@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
+<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 17 2026)
+
 <a href="https://www.youtube.com/watch?v=mJrmidot-G4"><img src="https://img.youtube.com/vi/mJrmidot-G4/mqdefault.jpg" width="240" alt="SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=mJrmidot-G4">SAP Developer News</a> (Thu Apr 16 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Mon Apr 13 2026)
-
-<a href="https://www.youtube.com/watch?v=WXjuhUYljvE"><img src="https://img.youtube.com/vi/WXjuhUYljvE/mqdefault.jpg" width="240" alt="ABAP Cloud - Determinations" /></a><br/>
-<a href="https://www.youtube.com/watch?v=WXjuhUYljvE">ABAP Cloud - Determinations</a> (Mon Apr 13 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
