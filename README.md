@@ -16,8 +16,8 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
-<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng"><img src="https://img.youtube.com/vi/fxE3Q72W5ng/mqdefault.jpg" width="240" alt="ABAP Cloud - CDS Hierarchies" /></a><br/>
-<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng">ABAP Cloud - CDS Hierarchies</a> (Mon Apr 20 2026)
+<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng"><img src="https://img.youtube.com/vi/fxE3Q72W5ng/mqdefault.jpg" width="240" alt="07 - ABAP Cloud - CDS Hierarchies" /></a><br/>
+<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng">07 - ABAP Cloud - CDS Hierarchies</a> (Mon Apr 20 2026)
 
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 17 2026)
