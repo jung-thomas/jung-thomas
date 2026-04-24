@@ -39,12 +39,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇦🇹 SAP Fiori elements flexible programming model (Vienna, Austria)](https://community.sap.com/t5/sap-codejam/sap-fiori-elements-flexible-programming-model-vienna-austria/ev-p/14344655)
-  - Start: Friday, April 24, 2026 at 9:00:00 AM Central European Summer Time
-  - Location: Mantlergasse 30-32, 1130 Wien, Austria
 - [🇭🇺 Build AI services using CAP and Generative AI Hub (Budapest, Hungary)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-cap-and-generative-ai-hub-budapest-hungary/ev-p/14329968)
   - Start: Wednesday, April 29, 2026 at 10:00:00 AM Central European Summer Time
   - Location: Budapest, House of Business Bank Center, Szabadság tér 7, Hungary
+- [🇮🇳 Build AI services using SAP CAP and Generative AI Hub (Gurugram, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-and-generative-ai-hub-gurugram-india/ev-p/14382161)
+  - Start: Thursday, May 21, 2026 at 9:30:00 AM India Standard Time
+  - Location: https://maps.app.goo.gl/wwyLK7WG3Jk2Y9qw7
 - [🇵🇱 Hands-on with CAP CDS](https://community.sap.com/t5/sap-codejam/hands-on-with-cap-cds/ev-p/14375155)
   - Start: Thursday, May 21, 2026 at 8:30:00 AM British Summer Time
   - Location: Avia Office, Profesora Michała Życzkowskiego 20, 31-864 Kraków, Poland
