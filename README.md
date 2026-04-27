@@ -44,7 +44,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
   - Location: Budapest, House of Business Bank Center, Szabadság tér 7, Hungary
 - [🇮🇳 Build AI services using SAP CAP and Generative AI Hub (Gurugram, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-and-generative-ai-hub-gurugram-india/ev-p/14382161)
   - Start: Thursday, May 21, 2026 at 9:30:00 AM India Standard Time
-  - Location: https://maps.app.goo.gl/wwyLK7WG3Jk2Y9qw7
+  - Location: Nagarro, Plot 6B, Sub. Major Laxmi Chand Rd, Maruti Udyog, Sector 18, Sarhol, Gurugram, Haryana 122015, India
 - [🇵🇱 Hands-on with CAP CDS](https://community.sap.com/t5/sap-codejam/hands-on-with-cap-cds/ev-p/14375155)
   - Start: Thursday, May 21, 2026 at 8:30:00 AM British Summer Time
   - Location: Avia Office, Profesora Michała Życzkowskiego 20, 31-864 Kraków, Poland
