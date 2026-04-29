@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇭🇺 Build AI services using CAP and Generative AI Hub (Budapest, Hungary)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-cap-and-generative-ai-hub-budapest-hungary/ev-p/14329968)
-  - Start: Wednesday, April 29, 2026 at 10:00:00 AM Central European Summer Time
-  - Location: Budapest, House of Business Bank Center, Szabadság tér 7, Hungary
 - [🇮🇳 Build AI services using SAP CAP and Generative AI Hub (Gurugram, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-and-generative-ai-hub-gurugram-india/ev-p/14382161)
   - Start: Thursday, May 21, 2026 at 9:30:00 AM India Standard Time
   - Location: Nagarro, Plot 6B, Sub. Major Laxmi Chand Rd, Maruti Udyog, Sector 18, Sarhol, Gurugram, Haryana 122015, India
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇲🇽 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-mexico-city-mexico/ev-p/14360650)
   - Start: Monday, May 25, 2026 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, México
+- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Pune, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-pune-india/ev-p/14377753)
+  - Start: Tuesday, May 26, 2026 at 9:00:00 AM India Standard Time
+  - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
