@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/shorts/csTzKIBqH7M"><img src="https://img.youtube.com/vi/null/mqdefault.jpg" width="240" alt="NPM supply chain attack campaign, SAP packages affected | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/shorts/csTzKIBqH7M">NPM supply chain attack campaign, SAP packages affected | SAP Developer News</a> (Thu Apr 30 2026)
+
 <a href="https://www.youtube.com/watch?v=lL9v0bI1ASY"><img src="https://img.youtube.com/vi/lL9v0bI1ASY/mqdefault.jpg" width="240" alt="08 - ABAP Cloud - Validations" /></a><br/>
 <a href="https://www.youtube.com/watch?v=lL9v0bI1ASY">08 - ABAP Cloud - Validations</a> (Mon Apr 27 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
 <a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 17 2026)
-
-<a href="https://www.youtube.com/watch?v=mJrmidot-G4"><img src="https://img.youtube.com/vi/mJrmidot-G4/mqdefault.jpg" width="240" alt="UX Innovation Day, BTP ABAP Pre-Update Option 2605, XML Annotations | SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=mJrmidot-G4">UX Innovation Day, BTP ABAP Pre-Update Option 2605, XML Annotations | SAP Developer News</a> (Thu Apr 16 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
