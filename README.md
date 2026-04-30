@@ -16,6 +16,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=pvwdRgImGQY"><img src="https://img.youtube.com/vi/pvwdRgImGQY/mqdefault.jpg" width="240" alt="NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=pvwdRgImGQY">NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News</a> (Thu Apr 30 2026)
+
+<a href="https://www.youtube.com/watch?v=gBgLqYaIz48"><img src="https://img.youtube.com/vi/gBgLqYaIz48/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #5: Debugging" /></a><br/>
+<a href="https://www.youtube.com/watch?v=gBgLqYaIz48">CAP Node.js Expert Session #5: Debugging</a> (Thu Apr 30 2026)
+
 <a href="https://www.youtube.com/shorts/csTzKIBqH7M"><img src="https://img.youtube.com/vi/null/mqdefault.jpg" width="240" alt="NPM supply chain attack campaign, SAP packages affected | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/shorts/csTzKIBqH7M">NPM supply chain attack campaign, SAP packages affected | SAP Developer News</a> (Thu Apr 30 2026)
 
@@ -27,12 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=XybiwWGreyo"><img src="https://img.youtube.com/vi/XybiwWGreyo/mqdefault.jpg" width="240" alt="How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)" /></a><br/>
 <a href="https://www.youtube.com/watch?v=XybiwWGreyo">How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)</a> (Wed Apr 22 2026)
-
-<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng"><img src="https://img.youtube.com/vi/fxE3Q72W5ng/mqdefault.jpg" width="240" alt="07 - ABAP Cloud - CDS Hierarchies" /></a><br/>
-<a href="https://www.youtube.com/watch?v=fxE3Q72W5ng">07 - ABAP Cloud - CDS Hierarchies</a> (Mon Apr 20 2026)
-
-<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o"><img src="https://img.youtube.com/vi/8J8nA9Jwy7o/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!" /></a><br/>
-<a href="https://www.youtube.com/watch?v=8J8nA9Jwy7o">CAP Node.js Expert Session #4: Keeping your CAP apps up to date - upgrades!</a> (Fri Apr 17 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
