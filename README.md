@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=IGv8ZZDaQR8"><img src="https://img.youtube.com/vi/IGv8ZZDaQR8/mqdefault.jpg" width="240" alt="09 - ABAP Cloud - Actions" /></a><br/>
+<a href="https://www.youtube.com/watch?v=IGv8ZZDaQR8">09 - ABAP Cloud - Actions</a> (Mon May 04 2026)
+
 <a href="https://www.youtube.com/watch?v=pvwdRgImGQY"><img src="https://img.youtube.com/vi/pvwdRgImGQY/mqdefault.jpg" width="240" alt="NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=pvwdRgImGQY">NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News</a> (Thu Apr 30 2026)
 
@@ -31,9 +34,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <a href="https://www.youtube.com/watch?v=9Dkj4TBOexk"><img src="https://img.youtube.com/vi/9Dkj4TBOexk/mqdefault.jpg" width="240" alt="Migration Tool for Build Apps, Open Source Webinar, BTP Automation Roundtable | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=9Dkj4TBOexk">Migration Tool for Build Apps, Open Source Webinar, BTP Automation Roundtable | SAP Developer News</a> (Thu Apr 23 2026)
 
-<a href="https://www.youtube.com/watch?v=XybiwWGreyo"><img src="https://img.youtube.com/vi/XybiwWGreyo/mqdefault.jpg" width="240" alt="How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)" /></a><br/>
-<a href="https://www.youtube.com/watch?v=XybiwWGreyo">How to get rid of high Maintenance Costs through Base-Overlay Approach (B2B)</a> (Wed Apr 22 2026)
-
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
 </td><td valign="top" width="50%">
@@ -47,7 +47,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
   - Location: Avia Office, Profesora Michała Życzkowskiego 20, 31-864 Kraków, Poland
 - [🇮🇳 Build AI services using SAP CAP and Generative AI Hub (Gurugram, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-and-generative-ai-hub-gurugram-india/ev-p/14386634)
   - Start: Friday, May 22, 2026 at 9:30:00 AM India Standard Time
-  - Location: WeWork HQ27 - Coworking & Office Space in MG Road, Gurgaon, Sushant Lok Phase I, Sector 27, Gurugram, Haryana, India
+  - Location: WeWork Two Horizon Centre - Coworking & Office Space in Gurugram, Two Horizon Centre, Horizon Colony, DLF Phase 5, Sector 43, Gurugram, Haryana 122009, India
 - [🇵🇱 Hands-on with CAP CDS](https://community.sap.com/t5/sap-codejam/hands-on-with-cap-cds/ev-p/14385392)
   - Start: Friday, May 22, 2026 at 9:00:00 AM British Summer Time
   - Location: Fabryczna 14g, 53-609 Fabryczna, Wrocław, Województwo dolnośląskie, Poland
