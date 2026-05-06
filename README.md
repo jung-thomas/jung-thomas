@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU"><img src="https://img.youtube.com/vi/Fs_kUiSVRcU/mqdefault.jpg" width="240" alt="SAP APIM support for OWASP / API Threats" /></a><br/>
+<a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU">SAP APIM support for OWASP / API Threats</a> (Wed May 06 2026)
+
 <a href="https://www.youtube.com/watch?v=IGv8ZZDaQR8"><img src="https://img.youtube.com/vi/IGv8ZZDaQR8/mqdefault.jpg" width="240" alt="09 - ABAP Cloud - Actions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=IGv8ZZDaQR8">09 - ABAP Cloud - Actions</a> (Mon May 04 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=lL9v0bI1ASY"><img src="https://img.youtube.com/vi/lL9v0bI1ASY/mqdefault.jpg" width="240" alt="08 - ABAP Cloud - Validations" /></a><br/>
 <a href="https://www.youtube.com/watch?v=lL9v0bI1ASY">08 - ABAP Cloud - Validations</a> (Mon Apr 27 2026)
-
-<a href="https://www.youtube.com/watch?v=9Dkj4TBOexk"><img src="https://img.youtube.com/vi/9Dkj4TBOexk/mqdefault.jpg" width="240" alt="Migration Tool for Build Apps, Open Source Webinar, BTP Automation Roundtable | SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=9Dkj4TBOexk">Migration Tool for Build Apps, Open Source Webinar, BTP Automation Roundtable | SAP Developer News</a> (Thu Apr 23 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
