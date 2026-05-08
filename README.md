@@ -16,8 +16,14 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=gBgLqYaIz48"><img src="https://img.youtube.com/vi/gBgLqYaIz48/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #5: Debugging" /></a><br/>
+<a href="https://www.youtube.com/watch?v=gBgLqYaIz48">CAP Node.js Expert Session #5: Debugging</a> (Fri May 08 2026)
+
 <a href="https://www.youtube.com/watch?v=bLwvT_R43HM"><img src="https://img.youtube.com/vi/bLwvT_R43HM/mqdefault.jpg" width="240" alt="Sapphire Preview, May Dev Challenge, MDK 2.0 | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=bLwvT_R43HM">Sapphire Preview, May Dev Challenge, MDK 2.0 | SAP Developer News</a> (Thu May 07 2026)
+
+<a href="https://www.youtube.com/watch?v=Dc32dSPrUPI"><img src="https://img.youtube.com/vi/Dc32dSPrUPI/mqdefault.jpg" width="240" alt="SAP PI/PO Migration to SAP Integration Suite: IDOCFlatConvertor" /></a><br/>
+<a href="https://www.youtube.com/watch?v=Dc32dSPrUPI">SAP PI/PO Migration to SAP Integration Suite: IDOCFlatConvertor</a> (Thu May 07 2026)
 
 <a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU"><img src="https://img.youtube.com/vi/Fs_kUiSVRcU/mqdefault.jpg" width="240" alt="SAP APIM support for OWASP / API Threats" /></a><br/>
 <a href="https://www.youtube.com/watch?v=Fs_kUiSVRcU">SAP APIM support for OWASP / API Threats</a> (Wed May 06 2026)
@@ -27,12 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=pvwdRgImGQY"><img src="https://img.youtube.com/vi/pvwdRgImGQY/mqdefault.jpg" width="240" alt="NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=pvwdRgImGQY">NPM supply chain attack, CAP April Release, SAP Architecture Center | SAP Developer News</a> (Thu Apr 30 2026)
-
-<a href="https://www.youtube.com/watch?v=gBgLqYaIz48"><img src="https://img.youtube.com/vi/gBgLqYaIz48/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #5: Debugging" /></a><br/>
-<a href="https://www.youtube.com/watch?v=gBgLqYaIz48">CAP Node.js Expert Session #5: Debugging</a> (Thu Apr 30 2026)
-
-<a href="https://www.youtube.com/shorts/csTzKIBqH7M"><img src="https://img.youtube.com/vi/null/mqdefault.jpg" width="240" alt="NPM supply chain attack campaign, SAP packages affected | SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/shorts/csTzKIBqH7M">NPM supply chain attack campaign, SAP packages affected | SAP Developer News</a> (Thu Apr 30 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
