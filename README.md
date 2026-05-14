@@ -17,7 +17,7 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 ## Latest Videos
 <a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
-<a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Mon Apr 13 2026)
+<a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Wed May 13 2026)
 
 <a href="https://www.youtube.com/watch?v=7BcagScmyzU"><img src="https://img.youtube.com/vi/7BcagScmyzU/mqdefault.jpg" width="240" alt="SAP Developer News Sapphire 2026 Special Edition" /></a><br/>
 <a href="https://www.youtube.com/watch?v=7BcagScmyzU">SAP Developer News Sapphire 2026 Special Edition</a> (Wed May 13 2026)
