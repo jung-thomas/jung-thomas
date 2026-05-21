@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=o1--Kx2SmQY"><img src="https://img.youtube.com/vi/o1--Kx2SmQY/mqdefault.jpg" width="240" alt="Insight Survey Results, Fiori Apps Library, Sapphire Spain, UX Innovation Day | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=o1--Kx2SmQY">Insight Survey Results, Fiori Apps Library, Sapphire Spain, UX Innovation Day | SAP Developer News</a> (Thu May 21 2026)
+
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU"><img src="https://img.youtube.com/vi/T3jSze13-ZU/mqdefault.jpg" width="240" alt="11 - ABAP Cloud - CDS Scalar Functions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU">11 - ABAP Cloud - CDS Scalar Functions</a> (Mon May 18 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=QmsoH-3rETc"><img src="https://img.youtube.com/vi/QmsoH-3rETc/mqdefault.jpg" width="240" alt="10 -  ABAP Cloud - Feature Control" /></a><br/>
 <a href="https://www.youtube.com/watch?v=QmsoH-3rETc">10 -  ABAP Cloud - Feature Control</a> (Mon May 11 2026)
-
-<a href="https://www.youtube.com/watch?v=gBgLqYaIz48"><img src="https://img.youtube.com/vi/gBgLqYaIz48/mqdefault.jpg" width="240" alt="CAP Node.js Expert Session #5: Debugging" /></a><br/>
-<a href="https://www.youtube.com/watch?v=gBgLqYaIz48">CAP Node.js Expert Session #5: Debugging</a> (Fri May 08 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
