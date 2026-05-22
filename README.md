@@ -16,23 +16,23 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=11gcySBIy5w"><img src="https://img.youtube.com/vi/11gcySBIy5w/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities -  Adapt code for S/4HANA on ECC system" /></a><br/>
+<a href="https://www.youtube.com/watch?v=11gcySBIy5w">ABAP Cloud: Joule for developers, ABAP AI capabilities -  Adapt code for S/4HANA on ECC system</a> (Fri May 22 2026)
+
+<a href="https://www.youtube.com/watch?v=SNSQM36vUWQ"><img src="https://img.youtube.com/vi/SNSQM36vUWQ/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG" /></a><br/>
+<a href="https://www.youtube.com/watch?v=SNSQM36vUWQ">ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG</a> (Fri May 22 2026)
+
+<a href="https://www.youtube.com/watch?v=6pGchsBIWSI"><img src="https://img.youtube.com/vi/6pGchsBIWSI/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App Code Explain" /></a><br/>
+<a href="https://www.youtube.com/watch?v=6pGchsBIWSI">ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App Code Explain</a> (Fri May 22 2026)
+
+<a href="https://www.youtube.com/watch?v=H8TTfQ4ulWI"><img src="https://img.youtube.com/vi/H8TTfQ4ulWI/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App ATC Explain" /></a><br/>
+<a href="https://www.youtube.com/watch?v=H8TTfQ4ulWI">ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App ATC Explain</a> (Fri May 22 2026)
+
 <a href="https://www.youtube.com/watch?v=o1--Kx2SmQY"><img src="https://img.youtube.com/vi/o1--Kx2SmQY/mqdefault.jpg" width="240" alt="Insight Survey Results, Fiori Apps Library, Sapphire Spain, UX Innovation Day | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=o1--Kx2SmQY">Insight Survey Results, Fiori Apps Library, Sapphire Spain, UX Innovation Day | SAP Developer News</a> (Thu May 21 2026)
 
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU"><img src="https://img.youtube.com/vi/T3jSze13-ZU/mqdefault.jpg" width="240" alt="11 - ABAP Cloud - CDS Scalar Functions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU">11 - ABAP Cloud - CDS Scalar Functions</a> (Mon May 18 2026)
-
-<a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
-<a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Wed May 13 2026)
-
-<a href="https://www.youtube.com/watch?v=7BcagScmyzU"><img src="https://img.youtube.com/vi/7BcagScmyzU/mqdefault.jpg" width="240" alt="SAP Developer News Sapphire 2026 Special Edition" /></a><br/>
-<a href="https://www.youtube.com/watch?v=7BcagScmyzU">SAP Developer News Sapphire 2026 Special Edition</a> (Wed May 13 2026)
-
-<a href="https://www.youtube.com/watch?v=Dc32dSPrUPI"><img src="https://img.youtube.com/vi/Dc32dSPrUPI/mqdefault.jpg" width="240" alt="SAP PI/PO Migration to SAP Integration Suite: IDOCFlatConvertor" /></a><br/>
-<a href="https://www.youtube.com/watch?v=Dc32dSPrUPI">SAP PI/PO Migration to SAP Integration Suite: IDOCFlatConvertor</a> (Mon May 11 2026)
-
-<a href="https://www.youtube.com/watch?v=QmsoH-3rETc"><img src="https://img.youtube.com/vi/QmsoH-3rETc/mqdefault.jpg" width="240" alt="10 -  ABAP Cloud - Feature Control" /></a><br/>
-<a href="https://www.youtube.com/watch?v=QmsoH-3rETc">10 -  ABAP Cloud - Feature Control</a> (Mon May 11 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
