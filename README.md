@@ -39,12 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 Build AI services using SAP CAP and Generative AI Hub (Gurugram, India)](https://community.sap.com/t5/sap-codejam/build-ai-services-using-sap-cap-and-generative-ai-hub-gurugram-india/ev-p/14386634)
-  - Start: Friday, May 22, 2026 at 9:30:00 AM India Standard Time
-  - Location: WeWork Two Horizon Centre - Coworking & Office Space in Gurugram, Two Horizon Centre, Horizon Colony, DLF Phase 5, Sector 43, Gurugram, Haryana 122009, India
-- [🇵🇱 Hands-on with CAP CDS](https://community.sap.com/t5/sap-codejam/hands-on-with-cap-cds/ev-p/14385392)
-  - Start: Friday, May 22, 2026 at 9:00:00 AM British Summer Time
-  - Location: Fabryczna 14g, 53-609 Fabryczna, Wrocław, Województwo dolnośląskie, Poland
 - [🇲🇽 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-mexico-city-mexico/ev-p/14360650)
   - Start: Monday, May 25, 2026 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, México
@@ -54,6 +48,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-mexico-city/ev-p/14360656)
   - Start: Tuesday, May 26, 2026 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
+- [🇲🇽 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Monterrey, Mexico)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-monterrey-mexico/ev-p/14360654)
+  - Start: Thursday, May 28, 2026 at 9:30:00 AM Central Standard Time
+  - Location: SAP Labs Latin America, Avenida Ricardo Margain Zozaya, Zona Santa Engracia, San Pedro Garza García, Nuevo Leon, Mexico
+- [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Monterrey, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-monterrey/ev-p/14360660)
+  - Start: Friday, May 29, 2026 at 9:30:00 AM Central Standard Time
+  - Location: Avenida Paseo del Acueducto 2611, Del Paseo, 64920 Monterrey, Nuevo Leon, Mexico
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
