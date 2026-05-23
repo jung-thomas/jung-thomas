@@ -16,9 +16,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
-<a href="https://www.youtube.com/watch?v=11gcySBIy5w"><img src="https://img.youtube.com/vi/11gcySBIy5w/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities -  Adapt code for S/4HANA on ECC system" /></a><br/>
-<a href="https://www.youtube.com/watch?v=11gcySBIy5w">ABAP Cloud: Joule for developers, ABAP AI capabilities -  Adapt code for S/4HANA on ECC system</a> (Fri May 22 2026)
-
 <a href="https://www.youtube.com/watch?v=SNSQM36vUWQ"><img src="https://img.youtube.com/vi/SNSQM36vUWQ/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG" /></a><br/>
 <a href="https://www.youtube.com/watch?v=SNSQM36vUWQ">ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG</a> (Fri May 22 2026)
 
@@ -33,6 +30,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU"><img src="https://img.youtube.com/vi/T3jSze13-ZU/mqdefault.jpg" width="240" alt="11 - ABAP Cloud - CDS Scalar Functions" /></a><br/>
 <a href="https://www.youtube.com/watch?v=T3jSze13-ZU">11 - ABAP Cloud - CDS Scalar Functions</a> (Mon May 18 2026)
+
+<a href="https://www.youtube.com/watch?v=SQYt0niEkbg"><img src="https://img.youtube.com/vi/SQYt0niEkbg/mqdefault.jpg" width="240" alt="Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions" /></a><br/>
+<a href="https://www.youtube.com/watch?v=SQYt0niEkbg">Micro-Integrations: Redefining How You Design and Deploy Event-Driven Solutions</a> (Wed May 13 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
