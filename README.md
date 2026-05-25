@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇲🇽 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-mexico-city-mexico/ev-p/14360650)
-  - Start: Monday, May 25, 2026 at 9:30:00 AM Central Standard Time
-  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, México
 - [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Pune, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-pune-india/ev-p/14377753)
   - Start: Tuesday, May 26, 2026 at 9:00:00 AM India Standard Time
   - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Monterrey, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-monterrey/ev-p/14360660)
   - Start: Friday, May 29, 2026 at 9:30:00 AM Central Standard Time
   - Location: Avenida Paseo del Acueducto 2611, Del Paseo, 64920 Monterrey, Nuevo Leon, Mexico
+- [🇩🇪 SAP CodeJam ABAP Cloud (Dortmund, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-dortmund-germany/ev-p/14384238)
+  - Start: Friday, June 12, 2026 at 10:00:00 AM Central European Summer Time
+  - Location: Lissaboner Allee 8, 44269 Dortmund, Aplerbeck, Germany
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
