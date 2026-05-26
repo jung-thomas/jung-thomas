@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-mexico-city/ev-p/14360656)
-  - Start: Tuesday, May 26, 2026 at 9:30:00 AM Central Standard Time
-  - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
 - [🇲🇽 ABAP AI: Capabilities in SAP Joule for Developers CodeJam (Monterrey, Mexico)](https://community.sap.com/t5/sap-codejam/abap-ai-capabilities-in-sap-joule-for-developers-codejam-monterrey-mexico/ev-p/14360654)
   - Start: Thursday, May 28, 2026 at 9:30:00 AM Central Standard Time
   - Location: SAP Labs Latin America, Avenida Ricardo Margain Zozaya, Zona Santa Engracia, San Pedro Garza García, Nuevo Leon, Mexico
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Coimbatore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-coimbatore-india/ev-p/14398030)
   - Start: Wednesday, June 17, 2026 at 10:00:00 AM India Standard Time
   - Location: Bosch Global Software Technologies, SEZ - Keeranatham Road, CHIL SEZ IT Park, Saravanampatti, Coimbatore, Tamil Nadu, India
+- [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/14380393)
+  - Start: Tuesday, June 23, 2026 at 9:30:00 AM India Standard Time
+  - Location: Bosch Global Software Technologies, Silpa Gram Craft Village, Rai Durg, Rangareddy, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
