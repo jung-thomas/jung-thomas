@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇮🇳 SAP CodeJam ABAP: SAP BTP, ABAP Environment & RAP ( Pune, India )](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-sap-btp-abap-environment-amp-rap-pune-india/ev-p/14377753)
-  - Start: Tuesday, May 26, 2026 at 9:00:00 AM India Standard Time
-  - Location: Bloomberg Data Services, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra, India
 - [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Mexico City, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-mexico-city/ev-p/14360656)
   - Start: Tuesday, May 26, 2026 at 9:30:00 AM Central Standard Time
   - Location: Alfonso Napoles Gandara 3111, Santa Fe, Zedec Santa Fé, Mexico City, CDMX, Mexico
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇩🇪 SAP CodeJam ABAP Cloud (Dortmund, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-dortmund-germany/ev-p/14384238)
   - Start: Friday, June 12, 2026 at 10:00:00 AM Central European Summer Time
   - Location: Lissaboner Allee 8, 44269 Dortmund, Aplerbeck, Germany
+- [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Coimbatore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-coimbatore-india/ev-p/14398030)
+  - Start: Wednesday, June 17, 2026 at 10:00:00 AM India Standard Time
+  - Location: Bosch Global Software Technologies, SEZ - Keeranatham Road, CHIL SEZ IT Park, Saravanampatti, Coimbatore, Tamil Nadu, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
