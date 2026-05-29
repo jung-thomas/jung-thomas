@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇲🇽 Build code-based AI Agents on SAP Business Technology Platform (Monterrey, Mexico)](https://community.sap.com/t5/sap-codejam/build-code-based-ai-agents-on-sap-business-technology-platform-monterrey/ev-p/14360660)
-  - Start: Friday, May 29, 2026 at 9:30:00 AM Central Standard Time
-  - Location: Avenida Paseo del Acueducto 2611, Del Paseo, 64920 Monterrey, Nuevo Leon, Mexico
 - [🇩🇪 SAP CodeJam ABAP Cloud (Dortmund, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-dortmund-germany/ev-p/14384238)
   - Start: Friday, June 12, 2026 at 10:00:00 AM Central European Summer Time
   - Location: Lissaboner Allee 8, 44269 Dortmund, Aplerbeck, Germany
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇮🇳 Joule Studio: Create Joule Skills and Agents Without Coding (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-hyderabad-india/ev-p/14378209)
   - Start: Tuesday, June 23, 2026 at 9:30:00 AM India Standard Time
   - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana, India
+- [🇮🇳 Joule Studio: Create Joule Skills and Agents Without Coding (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-hyderabad-india/ev-p/14380077)
+  - Start: Wednesday, June 24, 2026 at 9:30:00 AM India Standard Time
+  - Location: Bosch Global Software Technologies, Silpa Gram Craft Village, Rai Durg, Rangareddy, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
