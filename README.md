@@ -16,6 +16,12 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=vz1ZulOH86A"><img src="https://img.youtube.com/vi/vz1ZulOH86A/mqdefault.jpg" width="240" alt="13 - ABAP Cloud - Business Events" /></a><br/>
+<a href="https://www.youtube.com/watch?v=vz1ZulOH86A">13 - ABAP Cloud - Business Events</a> (Mon Jun 01 2026)
+
+<a href="https://www.youtube.com/watch?v=WSr9FPtc2BY"><img src="https://img.youtube.com/vi/WSr9FPtc2BY/mqdefault.jpg" width="240" alt="(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch" /></a><br/>
+<a href="https://www.youtube.com/watch?v=WSr9FPtc2BY">(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch</a> (Mon Jun 01 2026)
+
 <a href="https://www.youtube.com/watch?v=wr684y_DK7U"><img src="https://img.youtube.com/vi/wr684y_DK7U/mqdefault.jpg" width="240" alt="Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=wr684y_DK7U">Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News</a> (Thu May 28 2026)
 
@@ -27,12 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=SNSQM36vUWQ"><img src="https://img.youtube.com/vi/SNSQM36vUWQ/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG" /></a><br/>
 <a href="https://www.youtube.com/watch?v=SNSQM36vUWQ">ABAP Cloud: Joule for developers, ABAP AI capabilities - Embedded Analytics with SSG</a> (Fri May 22 2026)
-
-<a href="https://www.youtube.com/watch?v=6pGchsBIWSI"><img src="https://img.youtube.com/vi/6pGchsBIWSI/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App Code Explain" /></a><br/>
-<a href="https://www.youtube.com/watch?v=6pGchsBIWSI">ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App Code Explain</a> (Fri May 22 2026)
-
-<a href="https://www.youtube.com/watch?v=H8TTfQ4ulWI"><img src="https://img.youtube.com/vi/H8TTfQ4ulWI/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App ATC Explain" /></a><br/>
-<a href="https://www.youtube.com/watch?v=H8TTfQ4ulWI">ABAP Cloud: Joule for developers, ABAP AI capabilities - CCM App ATC Explain</a> (Fri May 22 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
