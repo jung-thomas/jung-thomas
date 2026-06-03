@@ -16,11 +16,11 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=e2LRPHO8A0E"><img src="https://img.youtube.com/vi/e2LRPHO8A0E/mqdefault.jpg" width="240" alt="SAP Code Talk - ADT Extension for Visual Studio Code" /></a><br/>
+<a href="https://www.youtube.com/watch?v=e2LRPHO8A0E">SAP Code Talk - ADT Extension for Visual Studio Code</a> (Wed Jun 03 2026)
+
 <a href="https://www.youtube.com/watch?v=WSr9FPtc2BY"><img src="https://img.youtube.com/vi/WSr9FPtc2BY/mqdefault.jpg" width="240" alt="(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch" /></a><br/>
 <a href="https://www.youtube.com/watch?v=WSr9FPtc2BY">(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch</a> (Tue Jun 02 2026)
-
-<a href="https://www.youtube.com/watch?v=e2LRPHO8A0E"><img src="https://img.youtube.com/vi/e2LRPHO8A0E/mqdefault.jpg" width="240" alt="SAP Code Talk - ADT Extension for Visual Studio Code" /></a><br/>
-<a href="https://www.youtube.com/watch?v=e2LRPHO8A0E">SAP Code Talk - ADT Extension for Visual Studio Code</a> (Mon Jun 01 2026)
 
 <a href="https://www.youtube.com/watch?v=vz1ZulOH86A"><img src="https://img.youtube.com/vi/vz1ZulOH86A/mqdefault.jpg" width="240" alt="13 - ABAP Cloud - Business Events" /></a><br/>
 <a href="https://www.youtube.com/watch?v=vz1ZulOH86A">13 - ABAP Cloud - Business Events</a> (Mon Jun 01 2026)
