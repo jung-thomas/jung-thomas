@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=RMQiC_-XaPQ"><img src="https://img.youtube.com/vi/RMQiC_-XaPQ/mqdefault.jpg" width="240" alt="ADT for VS Code, SAP BTP ABAP Env 2605, June Dev Challenge, DYK 19 | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=RMQiC_-XaPQ">ADT for VS Code, SAP BTP ABAP Env 2605, June Dev Challenge, DYK 19 | SAP Developer News</a> (Thu Jun 04 2026)
+
 <a href="https://www.youtube.com/watch?v=e2LRPHO8A0E"><img src="https://img.youtube.com/vi/e2LRPHO8A0E/mqdefault.jpg" width="240" alt="SAP Code Talk - ADT Extension for Visual Studio Code" /></a><br/>
 <a href="https://www.youtube.com/watch?v=e2LRPHO8A0E">SAP Code Talk - ADT Extension for Visual Studio Code</a> (Wed Jun 03 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=3k8KWBO57lE"><img src="https://img.youtube.com/vi/3k8KWBO57lE/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - Adapt Custom Code  for S/4HANA from ECC" /></a><br/>
 <a href="https://www.youtube.com/watch?v=3k8KWBO57lE">ABAP Cloud: Joule for developers, ABAP AI capabilities - Adapt Custom Code  for S/4HANA from ECC</a> (Thu May 28 2026)
-
-<a href="https://www.youtube.com/watch?v=kzomQZ-i8K4"><img src="https://img.youtube.com/vi/kzomQZ-i8K4/mqdefault.jpg" width="240" alt="12 - ABAP Cloud - RAP Recommendations" /></a><br/>
-<a href="https://www.youtube.com/watch?v=kzomQZ-i8K4">12 - ABAP Cloud - RAP Recommendations</a> (Mon May 25 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
