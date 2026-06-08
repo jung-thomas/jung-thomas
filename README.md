@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=WpMn4Vkqb9w"><img src="https://img.youtube.com/vi/WpMn4Vkqb9w/mqdefault.jpg" width="240" alt="14 - ABAP Cloud - RAP Side Effects" /></a><br/>
+<a href="https://www.youtube.com/watch?v=WpMn4Vkqb9w">14 - ABAP Cloud - RAP Side Effects</a> (Mon Jun 08 2026)
+
 <a href="https://www.youtube.com/watch?v=RMQiC_-XaPQ"><img src="https://img.youtube.com/vi/RMQiC_-XaPQ/mqdefault.jpg" width="240" alt="ADT for VS Code, SAP BTP ABAP Env 2605, June Dev Challenge, DYK 19 | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=RMQiC_-XaPQ">ADT for VS Code, SAP BTP ABAP Env 2605, June Dev Challenge, DYK 19 | SAP Developer News</a> (Thu Jun 04 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=wr684y_DK7U"><img src="https://img.youtube.com/vi/wr684y_DK7U/mqdefault.jpg" width="240" alt="Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News" /></a><br/>
 <a href="https://www.youtube.com/watch?v=wr684y_DK7U">Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News</a> (Thu May 28 2026)
-
-<a href="https://www.youtube.com/watch?v=3k8KWBO57lE"><img src="https://img.youtube.com/vi/3k8KWBO57lE/mqdefault.jpg" width="240" alt="ABAP Cloud: Joule for developers, ABAP AI capabilities - Adapt Custom Code  for S/4HANA from ECC" /></a><br/>
-<a href="https://www.youtube.com/watch?v=3k8KWBO57lE">ABAP Cloud: Joule for developers, ABAP AI capabilities - Adapt Custom Code  for S/4HANA from ECC</a> (Thu May 28 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
