@@ -48,10 +48,10 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇮🇳 Event-driven integrations with SAP Integration Suite, advanced event mesh (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/event-driven-integrations-with-sap-integration-suite-advanced-event-mesh/ev-p/14380393)
   - Start: Tuesday, June 23, 2026 at 9:30:00 AM India Standard Time
   - Location: Bosch Global Software Technologies, Silpa Gram Craft Village, Rai Durg, Rangareddy, Telangana, India
-- [🇮🇳 Joule Studio: Create Joule Skills and Agents Without Coding (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-hyderabad-india/ev-p/14378209)
+- [🇮🇳 Joule Studio: Create Joule Skills and Agents (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-hyderabad-india/ev-p/14378209)
   - Start: Tuesday, June 23, 2026 at 9:30:00 AM India Standard Time
   - Location: Tekskills India Pvt. Ltd. - Hyderabad (India HQ), Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana, India
-- [🇮🇳 Joule Studio: Create Joule Skills and Agents Without Coding (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-without-coding-hyderabad-india/ev-p/14380077)
+- [🇮🇳 Joule Studio: Create Joule Skills and Agents (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-hyderabad-india/ev-p/14380077)
   - Start: Wednesday, June 24, 2026 at 9:30:00 AM India Standard Time
   - Location: Bosch Global Software Technologies, Silpa Gram Craft Village, Rai Durg, Rangareddy, Telangana, India
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
