@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=w8OfuArkX00"><img src="https://img.youtube.com/vi/w8OfuArkX00/mqdefault.jpg" width="240" alt="(Part-2): Your Very First Code-Based AI Agent on SAP AI Core, VS Code Installation" /></a><br/>
+<a href="https://www.youtube.com/watch?v=w8OfuArkX00">(Part-2): Your Very First Code-Based AI Agent on SAP AI Core, VS Code Installation</a> (Tue Jun 09 2026)
+
 <a href="https://www.youtube.com/watch?v=WpMn4Vkqb9w"><img src="https://img.youtube.com/vi/WpMn4Vkqb9w/mqdefault.jpg" width="240" alt="14 - ABAP Cloud - RAP Side Effects" /></a><br/>
 <a href="https://www.youtube.com/watch?v=WpMn4Vkqb9w">14 - ABAP Cloud - RAP Side Effects</a> (Mon Jun 08 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=vz1ZulOH86A"><img src="https://img.youtube.com/vi/vz1ZulOH86A/mqdefault.jpg" width="240" alt="13 - ABAP Cloud - Business Events" /></a><br/>
 <a href="https://www.youtube.com/watch?v=vz1ZulOH86A">13 - ABAP Cloud - Business Events</a> (Mon Jun 01 2026)
-
-<a href="https://www.youtube.com/watch?v=wr684y_DK7U"><img src="https://img.youtube.com/vi/wr684y_DK7U/mqdefault.jpg" width="240" alt="Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News" /></a><br/>
-<a href="https://www.youtube.com/watch?v=wr684y_DK7U">Mexico CodeJams, Building Agents with CAP, Sapphire BDC, Dev Challenge | SAP Developer News</a> (Thu May 28 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
