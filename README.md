@@ -16,6 +16,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 <table><tr><td valign="top" width="50%">
 
 ## Latest Videos
+<a href="https://www.youtube.com/watch?v=AMfgRgIwtyg"><img src="https://img.youtube.com/vi/AMfgRgIwtyg/mqdefault.jpg" width="240" alt="CAP Customer Roundtable, Terraform updates, AI agents &amp; CAP, n8n &amp; CAP, DYK 20 | SAP Developer News" /></a><br/>
+<a href="https://www.youtube.com/watch?v=AMfgRgIwtyg">CAP Customer Roundtable, Terraform updates, AI agents &amp; CAP, n8n &amp; CAP, DYK 20 | SAP Developer News</a> (Thu Jun 11 2026)
+
 <a href="https://www.youtube.com/watch?v=w8OfuArkX00"><img src="https://img.youtube.com/vi/w8OfuArkX00/mqdefault.jpg" width="240" alt="(Part-2): Your Very First Code-Based AI Agent on SAP AI Core, VS Code Installation" /></a><br/>
 <a href="https://www.youtube.com/watch?v=w8OfuArkX00">(Part-2): Your Very First Code-Based AI Agent on SAP AI Core, VS Code Installation</a> (Tue Jun 09 2026)
 
@@ -30,9 +33,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 
 <a href="https://www.youtube.com/watch?v=WSr9FPtc2BY"><img src="https://img.youtube.com/vi/WSr9FPtc2BY/mqdefault.jpg" width="240" alt="(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch" /></a><br/>
 <a href="https://www.youtube.com/watch?v=WSr9FPtc2BY">(Part-1) AI Agents Overview for Beginners: Create Your 1st Code-Based AI Agent from Scratch</a> (Tue Jun 02 2026)
-
-<a href="https://www.youtube.com/watch?v=vz1ZulOH86A"><img src="https://img.youtube.com/vi/vz1ZulOH86A/mqdefault.jpg" width="240" alt="13 - ABAP Cloud - Business Events" /></a><br/>
-<a href="https://www.youtube.com/watch?v=vz1ZulOH86A">13 - ABAP Cloud - Business Events</a> (Mon Jun 01 2026)
 
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
 
