@@ -1,5 +1,4 @@
 const Parser = require('rss-parser')
-const request = require('then-request')
 const parser = new Parser({
   headers: {
     'Accept': 'application/atom+xml'
@@ -51,8 +50,11 @@ const main = async _ => {
     `SELECT id, subject, view_href, occasion_data.location, occasion_data.start_time, occasion_data.end_time, ` +
     `occasion_data.timezone ` +
     `FROM messages WHERE board.id='codejam-events' and occasion_data.start_time >= '${start.toISOString()}' order by occasion_data.start_time asc limit 5`
-    let eventDetails = await request('GET', eventURL)
-    const eventOutput = JSON.parse(eventDetails.getBody())
+    const eventResponse = await fetch(eventURL)
+    if (!eventResponse.ok) {
+      throw new Error(`CodeJam events fetch failed: ${eventResponse.status} ${eventResponse.statusText}`)
+    }
+    const eventOutput = await eventResponse.json()
 
     const events = await Promise.all(eventOutput.data.items.map(async (item) => {
       let newItem = {}
@@ -75,12 +77,12 @@ const main = async _ => {
 
     const repos = []
     for (const slug of FEATURED_REPOS) {
-      const res = await request('GET', `https://api.github.com/repos/${slug}`, { headers: repoHeaders })
-      if (res.statusCode !== 200) {
-        process.stderr.write(`Warning: could not fetch ${slug} (${res.statusCode})\n`)
+      const res = await fetch(`https://api.github.com/repos/${slug}`, { headers: repoHeaders })
+      if (!res.ok) {
+        process.stderr.write(`Warning: could not fetch ${slug} (${res.status})\n`)
         repos.push({ name: slug.split('/')[1], description: '', url: 'https://github.com/' + slug })
       } else {
-        const data = JSON.parse(res.getBody('utf8'))
+        const data = await res.json()
         repos.push({ name: data.name, description: data.description || '', url: data.html_url })
       }
     }
