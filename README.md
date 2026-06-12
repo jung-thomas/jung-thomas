@@ -39,9 +39,6 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 </td><td valign="top" width="50%">
 
 ## Upcoming SAP CodeJams
-- [🇩🇪 SAP CodeJam ABAP Cloud (Dortmund, Germany)](https://community.sap.com/t5/sap-codejam/sap-codejam-abap-cloud-dortmund-germany/ev-p/14384238)
-  - Start: Friday, June 12, 2026 at 10:00:00 AM Central European Summer Time
-  - Location: Lissaboner Allee 8, 44269 Dortmund, Aplerbeck, Germany
 - [🇮🇳 Getting started with Generative AI Hub on SAP AI Core ( Coimbatore, India)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-coimbatore-india/ev-p/14398030)
   - Start: Wednesday, June 17, 2026 at 10:00:00 AM India Standard Time
   - Location: Bosch Global Software Technologies, SEZ - Keeranatham Road, CHIL SEZ IT Park, Saravanampatti, Coimbatore, Tamil Nadu, India
@@ -54,6 +51,9 @@ Nearly three decades in SAP — from ABAP developer to Head of Developer Advocac
 - [🇮🇳 Joule Studio: Create Joule Skills and Agents (Hyderabad, India)](https://community.sap.com/t5/sap-codejam/joule-studio-create-joule-skills-and-agents-hyderabad-india/ev-p/14380077)
   - Start: Wednesday, June 24, 2026 at 9:30:00 AM India Standard Time
   - Location: Bosch Global Software Technologies, Silpa Gram Craft Village, Rai Durg, Rangareddy, Telangana, India
+- [🇵🇹 Getting started with Generative AI Hub on SAP AI Core (Lisboa, Portugal)](https://community.sap.com/t5/sap-codejam/getting-started-with-generative-ai-hub-on-sap-ai-core-lisboa-portugal/ev-p/14370793)
+  - Start: Wednesday, June 24, 2026 at 9:30:00 AM British Summer Time
+  - Location: Nagarro, Rua Capitão Leitão 21, 1950-050 Lisboa, Portugal
 - More on [the SAP CodeJam Community Events Calendar](https://groups.community.sap.com/t5/sap-codejam/eb-p/codejam-events)
 
 </td></tr></table>
